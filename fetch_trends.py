@@ -7,33 +7,38 @@ def fetch_trends():
     api_key = os.getenv("SEARCHAPI_API_KEY")
     url = "https://www.searchapi.io/api/v1/search"
     
-    # 修正：data_type 依家要用 "trends" 或者唔寫由佢 default
+    # 根據官方 400 Error 回饋，data_type 必須係 trends
     params = {
         "engine": "google_trends",
+        "data_type": "trends",  # 呢個係關鍵！
         "api_key": api_key,
         "geo": "US"
     }
     
-    print(f"正在發送請求到 SearchAPI (修正版)...")
+    print(f"正在發送請求到 SearchAPI (2026 最終修正版)...")
     
     try:
         response = requests.get(url, params=params)
         print(f"HTTP Status Code: {response.status_code}")
         
+        # 如果仲係 400，印出原因睇清楚
+        if response.status_code != 200:
+            print(f"Error Body: {response.text}")
+            return
+
         data = response.json()
         
-        # SearchAPI 最新回傳結構通常喺 'trends' 呢個 key 入面
+        # 抓取 trends 陣列
         trends_list = data.get("trends", [])
         
         master_trends = []
         for item in trends_list:
-            # 攞話題名
             topic = item.get("query")
             if topic:
                 master_trends.append({
                     "topic": topic,
                     "search_volume": item.get("search_volume", "Trending"),
-                    "snippet": f"Viral trend with {item.get('search_volume', 'rising')} searches.",
+                    "snippet": f"Viral trend spotted in US. Search volume is {item.get('search_volume', 'rising')}.",
                     "timestamp": datetime.now().isoformat()
                 })
             
