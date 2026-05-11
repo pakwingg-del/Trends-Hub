@@ -1,0 +1,38 @@
+name: Trends Hub Auto Update
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小時自動執行一次
+  workflow_dispatch:     # 俾你可以喺 Actions 頁面手動點按鈕「即刻跑一次」
+  push:
+    branches: [ main ]   # 當你 push 新 code 去 main branch 時都會跑
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Fetch Script
+        env:
+          # 呢度係最緊要嘅「傳送門」
+          SEARCHAPI_API_KEY: ${{ secrets.SEARCHAPI_API_KEY }}
+        run: python fetch_trends.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "action@github.com"
+          git add master_trends.json
+          # 如果內容冇變，commit 會失敗，用 || exit 0 確保 workflow 唔會報錯
+          git commit -m "Update master_trends.json [skip ci]" || exit 0
+          git push
