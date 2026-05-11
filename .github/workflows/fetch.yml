@@ -1,28 +1,34 @@
 name: Hourly Trends Fetcher
+
 on:
   schedule:
-    - cron: '0 * * * *' # 每小時跑一次
-  workflow_dispatch: # 容許手動觸發
+    - cron: '0 * * * *'
+  workflow_dispatch: # 呢句好重要，加咗佢你先可以手動撳掣 Run
 
 jobs:
-  fetch:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
-      - name: Install dependencies
+          python-version: '3.9'
+
+      - name: Install Dependencies
         run: pip install requests
-      - name: Fetch Data
+
+      - name: Fetch Latest Trends
         env:
           SEARCHAPI_API_KEY: ${{ secrets.SEARCHAPI_API_KEY }}
         run: python fetch_trends.py
+
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add master_trends.json
-          git commit -m "Update trends: $(date)" || exit 0
+          git commit -m "Update master_trends.json [skip ci]" || exit 0
           git push
