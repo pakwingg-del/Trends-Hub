@@ -2,64 +2,59 @@ import requests
 import json
 import os
 from datetime import datetime
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 def fetch_trends():
     api_key = os.getenv("SEARCHAPI_API_KEY")
     url = "https://www.searchapi.io/api/v1/search"
     
-    # 根據文檔，要攞整體熱搜，用 RELATED_QUERIES 唔加 q，但加 cat
+    # 設定重試策略：如果遇到 500, 502, 503, 504，會自動隔一段時間再試，最多試 3 次
+    session = requests.Session()
+    retries = Retry(total=3, backoff_factor=2, status_forcelist=[500, 502, 503, 504])
+    session.mount('https://', HTTPAdapter(max_retries=retries))
+    
     params = {
         "engine": "google_trends",
         "data_type": "RELATED_QUERIES",
-        "cat": "0",       # 0 代表所有類別
-        "geo": "US",      # 你可以改做 HK 試吓
+        "cat": "0",       
+        "geo": "US",      # 鎖定一個區域通常比較穩定
         "api_key": api_key
     }
     
-    print(f"正在發送請求到 SearchAPI (文檔修正版)...")
+    print(f"正在發送請求到 SearchAPI (強化穩定版)...")
     
     try:
-        response = requests.get(url, params=params)
+        # 加埋 timeout 防止 GitHub Action 等到天荒地老
+        response = session.get(url, params=params, timeout=30)
         print(f"HTTP Status Code: {response.status_code}")
         
-        data = response.json()
-        
         if response.status_code != 200:
-            print(f"API Error: {data.get('error', 'Unknown error')}")
+            print(f"❌ 伺服器回報錯誤: {response.text}")
             return
 
-        # 文檔顯示資料會喺 related_queries -> rising 入面
-        # 呢啲 "Rising" 嘅話題先至係最「爆」嘅
+        data = response.json()
         rising_queries = data.get("related_queries", {}).get("rising", [])
-        top_queries = data.get("related_queries", {}).get("top", [])
         
-        # 優先攞 Rising，再用 Top 補位
-        raw_list = rising_queries + top_queries
-        
+        if not rising_queries:
+            print("⚠️ 雖然 API 成功，但呢一刻冇 Rising Trends。")
+            return
+
         master_trends = []
-        for item in raw_list:
-            query_text = item.get("query")
-            if query_text:
-                master_trends.append({
-                    "topic": query_text,
-                    "search_volume": item.get("values", "Rising"), # 會顯示 "Breakout" 或數值
-                    "link": item.get("link", ""),
-                    "timestamp": datetime.now().isoformat()
-                })
+        for item in rising_queries:
+            master_trends.append({
+                "topic": item.get("query"),
+                "value": item.get("extracted_value"),
+                "timestamp": datetime.now().isoformat()
+            })
             
-        output = {
-            "last_updated": datetime.now().isoformat(),
-            "count": len(master_trends),
-            "trends": master_trends
-        }
-        
         with open("master_trends.json", "w", encoding="utf-8") as f:
-            json.dump(output, f, ensure_ascii=False, indent=2)
+            json.dump({"trends": master_trends, "updated_at": datetime.now().isoformat()}, f, indent=2)
             
-        print(f"✅ 成功！抓取到 {len(master_trends)} 條趨勢話題。")
+        print(f"✅ 成功更新 {len(master_trends)} 條話題！")
             
     except Exception as e:
-        print(f"❌ 發生錯誤: {str(e)}")
+        print(f"❌ 連線失敗: {str(e)}")
 
 if __name__ == "__main__":
     fetch_trends()
