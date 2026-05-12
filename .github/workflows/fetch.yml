@@ -2,7 +2,7 @@ name: Hourly Trends Fetcher
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '37 0-7,12-23 * * *'
   workflow_dispatch: # 呢句好重要，加咗佢你先可以手動撳掣 Run
 
 jobs:
