@@ -1,21 +1,22 @@
-name: Hourly Trends Fetcher
+name: Fetch US Trends (3 times daily)
 
 on:
   schedule:
-    - cron: '37 0-7,12-23 * * *'
-  workflow_dispatch: # 呢句好重要，加咗佢你先可以手動撳掣 Run
+    - cron: '0 1 * * *'    # UTC 01:00 → HKT 09:00
+    - cron: '0 6 * * *'    # UTC 06:00 → HKT 14:00
+    - cron: '0 12 * * *'   # UTC 12:00 → HKT 20:00
+  workflow_dispatch:
 
 jobs:
-  build:
+  fetch:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Install Dependencies
         run: pip install requests
@@ -25,10 +26,8 @@ jobs:
           SEARCHAPI_API_KEY: ${{ secrets.SEARCHAPI_API_KEY }}
         run: python fetch_trends.py
 
-      - name: Commit and Push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add master_trends.json
-          git commit -m "Update master_trends.json [skip ci]" || exit 0
-          git push
+      - name: Commit & Push Updated Trends
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto: Update master_trends.json (US Market)"
+          file_pattern: master_trends.json
