@@ -5,279 +5,393 @@
     "active_hours": 8,
     "config": {
       "keywords_count": 80,
-      "last_updated_hkt": "2026-07-13 14:36:31"
+      "last_updated_hkt": "2026-07-14 01:01:22"
     }
   },
   "trending_seeds": [
     {
       "query": "sam neill",
-      "search_volume": 500000,
+      "search_volume": 1000000,
       "increase": 1000,
-      "news_token": "W1s0NzIxNDg3MTkyLCJlbiIsIlVTIl0sWzQ3MTM2MDM0NzUsImVuIiwiVVMiXSxbNDcwNjA3NzQ3MywiZW4iLCJVUyJdLFs0NzIxODExMTkwLCJlbiIsIlVTIl0sWzQ2ODg0Njc2MTEsImVuIiwiVVMiXSxbNDcyMjMwMjI2OCwiZW4iLCJVUyJdLFs0NzEwMzQ3NTM3LCJlbiIsIlVTIl0sWzQ2OTIxMTg1MjUsImVuIiwiVVMiXSxbNDcxNTkzMjMzMSwiZW4iLCJVUyJdLFs0NzIwOTI1Mjg1LCJlbiIsIlVTIl0sWzQ3MjIyNjExMjQsImVuIiwiVVMiXSxbNDcyMTcyNjc2NywiZW4iLCJVUyJdLFs0NTgzODU2ODczLCJlbiIsIlVTIl0sWzE4NTM2MTE1NDEsImVuIiwiVVMiXSxbNDcxOTc0MTE1OCwiZW4iLCJVUyJdLFs0NzA1MzU4NzI4LCJlbiIsIlVTIl0sWzQ3MTc2NDA0MDAsImVuIiwiVVMiXSxbNDcyMjE1Nzc2OCwiZW4iLCJVUyJdLFs0NTYzNDU2MTA5LCJlbiIsIlVTIl0sWzQ3MjE5NzI1MzksImVuIiwiVVMiXSxbNDcxNzE2NzIyNywiZW4iLCJVUyJdLFs0NzA4OTgyMjMzLCJlbiIsIlVTIl0sWzQ3MDAwNjM4MTQsImVuIiwiVVMiXSxbNDY0NDI2NzExNywiZW4iLCJVUyJdLFs0NTk4NjU2NDY3LCJlbiIsIlVTIl0sWzQ2NTczNjU4MzIsImVuIiwiVVMiXSxbNDYyNTAzNTM5MSwiZW4iLCJVUyJdLFs0NzIxOTcyMTQ5LCJlbiIsIlVTIl0sWzQ3MjIyMDg5MzUsImVuIiwiVVMiXSxbNDcxMjY1NjEyNiwiZW4iLCJVUyJdLFs0NzAxNzU1MTIzLCJlbiIsIlVTIl0sWzQ3MTkxMDg0OTgsImVuIiwiVVMiXSxbNDcxMTM4NzEwNCwiZW4iLCJVUyJdLFs0NzE3NjA3Njk3LCJlbiIsIlVTIl0sWzQ3MTAyODMwMTcsImVuIiwiVVMiXSxbNDY5NDYxMjgzMSwiZW4iLCJVUyJdLFs0NjE5MjU0NDA3LCJlbiIsIlVTIl0sWzQ3MTkyNTc5NjQsImVuIiwiVVMiXSxbNDcyMTQ4NzE5MiwiaXQiLCJVUyJdLFs0NzIxNDk3NzUxLCJpdCIsIlVTIl0sWzE4NTM2MTE1NDEsIml0IiwiVVMiXSxbNDU2MzQ1NjEwOSwiaXQiLCJVUyJdLFs0NzE3MjgwODU5LCJlbiIsIlVTIl0sWzQ3MTQ0NzEzMDAsImVuIiwiVVMiXSxbNDcyMTAxNzE0NCwiZW4iLCJVUyJdLFs0NzIxOTY1NDUyLCJlbiIsIlVTIl0sWzQ3MjA5MDc3NjMsImVuIiwiVVMiXSxbNDcxNzI4OTExNSwiZW4iLCJVUyJdLFs0NzIwODc5NjAyLCJlbiIsIlVTIl0sWzQ2NDMxNDc2OTksImVuIiwiVVMiXSxbNDcwODk1Njc5NywiZW4iLCJVUyJdLFs0Njg4OTQ1Nzc5LCJlbiIsIlVTIl0sWzQ3MjIzNDY0NDYsImVuIiwiVVMiXSxbNDcyMTg4Nzc0MiwiZW4iLCJVUyJdLFs0NzIxNzA0ODY5LCJlbiIsIlVTIl0sWzQ2MzQ3NjM4MTEsImVuIiwiVVMiXSxbNDYzMDQ2NDYzNSwiZW4iLCJVUyJdXQ=="
-    },
-    {
-      "query": "aortic dissection",
-      "search_volume": 200000,
-      "increase": 1000,
-      "news_token": "W1s0NzE0NjM5MzYzLCJlbiIsIlVTIl0sWzQ3MjA3NjM5NTEsImVuIiwiVVMiXSxbNDcyMjIwODU3MCwiZW4iLCJVUyJdLFs0NzIyMzU4MjI4LCJlbiIsIlVTIl0sWzQ2ODQyMzIwMjgsImVuIiwiVVMiXSxbNDcyMDczMTY0NywiZW4iLCJVUyJdLFs0NzE1NDA5MDQxLCJlbiIsIlVTIl0sWzQ3MjE4MTA3NDAsImVuIiwiVVMiXSxbNDcxMzQ3Njk1MCwiZW4iLCJVUyJdLFs0NzA5MzI3Mzc2LCJlbiIsIlVTIl0sWzQ3MTM5MTY5ODAsImVuIiwiVVMiXSxbNDY5NzUxOTU5OCwiZW4iLCJVUyJdLFs0NzIxNDg3MTkyLCJlbiIsIlVTIl0sWzQ3MDAwMzk4NTcsImVuIiwiVVMiXSxbNDcwNjY4OTU4MiwiZW4iLCJVUyJdLFs0Njg0ODEwNjEwLCJlbiIsIlVTIl0sWzQ3MDAwMTQxNTIsImVuIiwiVVMiXSxbNDcyMDk0NDA0OCwiZW4iLCJVUyJdLFs0NzE0MzMyMTMxLCJlbiIsIlVTIl0sWzQ3MjIyMDg2NTcsImVuIiwiVVMiXSxbNDcyMDkyMjM3MywiZW4iLCJVUyJdLFs0NjcxODQ3ODkyLCJlbiIsIlVTIl0sWzQ3MTgzMTM0NjIsImVuIiwiVVMiXSxbNDY4MzA2Mzg2NSwiZW4iLCJVUyJdLFs0NjYxNjQzNTE3LCJlbiIsIlVTIl0sWzQ2MDU0NTQ1MTksImVuIiwiVVMiXSxbNDY2NTA4MjcxMCwiZW4iLCJVUyJdLFs0NzIwNjU5NTYzLCJlbiIsIlVTIl0sWzQ3MDIyNzIwNDgsImVuIiwiVVMiXSxbNDY5NzAzNzMxNywiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0NzIxNDg3MTkyLCJlbiIsIlVTIl0sWzQ3MjIxMDg2MDksImVuIiwiVVMiXSxbNDcwNzk2OTI3MCwiZW4iLCJVUyJdLFs0NzEwMzQ3NTM3LCJlbiIsIlVTIl0sWzQ3MjMxNDAzODEsImVuIiwiVVMiXSxbNDcyMzA3Mjg2NywiZW4iLCJVUyJdLFs0NzExODg0OTE1LCJlbiIsIlVTIl0sWzQ3MjI4ODIzMDMsImVuIiwiVVMiXSxbNDcxMTMyNTk1NywiZW4iLCJVUyJdLFs0NjkxNjM0ODcyLCJlbiIsIlVTIl0sWzQ3MTM2MDM0NzUsImVuIiwiVVMiXSxbNDY1ODg2OTE4OCwiZW4iLCJVUyJdLFs0NzE0OTg1NjUxLCJlbiIsIlVTIl0sWzQ1ODM4NTY4NzMsImVuIiwiVVMiXSxbMTg1MzYxMTU0MSwiZW4iLCJVUyJdLFs0NTYzNDU2MTA5LCJlbiIsIlVTIl0sWzQ3MDUzMTcwMjcsImVuIiwiVVMiXSxbNDcwNTY0MzUxNSwiZW4iLCJVUyJdLFs0NzE3NzM2OTI2LCJlbiIsIlVTIl0sWzQ3MjEyMzc4MDEsImVuIiwiVVMiXSxbNDY5NzQ2NDk2NywiZW4iLCJVUyJdLFs0NzE4OTI0NjIyLCJlbiIsIlVTIl0sWzQ3MjMxOTIwNTgsImVuIiwiVVMiXSxbNDcxNzE2NzIyNywiZW4iLCJVUyJdLFs0NzA4OTgyMjMzLCJlbiIsIlVTIl0sWzQ2Mzc1NDk5NzIsImVuIiwiVVMiXSxbNDY1NzM2NTgzMiwiZW4iLCJVUyJdLFs0NjI1MDM1MzkxLCJlbiIsIlVTIl0sWzQ1OTg2NTY0NjcsImVuIiwiVVMiXSxbNDcyMzE2ODg0NSwiZW4iLCJVUyJdLFs0NzIzMTE4NTU5LCJlbiIsIlVTIl0sWzQ3MTI2NTYxMjYsImVuIiwiVVMiXSxbNDcyMjQ2MzQxMiwiZW4iLCJVUyJdLFs0NzA4ODg5Njk2LCJlbiIsIlVTIl0sWzQ3MjA2ODAyMjMsImVuIiwiVVMiXSxbNDcyMjk1NDMxNCwiZW4iLCJVUyJdLFs0NzE0OTA4NTUxLCJlbiIsIlVTIl0sWzQ3MjI5NTgyMzIsImVuIiwiVVMiXSxbNDcyMjkyNTcyOCwiZW4iLCJVUyJdLFs0Njk0NjEyODMxLCJlbiIsIlVTIl0sWzQ2MTkyNTQ0MDcsImVuIiwiVVMiXSxbNDcxOTI1Nzk2NCwiZW4iLCJVUyJdLFs0NzIxNDg3MTkyLCJpdCIsIlVTIl0sWzQ3MjI0ODk0NTIsImVuIiwiVVMiXSxbNDcyMjkxODU5OSwiZW4iLCJVUyJdLFs0NjQwODAwNTgyLCJlbiIsIlVTIl0sWzQ3MTcxMzM4MzUsImVuIiwiVVMiXSxbNDcyMTAxNzE0NCwiZW4iLCJVUyJdLFs0NzE0NDcxMzAwLCJlbiIsIlVTIl0sWzQ3MjE5NjU0NTIsImVuIiwiVVMiXSxbNDcyMDkwNzc2MywiZW4iLCJVUyJdLFs0NzIyMTA4MDQwLCJlbiIsIlVTIl0sWzQ3MjA1ODA5ODQsImVuIiwiVVMiXSxbNDcyMDg3OTYwMiwiZW4iLCJVUyJdLFs0NjQzMTQ3Njk5LCJlbiIsIlVTIl0sWzQ3MDg5NTY3OTcsImVuIiwiVVMiXSxbNDcyMjU2MjM2MywiZW4iLCJVUyJdLFs0Njg4OTQ1Nzc5LCJlbiIsIlVTIl0sWzQ3MjI2NjA3MDUsImVuIiwiVVMiXSxbNDcyMjYwODc4MCwiZW4iLCJVUyJdLFs0NzIxODg3NzQyLCJlbiIsIlVTIl0sWzQ3MjE3MDQ4NjksImVuIiwiVVMiXSxbNDY5OTkzNTAxMCwiZW4iLCJVUyJdLFs0NjM0NzYzODExLCJlbiIsIlVTIl0sWzQ2MzA0NjQ2MzUsImVuIiwiVVMiXV0="
     },
     {
       "query": "figaro",
-      "search_volume": 50000,
+      "search_volume": 100000,
       "increase": 1000,
-      "news_token": "W1s0NzE5MDUzMjI3LCJmciIsIlVTIl0sWzQ3MTIyOTIyMDcsImZyIiwiVVMiXV0="
+      "news_token": "W1s0NzE2MDY1NTEyLCJmciIsIlVTIl0sWzQ3MjI0NDc5NDUsImZyIiwiVVMiXV0="
     },
     {
-      "query": "josh grisetti",
+      "query": "tom segura",
       "search_volume": 50000,
       "increase": 1000,
-      "news_token": "W1s0NzIwOTc4NTY1LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "jeff bezos",
-      "search_volume": 50000,
-      "increase": 1000,
-      "news_token": "W1s0NzEwNTY3MDY5LCJlbiIsIlVTIl0sWzQ3MDYyMTY4MzIsImVuIiwiVVMiXSxbNDcxMDQ0NjI4MiwiZW4iLCJVUyJdLFs0NzIwNjI0ODcyLCJlbiIsIlVTIl0sWzQ3MTE0OTIyMTEsImVuIiwiVVMiXSxbNDcyMjEwMjY1MiwiZW4iLCJVUyJdLFs0NzAxNTAyOTQyLCJlbiIsIlVTIl0sWzQ3MDk3MzM3NDcsImVuIiwiVVMiXSxbNDY1NDA2MjExMywiZW4iLCJVUyJdLFs0NzA1MDc1MjI4LCJlbiIsIlVTIl0sWzQ2NDQxMDkwMTUsImVuIiwiVVMiXSxbNDcwMjA4MTQ2NiwiZW4iLCJVUyJdLFs0NjE0NDU3OTU4LCJlbiIsIlVTIl0sWzQ2MTg2NDQyNTMsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "tom",
-      "search_volume": 50000,
-      "increase": 1000,
-      "news_token": "W1s0NzEyNzI0MzAxLCJlbiIsIlVTIl0sWzQ3MjE0ODcxOTIsImVuIiwiVVMiXSxbNDcyMjMyOTkyOCwiZW4iLCJVUyJdLFs0NzA4MDE3MjIzLCJlbiIsIlVTIl0sWzQ3MjE0MDQ2ODMsImVuIiwiVVMiXSxbNDcyMjMxODM0NSwiZW4iLCJVUyJdLFs0Njk5NTAwMTgxLCJlbiIsIlVTIl0sWzQ3MjA2NzE3ODksImVuIiwiVVMiXSxbNDcyMDk5NTYxMiwiZW4iLCJVUyJdLFs0NzE4MjAwOTk2LCJlbiIsIlVTIl0sWzQ3MjIzNTc4NjAsImVuIiwiVVMiXSxbNDcxMjU5MjAzMSwiZW4iLCJVUyJdLFs0NzExODU3Mzk4LCJlbiIsIlVTIl0sWzQ3MjAxOTUwODYsImVuIiwiVVMiXSxbNDcwMDcxNjY3NSwiZW4iLCJVUyJdLFs0NzE3MDQzMzE3LCJlbiIsIlVTIl0sWzQ3MjE3NDc5NTMsImVuIiwiVVMiXSxbNDcyMDczNzcyOCwiZW4iLCJVUyJdLFs0NzIxMjA1OTYyLCJlbiIsIlVTIl0sWzQ3MTgyNDg1NjMsImVuIiwiVVMiXSxbNDY2MTYwNTkwNCwiZW4iLCJVUyJdLFs0NjkyMTczNzg3LCJlbiIsIlVTIl0sWzQ3MTcyMDM0OTAsImVuIiwiVVMiXSxbNDY5MzEzNjY2MywiZW4iLCJVUyJdLFs0NjYwMDE5MDI0LCJlbiIsIlVTIl0sWzQ2NTc3NDk5OTAsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzIyODE1ODkxLCJlbiIsIlVTIl1d"
     },
     {
       "query": "justices barrett and kagan hearings",
-      "search_volume": 5000,
+      "search_volume": 50000,
       "increase": 1000,
-      "news_token": "W1s0NzEwNTUzMTU5LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzEwNTUzMTU5LCJlbiIsIlVTIl0sWzQ3MjIyNjYzMjYsImVuIiwiVVMiXV0="
     },
     {
-      "query": "rachael ray",
-      "search_volume": 5000,
+      "query": "rachael ray fans comments",
+      "search_volume": 50000,
       "increase": 1000,
       "news_token": "W1s0NzE2ODIxMTE4LCJlbiIsIlVTIl1d"
     },
     {
-      "query": "who won love island",
-      "search_volume": 200000,
-      "increase": 800,
-      "news_token": "W1s0NzAxNjY1NTI5LCJlbiIsIlVTIl0sWzQ3MjA5ODE1NDcsImVuIiwiVVMiXSxbNDcxNzc0OTA2NiwiZW4iLCJVUyJdLFs0NzE4MDc2OTg3LCJlbiIsIlVTIl0sWzQ3MjEyMjAxMjcsImVuIiwiVVMiXSxbNDY0NjI3MzkxMCwiZW4iLCJVUyJdLFs0NjI0NTU1ODQ0LCJlbiIsIlVTIl0sWzQ3MjEzMTg1NzgsImVuIiwiVVMiXSxbNDcyMTQ0MTg5OSwiZW4iLCJVUyJdLFs0NzA5MjM0ODQ2LCJlbiIsIlVTIl0sWzQ2NjMwNzcxMjUsImVuIiwiVVMiXSxbNDcwOTc0NjA4MCwiZW4iLCJVUyJdLFs0NjkyMDU5MTIzLCJlbiIsIlVTIl0sWzQ2MzUwNTQyODEsImVuIiwiVVMiXSxbNDcyMjI2MTY0NSwiZW4iLCJVUyJdLFs0NzAyNDczNzIyLCJlbiIsIlVTIl0sWzQ2MzYxODUzMDgsImVuIiwiVVMiXSxbNDcxNzc0ODkxMywiZW4iLCJVUyJdLFs0NzIyMDA4MjcxLCJlbiIsIlVTIl0sWzQ3MTg0ODA0ODUsImVuIiwiVVMiXSxbNDY0NjA3MzAyMywiZW4iLCJVUyJdLFs0NzIxMDIwMTI2LCJlbiIsIlVTIl1d"
+      "query": "darline graham",
+      "search_volume": 50000,
+      "increase": 1000,
+      "news_token": "W1s0NzIyMzQwMDI3LCJlbiIsIlVTIl0sWzQ3MjI5NzUwMTUsImVuIiwiVVMiXSxbNDcxMDYxMzQ1NCwiZW4iLCJVUyJdLFs0NjM0MDA5Njg3LCJlbiIsIlVTIl0sWzQ2NDE2MzA5MjMsImVuIiwiVVMiXSxbNDcyMjAzMDgwNywiZW4iLCJVUyJdLFs0NzEyMzIyOTk5LCJlbiIsIlVTIl0sWzQ3MTUyNTQ4NDksImVuIiwiVVMiXSxbNDcxNzc2NTQ0OCwiZW4iLCJVUyJdLFs0NzE0NjM5MzYzLCJlbiIsIlVTIl0sWzQ2OTg5MDQwNjAsImVuIiwiVVMiXSxbNDY5OTQyMjcxMSwiZW4iLCJVUyJdLFs0NzIxMTc0MjM5LCJlbiIsIlVTIl0sWzQ3MTY4ODc1NjgsImVuIiwiVVMiXSxbNDcyMjgzNTcyMiwiZW4iLCJVUyJdLFs0NzAwMDM5ODU3LCJlbiIsIlVTIl0sWzQ2ODMwMTQzNTYsImVuIiwiVVMiXSxbNDcwNjg0Mzc1MCwiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "old farmer's almanac fall forecast",
+      "query": "ella langley american eagle campaign",
       "search_volume": 20000,
-      "increase": 800,
-      "news_token": "W1s0NzE3NzEwOTU4LCJlbiIsIlVTIl0sWzQ3MDM2NzgwNjcsImVuIiwiVVMiXSxbNDcxODkyNDg3MywiZW4iLCJVUyJdLFs0NzE4NjYwNDg5LCJlbiIsIlVTIl0sWzQ3MjAzNTE3NjIsImVuIiwiVVMiXV0="
+      "increase": 1000,
+      "news_token": "W1s0NzE3MzA1OTY3LCJlbiIsIlVTIl0sWzQ0MzU0NjM5MjcsImVuIiwiVVMiXV0="
     },
     {
-      "query": "jason statham amazon streaming hits",
-      "search_volume": 5000,
-      "increase": 800,
-      "news_token": "W1s0NzA2NDkyMTIwLCJlbiIsIlVTIl0sWzQ3MDEwNjU3NjcsImVuIiwiVVMiXSxbNDcxMjI5NTU3NywiZW4iLCJVUyJdXQ=="
+      "query": "north west hair change",
+      "search_volume": 20000,
+      "increase": 1000,
+      "news_token": "W1s0NzIyNTY3MzE2LCJlbiIsIlVTIl1d"
     },
     {
-      "query": "law and order svu",
+      "query": "earthquake now",
+      "search_volume": 20000,
+      "increase": 1000,
+      "news_token": "W1s0NzIwNDU2NjMyLCJlbiIsIlVTIl0sWzQ3MTc4ODYwNzEsImVuIiwiVVMiXSxbNDcyMjg3MDQ0NCwiZW4iLCJVUyJdLFs0NjIwNjI1NzQxLCJlbiIsIlVTIl0sWzQ2ODQ5MTI0NjEsImVuIiwiVVMiXSxbNDcwNDg5Mzg4NSwiZW4iLCJVUyJdLFs0NzA4MDI3Mjk4LCJlbiIsIlVTIl0sWzQ3MTk4NzIyNzQsImVuIiwiVVMiXSxbNDcyMjAxNjg3OSwiZW4iLCJVUyJdLFs0NzE0MzYwMTg0LCJlbiIsIlVTIl0sWzQ3MTkwMzg0MDQsImVuIiwiVVMiXSxbNDcyMjgzODQzOSwiZW4iLCJVUyJdLFs0NzIyNDc5NDUwLCJlbiIsIlVTIl0sWzQ3MTQ3MjI0NjQsImVuIiwiVVMiXSxbNDY4ODcxODI0NSwiZW4iLCJVUyJdLFs0Njk4OTAzODg3LCJlbiIsIlVTIl0sWzQ2MTY5ODQwNTQsImVuIiwiVVMiXSxbNDcxNTYxMDczNiwiZW4iLCJVUyJdLFs0NzIxNTM3MTA5LCJlbiIsIlVTIl0sWzQ2OTI0NzMwNTYsImVuIiwiVVMiXSxbNDcyMTIxNzAyMSwiZW4iLCJVUyJdXQ=="
+    },
+    {
+      "query": "taylor sheridan action series streaming",
+      "search_volume": 10000,
+      "increase": 1000,
+      "news_token": "W1s0NzE2Njg5MzU3LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "regal princess crew member overboard",
+      "search_volume": 20000,
+      "increase": 900,
+      "news_token": "W1s0NzIyNDExNDk4LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "united",
+      "search_volume": 50000,
+      "increase": 800,
+      "news_token": "W1s0NzIxMzE0NjA4LCJlbiIsIlVTIl0sWzQ3MDg5NDgwOTIsImVuIiwiVVMiXSxbNDcxOTEzMTQ5NSwiZW4iLCJVUyJdLFs0NzA4MjA5Mzk5LCJlbiIsIlVTIl0sWzQ3MjMwNTc4NTUsImVuIiwiVVMiXSxbNDcwMzc4Nzk2NCwiZW4iLCJVUyJdLFs0NzEzMTgyNzQzLCJlbiIsIlVTIl0sWzQ3MjI3NDEwMTYsImVuIiwiVVMiXSxbNDcxNTMyNTMyMSwiZW4iLCJVUyJdLFs0NzIyMzYyNTM3LCJlbiIsIlVTIl0sWzQ2OTY0MzQyOTIsImVuIiwiVVMiXSxbNDcyMTk0NDc1NiwiZW4iLCJVUyJdLFs0NzIzMDczNDAxLCJlbiIsIlVTIl0sWzQ3MTQ2NDcxNjEsImVuIiwiVVMiXSxbNDcyMzAzNTkxNCwiZW4iLCJVUyJdLFs0NzIyOTg5MjUxLCJlbiIsIlVTIl0sWzQ2Nzc1NjY2NjAsImVuIiwiVVMiXSxbNDYzNTI3NTUwOCwiZW4iLCJVUyJdLFs0NjgyNDUzMjg3LCJlbiIsIlVTIl0sWzQ3MTEwMjQ0NjQsImVuIiwiVVMiXV0="
+    },
+    {
+      "query": "biddeford, maine ice",
+      "search_volume": 50000,
+      "increase": 800,
+      "news_token": "W1s0NzIyMjMxODI4LCJlcyIsIlVTIl0sWzQ3MjIyMzE4MjgsImRlIiwiVVMiXSxbNDcxMTA3NzM4NiwiZGUiLCJVUyJdLFs0NzIzMTc0MDM3LCJkZSIsIlVTIl0sWzQ3MjIwMTMxNjMsImRlIiwiVVMiXSxbNDcyMjIzMTgyOCwiZW4iLCJVUyJdLFs0NzExMDc3Mzg2LCJlbiIsIlVTIl0sWzQ3MDY2ODk2OTQsImVuIiwiVVMiXSxbNDcwODcyMTY2MiwiZW4iLCJVUyJdLFs0NzEwNzg2OTAzLCJlbiIsIlVTIl0sWzQ3MjEyNDc5NTYsImVuIiwiVVMiXSxbNDY1NDgyMDg2OSwiZW4iLCJVUyJdLFs0NzA2MTk5Mjg0LCJlbiIsIlVTIl0sWzQ2MjA3MDE0OTIsImVuIiwiVVMiXSxbNDY2Mjk1MjMxOCwiZW4iLCJVUyJdLFs0NzIyNTYyMDU3LCJlbiIsIlVTIl0sWzQ3MTQ2MzkzNjMsImVuIiwiVVMiXSxbNDcwNjY4OTU4MiwiZW4iLCJVUyJdLFs0NzAwMDE0MTUyLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "jimmy tatro",
+      "search_volume": 2000,
+      "increase": 800,
+      "news_token": "W1s0NzE3Mjg5NjkyLCJlbiIsIlVTIl0sWzQ2ODUxNjk4MDcsImVuIiwiVVMiXV0="
+    },
+    {
+      "query": "digger",
+      "search_volume": 50000,
+      "increase": 700,
+      "news_token": "W1s0NzEyNzI0MzAxLCJlbiIsIlVTIl0sWzQ3MjI4MTU4OTEsImVuIiwiVVMiXSxbNDcyMjkyMjE1NSwiZW4iLCJVUyJdLFs0NzA4Nzg0MTIxLCJlbiIsIlVTIl0sWzQ3MTE4NTczOTgsImVuIiwiVVMiXSxbNDcyMDk1NTY2OSwiZW4iLCJVUyJdLFs0NzIwNzM3NzI4LCJlbiIsIlVTIl0sWzQ2NjAwMTkwMjQsImVuIiwiVVMiXSxbNDY2MTYwNTkwNCwiZW4iLCJVUyJdLFs0NzEyMTcyNjQyLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "manila clam spreading atlantic coastline",
       "search_volume": 20000,
       "increase": 700,
-      "news_token": "W1s0NzIwMjM5MjcyLCJlbiIsIlVTIl0sWzQ3MDU0NDU0ODgsImVuIiwiVVMiXSxbNDcxMDc3NDY2NSwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0NzEwNDcyMzAyLCJlbiIsIlVTIl1d"
     },
     {
-      "query": "carlito chism carrie crawford",
+      "query": "rubio icc",
       "search_volume": 10000,
       "increase": 700,
-      "news_token": "W1s0NzIwODE2ODkzLCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzIyMzU4NDc5LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "vfw cartoon",
+      "search_volume": 5000,
+      "increase": 700,
+      "news_token": "W1s0NzEzNDM4MjQ2LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "kfc popcorn chicken comeback",
+      "search_volume": 10000,
+      "increase": 600,
+      "news_token": "W1s0NzIyNTEwMzU4LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "dancing with the stars the next pro",
+      "search_volume": 10000,
+      "increase": 600,
+      "news_token": "W1s0NzA4MzA3MDIyLCJlbiIsIlVTIl0sWzQ3MjMxNDgxNjUsImVuIiwiVVMiXSxbNDcyMjQ4NDA3OCwiZW4iLCJVUyJdLFs0NzIyODcwOTgwLCJlbiIsIlVTIl0sWzQ3MjI4MzU3MTMsImVuIiwiVVMiXSxbNDcxMzA3MTY0OSwiZW4iLCJVUyJdXQ=="
+    },
+    {
+      "query": "donald trump irs lawsuit",
+      "search_volume": 20000,
+      "increase": 500,
+      "news_token": "W1s0NzIyNTYyMDU3LCJlbiIsIlVTIl0sWzQ2NjEzODg0NTcsImVuIiwiVVMiXSxbNDU5ODQ4MjQ4MiwiZW4iLCJVUyJdLFs0NjI5NTEzMjM3LCJlbiIsIlVTIl0sWzQ2NDUwMzIyMDAsImVuIiwiVVMiXSxbNDYwNDc0NjE3NCwiZW4iLCJVUyJdLFs0NjI5NDkwODU3LCJlbiIsIlVTIl0sWzQ3MjI5NDczMzksImVuIiwiVVMiXSxbNDcyMzA1NDk1MiwiZW4iLCJVUyJdLFs0NzIzMDk0NTU0LCJlbiIsIlVTIl0sWzQ2ODE5MDgyOTEsImVuIiwiVVMiXSxbNDcxNTY5NjgyOCwiZW4iLCJVUyJdLFs0NzA2Njg5NTgyLCJlbiIsIlVTIl0sWzQ3MTY3NTYzMTYsImVuIiwiVVMiXSxbNDcwODA2ODI2NCwiZW4iLCJVUyJdLFs0NjkyNjY4NzU0LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "hospitals",
+      "search_volume": 20000,
+      "increase": 500,
+      "news_token": "W1s0Njg0MjMyMDI4LCJlbiIsIlVTIl0sWzQ3MTYxMDQ1MzEsImVuIiwiVVMiXSxbNDcyMjY2Nzk0MiwiZW4iLCJVUyJdLFs0NzE0NjM5MzYzLCJlbiIsIlVTIl0sWzQ3MTM4MjY4NTEsImVuIiwiVVMiXSxbNDcyMTk4MzQ5NSwiZW4iLCJVUyJdLFs0NzIyODMxOTEzLCJlbiIsIlVTIl0sWzQ3MjI4NDc4NTEsImVuIiwiVVMiXSxbNDcwMjk1NTY3NiwiZW4iLCJVUyJdLFs0Njg5NDg3MjY4LCJlbiIsIlVTIl0sWzQ3MjE5NTA0MzMsImVuIiwiVVMiXSxbNDcwNzIwODU5MywiZW4iLCJVUyJdLFs0NzA2MTgzNTE3LCJlbiIsIlVTIl0sWzQ3MDY5NzIyNTIsImVuIiwiVVMiXSxbNDcwODM2OTM2NiwiZW4iLCJVUyJdLFs0NzIyOTE0NzYzLCJlbiIsIlVTIl0sWzQ2ODA2MTQ3MDAsImVuIiwiVVMiXV0="
     },
     {
       "query": "concerts",
-      "search_volume": 50000,
-      "increase": 500,
-      "news_token": "W1s0NzA4OTU2Nzk3LCJlbiIsIlVTIl0sWzQ3MTkwMzA2ODgsImVuIiwiVVMiXSxbNDcyMjM1ODM5MCwiZW4iLCJVUyJdLFs0NzE4MTk0NDg1LCJlbiIsIlVTIl0sWzQ0OTY0MDcwMzQsImVuIiwiVVMiXSxbNDY2NjI5ODEzMCwiZW4iLCJVUyJdLFs0NjIxNTkwMjEwLCJlbiIsIlVTIl0sWzQ2NzMyNjEyNzEsImVuIiwiVVMiXSxbNDcxMDE2NDA1MCwiZW4iLCJVUyJdLFs0NzA2Njg5NTgyLCJlbiIsIlVTIl0sWzQ3MjE4ODgwMTcsImVuIiwiVVMiXSxbNDY5Njg0MTI2MCwiZW4iLCJVUyJdLFs0NzE2MzY3NjA1LCJlbiIsIlVTIl0sWzQ3MjE0ODcxOTIsImVuIiwiVVMiXSxbNDcyMDQ3MTQ1NywiZW4iLCJVUyJdLFs0NzA4MzE0NTU3LCJlbiIsIlVTIl0sWzQ3MTkwNTg5MDksImVuIiwiVVMiXSxbNDcxOTE4MTAzNywiZW4iLCJVUyJdLFs0NzIyMzY4MDk3LCJlbiIsIlVTIl0sWzQ3MDc2ODUzMjAsImVuIiwiVVMiXSxbNDcyMDU1NDQyOCwiZW4iLCJVUyJdLFs0NjQyMTY5MTA1LCJlbiIsIlVTIl0sWzQ2MzM0OTk3NzUsImVuIiwiVVMiXSxbNDYxNDU0MDIxMCwiZW4iLCJVUyJdLFs0NzIxMjQ0NzgyLCJlbiIsIlVTIl0sWzQ3MjIwNTgxNjksImVuIiwiVVMiXSxbNDcxNzMwNTk3NSwiZW4iLCJVUyJdLFs0NzE1MDU1NzMyLCJlbiIsIlVTIl0sWzQ3MTMyMzAxODksImVuIiwiVVMiXSxbNDcwOTg1OTYxNiwiZW4iLCJVUyJdLFs0NzIyMDMwNjM4LCJlbiIsIlVTIl0sWzQ3MDc5MjE0NjksImVuIiwiVVMiXSxbNDcxMjY2NjQwNSwiZW4iLCJVUyJdLFs0Njk4NzI1NzkyLCJlbiIsIlVTIl0sWzQ3MjE4MTc3MTgsImVuIiwiVVMiXSxbNDcxOTU2OTc1NSwiZW4iLCJVUyJdLFs0NzIyMzU3NzM0LCJlbiIsIlVTIl0sWzQ3MjIzODk5MjQsImVuIiwiVVMiXSxbNDY5ODE4NzM1OCwiZW4iLCJVUyJdLFs0NzAzNDY3ODY2LCJlbiIsIlVTIl0sWzQ3MjAyOTgxMDEsImVuIiwiVVMiXSxbNDcyMjIwNDE1NiwiZW4iLCJVUyJdLFs0NzIyMzUxNzM4LCJlbiIsIlVTIl0sWzQ3MTk1NzczNjcsImVuIiwiVVMiXSxbNDYzMDkxNjIwMCwiZW4iLCJVUyJdLFs0NzIwNzAzMTE3LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "north carolina division of motor vehicles",
       "search_volume": 20000,
       "increase": 500,
-      "news_token": "W1s0NzE2OTc3Mjc3LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzA4OTU2Nzk3LCJlbiIsIlVTIl0sWzQ3MTUyNDUwMDYsImVuIiwiVVMiXSxbNDcyMjI2MTA3NiwiZW4iLCJVUyJdLFs0NzIyNDk4MzkzLCJlbiIsIlVTIl0sWzQ3MTU3MzE2MTgsImVuIiwiVVMiXSxbNDQ5NjQwNzAzNCwiZW4iLCJVUyJdLFs0NjIxNTkwMjEwLCJlbiIsIlVTIl0sWzQ3MTAxNjQwNTAsImVuIiwiVVMiXSxbNDcyMjY2MDYyOCwiZW4iLCJVUyJdLFs0NzIzMjA2MTI0LCJlbiIsIlVTIl0sWzQ3MjI3MjM4NjgsImVuIiwiVVMiXSxbNDcxOTE4MTAzNywiZW4iLCJVUyJdLFs0NzIyOTE1MjgwLCJlbiIsIlVTIl0sWzQ3MTI2MzI4NDEsImVuIiwiVVMiXSxbNDcyMDU1NDQyOCwiZW4iLCJVUyJdLFs0NzIyNzExMTkyLCJlbiIsIlVTIl0sWzQ3MjE3OTkxNjAsImVuIiwiVVMiXSxbNDcyMTE3NzEyOCwiZW4iLCJVUyJdLFs0NzIxNTcyNzI5LCJlbiIsIlVTIl0sWzQ3MTkwMzA2ODgsImVuIiwiVVMiXV0="
     },
     {
       "query": "yoga",
       "search_volume": 20000,
       "increase": 500,
-      "news_token": "W1s0NzE4ODgyMTU4LCJlbiIsIlVTIl0sWzQ3MjA1ODc1NDMsImVuIiwiVVMiXSxbNDcxNzM3OTY4OSwiZW4iLCJVUyJdLFs0NzIyMjE1MzM0LCJlbiIsIlVTIl0sWzQ3MTA5MjI4MzQsImVuIiwiVVMiXSxbNDcyMTkyODc2NSwiZW4iLCJVUyJdLFs0NzIxODU3OTkyLCJlbiIsIlVTIl0sWzQ3MjA2NjQ4NTAsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzE4ODgyMTU4LCJlbiIsIlVTIl0sWzQ3MjA1ODc1NDMsImVuIiwiVVMiXSxbNDcyMjU3NDM3NiwiZW4iLCJVUyJdLFs0NzE3Mzc5Njg5LCJlbiIsIlVTIl0sWzQ3MjI0MTY1MDcsImVuIiwiVVMiXSxbNDcyMjU2MjEwMSwiZW4iLCJVUyJdLFs0NzIyMjE1MzM0LCJlbiIsIlVTIl0sWzQ3MTA5MjI4MzQsImVuIiwiVVMiXSxbNDcyMTkxNTMwMiwiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "swimming",
-      "search_volume": 20000,
-      "increase": 500,
-      "news_token": "W1s0NzE3MzAyMDIzLCJlbiIsIlVTIl0sWzQ3MTQ3Mzg3NDUsImVuIiwiVVMiXSxbNDcyMjI5MjQ1NywiZW4iLCJVUyJdLFs0NzIyMTg2OTY0LCJlbiIsIlVTIl0sWzQ3MTUzNDEzMDAsImVuIiwiVVMiXSxbNDY4NzM0MDIwMiwiZW4iLCJVUyJdLFs0NzAwNTM1NDgwLCJlbiIsIlVTIl0sWzQ3MjIyNDk5MjQsImVuIiwiVVMiXSxbNDcyMjI0OTc4NSwiZW4iLCJVUyJdLFs0NzEwNDY0NzYzLCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "total solar eclipse",
+      "query": "carlito chism carrie crawford",
       "search_volume": 10000,
       "increase": 500,
-      "news_token": "W1s0NzAwMDE0MTUyLCJlbiIsIlVTIl0sWzQ3MTcwMzc0MzEsImVuIiwiVVMiXSxbNDY4NTU1ODQyOSwiZW4iLCJVUyJdLFs0NTg2MzkzODkwLCJlbiIsIlVTIl0sWzQ2NjM0ODUzNDYsImVuIiwiVVMiXSxbNDY4MTYyMzgxOSwiZW4iLCJVUyJdLFs0NjU0MDgxODc3LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzIwODE2ODkzLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "margaret cho",
+      "search_volume": 10000,
+      "increase": 500,
+      "news_token": "W1s0NzIwODE2NjQ3LCJlbiIsIlVTIl1d"
     },
     {
       "query": "democratic republic of the congo",
       "search_volume": 5000,
       "increase": 500,
-      "news_token": "W1s0NzEzNjAzNDc1LCJlbiIsIlVTIl0sWzQ3MjIxNTgwOTEsImVuIiwiVVMiXSxbNDcyMDA1NzE1NywiZW4iLCJVUyJdLFs0NzIyMTc2OTQxLCJlbiIsIlVTIl0sWzQ3MTY4NTkyNDEsImVuIiwiVVMiXSxbNDcyMTgxNzEzNiwiZW4iLCJVUyJdLFs0NzA2MDc3NDczLCJlbiIsIlVTIl0sWzQ2OTgzOTQ5MDAsImVuIiwiVVMiXSxbNDcxNDk4NTY1MSwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0NzEzNjAzNDc1LCJlbiIsIlVTIl0sWzQ3MjE4MTcxMzYsImVuIiwiVVMiXSxbNDcwNjA3NzQ3MywiZW4iLCJVUyJdLFs0NzIwMDU3MTU3LCJlbiIsIlVTIl0sWzQ3MTQyNDM3NjYsImVuIiwiVVMiXSxbNDY5ODM5NDkwMCwiZW4iLCJVUyJdLFs0NzAxMDcwNTM1LCJlbiIsIlVTIl0sWzQ2MzczNTUyMDEsImVuIiwiVVMiXV0="
     },
     {
-      "query": "mayor of kingstown",
+      "query": "plane crashed",
+      "search_volume": 2000,
+      "increase": 500,
+      "news_token": "W1s0NzIxODE3MjM2LCJlbiIsIlVTIl0sWzQ3MjEyNDQyNjQsImVuIiwiVVMiXSxbNDcxNTA0MDgyNywiZW4iLCJVUyJdLFs0NzIyNzI2OTY5LCJlbiIsIlVTIl0sWzQ3MjI1ODM4NTQsImVuIiwiVVMiXSxbNDcyMjgzMjIwMiwiZW4iLCJVUyJdLFs0Njg4NjAzMzE3LCJlbiIsIlVTIl0sWzQ3MTA4ODQxNTksImVuIiwiVVMiXSxbNDcxNjg3MTg2NywiZW4iLCJVUyJdXQ=="
+    },
+    {
+      "query": "cole hauser",
+      "search_volume": 2000,
+      "increase": 500,
+      "news_token": "W1s0NzE3NzI4ODMyLCJlbiIsIlVTIl0sWzQ3MjIwODU4MjMsImVuIiwiVVMiXSxbNDcxOTgwODY5MCwiZW4iLCJVUyJdLFs0NzE5ODA0NTc0LCJlbiIsIlVTIl0sWzQ2ODg0NzkyNDUsImVuIiwiVVMiXSxbNDYxNTA4MDQ1OCwiZW4iLCJVUyJdLFs0NjM0NDcxMjM5LCJlbiIsIlVTIl0sWzQ2MzE3Mzg4MjUsImVuIiwiVVMiXSxbNDU4MDEwNDI2NSwiZW4iLCJVUyJdLFs0NjY2NzkzMjczLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "starbucks bear cup",
       "search_volume": 20000,
       "increase": 400,
-      "news_token": "W1s0NzIxNDQyMDQ1LCJlbiIsIlVTIl0sWzQ2OTQ2MTI4MzEsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzEwMzEyNjYyLCJlbiIsIlVTIl0sWzQ2NzU0MzM2NTUsImVuIiwiVVMiXSxbNDY1NDg4ODI5NCwiZW4iLCJVUyJdXQ=="
+    },
+    {
+      "query": "jobs",
+      "search_volume": 20000,
+      "increase": 400,
+      "news_token": "W1s0NzA5NjM1MjAzLCJlbiIsIlVTIl0sWzQ3MTIzNzgwNTAsImVuIiwiVVMiXSxbNDcxNDU3MzE0MSwiZW4iLCJVUyJdLFs0NzIyMjYxNDExLCJlbiIsIlVTIl0sWzQ3MTE2Nzk3MDgsImVuIiwiVVMiXSxbNDcyMTkyODQ1OSwiZW4iLCJVUyJdLFs0NzIyOTc4NzAzLCJlbiIsIlVTIl0sWzQ3MjI5MDIzODgsImVuIiwiVVMiXSxbNDcwODk5OTU4MSwiZW4iLCJVUyJdLFs0NzIzMDc5NzYxLCJlbiIsIlVTIl0sWzQ3MTkwMDA5NzgsImVuIiwiVVMiXSxbNDcxNTU3MzQzNywiZW4iLCJVUyJdLFs0NzEyNjYyMDA0LCJlbiIsIlVTIl0sWzQ3MjMwNDAxMjMsImVuIiwiVVMiXSxbNDcxNDY1NDE1MSwiZW4iLCJVUyJdLFs0NzA4ODAxMDI4LCJlbiIsIlVTIl0sWzQ3MjAxNzM0ODMsImVuIiwiVVMiXSxbNDcxNjkzODY1MiwiZW4iLCJVUyJdLFs0NzE0NTA0NjcyLCJlbiIsIlVTIl0sWzQ3MjIxOTI0MDUsImVuIiwiVVMiXSxbNDcwODUwNDg1NSwiZW4iLCJVUyJdLFs0NzA4ODg5Nzk5LCJlbiIsIlVTIl0sWzQ3MTg3OTgyNDksImVuIiwiVVMiXSxbNDcxMDUwMDgyMiwiZW4iLCJVUyJdLFs0NzE2MDU1MDEyLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "music",
+      "search_volume": 20000,
+      "increase": 400,
+      "news_token": "W1s0NzE0MDE0NTYxLCJlbiIsIlVTIl0sWzQ3MDg5NTY3OTcsImVuIiwiVVMiXSxbNDcyMjQ5ODM5MywiZW4iLCJVUyJdLFs0NzIyOTE4NDEwLCJlbiIsIlVTIl0sWzQ3MjI1OTkyNzAsImVuIiwiVVMiXSxbNDcyMjM1MTk1MywiZW4iLCJVUyJdLFs0NzE1ODkwNzIzLCJlbiIsIlVTIl0sWzQ3MjE4MTc3MTgsImVuIiwiVVMiXSxbNDcxNjM2Nzg5NSwiZW4iLCJVUyJdLFs0NzIwNzYzOTUxLCJlbiIsIlVTIl0sWzQ2OTgxODczNTgsImVuIiwiVVMiXSxbNDcyMDI5ODEwMSwiZW4iLCJVUyJdLFs0NzE5NTY5NzU1LCJlbiIsIlVTIl0sWzQ3MjI4MTIxNTUsImVuIiwiVVMiXSxbNDcxNzU4Njg2NCwiZW4iLCJVUyJdXQ=="
     },
     {
       "query": "events",
       "search_volume": 20000,
       "increase": 400,
-      "news_token": "W1s0NzIyMjkyNjI1LCJlbiIsIlVTIl0sWzQ3MjIzNTE5MTksImVuIiwiVVMiXSxbNDcyMjM3MjkzNiwiZW4iLCJVUyJdLFs0NzIxMzUzNDE3LCJlbiIsIlVTIl0sWzQ3MTQ2NTM5NDEsImVuIiwiVVMiXSxbNDcxNzI4MDkwMywiZW4iLCJVUyJdLFs0NzIxNDMyMTI0LCJlbiIsIlVTIl0sWzQ3MDYzOTAxMTAsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzIzMTA2MzMxLCJlbiIsIlVTIl0sWzQ3MTExODEyMjEsImVuIiwiVVMiXSxbNDcyMzE2MTI1OCwiZW4iLCJVUyJdLFs0NzEyOTMxNDI4LCJlbiIsIlVTIl0sWzQ3MTQ4NTMwMzAsImVuIiwiVVMiXSxbNDcxNjI1NDE0NSwiZW4iLCJVUyJdLFs0NzE5NjM1MTYxLCJlbiIsIlVTIl0sWzQ3MjMxMjU4MjgsImVuIiwiVVMiXSxbNDcxMjc1ODQyNiwiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "sports",
-      "search_volume": 20000,
+      "query": "lewis hamilton",
+      "search_volume": 10000,
       "increase": 400,
-      "news_token": "W1s0NzE0ODA0MTYxLCJlbiIsIlVTIl0sWzQ3MDM4NDA0ODUsImVuIiwiVVMiXSxbNDcyMjMyNDc0MSwiZW4iLCJVUyJdLFs0NzIwOTIyMzczLCJlbiIsIlVTIl0sWzQ3MTgxOTcyMzIsImVuIiwiVVMiXSxbNDcxNDk0NzU5NSwiZW4iLCJVUyJdLFs0NzA2MzI2NTU1LCJlbiIsIlVTIl0sWzQ3MTQ0NzA3NDYsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzEyNjE2MDcyLCJlbiIsIlVTIl0sWzQ3MjMxNTEyMjEsImVuIiwiVVMiXSxbNDcyMDEzMTY4NSwiZW4iLCJVUyJdLFs0NzA5ODY0NDI5LCJlbiIsIlVTIl0sWzQ3MTMyODUyMjQsImVuIiwiVVMiXSxbNDcyMDEyOTA3NywiZW4iLCJVUyJdLFs0NzAzMTIzOTQ3LCJlbiIsIlVTIl0sWzQ2ODEyNjUwNjksImVuIiwiVVMiXSxbNDcyMDQxMzg0NiwiZW4iLCJVUyJdLFs0NzE2Njc4NzMyLCJlbiIsIlVTIl0sWzQ2MDk1NTY1OTAsImVuIiwiVVMiXSxbNDY0MzA5OTI5MSwiZW4iLCJVUyJdLFs0NjU3NzE1Mzg4LCJlbiIsIlVTIl0sWzQ2MTk0NzgyNDgsImVuIiwiVVMiXSxbNDYzMzQ0NDg0MSwiZW4iLCJVUyJdXQ=="
+    },
+    {
+      "query": "stephen king thriller hbo max",
+      "search_volume": 10000,
+      "increase": 400,
+      "news_token": "W1s0NzA2NTg5MzMxLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "total solar eclipse",
+      "search_volume": 10000,
+      "increase": 400,
+      "news_token": "W1s0NzAwMDE0MTUyLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "antiques roadshow star theo burrell",
+      "search_volume": 5000,
+      "increase": 400,
+      "news_token": "W1s0NzE5NDUxNTg1LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "mark ballas",
+      "search_volume": 2000,
+      "increase": 400,
+      "news_token": "W1s0NzIzMTQwNDE1LCJlbiIsIlVTIl0sWzQ3MDgzMDcwMjIsImVuIiwiVVMiXSxbNDcyMzEwOTA1NywiZW4iLCJVUyJdLFs0NzIyNDg0MDc4LCJlbiIsIlVTIl1d"
     },
     {
       "query": "apple iphone 18 pro",
       "search_volume": 2000,
       "increase": 400,
-      "news_token": "W1s0NzExMjI4Mzg1LCJlbiIsIlVTIl0sWzQ3MTM4NTk4NDgsImVuIiwiVVMiXSxbNDU2MjkzMDQ1OSwiZW4iLCJVUyJdLFs0NzAzOTExOTAwLCJlbiIsIlVTIl0sWzQ3MDA5ODIyMDgsImVuIiwiVVMiXSxbNDY5NTM0MTIyMywiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0NzExMjI4Mzg1LCJlbiIsIlVTIl0sWzQ2OTc2MjU0MjUsImVuIiwiVVMiXSxbNDU2MjkzMDQ1OSwiZW4iLCJVUyJdLFs0NzAzOTExOTAwLCJlbiIsIlVTIl0sWzQ3MDA5ODIyMDgsImVuIiwiVVMiXSxbNDY3MDY5MzI5NiwiZW4iLCJVUyJdLFs0NzEzMzA5Nzc1LCJlbiIsIlVTIl0sWzQ3MTM4NTk4NDgsImVuIiwiVVMiXV0="
     },
     {
       "query": "heat advisory",
       "search_volume": 50000,
       "increase": 300,
-      "news_token": "W1s0NzIyMjUwMjAwLCJlbiIsIlVTIl0sWzQ3MjAyNjM5NzAsImVuIiwiVVMiXSxbNDcxNzkxMzU2NywiZW4iLCJVUyJdLFs0NzIwODY2MzUzLCJlbiIsIlVTIl0sWzQ3MjIzNTIwNzIsImVuIiwiVVMiXSxbNDcxMzU3NTQ2NiwiZW4iLCJVUyJdLFs0NzE0Nzg2ODcyLCJlbiIsIlVTIl0sWzQ3MTE1MDI0NzQsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzIwODY2MzUzLCJlbiIsIlVTIl0sWzQ3MTkwMzQ1ODEsImVuIiwiVVMiXSxbNDcyMjg1MTEwMiwiZW4iLCJVUyJdLFs0NzIxMzM5OTAyLCJlbiIsIlVTIl0sWzQ3MDQ5MjkwMzgsImVuIiwiVVMiXSxbNDcyMjM1MjA3MiwiZW4iLCJVUyJdLFs0NzIyOTkyODI2LCJlbiIsIlVTIl0sWzQ3MjAyNjM5NzAsImVuIiwiVVMiXSxbNDcwNjc1ODI3MiwiZW4iLCJVUyJdLFs0NzIzMDY0MTExLCJlbiIsIlVTIl0sWzQ3MTE1MDI0NzQsImVuIiwiVVMiXV0="
     },
     {
-      "query": "games",
+      "query": "why are flags at half mast today",
       "search_volume": 20000,
       "increase": 300,
-      "news_token": "W1s0NzIxMDc2ODMzLCJlbiIsIlVTIl0sWzQ3MTY2MDY1NTgsImVuIiwiVVMiXSxbNDcxNzEwODI0MSwiZW4iLCJVUyJdLFs0NjkwNzI5MjkxLCJlbiIsIlVTIl0sWzQ3MTMyMzAyOTksImVuIiwiVVMiXSxbNDcxNjA0NDI3NCwiZW4iLCJVUyJdLFs0NzA5OTU4OTUzLCJlbiIsIlVTIl0sWzQ3MTUxNDIxMjIsImVuIiwiVVMiXSxbNDcyMjM3NzY4OSwiZW4iLCJVUyJdLFs0NzA5Nzc0MjAyLCJlbiIsIlVTIl0sWzQ3MTg4NTY2MDQsImVuIiwiVVMiXSxbNDcyMjI1NTgxNiwiZW4iLCJVUyJdLFs0NzIwOTEwOTg1LCJlbiIsIlVTIl0sWzQ2OTUxNjY1MjIsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzE0NjM5MzYzLCJlbiIsIlVTIl0sWzQ3MTIxMzc1NDksImVuIiwiVVMiXSxbNDcyMzEyODQ5NiwiZW4iLCJVUyJdLFs0NzIyMzQwMDI3LCJlbiIsIlVTIl0sWzQ3MjE5NDAwOTcsImVuIiwiVVMiXSxbNDY4NDIzMjAyOCwiZW4iLCJVUyJdLFs0NjYxNjQzNTE3LCJlbiIsIlVTIl0sWzQ2MzUyNDQyNDIsImVuIiwiVVMiXSxbNDY0MDA0MTk0OSwiZW4iLCJVUyJdLFs0NzIyODYzNjIwLCJlbiIsIlVTIl0sWzQ3MTM2NTI1MjYsImVuIiwiVVMiXSxbNDcxNTE0Njc0OCwiZW4iLCJVUyJdLFs0NzE4Mjk0ODY3LCJlbiIsIlVTIl0sWzQ3MjI4Mjg1MzYsImVuIiwiVVMiXSxbNDcxOTI2NjM1MSwiZW4iLCJVUyJdLFs0NzIyNzg4NzA0LCJlbiIsIlVTIl0sWzQ2OTk5ODM0MTQsImVuIiwiVVMiXSxbNDcxNzY5Njk2NSwiZW4iLCJVUyJdLFs0NzIxOTIyOTE3LCJlbiIsIlVTIl0sWzQ2NTc5NTUyMjksImVuIiwiVVMiXSxbNDYwMjc1MDkyOCwiZW4iLCJVUyJdLFs0NzIyODg2NzM4LCJlbiIsIlVTIl0sWzQ3MTU0MDkwNDEsImVuIiwiVVMiXSxbNDcyMjIzMTgyOCwiZW4iLCJVUyJdLFs0NzExMDc3Mzg2LCJlbiIsIlVTIl0sWzQ2OTYzNzE0MTQsImVuIiwiVVMiXSxbNDcxOTY2Njk0MSwiZW4iLCJVUyJdLFs0NzEzNDMwMTE1LCJlbiIsIlVTIl0sWzQ3MjI4MzU3MjIsImVuIiwiVVMiXSxbNDcxMzQzODI0NiwiZW4iLCJVUyJdLFs0NzEyODA5MjUyLCJlbiIsIlVTIl0sWzQ2OTY2NTgwMjQsImVuIiwiVVMiXSxbNDY2ODk1NDA3NSwiZW4iLCJVUyJdLFs0NzE1MjcwNjg0LCJlbiIsIlVTIl0sWzQ3MDkwNTUwNzcsImVuIiwiVVMiXSxbNDcxMzQzODIzNCwiZW4iLCJVUyJdLFs0Njk4Mzg2MTAyLCJlbiIsIlVTIl0sWzQ3MjIyMDg2NTcsImVuIiwiVVMiXSxbNDY3MTg0Nzg5MiwiZW4iLCJVUyJdLFs0NzE1MzE4MzU0LCJlbiIsIlVTIl0sWzQ3MTgzMTM0NjIsImVuIiwiVVMiXSxbNDY4MzA2Mzg2NSwiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "time",
+      "query": "movies",
       "search_volume": 20000,
       "increase": 300,
-      "news_token": "W1s0NzEzMDg1ODU1LCJlbiIsIlVTIl0sWzQ3MjEzNTM0MTcsImVuIiwiVVMiXSxbNDcyMDI2NDAxNSwiZW4iLCJVUyJdLFs0NzE2OTY0MzAzLCJlbiIsIlVTIl0sWzQ3MTU2MjE3MjIsImVuIiwiVVMiXSxbNDcxNDYzOTM2MywiZW4iLCJVUyJdLFs0NzEzOTUxMzM4LCJlbiIsIlVTIl0sWzQ3MTU2NDg2MTksImVuIiwiVVMiXSxbNDcyMDY0MDYwOSwiZW4iLCJVUyJdLFs0NzA4NjgyNjYxLCJlbiIsIlVTIl0sWzQ2NTg5NTAyMjQsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzE3MDMyNTYwLCJlbiIsIlVTIl0sWzQ3MjE0ODcxOTIsImVuIiwiVVMiXSxbNDY5MjExODUyNSwiZW4iLCJVUyJdLFs0NzIyNzMxMTY4LCJlbiIsIlVTIl0sWzQ3MTQ3NjMyNzksImVuIiwiVVMiXSxbNDcxODk2MTQzNSwiZW4iLCJVUyJdLFs0NzA1OTg0MDQ4LCJlbiIsIlVTIl0sWzQ3MTM0NDExNzIsImVuIiwiVVMiXSxbNDcxMjcyNDMwMSwiZW4iLCJVUyJdLFs0NzIzMTMxNjA1LCJlbiIsIlVTIl0sWzQ3MTcyNTc2MDAsImVuIiwiVVMiXSxbNDY5OTUwMDE4MSwiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "prince george princess charlotte wimbledon",
-      "search_volume": 20000,
+      "query": "scott bryce",
+      "search_volume": 10000,
       "increase": 300,
-      "news_token": "W1s0NzIwOTU1ODcyLCJlbiIsIlVTIl0sWzQ3MjA5NTU3MTEsImVuIiwiVVMiXSxbNDcyMDA3NDU3NiwiZW4iLCJVUyJdLFs0NzE3ODE4NDkxLCJlbiIsIlVTIl0sWzQ3MjA0Mjk1MjgsImVuIiwiVVMiXSxbNDcxNzc2MTM0NiwiZW4iLCJVUyJdLFs0NzEzODc3ODcyLCJlbiIsIlVTIl0sWzQ3MDcwODgzNTksImVuIiwiVVMiXSxbNDYwNjA4Nzk3MSwiZW4iLCJVUyJdLFs0NjYxMDIyMzM0LCJlbiIsIlVTIl0sWzQ3MjA1Mjc0NDUsImVuIiwiVVMiXSxbNDcxOTE1NzY2MCwiZW4iLCJVUyJdLFs0NzE2NTc2Njk0LCJlbiIsIlVTIl0sWzQ3MjIyMDg2MjcsImVuIiwiVVMiXSxbNDcxOTc5MjM0NiwiZW4iLCJVUyJdLFs0NzE5MDgyNDM4LCJlbiIsIlVTIl0sWzQ3MjA1MzY2MzgsImVuIiwiVVMiXSxbNDcyMDk1NTY2OSwiZW4iLCJVUyJdLFs0NzIwNTg3MjcxLCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzIxMzMwNDI1LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "man gets tossed by bison",
+      "search_volume": 10000,
+      "increase": 300,
+      "news_token": "W1s0Njk2MzcxNDE0LCJlbiIsIlVTIl0sWzQ3MDM4NDA0ODUsImVuIiwiVVMiXSxbNDcyMjE1Nzk3MywiZW4iLCJVUyJdLFs0NzIwMzUxNzIzLCJlbiIsIlVTIl0sWzQ3MjIyNTYxOTAsImVuIiwiVVMiXSxbNDY3MzUwMjI2NSwiZW4iLCJVUyJdXQ=="
+    },
+    {
+      "query": "priscilla presley son business",
+      "search_volume": 10000,
+      "increase": 300,
+      "news_token": "W1s0NzE5MzcwMzgwLCJlbiIsIlVTIl1d"
     },
     {
       "query": "extreme heat watch",
       "search_volume": 10000,
       "increase": 300,
-      "news_token": "W1s0NzIxOTUwNjcyLCJlbiIsIlVTIl0sWzQ3MTE1MDI0NzQsImVuIiwiVVMiXSxbNDcwNDkyOTAzOCwiZW4iLCJVUyJdLFs0NzIyMzUyMDcyLCJlbiIsIlVTIl0sWzQ3MDY3NTgyNzIsImVuIiwiVVMiXSxbNDcyMDY1OTMwNSwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0NzA2NzU4MjcyLCJlbiIsIlVTIl0sWzQ3MjI5OTI4MjYsImVuIiwiVVMiXSxbNDcwNDkyOTAzOCwiZW4iLCJVUyJdLFs0NzExNDM5NTc3LCJlbiIsIlVTIl0sWzQ3MTc5ODI1MTMsImVuIiwiVVMiXSxbNDcxMTUwMjQ3NCwiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "james norton",
-      "search_volume": 2000,
+      "query": "dougie joseph",
+      "search_volume": 5000,
       "increase": 300,
-      "news_token": "W1s0NzA3Mjg4NzkwLCJlbiIsIlVTIl0sWzQ3MDUzMTM4ODUsImVuIiwiVVMiXSxbNDcwOTE3MjUyOCwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0NzA1NTUxNTIxLCJlbiIsIlVTIl1d"
     },
     {
-      "query": "braces",
+      "query": "adam driver",
+      "search_volume": 5000,
+      "increase": 300,
+      "news_token": "W1s0NzEyNTUzNjk5LCJlbiIsIlVTIl0sWzQ3MjIzMjk3NjgsImVuIiwiVVMiXSxbNDcwMjc2NjY4OCwiZW4iLCJVUyJdLFs0NjA3NzA0ODkzLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "archie lilibet king charles meeting",
+      "search_volume": 5000,
+      "increase": 300,
+      "news_token": "W1s0NzA3MDg4MzU5LCJlbiIsIlVTIl0sWzQ3MDcwODgzNTksImZyIiwiVVMiXV0="
+    },
+    {
+      "query": "storm",
+      "search_volume": 5000,
+      "increase": 300,
+      "news_token": "W1s0NzIwNzgxNTAyLCJlbiIsIlVTIl0sWzQ3MTk1Mzk2NTksImVuIiwiVVMiXSxbNDcxMTM3MzE1MiwiZW4iLCJVUyJdLFs0NzE0MzUwMjI4LCJlbiIsIlVTIl0sWzQ3MTQ3MTcxNzMsImVuIiwiVVMiXSxbNDcyMDc4MTI5NiwiZW4iLCJVUyJdLFs0Njk4NzM1NTg2LCJlbiIsIlVTIl0sWzQ3MjI1NzkzMzEsImVuIiwiVVMiXSxbNDcyMzEzMTc4OCwiZW4iLCJVUyJdLFs0NzE4ODYwOTkxLCJlbiIsIlVTIl0sWzQ3MTk3NDExNTgsImVuIiwiVVMiXSxbNDcyMDg5NDk5OCwiZW4iLCJVUyJdXQ=="
+    },
+    {
+      "query": "new hampshire",
+      "search_volume": 5000,
+      "increase": 300,
+      "news_token": "W1s0NzIxMDAwMzcyLCJlbiIsIlVTIl0sWzQ3MjExMjYwMTgsImVuIiwiVVMiXSxbNDcyMjkxODY1MiwiZW4iLCJVUyJdLFs0Njg3MzQwMjAyLCJlbiIsIlVTIl0sWzQ3MjI5MTEzNzgsImVuIiwiVVMiXSxbNDcyMjkxODIzMSwiZW4iLCJVUyJdLFs0NzE3ODYxMjk1LCJlbiIsIlVTIl0sWzQ3MjE4ODc2MDksImVuIiwiVVMiXSxbNDcxODY0MDI4MywiZW4iLCJVUyJdLFs0NzIyNTMxOTI1LCJlbiIsIlVTIl0sWzQ3MDYzMzAwOTIsImVuIiwiVVMiXSxbNDY5OTU2NjAwOCwiZW4iLCJVUyJdXQ=="
+    },
+    {
+      "query": "tommie lee was arrested for sneaking into a stadium match",
       "search_volume": 2000,
       "increase": 300,
-      "news_token": "W1s0NzA2NzU4MjcyLCJlbiIsIlVTIl0sWzQ3MTgxNjgzMTcsImVuIiwiVVMiXSxbNDY5OTk4MzQxNCwiZW4iLCJVUyJdLFs0NzE2NTE0MzcwLCJlbiIsIlVTIl0sWzQ3MTk3NDExNTgsImVuIiwiVVMiXSxbNDcxMzI0ODYxOSwiZW4iLCJVUyJdLFs0NzE4OTM0OTI5LCJlbiIsIlVTIl0sWzQ3MjA3NjM5NTEsImVuIiwiVVMiXSxbNDcyMDUwOTI0NCwiZW4iLCJVUyJdLFs0NzA4Nzc1NTIxLCJlbiIsIlVTIl0sWzQ2ODMwMTQzNTYsImVuIiwiVVMiXSxbNDYwMDEyMjg1MCwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0NzIyNDYzMTQzLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "william, prince of wales",
+      "search_volume": 2000,
+      "increase": 300,
+      "news_token": "W1s0NzE1MzEzNjE5LCJlbiIsIlVTIl0sWzQ3MTc3NjEzNDYsImVuIiwiVVMiXSxbNDcxNDQ2NTc4MCwiZW4iLCJVUyJdLFs0NzIwOTU1ODcyLCJlbiIsIlVTIl0sWzQ3MTA2NTQxMzgsImVuIiwiVVMiXSxbNDcxNjQ1ODg3NSwiZW4iLCJVUyJdLFs0NzIwNDI5NTI4LCJlbiIsIlVTIl0sWzQ3MTUyNTA0MjAsImVuIiwiVVMiXSxbNDcxNzE1NjU4MiwiZW4iLCJVUyJdLFs0NzE0MDc1MTMxLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "firearm",
+      "search_volume": 2000,
+      "increase": 300,
+      "news_token": "W1s0NzIyNTc5MzM2LCJlbiIsIlVTIl0sWzQ3MjMxMzQ2MzQsImVuIiwiVVMiXSxbNDcxNTQ1NTc3NSwiZW4iLCJVUyJdLFs0NzIyNjU2NzU4LCJlbiIsIlVTIl0sWzQ3MjI5NTQzMTQsImVuIiwiVVMiXSxbNDcyMTA2Nzc3MCwiZW4iLCJVUyJdLFs0NzE3Nzc0NDQ5LCJlbiIsIlVTIl0sWzQ3MDY4MzkyNzcsImVuIiwiVVMiXSxbNDcyMjc0MDg5NywiZW4iLCJVUyJdLFs0NzAxNjY2NDI1LCJlbiIsIlVTIl0sWzQ2NDU3MTY2OTMsImVuIiwiVVMiXV0="
     },
     {
       "query": "ariana madix",
       "search_volume": 2000,
       "increase": 300,
-      "news_token": "W1s0NzIxMzE4NTc4LCJlbiIsIlVTIl0sWzQ3MTgwNzY5ODcsImVuIiwiVVMiXSxbNDcwMTY2NTUyOSwiZW4iLCJVUyJdLFs0Njk2NDE3NTQ2LCJlbiIsIlVTIl0sWzQ3MTI4OTA3MTYsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzIxMzE4NTc4LCJlbiIsIlVTIl0sWzQ3MTgwNzY5ODcsImVuIiwiVVMiXSxbNDcwMTY2NTUyOSwiZW4iLCJVUyJdLFs0NzIyNjk1NTkzLCJlbiIsIlVTIl0sWzQ2OTY0MTc1NDYsImVuIiwiVVMiXSxbNDcxMjg5MDcxNiwiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "earthquakes today",
-      "search_volume": 2000,
-      "increase": 300,
-      "news_token": "W1s0NzIwNDU2NjMyLCJlbiIsIlVTIl0sWzQ2MjA2MjU3NDEsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "john thune",
+      "query": "plane crash today",
       "search_volume": 1000,
       "increase": 300,
-      "news_token": "W1s0NzEyMTM3NTQ5LCJlbiIsIlVTIl0sWzQ2ODQyMzIwMjgsImVuIiwiVVMiXSxbNDcxNDYzOTM2MywiZW4iLCJVUyJdLFs0NzAxMjUyODAwLCJlbiIsIlVTIl0sWzQ3MTc4NTc2NjAsImVuIiwiVVMiXSxbNDYzNjc3NDE3NCwiZW4iLCJVUyJdXQ=="
-    },
-    {
-      "query": "biddeford maine",
-      "search_volume": 1000,
-      "increase": 300,
-      "news_token": "W1s0NzIyMjMxODI4LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzE1MDQwODI3LCJlbiIsIlVTIl0sWzQ3MjI1ODM4NTQsImVuIiwiVVMiXSxbNDcyMjcyNjk2OSwiZW4iLCJVUyJdLFs0NzIxODE3MjM2LCJlbiIsIlVTIl0sWzQ3MTY4NzE4NjcsImVuIiwiVVMiXSxbNDY2Mzk3MjM0NCwiZW4iLCJVUyJdLFs0NjcwMTQ0NzI3LCJlbiIsIlVTIl0sWzQ2ODg2MDMzMTcsImVuIiwiVVMiXV0="
     },
     {
       "query": "molly shannon",
       "search_volume": 1000,
       "increase": 300,
-      "news_token": "W1s0NzE0Njg4Mzk0LCJlbiIsIlVTIl0sWzQ3MjIzNDAyMDcsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzE2ODE1MDQwLCJlbiIsIlVTIl0sWzQ3MTQ2ODgzOTQsImVuIiwiVVMiXV0="
     },
     {
-      "query": "us embassy",
-      "search_volume": 1000,
-      "increase": 300,
-      "news_token": "W1s0NzE4Mjk0ODY3LCJlbiIsIlVTIl0sWzQ2MzkyNzUzNTUsImVuIiwiVVMiXSxbNDYwMjI4OTk0NCwiZW4iLCJVUyJdLFs0NjI2OTU0Nzk2LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "flash flooding missouri",
-      "search_volume": 200,
-      "increase": 300,
-      "news_token": "W1s0NzA3MzM5OTA4LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "intestinal parasite infection",
+      "query": "saint satine",
       "search_volume": 20000,
       "increase": 200,
-      "news_token": "W1s0Njg3MzQwMjAyLCJlbiIsIlVTIl0sWzQ3MDYwNzc0NzMsImVuIiwiVVMiXSxbNDcxNDc4MDQ4MywiZW4iLCJVUyJdLFs0Njk1MTQyMzc4LCJlbiIsIlVTIl0sWzQ2ODcwNDI1MzksImVuIiwiVVMiXSxbNDcxNzAzNzcwOSwiZW4iLCJVUyJdLFs0NzEzMzA5OTM1LCJlbiIsIlVTIl0sWzQ3MjIxODE2MTEsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzIzMDExNDIyLCJlbiIsIlVTIl0sWzQ3MjMwMTE0MjIsImZyIiwiVVMiXSxbNDcyMjg3NTA2NSwiZnIiLCJVUyJdXQ=="
     },
     {
-      "query": "sony digital only transition",
-      "search_volume": 10000,
+      "query": "john grisetti",
+      "search_volume": 20000,
       "increase": 200,
-      "news_token": "W1s0NzE4NDExNTUyLCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "marvel avengers doomsday cast reveal",
-      "search_volume": 10000,
-      "increase": 200,
-      "news_token": "W1s0NjkyMTE4NTI1LCJlbiIsIlVTIl0sWzQ2NDIzODk1NzQsImVuIiwiVVMiXSxbNDY0MTIwOTU4NiwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0NzIwOTc4NTY1LCJlbiIsIlVTIl0sWzQ3MjA5Nzg1NjUsIml0IiwiVVMiXV0="
     },
     {
       "query": "house of the dragon season 3 episode 4",
       "search_volume": 10000,
       "increase": 200,
-      "news_token": "W1s0NzA5MTcyNTI4LCJlbiIsIlVTIl0sWzQ3MjExNTgyOTksImVuIiwiVVMiXSxbNDcxMjEzNzQwNywiZW4iLCJVUyJdLFs0NzIxNjQ1MTYwLCJlbiIsIlVTIl0sWzQ2NTA4NDk3MDcsImVuIiwiVVMiXSxbNDU5OTEzODQ3NCwiZW4iLCJVUyJdLFs0NjQ2MDcyODQ5LCJlbiIsIlVTIl0sWzQ2Nzg0MDQwNTcsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzA5MTcyNTI4LCJlbiIsIlVTIl0sWzQ3MTIxMzc0MDcsImVuIiwiVVMiXSxbNDcxOTY3MTY1OCwiZW4iLCJVUyJdLFs0NzA3MjA4Mjc0LCJlbiIsIlVTIl0sWzQ3MjExNTgyOTksImVuIiwiVVMiXSxbNDcyMTQ1NTE1MywiZW4iLCJVUyJdLFs0NjUwODQ5NzA3LCJlbiIsIlVTIl0sWzQ1OTkxMzg0NzQsImVuIiwiVVMiXSxbNDY0NjA3Mjg0OSwiZW4iLCJVUyJdLFs0Njc4NDA0MDU3LCJlbiIsIlVTIl1d"
     },
     {
-      "query": "uaw shawn fain federal probe",
-      "search_volume": 10000,
+      "query": "event horizon",
+      "search_volume": 5000,
       "increase": 200,
-      "news_token": "W1s0NzA3NDI4OTk0LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzIyODM4OTcyLCJlbiIsIlVTIl0sWzQ3MjE0ODcxOTIsImVuIiwiVVMiXV0="
     },
     {
-      "query": "luxor west bank tomb discovery",
-      "search_volume": 10000,
+      "query": "all american",
+      "search_volume": 5000,
       "increase": 200,
-      "news_token": "W1s0NzIwNTQwOTczLCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzA5MTQ3NzYzLCJlbiIsIlVTIl0sWzQ3MTY4NTI2MTQsImVuIiwiVVMiXSxbNDcyMjk4NTYwMSwiZW4iLCJVUyJdLFs0NzIyMDMxNDkzLCJlbiIsIlVTIl0sWzQ3MjA3NDAyMTIsImVuIiwiVVMiXV0="
     },
     {
-      "query": "big brother",
-      "search_volume": 10000,
+      "query": "pickaxe mountain",
+      "search_volume": 5000,
       "increase": 200,
-      "news_token": "W1s0Njg2MDg3NDQ0LCJlbiIsIlVTIl0sWzQ3MTcxNDIyMDcsImVuIiwiVVMiXSxbNDcxNTA2MTI5NSwiZW4iLCJVUyJdLFs0NzIxMDYxNjU4LCJlbiIsIlVTIl0sWzQ3MTI3MTE4MTgsImVuIiwiVVMiXSxbNDcxOTE3ODA5NCwiZW4iLCJVUyJdLFs0NzE1ODkwNjc5LCJlbiIsIlVTIl0sWzQ1ODkwMDcxNTksImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzIzMDgyOTgyLCJlbiIsIlVTIl1d"
     },
     {
-      "query": "iran war hormuz",
-      "search_volume": 10000,
+      "query": "barbie ferreira",
+      "search_volume": 5000,
       "increase": 200,
-      "news_token": "W1s0NzAwMDM5ODU3LCJlbiIsIlVTIl0sWzQ3MTM5MTY5ODAsImVuIiwiVVMiXSxbNDY4ODU0MzU4NywiZW4iLCJVUyJdLFs0NzE0NDAwNjEwLCJlbiIsIlVTIl0sWzQ2OTkzNjg5NDIsImVuIiwiVVMiXSxbNDY5NzQ2NDk2NywiZW4iLCJVUyJdLFs0NzA5ODU5NzM1LCJlbiIsIlVTIl0sWzQ3MDkzMjczNzYsImVuIiwiVVMiXSxbNDcyMTk3MjcyMiwiZW4iLCJVUyJdLFs0NjgzMTYwMTQ1LCJlbiIsIlVTIl0sWzQ3MjIwNDI3NjQsImVuIiwiVVMiXSxbNDcxNDIyNzc5MSwiZW4iLCJVUyJdLFs0NzA0MDI5MTYyLCJlbiIsIlVTIl0sWzQ2OTY3Mjg5MDgsImVuIiwiVVMiXSxbNDcyMjMxODMzNCwiZW4iLCJVUyJdLFs0Njg0MjMyMDI4LCJlbiIsIlVTIl0sWzQ3MjE4Mjk3NTMsImVuIiwiVVMiXSxbNDcyMDkyMjM3MywiZW4iLCJVUyJdLFs0NzE1NDA5MDQxLCJlbiIsIlVTIl0sWzQ3MjE5MDM5OTEsImVuIiwiVVMiXSxbNDcyMTQ4NzE5MiwiZW4iLCJVUyJdLFs0NjM2OTMwMjE0LCJlbiIsIlVTIl0sWzQ3MjAzODkxOTEsImVuIiwiVVMiXSxbNDY4MDg1NDk5MywiZW4iLCJVUyJdLFs0NzE0NjQ3MDMyLCJlbiIsIlVTIl0sWzQ3MTYzNDc2NTcsImVuIiwiVVMiXSxbNDcwMzk0NDAwNCwiZW4iLCJVUyJdLFs0NzE2NzU2NDkwLCJlbiIsIlVTIl0sWzQ3MjE1OTcxODYsImVuIiwiVVMiXSxbNDcyMTIzMDE5OSwiZW4iLCJVUyJdLFs0NzE2MzM2MjQzLCJlbiIsIlVTIl0sWzQ2OTg1MDE2NzMsImVuIiwiVVMiXSxbNDcxNzM0NTE0MCwiZW4iLCJVUyJdLFs0NzIwMjE5MTczLCJlbiIsIlVTIl0sWzQ2OTQyMjcwNjYsImVuIiwiVVMiXSxbNDcxODgxMjgxNCwiZW4iLCJVUyJdLFs0NzE0NjM5MzYzLCJlbiIsIlVTIl0sWzQ2MjgzODYzMDAsImVuIiwiVVMiXSxbNDY0MDkyMzQ3NywiZW4iLCJVUyJdLFs0NjQ0MTE0NzEwLCJlbiIsIlVTIl0sWzQ1ODkxMzAwMjMsImVuIiwiVVMiXSxbNDcxMjA4MjgwNywiZW4iLCJVUyJdLFs0NjIzNzcyMjgxLCJlbiIsIlVTIl0sWzQ2Mjc4NjM5MzIsImVuIiwiVVMiXSxbNDY1ODM0MzcwNSwiZW4iLCJVUyJdLFs0Njg0MzM0NTU5LCJlbiIsIlVTIl0sWzQ2MDc2MjM4MzcsImVuIiwiVVMiXSxbNDYyOTA4OTc0NCwiZW4iLCJVUyJdLFs0NjQ5ODk3NjEwLCJlbiIsIlVTIl0sWzQ2Mjk4Njc4NTYsImVuIiwiVVMiXSxbNDY0MzIwMTI4MCwiZW4iLCJVUyJdLFs0NjQzMjAxMDg2LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzIyNzQ4NjMxLCJlbiIsIlVTIl1d"
     },
     {
       "query": "brandy social media statement body",
@@ -286,64 +400,64 @@
       "news_token": "W1s0Njg3MzE3NjY0LCJlbiIsIlVTIl1d"
     },
     {
-      "query": "heat wave",
+      "query": "james norton",
       "search_volume": 5000,
       "increase": 200,
-      "news_token": "W1s0NzA0OTI5MDM4LCJlbiIsIlVTIl0sWzQ3MTAyMTEyOTAsImVuIiwiVVMiXSxbNDcxNjgxMDQ2MCwiZW4iLCJVUyJdLFs0NzIwODY2MzUzLCJlbiIsIlVTIl0sWzQ3MjE3OTk1MzAsImVuIiwiVVMiXSxbNDcxOTQ1NDk1NywiZW4iLCJVUyJdLFs0NjcxOTg4Njc5LCJlbiIsIlVTIl0sWzQ2ODcxMTAxNDcsImVuIiwiVVMiXSxbNDYwMDcwNjk4NywiZW4iLCJVUyJdLFs0NzA2NzU4MjcyLCJlbiIsIlVTIl0sWzQ3MTE1MDI0NzQsImVuIiwiVVMiXSxbNDcwODA0MTUzNCwiZW4iLCJVUyJdLFs0NzE0MDY0MzQ0LCJlbiIsIlVTIl0sWzQ3MTk0NTgwMjYsImVuIiwiVVMiXSxbNDcwMDI3ODQwMSwiZW4iLCJVUyJdLFs0NzIyMjk2NDYyLCJlbiIsIlVTIl0sWzQ3MTE2NjM2NTUsImVuIiwiVVMiXSxbNDY2MjM5Mzk2NCwiZW4iLCJVUyJdLFs0NzExNjE3OTY1LCJlbiIsIlVTIl0sWzQ2ODM4OTkzMjksImVuIiwiVVMiXSxbNDcxMTA4ODc0MSwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0NzA1MzEzODg1LCJlbiIsIlVTIl0sWzQ3MDkxNzI1MjgsImVuIiwiVVMiXV0="
     },
     {
-      "query": "assassin creed black flag resynced",
-      "search_volume": 5000,
-      "increase": 200,
-      "news_token": "W1s0NzA2MTc5NDYxLCJlbiIsIlVTIl0sWzQ3MjIzNjI4NTgsImVuIiwiVVMiXSxbNDcwODMxOTgxMiwiZW4iLCJVUyJdLFs0NzE5MTQ1MjEwLCJlbiIsIlVTIl0sWzQ3MTkyNjk0NTAsImVuIiwiVVMiXSxbNDcxNTM3NTI3MSwiZW4iLCJVUyJdLFs0NzE5NDUxOTk2LCJlbiIsIlVTIl0sWzQ2NzY1Nzc1MjIsImVuIiwiVVMiXSxbNDcxNDY5MzA4MSwiZW4iLCJVUyJdLFs0NzE4NTQ4OTc1LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "boat",
-      "search_volume": 5000,
-      "increase": 200,
-      "news_token": "W1s0NzE4NjE5MjIwLCJlbiIsIlVTIl0sWzQ3MjA1NDA4NjYsImVuIiwiVVMiXSxbNDcxMDQ2NDM4NywiZW4iLCJVUyJdLFs0NzA4NTMxMjg3LCJlbiIsIlVTIl0sWzQ3MjIzNzc0NTEsImVuIiwiVVMiXSxbNDcwNjY4OTU4MiwiZW4iLCJVUyJdLFs0NzE3MDE3MzM0LCJlbiIsIlVTIl0sWzQ3MDIxMjU3MDUsImVuIiwiVVMiXSxbNDcxMzM2MjM1MywiZW4iLCJVUyJdXQ=="
-    },
-    {
-      "query": "lagerald vick",
+      "query": "pete hegseth pentagon doj leak taskforce",
       "search_volume": 2000,
       "increase": 200,
-      "news_token": "W1s0NzIwOTczMDA5LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzIyNDIyNzgzLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "daytime emmy nominations 2026",
+      "search_volume": 2000,
+      "increase": 200,
+      "news_token": "W1s0NzAxNTMzMzkyLCJlbiIsIlVTIl1d"
     },
     {
       "query": "kospi",
       "search_volume": 2000,
       "increase": 200,
-      "news_token": "W1s0NzEzMTczMzgyLCJlbiIsIlVTIl0sWzQ3MDQwMjkxNjIsImVuIiwiVVMiXSxbNDcxOTgwMTA1OCwiZW4iLCJVUyJdLFs0NzA5NDYwOTgzLCJlbiIsIlVTIl0sWzQ3MTUwODIyOTgsImVuIiwiVVMiXSxbNDcxNTY0ODYxOSwiZW4iLCJVUyJdLFs0NjM5OTE5NTY5LCJlbiIsIlVTIl0sWzQ3MDcwNjk2ODQsImVuIiwiVVMiXSxbNDcxMTQ2ODEyOSwiZW4iLCJVUyJdLFs0NzExNTc2MjI0LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzEzMTczMzgyLCJlbiIsIlVTIl0sWzQ3MDQwMjkxNjIsImVuIiwiVVMiXSxbNDcwOTQ2MDk4MywiZW4iLCJVUyJdLFs0NzE1MDgyMjk4LCJlbiIsIlVTIl0sWzQ3MTU2NDg2MTksImVuIiwiVVMiXSxbNDcxNTIzOTk5MCwiZW4iLCJVUyJdLFs0NjM5OTE5NTY5LCJlbiIsIlVTIl0sWzQ3MTA1ODM5MjEsImVuIiwiVVMiXSxbNDcwNzA2OTY4NCwiZW4iLCJVUyJdLFs0Njk5NjUxNDU5LCJlbiIsIlVTIl0sWzQ3MjMxNjExODYsImVuIiwiVVMiXSxbNDcxMTU3NjIyNCwiZW4iLCJVUyJdXQ=="
+    },
+    {
+      "query": "tahiti",
+      "search_volume": 2000,
+      "increase": 200,
+      "news_token": "W1s0NzIzMTM5NTEzLCJmciIsIlVTIl0sWzQ3MDc3MzQ5MTMsImZyIiwiVVMiXSxbNDcxNjk5MTMyMSwiZnIiLCJVUyJdLFs0NzIxMjc4Njc1LCJmciIsIlVTIl0sWzQ3MTk3MzM4ODMsImZyIiwiVVMiXV0="
+    },
+    {
+      "query": "harrison ford showed off his muscular physique during a bike ride",
+      "search_volume": 2000,
+      "increase": 200,
+      "news_token": "W1s0NzE0Nzc1MjE3LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "heat wave",
+      "search_volume": 2000,
+      "increase": 200,
+      "news_token": "W1s0NzExNTAyNDc0LCJlbiIsIlVTIl0sWzQ2OTk2MDU4MjMsImVuIiwiVVMiXSxbNDcwNDkyOTAzOCwiZW4iLCJVUyJdLFs0NzA4MDQxNTM0LCJlbiIsIlVTIl0sWzQ3MTY4MTA0NjAsImVuIiwiVVMiXSxbNDcyMjM1MjA3MiwiZW4iLCJVUyJdLFs0NzE3OTEzNTY3LCJlbiIsIlVTIl0sWzQ3MjI5MjE3NzIsImVuIiwiVVMiXSxbNDcyMDI2Mzk3MCwiZW4iLCJVUyJdLFs0NzE5NDU0OTU3LCJlbiIsIlVTIl0sWzQ3MDYxODM1MTcsImVuIiwiVVMiXSxbNDcxMTA4ODc0MSwiZW4iLCJVUyJdLFs0Njk2NzI4OTA4LCJlbiIsIlVTIl0sWzQ3MTEzOTA1NDcsImVuIiwiVVMiXSxbNDY2MjM5Mzk2NCwiZW4iLCJVUyJdLFs0NzA2NDk1NTY3LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "haboob",
+      "search_volume": 2000,
+      "increase": 200,
+      "news_token": "W1s0NzA3MzY2NTU5LCJlbiIsIlVTIl0sWzQ3MDU3NDg4MDksImVuIiwiVVMiXV0="
     },
     {
       "query": "dust storm warning",
       "search_volume": 2000,
       "increase": 200,
-      "news_token": "W1s0NzA1NzQ4ODA5LCJlbiIsIlVTIl0sWzQ3MjE2NjAxMDgsImVuIiwiVVMiXSxbNDcyMDc4MTUwMiwiZW4iLCJVUyJdLFs0NzAzMjk0NzI1LCJlbiIsIlVTIl0sWzQ3MjAzMzc5MTEsImVuIiwiVVMiXSxbNDcxMTY2MzY1NSwiZW4iLCJVUyJdLFs0NjM0OTUyNzE5LCJlbiIsIlVTIl0sWzQ2MzQ0MTU4OTIsImVuIiwiVVMiXSxbNDcxMzQwMjg4NCwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0NzA1NzQ4ODA5LCJlbiIsIlVTIl0sWzQ3MjE2NjAxMDgsImVuIiwiVVMiXSxbNDcxMDkxMzM0NywiZW4iLCJVUyJdLFs0NzIwNzgxNTAyLCJlbiIsIlVTIl0sWzQ3MjAzMzc5MTEsImVuIiwiVVMiXSxbNDcwMzI5NDcyNSwiZW4iLCJVUyJdLFs0NjM0OTUyNzE5LCJlbiIsIlVTIl0sWzQ2MzQ0MTU4OTIsImVuIiwiVVMiXV0="
     },
     {
-      "query": "japan russian spies",
-      "search_volume": 2000,
-      "increase": 200,
-      "news_token": "W1s0NzE0NjQ3MDMyLCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "trump lawyer",
-      "search_volume": 2000,
-      "increase": 200,
-      "news_token": "W1s0NzE2NzU2MzE2LCJlbiIsIlVTIl0sWzQ3MTU4MDU4NzYsImVuIiwiVVMiXSxbNDcxNTY5NjgyOCwiZW4iLCJVUyJdLFs0NTk4NDgyNDgyLCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "tahiti",
+      "query": "shawn fain uaw",
       "search_volume": 1000,
       "increase": 200,
-      "news_token": "W1s0NzEzMDI4OTU2LCJmciIsIlVTIl0sWzQ3MDk0NTQ0NzMsImZyIiwiVVMiXSxbNDcyMTI3ODY3NSwiZnIiLCJVUyJdLFs0NzE5NzMzODgzLCJmciIsIlVTIl1d"
-    },
-    {
-      "query": "t-mobile us",
-      "search_volume": 1000,
-      "increase": 200,
-      "news_token": "W1s0NzEzOTk1MTcxLCJkZSIsIlVTIl0sWzQ3MDgwODk5MjUsImRlIiwiVVMiXSxbNDcyMTU0MTE0OCwiZGUiLCJVUyJdLFs0NjkzOTkwODIyLCJkZSIsIlVTIl0sWzQ2NjAxMTIxNTYsImRlIiwiVVMiXSxbNDY5NDQzMDQ4MywiZGUiLCJVUyJdXQ=="
+      "news_token": "W1s0NzA3NDI4OTk0LCJlbiIsIlVTIl1d"
     },
     {
       "query": "tiempo mañana",
@@ -352,142 +466,28 @@
       "news_token": "W1s0NzA5ODgyODM4LCJlcyIsIlVTIl0sWzQ3MTYzMTE1NjcsImVzIiwiVVMiXV0="
     },
     {
-      "query": "amzn",
-      "search_volume": 200,
-      "increase": 200,
-      "news_token": "W1s0NzAwMTY3ODM4LCJlbiIsIlVTIl0sWzQ3MjA1MTg4NjEsImVuIiwiVVMiXSxbNDcxNzI1Nzk1MywiZW4iLCJVUyJdLFs0NzA1OTg3NjU5LCJlbiIsIlVTIl0sWzQ3MTQ0NzY4MzUsImVuIiwiVVMiXSxbNDcxMzgyMTA1NiwiZW4iLCJVUyJdLFs0NzEzMzIwODgyLCJlbiIsIlVTIl0sWzQ3MTE3NjM2NDMsImVuIiwiVVMiXV0="
-    },
-    {
       "query": "daycare",
       "search_volume": 200,
       "increase": 200,
-      "news_token": "W1s0NzE1OTAyMDEwLCJlbiIsIlVTIl0sWzQ3MDkyNjMxODQsImVuIiwiVVMiXSxbNDcxNTQwOTIyNSwiZW4iLCJVUyJdLFs0NzIyMTUxNzY2LCJlbiIsIlVTIl0sWzQ3MTU0NDIyNjksImVuIiwiVVMiXSxbNDcxNDc2MzYxMCwiZW4iLCJVUyJdLFs0NzEzMjkwNjU0LCJlbiIsIlVTIl0sWzQ2OTc0MDU1NzUsImVuIiwiVVMiXSxbNDY0NjQxMjUyOCwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0NzE1NDA5MjI1LCJlbiIsIlVTIl0sWzQ3MTMyOTA2NTQsImVuIiwiVVMiXSxbNDcyMjE1MTc2NiwiZW4iLCJVUyJdLFs0NzIzMDU3ODcyLCJlbiIsIlVTIl0sWzQ3MDMwNjc0MTcsImVuIiwiVVMiXSxbNDcwNjczMjE4NywiZW4iLCJVUyJdLFs0NzIyODEyMTQwLCJlbiIsIlVTIl0sWzQ3MTk4Mzk0NjUsImVuIiwiVVMiXSxbNDcxNjU3NjI1NiwiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "harrison ford",
-      "search_volume": 10000,
+      "query": "flights",
+      "search_volume": 50000,
       "increase": 100,
-      "news_token": "W1s0NzE0Nzc1MjE3LCJlbiIsIlVTIl0sWzQ3MjA1OTAwOTAsImVuIiwiVVMiXSxbNDcyMTg3OTQ1NiwiZW4iLCJVUyJdLFs0NzIyMzQ1OTMyLCJlbiIsIlVTIl0sWzQ3MTg4NTMzMzQsImVuIiwiVVMiXSxbNDcyMTQ4NzE5MiwiZW4iLCJVUyJdLFs0NzIyMzU4MDIwLCJlbiIsIlVTIl0sWzQ3MTI4Mjg4NTAsImVuIiwiVVMiXSxbNDcyMTM1NzkwMywiZW4iLCJVUyJdLFs0NzIxMDIwMTUwLCJlbiIsIlVTIl0sWzQ3MjExMDExNTAsImVuIiwiVVMiXSxbNDY0MjM3NzI2OCwiZW4iLCJVUyJdLFs0NjE0MzYyNjUyLCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzE3NDAwMzExLCJlbiIsIlVTIl0sWzQ3MTY1MDMyMzYsImVuIiwiVVMiXSxbNDcyMjkzNzQ4MSwiZW4iLCJVUyJdLFs0NzExMTc2ODAyLCJlbiIsIlVTIl0sWzQ2OTIyNzcxNTYsImVuIiwiVVMiXSxbNDcwNzAwMjc0OSwiZW4iLCJVUyJdLFs0NzA2NDQzNzE4LCJlbiIsIlVTIl0sWzQ3MTMyNzU3NTgsImVuIiwiVVMiXSxbNDcxNzI1NzY0OSwiZW4iLCJVUyJdLFs0NzExMDg4Nzg3LCJlbiIsIlVTIl0sWzQ2OTg0MDIzMTUsImVuIiwiVVMiXSxbNDcxOTM5ODg5MCwiZW4iLCJVUyJdLFs0NzA0NzgyMTA5LCJlbiIsIlVTIl0sWzQ3MjEzMTQ2MDgsImVuIiwiVVMiXSxbNDcwODgyODU4OCwiZW4iLCJVUyJdLFs0NzIxODM0MDA2LCJlbiIsIlVTIl0sWzQ3MTkxMzE0OTUsImVuIiwiVVMiXSxbNDcyMjU5OTU5OCwiZW4iLCJVUyJdLFs0Njk3MzExODI2LCJlbiIsIlVTIl0sWzQ3MDI4MTQ0NzUsImVuIiwiVVMiXSxbNDYyOTY0MTY0MCwiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "mitch mcconnell photo",
-      "search_volume": 10000,
+      "query": "news",
+      "search_volume": 50000,
       "increase": 100,
-      "news_token": "W1s0Njg0MjMyMDI4LCJlbiIsIlVTIl0sWzQ3MTYxMDQ1MzEsImVuIiwiVVMiXSxbNDcxNDYzOTM2MywiZW4iLCJVUyJdLFs0Njg5NDg3MjY4LCJlbiIsIlVTIl0sWzQ3MjIzNzI5MzcsImVuIiwiVVMiXSxbNDcyMTIyNzU1MiwiZW4iLCJVUyJdLFs0NzAyOTU1Njc2LCJlbiIsIlVTIl0sWzQ3MDcyMDg1OTMsImVuIiwiVVMiXSxbNDcyMTk4MzQ5NSwiZW4iLCJVUyJdLFs0NzE5NzExMDM1LCJlbiIsIlVTIl0sWzQ3MTI4MjgzOTEsImVuIiwiVVMiXSxbNDcxNzgyNzMxOCwiZW4iLCJVUyJdLFs0NjQwMDQxOTQ5LCJlbiIsIlVTIl0sWzQ3MTY0MjAxMjAsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzAwMDM5ODU3LCJlbiIsIlVTIl0sWzQ3MTM5MTY5ODAsImVuIiwiVVMiXSxbNDcxNDYzOTM2MywiZW4iLCJVUyJdLFs0Njk2MzcxNDE0LCJlbiIsIlVTIl0sWzQ3MjIyMzE4MjgsImVuIiwiVVMiXSxbNDcyMjM0MDAyNywiZW4iLCJVUyJdLFs0NzA2Njg5NTgyLCJlbiIsIlVTIl0sWzQ2ODQyMzIwMjgsImVuIiwiVVMiXSxbNDcyMDU2MDg4NiwiZW4iLCJVUyJdLFs0NjI2ODcxOTkwLCJlbiIsIlVTIl0sWzQ2MTg4OTkyNDIsImVuIiwiVVMiXSxbNDcyMTk2NTI0NiwiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "married at first sight season 20",
-      "search_volume": 10000,
+      "query": "love island",
+      "search_volume": 50000,
       "increase": 100,
-      "news_token": "W1s0NzA0MDAwNzY1LCJlbiIsIlVTIl0sWzQ3MjA2OTQ5OTQsImVuIiwiVVMiXSxbNDcxNDk3OTkzMiwiZW4iLCJVUyJdLFs0NjkwNzEyNTI4LCJlbiIsIlVTIl0sWzQ2MDk1MjgxOTgsImVuIiwiVVMiXSxbNDYyOTk5NDAwNiwiZW4iLCJVUyJdLFs0NjQxMDQ0MDA1LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "little house on the prairie cast 2026",
-      "search_volume": 10000,
-      "increase": 100,
-      "news_token": "W1s0Njc3ODIyNjc5LCJlbiIsIlVTIl0sWzQ3MTc3MjM2OTMsImVuIiwiVVMiXSxbNDQ1MDQwMjM2NiwiZW4iLCJVUyJdLFs0NzAzMjk1NDY0LCJlbiIsIlVTIl0sWzQ2NDgyNjE2NjcsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "usps stamp price increase",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzAwNjI2MDI3LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "ron johnson",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzIwNjU1Nzc2LCJlbiIsIlVTIl0sWzQ3MTQ2MzkzNjMsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "olivia wilde",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzExNjE0Njc0LCJlbiIsIlVTIl0sWzQ2NzgxMjE4NTEsImVuIiwiVVMiXSxbNDcwMDMwNTA3MywiZW4iLCJVUyJdLFs0NjQwODM0MDExLCJlbiIsIlVTIl0sWzQ2NjM0OTUzMTgsImVuIiwiVVMiXSxbNDcyMDM4OTI0NCwiZW4iLCJVUyJdLFs0NzE5Mzc5MjkyLCJlbiIsIlVTIl0sWzQ3MTY0OTE2MzksImVuIiwiVVMiXSxbNDcxMjc0NTgxMSwiZW4iLCJVUyJdLFs0NzA4NjM1OTMyLCJlbiIsIlVTIl0sWzQ2NDQ4NDk0NjgsImVuIiwiVVMiXSxbNDcwMTE3OTY1MSwiZW4iLCJVUyJdLFs0NjQ0NjUxNDg0LCJlbiIsIlVTIl0sWzQ2NjI3NDA3MzgsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "july social security benefit schedule",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzA4NjM2MTQ4LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "nolan wells update",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzA2Njg5NTgyLCJlbiIsIlVTIl0sWzQ3MjIzNjI2NTIsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "rent",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzEyNjY2ODEzLCJlbiIsIlVTIl0sWzQ3MTg5MDgyODgsImVuIiwiVVMiXSxbNDcxOTA3MDE4MiwiZW4iLCJVUyJdLFs0NzE1MTkzNDc4LCJlbiIsIlVTIl0sWzQ3MTcxNzYzNDMsImVuIiwiVVMiXSxbNDcyMTg5MjY2MCwiZW4iLCJVUyJdLFs0NzIwMjY3OTY3LCJlbiIsIlVTIl0sWzQ3MTI4Njk1MjcsImVuIiwiVVMiXSxbNDY5OTAyODU2MiwiZW4iLCJVUyJdLFs0NzE1ODk0MjY2LCJlbiIsIlVTIl0sWzQ3MDQ1OTI5MzYsImVuIiwiVVMiXSxbNDcxNDA1MDg4NSwiZW4iLCJVUyJdLFs0Njg4Njc0NjUyLCJlbiIsIlVTIl0sWzQ3MjE4NzQyODEsImVuIiwiVVMiXSxbNDcyMjAwODIyNCwiZW4iLCJVUyJdLFs0NzE5NDEwMzI1LCJlbiIsIlVTIl0sWzQ3MTkxNjQzNzMsImVuIiwiVVMiXSxbNDcyMTQwMjM1MywiZW4iLCJVUyJdLFs0NzIxODU3ODg4LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "greta thunberg sister",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzE0NzcwMTYxLCJlbiIsIlVTIl0sWzQ2OTYzMTQ4NjksImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "best movies on hulu",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzA0MjEyMTQyLCJlbiIsIlVTIl0sWzQ3MTg0MzE1MjQsImVuIiwiVVMiXSxbNDY5OTMwNDk3MSwiZW4iLCJVUyJdLFs0NzIwNjc0NDE2LCJlbiIsIlVTIl0sWzQ3MjEwNzY2OTcsImVuIiwiVVMiXSxbNDcxOTc2ODcwNSwiZW4iLCJVUyJdLFs0Njk4OTgyODExLCJlbiIsIlVTIl0sWzQ3MTM2Mzc1OTUsImVuIiwiVVMiXSxbNDYyNDQ1NzU0NiwiZW4iLCJVUyJdLFs0NzIwNzg3ODgxLCJlbiIsIlVTIl0sWzQ3MjAxNTA4MDUsImVuIiwiVVMiXSxbNDcwNjQzNTkwMiwiZW4iLCJVUyJdLFs0NzAxMjE1MjM4LCJlbiIsIlVTIl0sWzQ3MTI3NDU4MTEsImVuIiwiVVMiXSxbNDcyMjM1NzkxMiwiZW4iLCJVUyJdLFs0NzExNjMyMzYxLCJlbiIsIlVTIl0sWzQ3MjAzMzc5MzMsImVuIiwiVVMiXSxbNDcwMDcwMzA3NSwiZW4iLCJVUyJdLFs0NjY5MjY0NjI1LCJlbiIsIlVTIl0sWzQ2NDkyNDQ1NDYsImVuIiwiVVMiXSxbNDY2MDk2MDQ5OSwiZW4iLCJVUyJdLFs0NjY3ODg2MDczLCJlbiIsIlVTIl0sWzQ2NDk3MjU5NDUsImVuIiwiVVMiXSxbNDcxNzE2MTcyMCwiZW4iLCJVUyJdLFs0NzE3Mzk5OTgwLCJlbiIsIlVTIl0sWzQ3MTY1NDQ0MjYsImVuIiwiVVMiXSxbNDY4MjIxMTQ5NCwiZW4iLCJVUyJdXQ=="
-    },
-    {
-      "query": "is sunfyre dead in the show",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzIxMTU4Mjk5LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "christopher nolan",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzExMDgyNjgzLCJlbiIsIlVTIl0sWzQ3MTAxMDYyNDAsImVuIiwiVVMiXSxbNDY4ODQ2NzYxMSwiZW4iLCJVUyJdLFs0NzE3MjU3NjAwLCJlbiIsIlVTIl0sWzQ3MTEzMjI3NDQsImVuIiwiVVMiXSxbNDcxNjc5MDEwMSwiZW4iLCJVUyJdLFs0NzIwNjgwMTE2LCJlbiIsIlVTIl0sWzQ3MjIyNjYyMDEsImVuIiwiVVMiXSxbNDcxMjI2NDk5MiwiZW4iLCJVUyJdXQ=="
-    },
-    {
-      "query": "kelly reilly",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzE5ODA0NTc0LCJlbiIsIlVTIl0sWzQ3MTk4MDg2OTAsImVuIiwiVVMiXSxbNDcxNzcyODgzMiwiZW4iLCJVUyJdLFs0NzIwMjYzODgzLCJlbiIsIlVTIl0sWzQ2NjY3OTMyNzMsImVuIiwiVVMiXSxbNDU4MDEwNDI2NSwiZW4iLCJVUyJdLFs0Njg4NDc5MjQ1LCJlbiIsIlVTIl0sWzQ2MzE3Mzg4MjUsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "vanguard",
-      "search_volume": 5000,
-      "increase": 100,
-      "news_token": "W1s0NzE3MDE3NzA0LCJlbiIsIlVTIl0sWzQ3MTYwNTUxMTMsImVuIiwiVVMiXSxbNDcxMTI2NzA0NSwiZW4iLCJVUyJdLFs0NzIxNzMzMjA4LCJlbiIsIlVTIl0sWzQ3MTgyOTQ3OTEsImVuIiwiVVMiXSxbNDcxNTI4MjUwOSwiZW4iLCJVUyJdLFs0NzA4NzE3OTQwLCJlbiIsIlVTIl0sWzQ3MTAyNDM5OTUsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "sp 500",
-      "search_volume": 2000,
-      "increase": 100,
-      "news_token": "W1s0NzIyMDQyNzY0LCJlbiIsIlVTIl0sWzQ3MTcwMTc3MDQsImVuIiwiVVMiXSxbNDcxNDg5NzU3NywiZW4iLCJVUyJdLFs0NzE2MDU1MTEzLCJlbiIsIlVTIl0sWzQ3MTQwOTA1MTEsImVuIiwiVVMiXSxbNDcyMDQyNjc5NiwiZW4iLCJVUyJdLFs0NzIyMTk4MDEyLCJlbiIsIlVTIl0sWzQ3MDgyMjI4MTEsImVuIiwiVVMiXSxbNDcxNzAzNzc3OCwiZW4iLCJVUyJdLFs0NzA3OTM1OTUwLCJlbiIsIlVTIl0sWzQ3MTg5MjgzMzUsImVuIiwiVVMiXSxbNDYxMTc5NTE2OCwiZW4iLCJVUyJdLFs0NjQ0NTQ5MjM0LCJlbiIsIlVTIl0sWzQ3MDEwNTkxMjIsImVuIiwiVVMiXSxbNDcyMTc4OTg5OSwiZW4iLCJVUyJdLFs0NzExNjMyNTQ1LCJlbiIsIlVTIl0sWzQ2OTkzNjg5NDIsImVuIiwiVVMiXSxbNDcyMjMwMjU3NywiZW4iLCJVUyJdLFs0NzIwMTczNjE4LCJlbiIsIlVTIl0sWzQ2NDEwMjE1MjUsImVuIiwiVVMiXSxbNDcxMTgxOTgzNiwiZW4iLCJVUyJdLFs0Njk5NjE3MjgwLCJlbiIsIlVTIl0sWzQ2MTkwNDA1NjIsImVuIiwiVVMiXSxbNDcyMjE1Nzk3MywiZW4iLCJVUyJdLFs0NzAzODQwNDg1LCJlbiIsIlVTIl0sWzQ3MTk0NzMxNDEsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "octavia spencer",
-      "search_volume": 2000,
-      "increase": 100,
-      "news_token": "W1s0NzAxMjAxMDk5LCJlbiIsIlVTIl0sWzQ3MjE0MjI0NjQsImVuIiwiVVMiXSxbNDcwODI5NTIzMCwiZW4iLCJVUyJdLFs0NTk3NjU2NDI0LCJlbiIsIlVTIl0sWzQ2MzQ3OTExMjgsImVuIiwiVVMiXSxbNDYzODE5Mjc2MCwiZW4iLCJVUyJdLFs0NzIxMjc1NzM2LCJlbiIsIlVTIl0sWzQ3MTQzMzE4NDYsImVuIiwiVVMiXSxbNDcyMTE5NTEzNSwiZW4iLCJVUyJdLFs0NzE5OTUwNzIzLCJlbiIsIlVTIl0sWzQ3MjA5NTgzODIsImVuIiwiVVMiXSxbNDYwOTQyOTU5NywiZW4iLCJVUyJdXQ=="
-    },
-    {
-      "query": "kisser smackdown peckish",
-      "search_volume": 2000,
-      "increase": 100,
-      "news_token": "W1s0NzEyNzQ1NjY2LCJlbiIsIlVTIl0sWzQ3MDE2MjI1NzgsImVuIiwiVVMiXSxbNDcyMTkxNTc1OSwiZW4iLCJVUyJdLFs0NzAzODQwNDg1LCJlbiIsIlVTIl0sWzQ3MDYzMjY1NTUsImVuIiwiVVMiXSxbNDcxODA1Mzc4MSwiZW4iLCJVUyJdLFs0NzExNTAyNDc0LCJlbiIsIlVTIl0sWzQ3MjA5NzAzNzMsImVuIiwiVVMiXSxbNDcyMDgzMjY0OCwiZW4iLCJVUyJdXQ=="
-    },
-    {
-      "query": "layoff",
-      "search_volume": 2000,
-      "increase": 100,
-      "news_token": "W1s0NzA5NjA5OTQyLCJlbiIsIlVTIl0sWzQ3MTMyMjYyODYsImVuIiwiVVMiXSxbNDcxMzE0Nzg4NywiZW4iLCJVUyJdLFs0NzA2NDMwMTc2LCJlbiIsIlVTIl0sWzQ3MTc2MTE2NTUsImVuIiwiVVMiXSxbNDcxNzEwODMyNCwiZW4iLCJVUyJdLFs0NzIwMTk0NzE0LCJlbiIsIlVTIl0sWzQ3MTUzNTQxODYsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "shia labeouf",
-      "search_volume": 2000,
-      "increase": 100,
-      "news_token": "W1s0NzIxMTM2OTEwLCJlbiIsIlVTIl0sWzQ3MTgyMTU2NTcsImVuIiwiVVMiXSxbNDcxMjcyMzg1NiwiZW4iLCJVUyJdLFs0NjE2OTcwMDgxLCJlbiIsIlVTIl0sWzQ2NDI0Njk1MTEsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzAxNjY1NTI5LCJlbiIsIlVTIl0sWzQ3MjA5ODE1NDcsImVuIiwiVVMiXSxbNDcxNzc0OTA2NiwiZW4iLCJVUyJdLFs0NzE4MDc2OTg3LCJlbiIsIlVTIl0sWzQ3MTg0ODA0ODUsImVuIiwiVVMiXSxbNDcyMjUzMTk4NiwiZW4iLCJVUyJdLFs0NjQ2MjczOTEwLCJlbiIsIlVTIl0sWzQ2MjQ1NTU4NDQsImVuIiwiVVMiXSxbNDcyMTMxODU3OCwiZW4iLCJVUyJdLFs0NzIwNzIzMjg0LCJlbiIsIlVTIl0sWzQ3MjI0NzU2NTEsImVuIiwiVVMiXSxbNDcwOTIzNDg0NiwiZW4iLCJVUyJdLFs0NzIyNjk1NTkzLCJlbiIsIlVTIl0sWzQ2NjMwNzcxMjUsImVuIiwiVVMiXSxbNDcwOTc0NjA4MCwiZW4iLCJVUyJdLFs0NjM2MTg1MzA4LCJlbiIsIlVTIl0sWzQ2MzUwNTQyODEsImVuIiwiVVMiXSxbNDY0NjA3MzAyMywiZW4iLCJVUyJdXQ=="
     }
   ]
 }
