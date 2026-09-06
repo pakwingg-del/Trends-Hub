@@ -5,16 +5,10 @@
     "active_hours": 8,
     "config": {
       "keywords_count": 80,
-      "last_updated_hkt": "2026-09-06 10:27:19"
+      "last_updated_hkt": "2026-09-06 12:01:04"
     }
   },
   "trending_seeds": [
-    {
-      "query": "kennedy center grand foyer closure",
-      "search_volume": 50000,
-      "increase": 1000,
-      "news_token": "W1s0ODEzODYzMzA3LCJlbiIsIlVTIl1d"
-    },
     {
       "query": "earthquake now",
       "search_volume": 20000,
@@ -22,16 +16,34 @@
       "news_token": "W1s0ODExNjQ3NjA3LCJlbiIsIlVTIl0sWzQ4MTMyNzYxMTIsImVuIiwiVVMiXV0="
     },
     {
+      "query": "strait of hormuz",
+      "search_volume": 20000,
+      "increase": 1000,
+      "news_token": "W1s0ODA1MzYwNzYzLCJlbiIsIlVTIl0sWzQ4MDg4MDAwMzcsImVuIiwiVVMiXSxbNDgwODgzMjc2MSwiZW4iLCJVUyJdLFs0ODE0NjcwODQ1LCJlbiIsIlVTIl0sWzQ4MTE3OTgzMzQsImVuIiwiVVMiXSxbNDgxMTg3MjgxOCwiZW4iLCJVUyJdLFs0ODExODAzMDU0LCJlbiIsIlVTIl0sWzQ3NjMzNjk1MjksImVuIiwiVVMiXSxbNDgxMDU1ODIyOCwiZW4iLCJVUyJdLFs0ODAzNDc4MTk4LCJlbiIsIlVTIl0sWzQ3MzEyNDY0NzgsImVuIiwiVVMiXV0="
+    },
+    {
       "query": "earthquake",
       "search_volume": 10000,
       "increase": 1000,
-      "news_token": "W1s0ODA5NDM4ODc5LCJlbiIsIlVTIl0sWzQ4MDk2OTg3MjEsImVuIiwiVVMiXSxbNDgxMTY0NzYwNywiZW4iLCJVUyJdLFs0Nzg4ODczOTYwLCJlbiIsIlVTIl0sWzQ4MTI5ODc0MDIsImVuIiwiVVMiXSxbNDgxNDE3NDAzOSwiZW4iLCJVUyJdLFs0Njg0OTEyNDYxLCJlbiIsIlVTIl0sWzQ4MTM3MTQwMzUsImVuIiwiVVMiXV0="
+      "news_token": "W1s0ODA5NTg0MDgzLCJlbiIsIlVTIl0sWzQ4MDk0Mzg4NzksImVuIiwiVVMiXSxbNDgwOTY5ODcyMSwiZW4iLCJVUyJdLFs0ODE1NzU5ODMxLCJlbiIsIlVTIl0sWzQ4MTQ3ODE0NzEsImVuIiwiVVMiXSxbNDc5OTI5NzMxOSwiZW4iLCJVUyJdLFs0Njg0OTEyNDYxLCJlbiIsIlVTIl0sWzQ4MTM3MTQwMzUsImVuIiwiVVMiXSxbNDgwNzgwNTc1OCwiZW4iLCJVUyJdLFs0NzkyNTE1MTU4LCJlbiIsIlVTIl0sWzQ3NTk2ODAxMDYsImVuIiwiVVMiXSxbNDgxNDE3NDAzOSwiZW4iLCJVUyJdLFs0ODEyOTg3NDAyLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "earthquakes today",
+      "search_volume": 5000,
+      "increase": 1000,
+      "news_token": "W1s0ODA5Njk4NzIxLCJlbiIsIlVTIl0sWzQ4MDk0Mzg4NzksImVuIiwiVVMiXSxbNDgxMjk4NzQwMiwiZW4iLCJVUyJdLFs0ODExNjQ3NjA3LCJlbiIsIlVTIl0sWzQ4MTQ3ODE0NzEsImVuIiwiVVMiXSxbNDgxNTc1OTgzMSwiZW4iLCJVUyJdLFs0ODEzMDU4MTczLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "driver's license",
+      "search_volume": 2000,
+      "increase": 1000,
+      "news_token": "W1s0ODA4ODMyNjEwLCJlbiIsIlVTIl0sWzQ4MTE1MzU4MDEsImVuIiwiVVMiXSxbNDgwNDkzNDAxNSwiZW4iLCJVUyJdLFs0ODEzNDA4NTU4LCJlbiIsIlVTIl0sWzQ4MDg2MjYxOTAsImVuIiwiVVMiXV0="
     },
     {
       "query": "earthquake near me",
-      "search_volume": 2000,
+      "search_volume": 1000,
       "increase": 1000,
-      "news_token": "W1s0ODE0NzgxNDcxLCJlbiIsIlVTIl0sWzQ4MDk2OTg3MjEsImVuIiwiVVMiXSxbNDgxNTI0OTcxMSwiZW4iLCJVUyJdLFs0ODExNjQ3NjA3LCJlbiIsIlVTIl0sWzQ4MTUyNjgwODYsImVuIiwiVVMiXSxbNDgxMjk4NzQwMiwiZW4iLCJVUyJdLFs0ODE0MTc0MDM5LCJlbiIsIlVTIl0sWzQ4MDk0Mzg4NzksImVuIiwiVVMiXSxbNDgxMzcxNDAzNSwiZW4iLCJVUyJdLFs0Njg0OTEyNDYxLCJlbiIsIlVTIl0sWzQ3OTI1MTUxNTgsImVuIiwiVVMiXV0="
+      "news_token": "W1s0ODE0NzgxNDcxLCJlbiIsIlVTIl0sWzQ4MDk2OTg3MjEsImVuIiwiVVMiXSxbNDgxNTI0OTcxMSwiZW4iLCJVUyJdLFs0ODExNjQ3NjA3LCJlbiIsIlVTIl0sWzQ4MTUyNjgwODYsImVuIiwiVVMiXV0="
     },
     {
       "query": "cole hauser",
@@ -52,22 +64,22 @@
       "news_token": "W1s0ODE0NDk2MDI2LCJlbiIsIlVTIl1d"
     },
     {
-      "query": "estatus de protección temporal",
-      "search_volume": 20000,
-      "increase": 600,
-      "news_token": "W1s0ODA5MzA0Mzg1LCJlcyIsIlVTIl1d"
-    },
-    {
       "query": "harry and meghan news",
       "search_volume": 10000,
       "increase": 600,
-      "news_token": "W1s0ODEzMDc5OTUxLCJlbiIsIlVTIl0sWzQ4MTMyMTE0MjAsImVuIiwiVVMiXSxbNDgwMDcyMTk3MSwiZW4iLCJVUyJdLFs0ODAzNTYwODkzLCJlbiIsIlVTIl0sWzQ4MDQ4MzEyODUsImVuIiwiVVMiXSxbNDgxMDE3MDM0MiwiZW4iLCJVUyJdLFs0Nzk2NDExODg0LCJlbiIsIlVTIl0sWzQ3OTE2MjQyODIsImVuIiwiVVMiXSxbNDc3Njg4NjQ0NSwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0ODEzMDc5OTUxLCJlbiIsIlVTIl0sWzQ4MTMyMTE0MjAsImVuIiwiVVMiXSxbNDgwMDcyMTk3MSwiZW4iLCJVUyJdLFs0ODA0ODMxMjg1LCJlbiIsIlVTIl0sWzQ4MDM1NjA4OTMsImVuIiwiVVMiXSxbNDgxMDE3MDM0MiwiZW4iLCJVUyJdLFs0ODE1MTcxNTE5LCJlbiIsIlVTIl0sWzQ3OTE2MjQyODIsImVuIiwiVVMiXSxbNDc3Njg4NjQ0NSwiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "earthquake los angeles",
-      "search_volume": 2000,
-      "increase": 600,
-      "news_token": "W1s0ODA5Njk4NzIxLCJlbiIsIlVTIl0sWzQ4MDk0Mzg4NzksImVuIiwiVVMiXSxbNDgxMzA1ODE3MywiZW4iLCJVUyJdXQ=="
+      "query": "emmys 2026",
+      "search_volume": 20000,
+      "increase": 500,
+      "news_token": "W1s0ODE1MjI0NTk1LCJlbiIsIlVTIl0sWzQ4MDkyNzE4ODgsImVuIiwiVVMiXSxbNDgxNTQ0NjIzMiwiZW4iLCJVUyJdLFs0ODA2OTkyNzgyLCJlbiIsIlVTIl0sWzQ4MTUzNzIzMjcsImVuIiwiVVMiXSxbNDgxMTQ0NTQwMCwiZW4iLCJVUyJdLFs0ODE1Nzc4OTM1LCJlbiIsIlVTIl0sWzQ4MTUzODA2NzUsImVuIiwiVVMiXSxbNDc2NTk5MTMxNiwiZW4iLCJVUyJdLFs0Njk2NDE3NTQ2LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "estatus de protección temporal",
+      "search_volume": 20000,
+      "increase": 500,
+      "news_token": "W1s0ODA5MzA0Mzg1LCJlcyIsIlVTIl1d"
     },
     {
       "query": "is twitch down",
@@ -76,10 +88,10 @@
       "news_token": "W1s0ODE0OTE0NjIyLCJlbiIsIlVTIl0sWzQ4MDIzMjQ3MDcsImVuIiwiVVMiXV0="
     },
     {
-      "query": "emmys 2026",
-      "search_volume": 20000,
+      "query": "taylor swift travis kelce marriage",
+      "search_volume": 5000,
       "increase": 400,
-      "news_token": "W1s0ODE1MjI0NTk1LCJlbiIsIlVTIl0sWzQ4MDY5OTI3ODIsImVuIiwiVVMiXSxbNDgwOTI3MTg4OCwiZW4iLCJVUyJdLFs0ODE1NDQ2MjMyLCJlbiIsIlVTIl0sWzQ3MTA3NzQ2NjUsImVuIiwiVVMiXSxbNDgxNTM3MjMyNywiZW4iLCJVUyJdLFs0ODEzNTgzNDQwLCJlbiIsIlVTIl0sWzQ3NjU5OTEzMTYsImVuIiwiVVMiXV0="
+      "news_token": "W1s0ODE1NzYzNjM2LCJlbiIsIlVTIl0sWzQ4MDg3ODMyNjksImVuIiwiVVMiXSxbNDgwODUyNzYzNCwiZW4iLCJVUyJdLFs0Nzk2ODA5MjM4LCJlbiIsIlVTIl0sWzQ3MDM5NDc5MjMsImVuIiwiVVMiXSxbNDY2NTEyODg2NCwiZW4iLCJVUyJdLFs0Nzc1NzcxMjQyLCJlbiIsIlVTIl1d"
     },
     {
       "query": "fighter jet crashes",
@@ -91,13 +103,7 @@
       "query": "5g",
       "search_volume": 1000,
       "increase": 400,
-      "news_token": "W1s0ODE1MTgxNDg3LCJlbiIsIlVTIl0sWzQ4MDc5NDE1MzAsImVuIiwiVVMiXSxbNDgwMTAyODM1OCwiZW4iLCJVUyJdLFs0ODE1MTk5OTYyLCJlbiIsIlVTIl0sWzQ3OTY4NTM3NjAsImVuIiwiVVMiXSxbNDgxNDU5Mjk5MSwiZW4iLCJVUyJdLFs0ODE1MzY5Nzg0LCJlbiIsIlVTIl0sWzQ4MTM1MzA2MDYsImVuIiwiVVMiXSxbNDc5ODk4MjA3NiwiZW4iLCJVUyJdXQ=="
-    },
-    {
-      "query": "joe thomas",
-      "search_volume": 1000,
-      "increase": 400,
-      "news_token": "W1s0ODEzNjEyNTkxLCJlbiIsIlVTIl1d"
+      "news_token": "W1s0ODE1MTgxNDg3LCJlbiIsIlVTIl0sWzQ4MDEwMjgzNTgsImVuIiwiVVMiXSxbNDc5Njg1Mzc2MCwiZW4iLCJVUyJdLFs0ODE0NTkyOTkxLCJlbiIsIlVTIl0sWzQ4MTUxOTk5NjIsImVuIiwiVVMiXSxbNDgxNTM2OTc4NCwiZW4iLCJVUyJdLFs0ODEzNTMwNjA2LCJlbiIsIlVTIl0sWzQ4MDY2MjcwMzcsImVuIiwiVVMiXSxbNDc5ODk4MjA3NiwiZW4iLCJVUyJdXQ=="
     },
     {
       "query": "ram suv",
@@ -106,16 +112,16 @@
       "news_token": "W1s0ODA2Mjc1NTA5LCJlbiIsIlVTIl1d"
     },
     {
-      "query": "criminal lawyer",
-      "search_volume": 1000,
-      "increase": 400,
-      "news_token": "W1s0ODEyMTgyMDA0LCJlbiIsIlVTIl0sWzQ4MDk2NjU2MDUsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "criminal defense attorney",
+      "query": "haitians",
       "search_volume": 500,
       "increase": 400,
-      "news_token": "W1s0ODA5NjY1NjA1LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0ODE0MDQ1MDQ0LCJlbiIsIlVTIl0sWzQ4MTMyODY1ODMsImVuIiwiVVMiXSxbNDc5NDgwNzYwMywiZW4iLCJVUyJdLFs0ODE1NjkzMjU0LCJlbiIsIlVTIl0sWzQ4MTAyMjUzNTQsImVuIiwiVVMiXV0="
+    },
+    {
+      "query": "miley",
+      "search_volume": 20000,
+      "increase": 300,
+      "news_token": "W1s0ODA1MjE3OTkyLCJlbiIsIlVTIl0sWzQ4MTI0NzY0NDcsImVuIiwiVVMiXSxbNDc5NTkyMTc0NCwiZW4iLCJVUyJdLFs0ODEzOTUxNTU2LCJlbiIsIlVTIl0sWzQ4MTQzNTI2MTcsImVuIiwiVVMiXSxbNDgxMzUzMDY1OSwiZW4iLCJVUyJdLFs0NzYyMDI3NDYxLCJlbiIsIlVTIl0sWzQ3OTc1NDg3OTEsImVuIiwiVVMiXV0="
     },
     {
       "query": "christopher nicks",
@@ -124,16 +130,28 @@
       "news_token": "W1s0ODEzNzQwMDYyLCJlbiIsIlVTIl1d"
     },
     {
-      "query": "us strikes iranian oil tankers",
+      "query": "american airlines duct tape",
       "search_volume": 20000,
       "increase": 300,
-      "news_token": "W1s0ODA1MzYwNzYzLCJlbiIsIlVTIl0sWzQ4MDg4MzI3NjEsImVuIiwiVVMiXSxbNDgxMjEzMDk5MCwiZW4iLCJVUyJdLFs0ODEwNTU4MjI4LCJlbiIsIlVTIl0sWzQ4MDM0NzgxOTgsImVuIiwiVVMiXSxbNDczMTI0NjQ3OCwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0ODEzNDI2Mjk3LCJlbiIsIlVTIl1d"
     },
     {
       "query": "natalie portman",
       "search_volume": 10000,
       "increase": 300,
-      "news_token": "W1s0ODAxNTMxNzkwLCJlbiIsIlVTIl0sWzQ4MTQ4MTYzMzMsImVuIiwiVVMiXSxbNDczMDM4NjI0NCwiZW4iLCJVUyJdLFs0NTQ2Mzg0NzkyLCJlbiIsIlVTIl0sWzQ3NDk3ODcxMjksImVuIiwiVVMiXSxbNTI3NzkxNTg0MDIzMjgsImVuIiwiVVMiXSxbNDgwOTE3OTcxMiwiZW4iLCJVUyJdLFs0NzczMzYxNjk5LCJlbiIsIlVTIl0sWzQ3NzEyNDk4NjgsImVuIiwiVVMiXV0="
+      "news_token": "W1s0ODAxNTMxNzkwLCJlbiIsIlVTIl0sWzQ4MDkxNzk3MTIsImVuIiwiVVMiXSxbNDgxNDgxNjMzMywiZW4iLCJVUyJdLFs0NzczMzYxNjk5LCJlbiIsIlVTIl0sWzQ3MzAzODYyNDQsImVuIiwiVVMiXSxbNDU0NjM4NDc5MiwiZW4iLCJVUyJdLFs0NzQ5Nzg3MTI5LCJlbiIsIlVTIl0sWzQ3NzEyNDk4NjgsImVuIiwiVVMiXV0="
+    },
+    {
+      "query": "trump hair",
+      "search_volume": 10000,
+      "increase": 300,
+      "news_token": "W1s0ODEwNTUzNzU5LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "apple iphone 18 pro",
+      "search_volume": 10000,
+      "increase": 300,
+      "news_token": "W1s0Nzk3ODEzNDc4LCJlbiIsIlVTIl0sWzQ4MTM2MzAyMDgsImVuIiwiVVMiXSxbNDU2MjkzMDQ1OSwiZW4iLCJVUyJdLFs0Nzk5NzMxNDUwLCJlbiIsIlVTIl0sWzQ4MTQzNDk1MDIsImVuIiwiVVMiXSxbNDc3OTg0MzYwOSwiZW4iLCJVUyJdXQ=="
     },
     {
       "query": "patrick mahomes father probation travel request",
@@ -142,22 +160,10 @@
       "news_token": "W1s0ODEzNzQ5MjM2LCJlbiIsIlVTIl1d"
     },
     {
-      "query": "john fetterman staff text messages",
-      "search_volume": 10000,
+      "query": "kennedy center ceiling collapse",
+      "search_volume": 2000,
       "increase": 300,
-      "news_token": "W1s0ODEyMTI0Njg3LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "taylor swift travis kelce marriage",
-      "search_volume": 5000,
-      "increase": 300,
-      "news_token": "W1s0ODE1NzYzNjM2LCJlbiIsIlVTIl0sWzQ4MDg3ODMyNjksImVuIiwiVVMiXSxbNDgwODUyNzYzNCwiZW4iLCJVUyJdLFs0Nzk2ODA5MjM4LCJlbiIsIlVTIl0sWzQ3MDM5NDc5MjMsImVuIiwiVVMiXSxbNDY2NTEyODg2NCwiZW4iLCJVUyJdLFs0Nzc1NzcxMjQyLCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "apple iphone 18 pro",
-      "search_volume": 5000,
-      "increase": 300,
-      "news_token": "W1s0Nzk3ODEzNDc4LCJlbiIsIlVTIl0sWzQ4MTM2MzAyMDgsImVuIiwiVVMiXSxbNDU2MjkzMDQ1OSwiZW4iLCJVUyJdLFs0Nzk5NzMxNDUwLCJlbiIsIlVTIl1d"
+      "news_token": "W1s0ODEzODYzMzA3LCJlbiIsIlVTIl1d"
     },
     {
       "query": "lluvia",
@@ -166,52 +172,52 @@
       "news_token": "W1s0ODEyMzg1NzYyLCJlcyIsIlVTIl0sWzQ4MTIwMzA1MjYsImVzIiwiVVMiXSxbNDgxMDQ1NDg4NCwiZXMiLCJVUyJdLFs0ODAzMTY0NTQ0LCJlcyIsIlVTIl0sWzQ4MDkzNjA4MjksImVzIiwiVVMiXSxbNDgwMzU2NDc1OCwiZXMiLCJVUyJdXQ=="
     },
     {
+      "query": "earthquake california",
+      "search_volume": 1000,
+      "increase": 300,
+      "news_token": "W1s0ODA5NDM4ODc5LCJlbiIsIlVTIl0sWzQ4MDk2OTg3MjEsImVuIiwiVVMiXSxbNDgxMTY0NzYwNywiZW4iLCJVUyJdLFs0Nzg4ODczOTYwLCJlbiIsIlVTIl1d"
+    },
+    {
       "query": "donald trump strait of hormuz alternatives",
       "search_volume": 1000,
       "increase": 300,
       "news_token": "W1s0ODA4NjEzMzI3LCJlbiIsIlVTIl0sWzQ4MDIxMTc5OTAsImVuIiwiVVMiXSxbNDgwOTQ1OTcxNCwiZW4iLCJVUyJdLFs0ODA2MzM4NTgzLCJlbiIsIlVTIl0sWzQ4MTE3ODg3OTQsImVuIiwiVVMiXSxbNDgwODgwMDAzNywiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "earthquakes today",
-      "search_volume": 500,
+      "query": "donald trump dc building projects",
+      "search_volume": 200,
       "increase": 300,
-      "news_token": "W1s0ODEzMDU4MTczLCJlbiIsIlVTIl0sWzQ4MTE2NDc2MDcsImVuIiwiVVMiXSxbNDgxMzI3NjExMiwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0Nzk5NjA4Mjg4LCJlbiIsIlVTIl0sWzQ4MTQ2Mjc1NDYsImVuIiwiVVMiXV0="
     },
     {
-      "query": "airplane duct tape",
+      "query": "primetime",
       "search_volume": 20000,
       "increase": 200,
-      "news_token": "W1s0ODEzNDI2Mjk3LCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "miley",
-      "search_volume": 10000,
-      "increase": 200,
-      "news_token": "W1s0ODA1MjE3OTkyLCJlbiIsIlVTIl0sWzQ4MTI0NzY0NDcsImVuIiwiVVMiXSxbNDgxMzk1MTU1NiwiZW4iLCJVUyJdLFs0ODE0MzUyNjE3LCJlbiIsIlVTIl0sWzQ4MTM1MzA2NTksImVuIiwiVVMiXSxbNDc2MjAyNzQ2MSwiZW4iLCJVUyJdLFs0Nzk3NTQ4NzkxLCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "trump hair",
-      "search_volume": 10000,
-      "increase": 200,
-      "news_token": "W1s0ODEwNTUzNzU5LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0ODEyOTQ3NDQwLCJlbiIsIlVTIl0sWzQ4MTQ2MzMwNTYsImVuIiwiVVMiXSxbNDgwODc1MzMyMCwiZW4iLCJVUyJdLFs0ODA0OTUzNDg1LCJlbiIsIlVTIl0sWzQ4MTUyMzI0NzQsImVuIiwiVVMiXSxbNDgwODQwNjc0MiwiZW4iLCJVUyJdLFs0ODE0MDU1NTU2LCJlbiIsIlVTIl0sWzQ4MDk0ODUyMTYsImVuIiwiVVMiXSxbNDY2MDAxOTAyNCwiZW4iLCJVUyJdLFs0NzgyMTUwNzg0LCJlbiIsIlVTIl0sWzQ2Mjk5OTM2NjEsImVuIiwiVVMiXSxbNDgxNDkxNzc2NSwiZW4iLCJVUyJdLFs0ODAwNzM4MzMzLCJlbiIsIlVTIl1d"
     },
     {
       "query": "airman",
       "search_volume": 10000,
       "increase": 200,
-      "news_token": "W1s0ODA2MzAyOTEyLCJlbiIsIlVTIl0sWzQ4MTQ1ODQ2MzcsImVuIiwiVVMiXSxbNDgwODcwMTg2NywiZW4iLCJVUyJdLFs0ODExNTk0Mjk2LCJlbiIsIlVTIl0sWzQ4MTAxNjA4NDAsImVuIiwiVVMiXSxbNDgxMDg3OTI3MywiZW4iLCJVUyJdLFs0ODAwODcxMzI5LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0ODA2MzAyOTEyLCJlbiIsIlVTIl0sWzQ4MTQ1ODQ2MzcsImVuIiwiVVMiXSxbNDgwODcwMTg2NywiZW4iLCJVUyJdLFs0ODExNTk0Mjk2LCJlbiIsIlVTIl0sWzQ4MTAxNjA4NDAsImVuIiwiVVMiXSxbNDgxMDg3OTI3MywiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "clorox recall",
+      "query": "mike myers",
       "search_volume": 10000,
       "increase": 200,
-      "news_token": "W1s0ODExMjc3ODMyLCJlbiIsIlVTIl1d"
+      "news_token": "W1s0ODExNjYzMDMyLCJlbiIsIlVTIl0sWzQ4MDQ1NTM2NjgsImVuIiwiVVMiXV0="
     },
     {
       "query": "texas",
       "search_volume": 10000,
       "increase": 200,
-      "news_token": "W1s0NzkxODA2NjQxLCJlbiIsIlVTIl0sWzQ4MTAzMzU2MzUsImVuIiwiVVMiXSxbNDgwMjU4OTU1NSwiZW4iLCJVUyJdLFs0ODExNTQ5NjI3LCJlbiIsIlVTIl0sWzQ4MTMwMTA1NzIsImVuIiwiVVMiXSxbNDgxMDYwNTc5NCwiZW4iLCJVUyJdLFs0ODEzMTE3Mzk1LCJlbiIsIlVTIl0sWzQ4MDc4OTkyODMsImVuIiwiVVMiXSxbNDgxMDAwODA4OSwiZW4iLCJVUyJdLFs0ODA4MzgxOTgxLCJlbiIsIlVTIl0sWzQ4MTMyMTk5MDIsImVuIiwiVVMiXSxbNDgwMDk2MDcxMSwiZW4iLCJVUyJdLFs0ODA4ODAyNDM0LCJlbiIsIlVTIl0sWzQ4MDQzMzk3MjEsImVuIiwiVVMiXSxbNDgxNDUzODA4MywiZW4iLCJVUyJdLFs0ODA2NDQzMzg0LCJlbiIsIlVTIl0sWzQ4MTEwMDU4MzMsImVuIiwiVVMiXSxbNDc5NzQ1NzQ1OSwiZW4iLCJVUyJdLFs0ODExNzYzMDY1LCJlbiIsIlVTIl0sWzQ4MDcyMDEyOTUsImVuIiwiVVMiXSxbNDc5NTg3MzE2NiwiZW4iLCJVUyJdLFs0ODA1NDQxMTgxLCJlbiIsIlVTIl1d"
+      "news_token": "W1s0NzkxODA2NjQxLCJlbiIsIlVTIl0sWzQ4MTAzMzU2MzUsImVuIiwiVVMiXSxbNDgwMjU4OTU1NSwiZW4iLCJVUyJdLFs0ODEwNjA1Nzk0LCJlbiIsIlVTIl0sWzQ4MTMwMTA1NzIsImVuIiwiVVMiXSxbNDgxMTU0OTYyNywiZW4iLCJVUyJdLFs0ODEzMTE3Mzk1LCJlbiIsIlVTIl0sWzQ4MDc4OTkyODMsImVuIiwiVVMiXSxbNDgwODM4MTk4MSwiZW4iLCJVUyJdLFs0ODEzMjE5OTAyLCJlbiIsIlVTIl0sWzQ4MTM5MjU4MDQsImVuIiwiVVMiXSxbNDgwMDk2MDcxMSwiZW4iLCJVUyJdLFs0ODA0MzM5NzIxLCJlbiIsIlVTIl0sWzQ4MDQwMTE3NzYsImVuIiwiVVMiXSxbNDgxNTk1NDE4MiwiZW4iLCJVUyJdLFs0ODE1OTY3NTA1LCJlbiIsIlVTIl0sWzQ4MTQ1ODc4NDIsImVuIiwiVVMiXSxbNDgxMDEzMDU2MCwiZW4iLCJVUyJdLFs0ODAzMjU2NTUyLCJlbiIsIlVTIl0sWzQ4MTEyMjEzMjUsImVuIiwiVVMiXSxbNDgwNjQ0MzM4NCwiZW4iLCJVUyJdXQ=="
+    },
+    {
+      "query": "trump arch",
+      "search_volume": 5000,
+      "increase": 200,
+      "news_token": "W1s0Nzk3MTkxOTYwLCJlbiIsIlVTIl0sWzQ4MTQ2Mjc1NDYsImVuIiwiVVMiXSxbNDIyNzU0MjczMCwiZW4iLCJVUyJdLFs0ODA3MTA0MDAzLCJlbiIsIlVTIl0sWzQ3OTk0NTcxNDEsImVuIiwiVVMiXSxbNDc1NDgwMTI2NCwiZW4iLCJVUyJdXQ=="
     },
     {
       "query": "finland f135 engine assembly patria",
@@ -220,22 +226,10 @@
       "news_token": "W1s0ODExMjk1ODkwLCJlbiIsIlVTIl1d"
     },
     {
-      "query": "trump arch",
-      "search_volume": 5000,
-      "increase": 200,
-      "news_token": "W1s0Nzk3MTkxOTYwLCJlbiIsIlVTIl0sWzQ4MTQ2Mjc1NDYsImVuIiwiVVMiXSxbNDIyNzU0MjczMCwiZW4iLCJVUyJdLFs0ODA3MTA0MDAzLCJlbiIsIlVTIl0sWzQ3OTk0NTcxNDEsImVuIiwiVVMiXSxbNDc5OTYwODI4OCwiZW4iLCJVUyJdLFs0ODE1MDEwODUxLCJlbiIsIlVTIl0sWzQ4MTMwODMzMTgsImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "mike myers",
-      "search_volume": 5000,
-      "increase": 200,
-      "news_token": "W1s0ODExNjYzMDMyLCJlbiIsIlVTIl0sWzQ4MDQ1NTM2NjgsImVuIiwiVVMiXV0="
-    },
-    {
       "query": "sac state football",
       "search_volume": 5000,
       "increase": 200,
-      "news_token": "W1s0ODE1Mzk3NTgyLCJlbiIsIlVTIl0sWzQ4MDUyMjY1MzQsImVuIiwiVVMiXSxbNDgxNTUzMjY3MiwiZW4iLCJVUyJdLFs0ODE1MzE4MTk1LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0ODE1Mzk3NTgyLCJlbiIsIlVTIl0sWzQ4MDUyMjY1MzQsImVuIiwiVVMiXSxbNDgxNTUzMjY3MiwiZW4iLCJVUyJdLFs0ODE1MzU2MTk2LCJlbiIsIlVTIl0sWzQ4MTUzMTgxOTUsImVuIiwiVVMiXV0="
     },
     {
       "query": "social security retirement age 2027",
@@ -250,16 +244,22 @@
       "news_token": "W1s0ODA4ODU2MzgzLCJlbiIsIlVTIl1d"
     },
     {
-      "query": "canada news",
-      "search_volume": 5000,
+      "query": "marvel comics moon knight replacement",
+      "search_volume": 2000,
       "increase": 200,
-      "news_token": "W1s0ODEzNTgzNTY3LCJlbiIsIlVTIl0sWzQ4MTIyMTgxNTYsImVuIiwiVVMiXSxbNDgxMTE0ODExMiwiZW4iLCJVUyJdLFs0ODEwMDIyMDExLCJlbiIsIlVTIl0sWzQ4MDEzNDA3MzgsImVuIiwiVVMiXSxbNDgwNjU5MDUzNSwiZW4iLCJVUyJdLFs0ODA1MTE4NzE3LCJlbiIsIlVTIl0sWzQ4MTAwNDQ3MDUsImVuIiwiVVMiXSxbNDgxMDY1NDI2MiwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0ODE0NzcyNDM4LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "powerball",
+      "search_volume": 2000,
+      "increase": 200,
+      "news_token": "W1s0ODA3OTIyODc0LCJlbiIsIlVTIl0sWzQ4MTEzMzA1MTIsImVuIiwiVVMiXSxbNDgwNzIwMTYxMiwiZW4iLCJVUyJdLFs0ODA4ODk1ODQxLCJlbiIsIlVTIl0sWzQ4MDMyNDk2OTYsImVuIiwiVVMiXSxbNDgxMDkxOTQ4NywiZW4iLCJVUyJdLFs0ODE1NDM3ODI0LCJlbiIsIlVTIl0sWzQ4MTU1MDg1NDgsImVuIiwiVVMiXSxbNDgxNTQ0MDU5NiwiZW4iLCJVUyJdLFs0ODExNjIwODk3LCJlbiIsIlVTIl1d"
     },
     {
       "query": "tien",
       "search_volume": 2000,
       "increase": 200,
-      "news_token": "W1s0ODE1NzM1MDk3LCJ2aSIsIlVTIl0sWzQ4MTExMTEwMDIsInZpIiwiVVMiXSxbNDgxNTgzODkxOSwidmkiLCJVUyJdLFs0ODAzMzY1MDIzLCJ2aSIsIlVTIl0sWzQ4MTUwNTI2MDAsInZpIiwiVVMiXSxbNDgwNDM4OTcxOSwidmkiLCJVUyJdLFs0ODEwMTMzMzc2LCJ2aSIsIlVTIl0sWzQ4MTQ0NzQzMjAsInZpIiwiVVMiXV0="
+      "news_token": "W1s0ODExMTExMDAyLCJ2aSIsIlVTIl0sWzQ4MDczNjk0MjYsInZpIiwiVVMiXSxbNDgwODY4NzIxNCwidmkiLCJVUyJdLFs0ODAzMzY1MDIzLCJ2aSIsIlVTIl0sWzQ4MTUwNTI2MDAsInZpIiwiVVMiXSxbNDgxMDEzMzM3NiwidmkiLCJVUyJdLFs0ODE0NDc0MzIwLCJ2aSIsIlVTIl0sWzQ4MDYwMjg0MzcsInZpIiwiVVMiXV0="
     },
     {
       "query": "greg chism lawn care",
@@ -292,10 +292,16 @@
       "news_token": "W1s0ODE1MDc0NjQ3LCJlbiIsIlVTIl1d"
     },
     {
-      "query": "ron desantis",
-      "search_volume": 1000,
+      "query": "nina dobrev",
+      "search_volume": 500,
       "increase": 200,
-      "news_token": "W1s0ODE0MzM3Nzg0LCJlbiIsIlVTIl0sWzQ4MDkxNzk4NjAsImVuIiwiVVMiXSxbNDc5NzgxODY0NywiZW4iLCJVUyJdLFs0ODEzNjU2MTYyLCJlbiIsIlVTIl0sWzQ4MTIwMTkwOTMsImVuIiwiVVMiXSxbNDgxNDMxODEwNywiZW4iLCJVUyJdLFs0ODE0ODY2NjcxLCJlbiIsIlVTIl0sWzQ4MTI3MjI0MDgsImVuIiwiVVMiXSxbNDYyNjAzMTk1OSwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0ODExODgwODEyLCJlbiIsIlVTIl0sWzQ4MDk4ODIzODEsImVuIiwiVVMiXSxbNDY4NzE2NzYwMiwiZW4iLCJVUyJdLFs0ODAwMjEwNDE0LCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "brendan fraser",
+      "search_volume": 500,
+      "increase": 200,
+      "news_token": "W1s0ODA1MzAyMTkzLCJlbiIsIlVTIl0sWzQ4MDk1ODM5NzgsImVuIiwiVVMiXSxbNDgxMjQ0MTcxMywiZW4iLCJVUyJdLFs0ODEwNTExNTkxLCJlbiIsIlVTIl1d"
     },
     {
       "query": "clima reynosa",
@@ -316,40 +322,10 @@
       "news_token": "W1s0ODE0NzQ0NTM2LCJlbiIsIlVTIl0sWzQ4MDkyNjA2NDgsImVuIiwiVVMiXSxbNDgwOTUzNDY4NCwiZW4iLCJVUyJdLFs0ODExNzI2MDg5LCJlbiIsIlVTIl0sWzQ3ODg4NjAwMzUsImVuIiwiVVMiXV0="
     },
     {
-      "query": "haitians",
-      "search_volume": 200,
-      "increase": 200,
-      "news_token": "W1s0ODE0MDQ1MDQ0LCJlbiIsIlVTIl0sWzQ4MTMyODY1ODMsImVuIiwiVVMiXSxbNDc5NDgwNzYwMywiZW4iLCJVUyJdLFs0ODE1NjkzMjU0LCJlbiIsIlVTIl0sWzQ4MTAyMjUzNTQsImVuIiwiVVMiXV0="
-    },
-    {
       "query": "karoline heintz",
       "search_volume": 200,
       "increase": 200,
       "news_token": "W1s0ODA0ODkwMDY3LCJlbiIsIlVTIl0sWzQ4MTAzNjg3ODAsImVuIiwiVVMiXSxbNDc4OTgyNjcyMCwiZW4iLCJVUyJdXQ=="
-    },
-    {
-      "query": "domestic violence attorney",
-      "search_volume": 200,
-      "increase": 200,
-      "news_token": "W1s0NzkyNTc2Mjc4LCJlbiIsIlVTIl0sWzQ4MTMwMzExMjksImVuIiwiVVMiXV0="
-    },
-    {
-      "query": "suki waterhouse",
-      "search_volume": 20000,
-      "increase": 100,
-      "news_token": "W1s0ODEyOTQ3NDQwLCJlbiIsIlVTIl0sWzQ4MTQ2MzMwNTYsImVuIiwiVVMiXSxbNDgwNDk1MzQ4NSwiZW4iLCJVUyJdLFs0ODE0MDU1NTU2LCJlbiIsIlVTIl0sWzQ4MDg0MDY3NDIsImVuIiwiVVMiXSxbNDgwOTQ4NTIxNiwiZW4iLCJVUyJdLFs0NjYwMDE5MDI0LCJlbiIsIlVTIl0sWzQ3ODIxNTA3ODQsImVuIiwiVVMiXSxbNDgxNTIzMjQ3NCwiZW4iLCJVUyJdLFs0NjI5OTkzNjYxLCJlbiIsIlVTIl0sWzQ4MTQ5MTc3NjUsImVuIiwiVVMiXSxbNDgwMDczODMzMywiZW4iLCJVUyJdXQ=="
-    },
-    {
-      "query": "matt gutman dropped from lawsuit",
-      "search_volume": 20000,
-      "increase": 100,
-      "news_token": "W1s0ODA3OTQyMTgwLCJlbiIsIlVTIl0sWzQ4MTEyNzc3MzcsImVuIiwiVVMiXSxbNDgwMzkwMTI4MywiZW4iLCJVUyJdLFs0Nzk4NDc4NDE5LCJlbiIsIlVTIl0sWzQ4MTQxMzcyNDYsImVuIiwiVVMiXSxbNDgxMTY4MzgzOCwiZW4iLCJVUyJdLFs0ODAyMzYyOTA3LCJlbiIsIlVTIl0sWzQ2NDQxMTQ4MjAsImVuIiwiVVMiXSxbNDc5NzU0ODc5MSwiZW4iLCJVUyJdLFs0Nzg5NjgxMjU0LCJlbiIsIlVTIl0sWzQ4MTUxNzc1MDIsImVuIiwiVVMiXSxbNDgxMjc2NzAxMSwiZW4iLCJVUyJdLFs0ODEwMzY4NzgwLCJlbiIsIlVTIl0sWzQ4MTUzNjk0ODMsImVuIiwiVVMiXSxbNDgxMDYzMzE1MiwiZW4iLCJVUyJdLFs0ODA4NTI4MDAwLCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "equal earth projection",
-      "search_volume": 10000,
-      "increase": 100,
-      "news_token": "W1s0ODExNTU2MjIyLCJlbiIsIlVTIl1d"
     },
     {
       "query": "igho ubiribo",
@@ -367,19 +343,19 @@
       "query": "theo james",
       "search_volume": 10000,
       "increase": 100,
-      "news_token": "W1s0ODExMTAzMjExLCJlbiIsIlVTIl0sWzQ4MDUzMDkzOTIsImVuIiwiVVMiXSxbNDgxMTIxMzQ0NywiZW4iLCJVUyJdLFs0ODEyOTk2MTA4LCJlbiIsIlVTIl0sWzQ3OTE5NTcwNDIsImVuIiwiVVMiXSxbNDcwNjI3ODU4MiwiZW4iLCJVUyJdLFs0ODE0NjQyMjIyLCJlbiIsIlVTIl0sWzQ4MTI5NzAxMTUsImVuIiwiVVMiXSxbNDgxNDc2MjMwNiwiZW4iLCJVUyJdLFs0ODA1MDYyMjU2LCJlbiIsIlVTIl0sWzQ4MTEwNjA1ODUsImVuIiwiVVMiXSxbNDgxMDA1NjY0OCwiZW4iLCJVUyJdLFs0ODExNjY3MjY2LCJlbiIsIlVTIl0sWzQ4MTQxMTc5MTQsImVuIiwiVVMiXSxbNDc4OTI4NzI2NywiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0ODExMTAzMjExLCJlbiIsIlVTIl0sWzQ4MDUzMDkzOTIsImVuIiwiVVMiXSxbNDgxMTIxMzQ0NywiZW4iLCJVUyJdLFs0ODEyOTk2MTA4LCJlbiIsIlVTIl0sWzQ3OTE5NTcwNDIsImVuIiwiVVMiXSxbNDcwNjI3ODU4MiwiZW4iLCJVUyJdLFs0ODE0NjQyMjIyLCJlbiIsIlVTIl0sWzQ4MTQ3NjIzMDYsImVuIiwiVVMiXSxbNDgxMjk3MDExNSwiZW4iLCJVUyJdLFs0ODA1MDYyMjU2LCJlbiIsIlVTIl0sWzQ4MTEwNjA1ODUsImVuIiwiVVMiXSxbNDgxMDA1NjY0OCwiZW4iLCJVUyJdLFs0ODExNjY3MjY2LCJlbiIsIlVTIl0sWzQ4MTQxMTc5MTQsImVuIiwiVVMiXSxbNDc4OTI4NzI2NywiZW4iLCJVUyJdXQ=="
     },
     {
       "query": "layoff",
       "search_volume": 5000,
       "increase": 100,
-      "news_token": "W1s0ODE0OTA2MjM5LCJlbiIsIlVTIl0sWzQ4MTQ0MDg0OTksImVuIiwiVVMiXSxbNDgxMDgxNzE3NSwiZW4iLCJVUyJdLFs0Nzg5MzI1Mjc1LCJlbiIsIlVTIl0sWzQ4MTM3NDkyMTksImVuIiwiVVMiXSxbNDgxMDEzNzE3MiwiZW4iLCJVUyJdLFs0ODA5NTg4NzEzLCJlbiIsIlVTIl0sWzQ4MDY0NzUwMzksImVuIiwiVVMiXSxbNDgxMzEwODA3OSwiZW4iLCJVUyJdLFs0Nzk4MTEwODgyLCJlbiIsIlVTIl1d"
+      "news_token": "W1s0ODE0OTA2MjM5LCJlbiIsIlVTIl0sWzQ4MTQ0MDg0OTksImVuIiwiVVMiXSxbNDgxMDgxNzE3NSwiZW4iLCJVUyJdLFs0Nzg5MzI1Mjc1LCJlbiIsIlVTIl0sWzQ4MTM3NDkyMTksImVuIiwiVVMiXSxbNDgxMDEzNzE3MiwiZW4iLCJVUyJdLFs0ODA2NDc1MDM5LCJlbiIsIlVTIl0sWzQ4MTMxMDgwNzksImVuIiwiVVMiXSxbNDgwOTU4ODcxMywiZW4iLCJVUyJdLFs0Nzk4MTEwODgyLCJlbiIsIlVTIl1d"
     },
     {
       "query": "class action",
       "search_volume": 5000,
       "increase": 100,
-      "news_token": "W1s0ODEzMTkxNjMzLCJlbiIsIlVTIl0sWzQ4MTExNjk2NTksImVuIiwiVVMiXSxbNDgxNTkwNTA0NSwiZW4iLCJVUyJdLFs0ODAyOTk0NDMzLCJlbiIsIlVTIl0sWzQ4MTMzMjk4NjYsImVuIiwiVVMiXSxbNDgxMzUwMzc1NSwiZW4iLCJVUyJdLFs0ODE1MTUzODEzLCJlbiIsIlVTIl0sWzQ3OTc2MjU5NjAsImVuIiwiVVMiXSxbNDgxMzUyMDg0NiwiZW4iLCJVUyJdLFs0ODA0MDg3NDExLCJlbiIsIlVTIl1d"
+      "news_token": "W1s0ODEzMTkxNjMzLCJlbiIsIlVTIl0sWzQ4MTExNjk2NTksImVuIiwiVVMiXSxbNDgwOTY1NjY1OSwiZW4iLCJVUyJdLFs0ODEzMzI5ODY2LCJlbiIsIlVTIl0sWzQ4MDI5OTQ0MzMsImVuIiwiVVMiXSxbNDgxNTE1MzgxMywiZW4iLCJVUyJdLFs0ODEzNTAzNzU1LCJlbiIsIlVTIl0sWzQ3OTc2MjU5NjAsImVuIiwiVVMiXSxbNDgxMzUyMDg0NiwiZW4iLCJVUyJdLFs0ODEzNTU4MDUzLCJlbiIsIlVTIl1d"
     },
     {
       "query": "what is the latest news on donald trump's executive order regarding federal protections for gray and mexican wolves",
@@ -400,16 +376,28 @@
       "news_token": "W1s0ODExNTkzOTU4LCJlbiIsIlVTIl1d"
     },
     {
-      "query": "marvel comics moon knight replacement",
+      "query": "dog",
       "search_volume": 2000,
       "increase": 100,
-      "news_token": "W1s0ODE0NzcyNDM4LCJlbiIsIlVTIl1d"
+      "news_token": "W1s0ODE0ODg0MzIyLCJlbiIsIlVTIl0sWzQ4MTQ3MzAzMDYsImVuIiwiVVMiXSxbNDgwNzc5MjExNSwiZW4iLCJVUyJdLFs0ODE1MzU1ODM3LCJlbiIsIlVTIl0sWzQ4MTU5MjI3MzgsImVuIiwiVVMiXSxbNDgxMTUyMjQ3OCwiZW4iLCJVUyJdLFs0ODA1MjQ0NDM0LCJlbiIsIlVTIl0sWzQ4MTQwNTIyMDMsImVuIiwiVVMiXSxbNDgxNDQ4MjE1NywiZW4iLCJVUyJdLFs0ODE1MDc5OTgyLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "hurricane marie",
+      "search_volume": 2000,
+      "increase": 100,
+      "news_token": "W1s0ODA2MTI4ODUxLCJlbiIsIlVTIl0sWzQ4MDEzNDA0NzQsImVuIiwiVVMiXSxbNDgwNTkyNjYwNywiZW4iLCJVUyJdLFs0ODE0ODA5MDkxLCJlbiIsIlVTIl0sWzQ4MTA2NTQzOTUsImVuIiwiVVMiXSxbNDgxNDc3NDY0MSwiZW4iLCJVUyJdXQ=="
     },
     {
       "query": "gta 6 november 2026 launch",
       "search_volume": 2000,
       "increase": 100,
       "news_token": "W1s0ODAxMDg4ODYzLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "peso mexicano",
+      "search_volume": 2000,
+      "increase": 100,
+      "news_token": "W1s0ODA5MDY1NjMwLCJlcyIsIlVTIl1d"
     },
     {
       "query": "otter",
@@ -427,25 +415,31 @@
       "query": "michael keaton",
       "search_volume": 2000,
       "increase": 100,
-      "news_token": "W1s0ODA4MzkxMDEzLCJlbiIsIlVTIl0sWzQ4MTQxMTUxNjIsImVuIiwiVVMiXSxbNDgxMTIxODAwOCwiZW4iLCJVUyJdLFs0ODA0ODYzMDMzLCJlbiIsIlVTIl1d"
+      "news_token": "W1s0ODA4MzkxMDEzLCJlbiIsIlVTIl0sWzQ4MTQxMTUxNjIsImVuIiwiVVMiXSxbNDgwNDg2MzAzMywiZW4iLCJVUyJdXQ=="
     },
     {
-      "query": "peso mexicano",
+      "query": "donald trump washington dc construction",
       "search_volume": 2000,
       "increase": 100,
-      "news_token": "W1s0ODA5MDY1NjMwLCJlcyIsIlVTIl1d"
+      "news_token": "W1s0ODE0NjI3NTQ2LCJlbiIsIlVTIl0sWzQ3OTcxOTE5NjAsImVuIiwiVVMiXSxbNDc5OTYwODI4OCwiZW4iLCJVUyJdLFs0ODE1MDEwODUxLCJlbiIsIlVTIl0sWzQ4MTMwODMzMTgsImVuIiwiVVMiXV0="
     },
     {
       "query": "miss world 2026",
       "search_volume": 2000,
       "increase": 100,
-      "news_token": "W1s0ODAxOTY2MzkzLCJlbiIsIlVTIl0sWzQ4MDUzNjYwNzIsImVuIiwiVVMiXSxbNDgxMzc1ODI4MywiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0ODAxOTY2MzkzLCJlbiIsIlVTIl0sWzQ4MTU3Mzc2MTQsImVuIiwiVVMiXSxbNDgwNTM2NjA3MiwiZW4iLCJVUyJdLFs0ODEzNzU4MjgzLCJlbiIsIlVTIl1d"
     },
     {
       "query": "mayday movie 2026",
       "search_volume": 2000,
       "increase": 100,
-      "news_token": "W1s0NzgzNTA5ODc0LCJlbiIsIlVTIl0sWzQ3ODY0Mjg0MTIsImVuIiwiVVMiXSxbNDgxMDIzNDk2MSwiZW4iLCJVUyJdLFs0ODEzMTkxNTA1LCJlbiIsIlVTIl0sWzQ4MDI0NTQ4NDEsImVuIiwiVVMiXSxbNDgxMzUxNDkxNywiZW4iLCJVUyJdLFs0ODEyMDA0MTcxLCJlbiIsIlVTIl0sWzQ4MDI0NjA5NjIsImVuIiwiVVMiXV0="
+      "news_token": "W1s0NzgzNTA5ODc0LCJlbiIsIlVTIl0sWzQ3OTk5NDMxODEsImVuIiwiVVMiXSxbNDgxMzM5Nzc3MCwiZW4iLCJVUyJdLFs0Nzg2NDI4NDEyLCJlbiIsIlVTIl0sWzQ4MTAyMzQ5NjEsImVuIiwiVVMiXSxbNDgxMzE5MTUwNSwiZW4iLCJVUyJdLFs0ODAyNDU0ODQxLCJlbiIsIlVTIl0sWzQ4MTM1MTQ5MTcsImVuIiwiVVMiXSxbNDgxMjAwNDE3MSwiZW4iLCJVUyJdLFs0ODAyNDYwOTYyLCJlbiIsIlVTIl1d"
+    },
+    {
+      "query": "cbs",
+      "search_volume": 2000,
+      "increase": 100,
+      "news_token": "W1s0ODExMjc3NzM3LCJlbiIsIlVTIl0sWzQ4MDc5NDIxODAsImVuIiwiVVMiXSxbNDgwMzkwMTI4MywiZW4iLCJVUyJdLFs0ODE1MjUzNDI2LCJlbiIsIlVTIl0sWzQ3OTk2Njc0NzMsImVuIiwiVVMiXSxbNDc5ODQ3ODQxOSwiZW4iLCJVUyJdLFs0ODE0MTM3MjQ2LCJlbiIsIlVTIl1d"
     },
     {
       "query": "fireboat",
@@ -457,13 +451,7 @@
       "query": "xrp",
       "search_volume": 2000,
       "increase": 100,
-      "news_token": "W1s0ODA4ODQ2MjYyLCJlbiIsIlVTIl0sWzQ3OTk2OTU5NzUsImVuIiwiVVMiXSxbNDgxMDYwOTgwMSwiZW4iLCJVUyJdLFs0ODA2NTM0MzAxLCJlbiIsIlVTIl0sWzQ4MTMxMDc5NDksImVuIiwiVVMiXSxbNDgwMTcwNDQxNiwiZW4iLCJVUyJdLFs0ODEwMDMzODc2LCJlbiIsIlVTIl0sWzQ4MDg4NTIxNzQsImVuIiwiVVMiXSxbNDgwMzMxMTQxMCwiZW4iLCJVUyJdLFs0ODA3MjM3NzA0LCJlbiIsIlVTIl0sWzQ4MTEyMTc4NjEsImVuIiwiVVMiXSxbNDgxMTk4MzM2OCwiZW4iLCJVUyJdLFs0ODA5MTMzNDczLCJlbiIsIlVTIl1d"
-    },
-    {
-      "query": "nbc",
-      "search_volume": 2000,
-      "increase": 100,
-      "news_token": "W1s0ODA5NDk4Mjg5LCJlbiIsIlVTIl0sWzQ4MTQxODk3NTAsImVuIiwiVVMiXSxbNDgwOTY2NTYwNSwiZW4iLCJVUyJdLFs0ODEzNDI2Mjk3LCJlbiIsIlVTIl0sWzQ4MTA5NTU2MzksImVuIiwiVVMiXSxbNDgwMzkwMTI4MywiZW4iLCJVUyJdLFs0ODEzODEyMTM5LCJlbiIsIlVTIl0sWzQ4MDUwNDEzODMsImVuIiwiVVMiXSxbNDgxMjgzMDk5OCwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0ODA4ODQ2MjYyLCJlbiIsIlVTIl0sWzQ3ODU3Mjc4NzUsImVuIiwiVVMiXSxbNDgxMDYwOTgwMSwiZW4iLCJVUyJdLFs0ODAzMzQ2NTIwLCJlbiIsIlVTIl0sWzQ4MTU4OTMwMjcsImVuIiwiVVMiXSxbNDgxNTk4MTkyMSwiZW4iLCJVUyJdLFs0ODEzMTA3OTQ5LCJlbiIsIlVTIl0sWzQ4MDUyNjQyMjQsImVuIiwiVVMiXSxbNDgwMzMxMTQxMCwiZW4iLCJVUyJdLFs0ODA4ODQzMDA4LCJlbiIsIlVTIl0sWzQ4MTAwMzM4NzYsImVuIiwiVVMiXSxbNDgwODg1MjE3NCwiZW4iLCJVUyJdLFs0ODA3MjM3NzA0LCJlbiIsIlVTIl1d"
     },
     {
       "query": "doj subpoenas nevada voter data",
@@ -487,7 +475,19 @@
       "query": "ed sheeran metlife",
       "search_volume": 2000,
       "increase": 100,
-      "news_token": "W1s0ODAyNzY4MDU0LCJlbiIsIlVTIl0sWzQ4MTA0NzUwNDYsImVuIiwiVVMiXSxbNDgxMDQ3NDg0OSwiZW4iLCJVUyJdXQ=="
+      "news_token": "W1s0ODEwNDc1MDQ2LCJlbiIsIlVTIl0sWzQ4MDI3NjgwNTQsImVuIiwiVVMiXSxbNDgxMDQ3NDg0OSwiZW4iLCJVUyJdXQ=="
+    },
+    {
+      "query": "prince",
+      "search_volume": 1000,
+      "increase": 100,
+      "news_token": "W1s0ODAwNzIxOTcxLCJlbiIsIlVTIl0sWzQ4MTUxNzE1MTksImVuIiwiVVMiXSxbNDgxMzA3OTk1MSwiZW4iLCJVUyJdLFs0ODA0ODMxMjg1LCJlbiIsIlVTIl0sWzQ4MTEwMDU4MzMsImVuIiwiVVMiXSxbNDgwMzU2MzEwOCwiZW4iLCJVUyJdLFs0ODEzMjExNDIwLCJlbiIsIlVTIl0sWzQ4MDUzNTIwMDEsImVuIiwiVVMiXSxbNDgwMzU2MDg5MywiZW4iLCJVUyJdLFs0NzkxNzM3Mjg1LCJlbiIsIlVTIl0sWzQ4MTQ3ODM0ODYsImVuIiwiVVMiXSxbNDgxMzA3OTc2OSwiZW4iLCJVUyJdLFs0ODEyMTg1NDE3LCJlbiIsIlVTIl0sWzQ4MTM3Mjg2NTQsImVuIiwiVVMiXSxbNDc3Njg4NjQ0NSwiZW4iLCJVUyJdLFs0ODExNjQwNTc5LCJlbiIsIlVTIl0sWzQ3OTY2MDkyOTUsImVuIiwiVVMiXV0="
+    },
+    {
+      "query": "chad powers cast",
+      "search_volume": 1000,
+      "increase": 100,
+      "news_token": "W1s0NzkxMzc3Nzk0LCJlbiIsIlVTIl1d"
     }
   ]
 }
