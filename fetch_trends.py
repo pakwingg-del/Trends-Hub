@@ -58,7 +58,7 @@ def fetch_realtime_trends():
         cleaned_list.sort(key=lambda x: (x["increase"], x["search_volume"]), reverse=True)
 
         # 取 Top 80（比之前 30 多，但 Generator 會自己決定用幾多）
-        top_trends = cleaned_list[:80]
+        top_trends = cleaned_list[:100]
 
         output_data = {
             "matrix_metadata": {
