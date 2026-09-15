@@ -4,11 +4,14 @@
     "categories": [
       "all"
     ],
-    "strategy": "Category-targeted US trends via SerpAPI",
+    "hours": [
+      24
+    ],
+    "strategy": "Category + lookback + optional keyword scoop via SerpAPI",
     "provider": "serpapi",
     "config": {
       "keywords_count": 100,
-      "last_updated_hkt": "2026-09-15 11:42:04"
+      "last_updated_hkt": "2026-09-15 11:50:10"
     }
   },
   "trending_seeds": [
