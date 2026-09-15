@@ -1,4 +1,4 @@
-﻿name: Fetch US Trends (3 times daily)
+name: Fetch US Trends (3 times daily)
 
 on:
   schedule:
@@ -30,8 +30,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto: Update US trend JSON files (SerpAPI)"
-          file_pattern: |
-            master_trends.json
-            trends_finance.json
-            trends_tech.json
-            trends_entertainment.json
+          file_pattern: master_trends.json trends_finance.json trends_tech.json trends_entertainment.json
