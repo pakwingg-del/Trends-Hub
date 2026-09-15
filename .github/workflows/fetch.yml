@@ -1,10 +1,10 @@
-name: Fetch US Trends (3 times daily)
+﻿name: Fetch US Trends (3 times daily)
 
 on:
   schedule:
-    - cron: '0 1 * * *'    # UTC 01:00 → HKT 09:00
-    - cron: '0 6 * * *'    # UTC 06:00 → HKT 14:00
-    - cron: '0 12 * * *'   # UTC 12:00 → HKT 20:00
+    - cron: '0 1 * * *'    # UTC 01:00 -> HKT 09:00
+    - cron: '0 6 * * *'    # UTC 06:00 -> HKT 14:00
+    - cron: '0 12 * * *'   # UTC 12:00 -> HKT 20:00
   workflow_dispatch:
 
 jobs:
@@ -23,11 +23,15 @@ jobs:
 
       - name: Fetch Latest Trends
         env:
-          SEARCHAPI_API_KEY: ${{ secrets.SEARCHAPI_API_KEY }}
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
         run: python fetch_trends.py
 
       - name: Commit & Push Updated Trends
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto: Update master_trends.json (US Market)"
-          file_pattern: master_trends.json
+          commit_message: "Auto: Update US trend JSON files (SerpAPI)"
+          file_pattern: |
+            master_trends.json
+            trends_finance.json
+            trends_tech.json
+            trends_entertainment.json
