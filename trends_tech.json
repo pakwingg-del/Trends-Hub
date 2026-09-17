@@ -14,10 +14,19 @@
     "provider": "serpapi",
     "config": {
       "keywords_count": 80,
-      "last_updated_hkt": "2026-09-17 00:31:36"
+      "last_updated_hkt": "2026-09-17 03:31:31"
     }
   },
   "trending_seeds": [
+    {
+      "query": "craig melvin",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "other"
+      ],
+      "news_token": "n49v4Hica1xTlFpYmlpcEp-SWJJ4h0F88nkGBgZGBdbZHYtS8xaFBkP48s3To5H5ks8tPqLIa787iMxXYKpGUa_AcOAKCl_J8RsKn0c3BMW8p2u2oshLPQtF5kvPn_EARb3PtnZkvtw_yTUo-kH-KShB8EXkNqKod8nZhmLeme0tKPy_txNR1PM-mY8in2CyC4VfEDEXRb1nihuKfNjhYxA-AHSIi6I"
+    },
     {
       "query": "naval support activity bahrain",
       "search_volume": 50000,
@@ -27,6 +36,25 @@
         "politics"
       ],
       "news_token": "Cc7WUHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvlWR65FqXmLQoMhfPE0jkPIfLldnvEQPgDzERbf"
+    },
+    {
+      "query": "sean combs unpaid legal fees",
+      "search_volume": 20000,
+      "increase": 1000,
+      "categories": [
+        "entertainment",
+        "law_and_government"
+      ],
+      "news_token": "4LbZ3Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgVplv2LUvMWhQYDAMsDC-E"
+    },
+    {
+      "query": "hailey bills",
+      "search_volume": 20000,
+      "increase": 1000,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "VaOGQHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvkN-rsWpeYtCg2G8rtsOyF8AMa-Ei0"
     },
     {
       "query": "apple tv last seen series",
@@ -56,16 +84,6 @@
       "news_token": "35ffXHica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG-WfaEotS8xaFBkP5aYbZyHy5nR_KUeQ_r3qDwvfN_IXCf3P1HQr_vlwwCn9pvSUK_4VWFyqfXQSF_2XjNRT-Df9QVL4VNwo_aMEHFP4CCR4U_rHnBqjm12Si-e8gqvnqqPYtdXmBwr9T-wiFf33jDRT-Y_MjKPx2Q0EIHwDJeZXv"
     },
     {
-      "query": "sean combs unpaid legal fees",
-      "search_volume": 10000,
-      "increase": 1000,
-      "categories": [
-        "entertainment",
-        "law_and_government"
-      ],
-      "news_token": "4LbZ3Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgVplv2LUvMWhQYDAMsDC-E"
-    },
-    {
       "query": "remain movie",
       "search_volume": 5000,
       "increase": 1000,
@@ -73,15 +91,6 @@
         "entertainment"
       ],
       "news_token": "vwNg7Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnl3p_-LUvMWhQZD-aX6Vch8uY4_KHx5vndmKPymP5tQ-LPyV6LoP1nNAuEDAAkeL4w"
-    },
-    {
-      "query": "flock cameras",
-      "search_volume": 5000,
-      "increase": 900,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "DMh9NHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvmeR_GLUvMWhQZD-bliX1D4ZwOXI_MVROUXosgv_TkBRZ7DdTKK_O-FySj8ZQKz0eQPo_B3cPhD-ACgtEEA"
     },
     {
       "query": "sony playstation",
@@ -129,6 +138,15 @@
         "technology"
       ],
       "news_token": "rGYsaHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRvlcy7mLUvMWhQZD-HLqnvOR-fIMK1tR-EeWPkZR_9qpGIVf-3gnivqFPhNR-L1vP6GoL910GEVeTPgVinzlDUkIHwDaKEdn"
+    },
+    {
+      "query": "flock cameras",
+      "search_volume": 10000,
+      "increase": 600,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "HLhkz3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG-Z5H8YtS8xaFBkP4ChyrOJD58g1PdFD4P6eFovBPHd2Jol8h8i8KX_VeIor6ibkpKPIqrD2o9rtORlH_e-FhFP4ygdko_KovZij8HRz-yHyZbQHfUfinbz-A8AFjQGQl"
     },
     {
       "query": "discord outage",
@@ -211,7 +229,7 @@
         "games",
         "entertainment"
       ],
-      "news_token": "hirnbHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrldnmWLUvMWhQZD-Aoy8rOR-fI1OkzIfOnrhdtR5BO_8aHwHyzPQzFPcYE6Cp-_4haK-ideMij8fy9PQPgAzjA_5g"
+      "news_token": "m1w90Xica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrldnmWLUvMWhQZD-PJzTkoi8xVk5GejyNfoMCHzpa8XbkeRf7A8D4X_7-UJFPMU7OJR-PwVt1DUP_GSgfABJ3Y_1A"
     },
     {
       "query": "steam frame",
@@ -244,16 +262,6 @@
       "news_token": "taYJaHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRvnzDy8uSs1bFBoM5bs3b0XhHw49g8LfLfcHhb_QZyIKX79yJTJf7sE2e2S-THHAdWS-7LSPb5D5wry3XZH5opGB25D5Uks7NSF8AHjeTgU"
     },
     {
-      "query": "physint",
-      "search_volume": 20000,
-      "increase": 400,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "p_9SHHica1xTlFpYmlpcEp-SWJJ4h0F68nkGBgZGeY_7Txel5i0KDYbw5UKUlyHz5fufF6Pwo7cro_Abfhah8Nv9P6OY9yIjGIW_ILgWRX3f6gwUfov8PhR-0MoYFP1z1EtQ5F0uKKHIrzd2RHWf_SZkvszy2RNR5DUvzUfh6-fcRzHPzlcahf_JrxVFfetNBRT5B9vsUfhpm7-h8HsuKKLoF09rR-bLspcloMiD4qcsE8gHAOz9ooU"
-    },
-    {
       "query": "technology news",
       "search_volume": 10000,
       "increase": 400,
@@ -271,15 +279,6 @@
         "other"
       ],
       "news_token": "PTDKdHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvmiVUmLUvMWhQZD-XvWbkPhz1T4isLfeSMSmS_3Z_cJZL5M1tVNKPJbr_kj88XTNJsgfADQwTdT"
-    },
-    {
-      "query": "predictive intelligence targeting teams",
-      "search_volume": 10000,
-      "increase": 400,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "ItX2N3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRnlnSYlFqXmLQoMByHgLdg"
     },
     {
       "query": "salesforce outage",
@@ -336,7 +335,7 @@
       "categories": [
         "technology"
       ],
-      "news_token": "Yo_H1Xica1xTlFpYmlpcEp-SWJJ4h8Fg8nkGBgZG-UBvh0WpeYtCg6H8o4ZJyHzZH5eeocgv6JNG4dsn9aPwt4jPQ-HXT7uMwt9c5obC9_gTisyXu3T4CYr8rihuFP5ETlcU_vcfM1H4bTNVkfkKTOGtKPKP75qiyDPGsaPI_48KQZFnuCyKIv_2x04UvpSqJIr7t1Sg2C9zdm8uivonHu9R1c95iRLepzM4UeRnHDmIwt81JRHFvO5NTCj2qay5iSK_LeACCj_TSA2Fr5ioiMLP6KhHjf80WxT5V28mooSP3CEU9fJrOPNR-N-OlKLwD1eWoeiXrzqCwuf9uxaZL9W77ACqfpFHKOHxd-oZFPlFzftR5O9loIb_xj3NED4AONIfZg"
+      "news_token": "0Y_mtnica1xTlFpYmlpcEp-SWJJ4h8Fg8nkGBgZG-UBvh0WpeYtCg6H8o4ZJyHzZH5eeocgv6JNG4dsn9aPwt4jPQ-HXT7uMwt9c5obC9_gTisyXu3T4CYr8rihuFP5ETlcU_vcfM1H4bTNVkfkKTOGtKPKP75qiyDPGsaPI_48KQZFnuCyKIv_2x04UvpSqJIr7t1Sg2C9zdm8uivonHu9R1c95iRLepzM4UeRnHDmIwt81JRHFvO5NTCj2qay5iSK_LeACCj_TSA2Fr5ioiMLP6KhHjf80WxT5V28mooSP3CEU9fJrOPNR-N-OlKLwD1eWoeiXZtVB4fP-XYvMl-pddgBVv8gjlPD4O_UMivyi5v0o8vcyUMN_455mCB8AuV8eVQ"
     },
     {
       "query": "blizzcon",
@@ -406,13 +405,13 @@
       "news_token": "hqELXXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvnGqsuLUvMWhQZD-WV_b6LwN4T_QuFvNzRD5ss9Tn2MIr_8x2cU_ubDtSh8uW39KPyOkysgfACqCz5W"
     },
     {
-      "query": "prince sultan air base damage photos",
+      "query": "traitors",
       "search_volume": 5000,
       "increase": 300,
       "categories": [
-        "law_and_government"
+        "entertainment"
       ],
-      "news_token": "YhQxq3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvm8GWsXpeYtCg2G8vcc6ofwAc8NEwQ"
+      "news_token": "01EWUnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRnmuL-WLUvMWhQZD-e-qkpD5cucO5iLzFeTnb0Lhix2pQOGrcy1FMa_LthOFv-HUK2S-jPLWBAgfALK4OtA"
     },
     {
       "query": "royal canadian air force cruise rescue",
@@ -434,34 +433,6 @@
       "news_token": "T6R433ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvl1Op8XpeYtCg2G8GV_XHqGzJe_vTsEmS_3sp4XRb7u7y0U_unPS1D4mUZqED4Ay2Mx3w"
     },
     {
-      "query": "donald trump marquette poll approval",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "yjL0ZHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvnj-o8XpeYtCg2G8l8u6oPwAdNOEzY"
-    },
-    {
-      "query": "delta air lines long haul cuts",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "O0QC93ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXmNp9FqXmLQoMByxYL2A"
-    },
-    {
-      "query": "hailey bills",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "d7hqCXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvkN-rsWpeYtCg0GANFrDJs"
-    },
-    {
       "query": "heroes of the storm",
       "search_volume": 1000,
       "increase": 300,
@@ -472,13 +443,13 @@
     },
     {
       "query": "wolverine game",
-      "search_volume": 200000,
+      "search_volume": 100000,
       "increase": 200,
       "categories": [
         "entertainment",
         "games"
       ],
-      "news_token": "TvjYrHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG-aCVMYtS8xaFBkP5pwqDUPhbz-mi8KUdbyLzZZbPnojCX7VnATJf5JSFOjJfTqv6EIp5y9sFUPiT1eJQ1JuoGaPw___cg6L-kUcaMl9B5hOq-dphj1DkFaYqo8g_vLoShf_3dBuEDwBbbG-u"
+      "news_token": "JQ3tEXica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG-aCVMYtS8xaFBkP5pwqDUPhbz-mi8KUdbyLzZZbPnojCX7VnATJf5JSFOjJfTqv6EIp5y9sFUPiT1eJQ1JuoGaPw___cg6L-kUcaCv_h1ZXIfAWFqcoofJlPqPb_Pd0G4QMAtY9qCQ"
     },
     {
       "query": "tesla roadster",
@@ -490,32 +461,13 @@
       "news_token": "SCDL_nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvkd_KmLUvMWhQYDAM5gDC4"
     },
     {
-      "query": "apple foldable iphone duo",
-      "search_volume": 20000,
-      "increase": 200,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "zC1Wsnica1xTlFpYmlpcEp-SWJI4f_J5BgYGRtkfl54tSs1bFBoM4cs7KYqh8Dtr_VH4pb_LUfjSC9qR-XKXjFJQ5DN9JqHyjdRQ-P6ZZij6t0VvReHPde5F5sso-nChyG9VQFEvn2KhgsJvzXWF8AE4olnF"
-    },
-    {
       "query": "fire emblem fortune's weave",
       "search_volume": 20000,
       "increase": 200,
       "categories": [
         "games"
       ],
-      "news_token": "TUIHaXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRnnBKWsWpeYtCg2G8GXOLWlB5ks_97wB4QMAHrAYzg"
-    },
-    {
-      "query": "pokemon 30th celebration etb deal",
-      "search_volume": 20000,
-      "increase": 200,
-      "categories": [
-        "games",
-        "entertainment"
-      ],
-      "news_token": "T6krFXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrldnmWLUvMWhQZD-Aoy8rOR-fI1OkzIfOnrhdtR5BO_8aHwHyzPQzFPcYE6hA8Am9QtxQ"
+      "news_token": "TldQB3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRnnBKWsWpeYtCg2G8BVUwk4j82XOLWlB5ks_97wB4QMAv60eVg"
     },
     {
       "query": "aimee osbourne",
@@ -524,7 +476,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "_19hgHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvmPdi6LUvMWhQZD-AqM1YXIfPm8GXdQ-JGtnsh8uRrLZGS-9HY7KxT1X8xLUMxXfqoF4QMAujwzTg"
+      "news_token": "5-0DJHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvmPdi6LUvMWhQZD-AqM1YXIfPnIVk8Uft6MO8h8uRrLZGS-9HY7KxT1X8xLIHwApckt2Q"
     },
     {
       "query": "crypto daily",
@@ -553,6 +505,16 @@
         "entertainment"
       ],
       "news_token": "4o1-zXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvmTqfMXpeYtCg2G8vN2hEL4AM1CEow"
+    },
+    {
+      "query": "rgb mew",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "entertainment"
+      ],
+      "news_token": "s4TvKnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRrldnmWLUvMWhQZD-PJzTkoi8xVk5GejyNfoMCHzpa8XbkeRf7A8D4X_7-UJFPMU7OIhfADfyTSk"
     },
     {
       "query": "california creek ancient mastodon fossil",
@@ -638,6 +600,33 @@
       "news_token": "jCYSlnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvk-v9hFqXmLQoOh_IWXr6LwZ2vooPArJu2H8AHJxx4C"
     },
     {
+      "query": "multiverse reforged commander decklist",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "games"
+      ],
+      "news_token": "MrX1A3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgW5Ws5FqXmLQoMByewLpw"
+    },
+    {
+      "query": "donald trump marquette poll approval",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "politics"
+      ],
+      "news_token": "D2yBVXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvmXi_oWpeYtCg2G8o_rP4bwAddOEzY"
+    },
+    {
+      "query": "prince sultan air base damage photos",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "YhQxq3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvm8GWsXpeYtCg2G8vcc6ofwAc8NEwQ"
+    },
+    {
       "query": "southwest airlines atlanta route cuts",
       "search_volume": 5000,
       "increase": 200,
@@ -648,22 +637,13 @@
       "news_token": "LRSJQnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvkdZj8XpeYtCg0GANOkDOk"
     },
     {
-      "query": "multiverse reforged commander decklist",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "games"
-      ],
-      "news_token": "MrX1A3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgW5Ws5FqXmLQoMByewLpw"
-    },
-    {
       "query": "is league down",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
         "games"
       ],
-      "news_token": "6-ZWBXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXWO5mLUvMWhQYDAM6jDE0"
+      "news_token": "rya2p3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgXWO5mLUvMWhQZD-HILcs4j8-UPrt6Awv90sAKFv_FVPYQPAAEsJZA"
     },
     {
       "query": "final fantasy 7: revelation",
@@ -682,6 +662,25 @@
         "games"
       ],
       "news_token": "5LDqV3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvmFKwUXpaQuCg2G8OVCtyej8E_vMofwARCHF-w"
+    },
+    {
+      "query": "traitors new season",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "WBfuAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrlzB3MXpeYtCg0GANTkDP0"
+    },
+    {
+      "query": "delta air lines long haul cuts",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "O0QC93ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXmNp9FqXmLQoMByxYL2A"
     },
     {
       "query": "2025 georgia hyundai plant immigration raid",
