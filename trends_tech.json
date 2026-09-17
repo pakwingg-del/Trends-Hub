@@ -14,7 +14,7 @@
     "provider": "serpapi",
     "config": {
       "keywords_count": 80,
-      "last_updated_hkt": "2026-09-16 21:31:30"
+      "last_updated_hkt": "2026-09-17 00:31:36"
     }
   },
   "trending_seeds": [
@@ -30,7 +30,7 @@
     },
     {
       "query": "apple tv last seen series",
-      "search_volume": 50000,
+      "search_volume": 20000,
       "increase": 1000,
       "categories": [
         "entertainment"
@@ -57,7 +57,7 @@
     },
     {
       "query": "sean combs unpaid legal fees",
-      "search_volume": 5000,
+      "search_volume": 10000,
       "increase": 1000,
       "categories": [
         "entertainment",
@@ -73,6 +73,15 @@
         "entertainment"
       ],
       "news_token": "vwNg7Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnl3p_-LUvMWhQZD-aX6Vch8uY4_KHx5vndmKPymP5tQ-LPyV6LoP1nNAuEDAAkeL4w"
+    },
+    {
+      "query": "flock cameras",
+      "search_volume": 5000,
+      "increase": 900,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "DMh9NHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvmeR_GLUvMWhQZD-bliX1D4ZwOXI_MVROUXosgv_TkBRZ7DdTKK_O-FySj8ZQKz0eQPo_B3cPhD-ACgtEEA"
     },
     {
       "query": "sony playstation",
@@ -195,6 +204,16 @@
       "news_token": "EMXLqHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvmj_WcXpeYtCg2G8qO3KyPzZdmbniLz5XouKKKo17w0H8IHAOhkI-I"
     },
     {
+      "query": "30th anniversary pokemon",
+      "search_volume": 50000,
+      "increase": 400,
+      "categories": [
+        "games",
+        "entertainment"
+      ],
+      "news_token": "hirnbHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrldnmWLUvMWhQZD-Aoy8rOR-fI1OkzIfOnrhdtR5BO_8aHwHyzPQzFPcYE6Cp-_4haK-ideMij8fy9PQPgAzjA_5g"
+    },
+    {
       "query": "steam frame",
       "search_volume": 20000,
       "increase": 400,
@@ -263,6 +282,16 @@
       "news_token": "ItX2N3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRnlnSYlFqXmLQoMByHgLdg"
     },
     {
+      "query": "salesforce outage",
+      "search_volume": 5000,
+      "increase": 400,
+      "categories": [
+        "technology",
+        "business_and_finance"
+      ],
+      "news_token": "3Nz4vHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgX-hSqLUvMWhQYDAMtCC9c"
+    },
+    {
       "query": "iptv",
       "search_volume": 5000,
       "increase": 400,
@@ -280,16 +309,6 @@
         "entertainment"
       ],
       "news_token": "WJOLzHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgUJsbpFqXmLQoMhfPku204U_iV_KQgfAPAWFr4"
-    },
-    {
-      "query": "delta air lines long haul cuts",
-      "search_volume": 2000,
-      "increase": 400,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "O0QC93ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXmNp9FqXmLQoMByxYL2A"
     },
     {
       "query": "kaia gerber",
@@ -327,16 +346,6 @@
         "games"
       ],
       "news_token": "F8nWu3ica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG-dXz5y1KzVsUGgzlb99mg8I_bXUXmS-3_PhqFPkdcn2ofA5-VPPuLUfhV3XxoMp_-YDCn_1FDMW-Wf9DUPhP335Ftc_AG4V_uSQZmS9lvvkoiry3mgQK_8TRpRA-APvebKw"
-    },
-    {
-      "query": "30th anniversary pokemon",
-      "search_volume": 50000,
-      "increase": 300,
-      "categories": [
-        "games",
-        "entertainment"
-      ],
-      "news_token": "Ww9UR3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRrldnmWLUvMWhQZD-Aoy8rOR-fI1OkzIfOnrhdtR5BO_8aHwHyzPQzGPv-IWivwTLxkU_r-XJyB8ACN8Ors"
     },
     {
       "query": "doctrine overwatch",
@@ -397,6 +406,15 @@
       "news_token": "hqELXXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvnGqsuLUvMWhQZD-WV_b6LwN4T_QuFvNzRD5ss9Tn2MIr_8x2cU_ubDtSh8uW39KPyOkysgfACqCz5W"
     },
     {
+      "query": "prince sultan air base damage photos",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "YhQxq3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvm8GWsXpeYtCg2G8vcc6ofwAc8NEwQ"
+    },
+    {
       "query": "royal canadian air force cruise rescue",
       "search_volume": 5000,
       "increase": 300,
@@ -414,6 +432,25 @@
         "science"
       ],
       "news_token": "T6R433ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvl1Op8XpeYtCg2G8GV_XHqGzJe_vTsEmS_3sp4XRb7u7y0U_unPS1D4mUZqED4Ay2Mx3w"
+    },
+    {
+      "query": "donald trump marquette poll approval",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "politics"
+      ],
+      "news_token": "yjL0ZHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvnj-o8XpeYtCg2G8l8u6oPwAdNOEzY"
+    },
+    {
+      "query": "delta air lines long haul cuts",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "O0QC93ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXmNp9FqXmLQoMByxYL2A"
     },
     {
       "query": "hailey bills",
@@ -441,7 +478,7 @@
         "entertainment",
         "games"
       ],
-      "news_token": "KR7xKXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG-aCVMYtS8xaFBkP5pwqDUPhbz-mi8KUdbyLzZZbPnojCX7VnATJf5JSFOjJfTqv6EIp5y9sFUPiT1eJQ1JuoGaPw___cg6L-zuxjyHwFmU-o5j-8uhKF_-baLRT1ClOVUeT_nm6D8AHwT3GU"
+      "news_token": "TvjYrHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG-aCVMYtS8xaFBkP5pwqDUPhbz-mi8KUdbyLzZZbPnojCX7VnATJf5JSFOjJfTqv6EIp5y9sFUPiT1eJQ1JuoGaPw___cg6L-kUcaMl9B5hOq-dphj1DkFaYqo8g_vLoShf_3dBuEDwBbbG-u"
     },
     {
       "query": "tesla roadster",
@@ -462,6 +499,34 @@
       "news_token": "zC1Wsnica1xTlFpYmlpcEp-SWJI4f_J5BgYGRtkfl54tSs1bFBoM4cs7KYqh8Dtr_VH4pb_LUfjSC9qR-XKXjFJQ5DN9JqHyjdRQ-P6ZZij6t0VvReHPde5F5sso-nChyG9VQFEvn2KhgsJvzXWF8AE4olnF"
     },
     {
+      "query": "fire emblem fortune's weave",
+      "search_volume": 20000,
+      "increase": 200,
+      "categories": [
+        "games"
+      ],
+      "news_token": "TUIHaXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRnnBKWsWpeYtCg2G8GXOLWlB5ks_97wB4QMAHrAYzg"
+    },
+    {
+      "query": "pokemon 30th celebration etb deal",
+      "search_volume": 20000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "entertainment"
+      ],
+      "news_token": "T6krFXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrldnmWLUvMWhQZD-Aoy8rOR-fI1OkzIfOnrhdtR5BO_8aHwHyzPQzFPcYE6hA8Am9QtxQ"
+    },
+    {
+      "query": "aimee osbourne",
+      "search_volume": 20000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "_19hgHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvmPdi6LUvMWhQZD-AqM1YXIfPm8GXdQ-JGtnsh8uRrLZGS-9HY7KxT1X8xLUMxXfqoF4QMAujwzTg"
+    },
+    {
       "query": "crypto daily",
       "search_volume": 20000,
       "increase": 200,
@@ -469,16 +534,6 @@
         "business_and_finance"
       ],
       "news_token": "gS1mInica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvlnWgKLUvMWhQZD-XuC1FD4rRNuQPgABdEXxw"
-    },
-    {
-      "query": "carl j. nichols mail ballot ruling",
-      "search_volume": 20000,
-      "increase": 200,
-      "categories": [
-        "politics",
-        "law_and_government"
-      ],
-      "news_token": "bCDQfnica1xTlFpYmlpcEp-SWJJ4h0F38nkGBgZG-ZayL4tS8xaFBkP4CqyzO5D58n9vJ6LIy17diiLfL5iFwr9Z3o2iXi7iFYq8n30-qn073qLIr-FEkZf_OW0Jinq25w-Q-XIuOdtQ1O91eo_Cf2G2CYWvve0TCv_lotko_P-_fqHw51vfRuHfzRJHsX_PoUYU-bbf3ij8a1ceofCXvmVDlf9jhRoeE6ah8Fk-bUZRL5fIjcJPMNmFwj966wQKf8-hflT3yUqhuH_1T3cU-WJPYxR-RMFS1PBiRvG_fPwvVP-tSN6PYv665CMo8g-_KaCat5gFhd_c-RmFX_AYJXx5Lb_lophvfSETwgcAEZgSMw"
     },
     {
       "query": "nvidia rtx 5090",
@@ -498,25 +553,6 @@
         "entertainment"
       ],
       "news_token": "4o1-zXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvmTqfMXpeYtCg2G8vN2hEL4AM1CEow"
-    },
-    {
-      "query": "pokemon 30th celebration etb deal",
-      "search_volume": 10000,
-      "increase": 200,
-      "categories": [
-        "games",
-        "entertainment"
-      ],
-      "news_token": "vMaYtHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrldnmWLUvMWhQZD-Aoy8rOR-fI1OkzIfOnrhdtR5BO_8aHwHyzPg_AB6WAomg"
-    },
-    {
-      "query": "fire emblem fortune's weave",
-      "search_volume": 10000,
-      "increase": 200,
-      "categories": [
-        "games"
-      ],
-      "news_token": "TUIHaXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRnnBKWsWpeYtCg2G8GXOLWlB5ks_97wB4QMAHrAYzg"
     },
     {
       "query": "california creek ancient mastodon fossil",
@@ -544,6 +580,16 @@
         "science"
       ],
       "news_token": "N-LPsHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRnkXs9xFqXmLQoOh_DQjUxR-yjoDFH63rRMK_34uOwo_wM8a1byMH8h8mYOP96LwU5__QuEvKU-F8AFmvz9k"
+    },
+    {
+      "query": "carl j. nichols mail ballot ruling",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "politics",
+        "law_and_government"
+      ],
+      "news_token": "OIIbLXica1xTlFpYmlpcEp-SWJJ4h0Fu8nkGBgZG-ZayL4tS8xaFBkP5L8w2ofC1t31C4b9cNBuF___XLxT-fOvbKPy7WeLIfLk9hxpR5Nt-e6Pwr115hMJf-pYNVf6PFTJfgXXCNBQ-y6fNKOrlErlR-Akmu1D4R2-dQOHvOdSP6j5ZKRT3r_7pjiJf7GmMwo8oWIoaXswo_peP_4XqvxXJ-1HMX5d8BEX-4TcFVPMWs6Dwmzs_o_ALHkPDFwC4Lbra"
     },
     {
       "query": "dan caine",
@@ -602,6 +648,15 @@
       "news_token": "LRSJQnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvkdZj8XpeYtCg0GANOkDOk"
     },
     {
+      "query": "multiverse reforged commander decklist",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "games"
+      ],
+      "news_token": "MrX1A3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgW5Ws5FqXmLQoMByewLpw"
+    },
+    {
       "query": "is league down",
       "search_volume": 2000,
       "increase": 200,
@@ -629,13 +684,13 @@
       "news_token": "5LDqV3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvmFKwUXpaQuCg2G8OVCtyej8E_vMofwARCHF-w"
     },
     {
-      "query": "curiosity rover",
+      "query": "2025 georgia hyundai plant immigration raid",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "science"
+        "law_and_government"
       ],
-      "news_token": "C2fvAHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvmmLJlFqXmLQoOhfOdYQxT-0fjryHyZ5F1HkfnSHnZ2yHzZBKm5KPKSp90hfACWhS09"
+      "news_token": "sjtsGXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmFk_gWpeYtCg0GAM9IDEM"
     },
     {
       "query": "military aid",
@@ -646,15 +701,6 @@
         "law_and_government"
       ],
       "news_token": "IyfOmnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvm_WnKLUvMWhQYDAM-0DEc"
-    },
-    {
-      "query": "2025 georgia hyundai plant immigration raid",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "sjtsGXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmFk_gWpeYtCg0GAM9IDEM"
     },
     {
       "query": "air traffic control",
@@ -719,52 +765,6 @@
         "science"
       ],
       "news_token": "Yy5Y8nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvk0I9NFqXmLQoMBy0YLzw"
-    },
-    {
-      "query": "jessica chastain",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "324LKnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRnnNE3aLUvMWhQYDAM4QDDE"
-    },
-    {
-      "query": "jennifer lopez chai latte nails",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "beauty_and_fashion"
-      ],
-      "news_token": "JfrbTnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRnkXs3uLUvMWhQYDAM7TDFo"
-    },
-    {
-      "query": "intel stock",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "qMQ2yHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrmtCssXpeYtCg2G8OXLHnQj8-W2_H2BIu8u3IXCL7mci8LPf1QI4QMAefYqmg"
-    },
-    {
-      "query": "riot",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "games",
-        "shopping"
-      ],
-      "news_token": "LW9Q6nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvnH7C6LUvMWhQZD-ac-zkTh_zu2AoX_Z_dHFP6bghZkvoKE010U-ZrnXijyQlH6KHyGLy8gfACN6Tzm"
-    },
-    {
-      "query": "against",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "_xB79nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvmSCdqLUvMWhQZD-AqKmszIfHkPwx0ofNmXCij87cvCUPRzMFxF4cvOCkXhM4uro-ivkbSA8AFMBDWT"
     }
   ]
 }
