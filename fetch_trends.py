@@ -48,7 +48,8 @@ SOURCES = [
     {
         "id": "tech",
         "output": "trends_tech.json",
-        # One tech window only — games/science x 168h burned ~6 calls for little gain.
+        # One tech window only; also daily-only (outside cron is 4x/day for other niches).
+        "min_hours_between_fetches": 20,
         "categories": ["technology"],
         "hours": [24],
         "top_n": 80,
@@ -217,6 +218,44 @@ def existing_seed_count(path: str) -> int:
         return 0
 
 
+
+def hours_since_update(path: str):
+    """Hours since matrix_metadata.config.last_updated_hkt (naive local), or None."""
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        stamp = (
+            ((data.get("matrix_metadata") or {}).get("config") or {}).get("last_updated_hkt")
+            or ""
+        ).strip()
+        if not stamp:
+            return None
+        then = datetime.strptime(stamp, "%Y-%m-%d %H:%M:%S")
+        return (datetime.now() - then).total_seconds() / 3600.0
+    except Exception:
+        return None
+
+
+def should_fetch_source(source: dict, force_ids: set) -> bool:
+    """Tech is daily-only; other sources run every outside dispatch."""
+    sid = source.get("id") or ""
+    if sid in force_ids:
+        return True
+    max_age = source.get("min_hours_between_fetches")
+    if not max_age:
+        return True
+    age = hours_since_update(source["output"])
+    if age is None:
+        print(f"  -> {sid}: no prior stamp — will fetch")
+        return True
+    if age >= float(max_age):
+        print(f"  -> {sid}: last update {age:.1f}h ago (>= {max_age}h) — will fetch")
+        return True
+    print(f"  -> {sid}: skipped (last update {age:.1f}h ago; daily-only, need >= {max_age}h)")
+    return False
+
 def write_output(path: str, output_data: dict) -> bool:
     seeds = output_data.get("trending_seeds") or []
     prev = existing_seed_count(path)
@@ -291,6 +330,11 @@ def main():
         default=None,
         help="Only build one source id, e.g. finance / tech / entertainment / general",
     )
+    parser.add_argument(
+        "--force-tech",
+        action="store_true",
+        help="Fetch tech even if updated within min_hours_between_fetches",
+    )
     args = parser.parse_args()
 
     api_key = os.getenv("SERPAPI_API_KEY")
@@ -314,8 +358,15 @@ def main():
             print(f"  !! Could not prefetch all pool for scoop: {e}")
             all_pool_raw = []
 
+    force_ids = set()
+    if args.force_tech or os.getenv("FORCE_TECH", "").strip() in ("1", "true", "yes"):
+        force_ids.add("tech")
+
     seed_counts = []
     for source in targets:
+        if not should_fetch_source(source, force_ids):
+            seed_counts.append(existing_seed_count(source["output"]))
+            continue
         seed_counts.append(build_one_source(api_key, source, all_pool_raw=all_pool_raw))
 
     total = sum(seed_counts)

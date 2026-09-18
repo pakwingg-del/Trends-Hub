@@ -1,8 +1,8 @@
 name: Fetch US Trends
 
-# Driven by outside workflow_dispatch (e.g. UTC 00/03/06/21 via
-# POST .../actions/workflows/fetch.yml/dispatches). No in-repo cron —
-# that previously stacked with the outside schedule (HKT 09/14/20).
+# Outside schedule POSTs workflow_dispatch ~UTC 00/03/06/21 (4x/day).
+# No in-repo cron (that used to stack HKT 09/14/20 on top).
+# Tech SerpAPI is daily-only inside fetch_trends.py; other niches run every dispatch.
 on:
   workflow_dispatch:
   repository_dispatch:
