@@ -239,14 +239,17 @@ def hours_since_update(path: str):
 
 
 def should_fetch_source(source: dict, force_ids: set) -> bool:
-    """Tech is daily-only; other sources run every outside dispatch."""
+    """Tech is daily-only; other sources run every outside dispatch. Empty seed files always refetch so quota recovery is not stuck behind the age gate."""
     sid = source.get("id") or ""
     if sid in force_ids:
         return True
     max_age = source.get("min_hours_between_fetches")
     if not max_age:
         return True
-    age = hours_since_update(source["output"])
+    if existing_seed_count(source["output"]) == 0:
+                print(f"  -> {sid}: prior file empty — will fetch")
+                return True
+            age = hours_since_update(source["output"])
     if age is None:
         print(f"  -> {sid}: no prior stamp — will fetch")
         return True
