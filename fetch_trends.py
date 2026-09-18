@@ -247,9 +247,9 @@ def should_fetch_source(source: dict, force_ids: set) -> bool:
     if not max_age:
         return True
     if existing_seed_count(source["output"]) == 0:
-                print(f"  -> {sid}: prior file empty — will fetch")
-                return True
-            age = hours_since_update(source["output"])
+        print(f"  -> {sid}: prior file empty — will fetch")
+        return True
+    age = hours_since_update(source["output"])
     if age is None:
         print(f"  -> {sid}: no prior stamp — will fetch")
         return True
