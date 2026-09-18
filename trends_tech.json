@@ -2,20 +2,130 @@
   "matrix_metadata": {
     "source_id": "tech",
     "categories": [
-      "technology",
-      "games",
-      "science"
+      "technology"
     ],
     "hours": [
-      24,
-      168
+      24
     ],
-    "strategy": "Category + lookback + optional keyword scoop via SerpAPI",
+    "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 0,
-      "last_updated_hkt": "2026-09-18 10:43:45"
+      "keywords_count": 12,
+      "fetch_errors": 0,
+      "last_updated_hkt": "2026-09-18 21:30:53"
     }
   },
-  "trending_seeds": []
+  "trending_seeds": [
+    {
+      "query": "iphone 15 pro to buy",
+      "search_volume": 5000,
+      "increase": 500,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "sWaTq3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRgX5kH2LUvMWhQZD-LKPLCcj8xV0BO4j8-VXakqi8J94vEdRHzs5EoVvZdWGor7lzx0U-35ceoYin2mkhqI_eNJEFPnbu0NQ-Kc_L0Hmy3Q5fkGRr_t7C8IHAAjFX4I"
+    },
+    {
+      "query": "artificial intelligence news",
+      "search_volume": 2000,
+      "increase": 500,
+      "categories": [
+        "science"
+      ],
+      "news_token": "w0EMknica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGBbluoUWpeYtCgyF8edmXCsh8haCbrSh8R69aFL4ix0kUPrOSOArfWSMAxfwNaadR-J-euqDKbxRB0e_TtQlFfq3XTBR5K81EFL5B7CcUfqSADArf768jink_Mh6jyPuGxKLwIywqUfh89pcgfAA5SHUK"
+    },
+    {
+      "query": "heathrow airport",
+      "search_volume": 10000,
+      "increase": 400,
+      "categories": [
+        "other"
+      ],
+      "news_token": "9vb7-nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgXPyXsWpeYtCg2G8t1fWqPwA68Yo_ANi9-i8DU5jyPz5eZU3kWRD_l7E4UvsvoninrOXT4QPgCW1Drf"
+    },
+    {
+      "query": "traitors new blood",
+      "search_volume": 20000,
+      "increase": 300,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "KBNQ4nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrlzB3MXpeYtCg2G8OW5vpSj8Dc2-SDzZZS3JkD4ANvmHew"
+    },
+    {
+      "query": "irgc captured american underwater drone",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "technology",
+        "hobbies_and_leisure",
+        "shopping"
+      ],
+      "news_token": "UFSgvHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXw6ZMXpeYtCg2G8OUTOeIgfADAIBGN"
+    },
+    {
+      "query": "what did stanford researchers discover about the human brain being two separate organs",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "science"
+      ],
+      "news_token": "wUcRvXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgVfC6tFqXmLQoMBysILwg"
+    },
+    {
+      "query": "sara haines",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "qdA5hHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgWpZ9MWpeYtCg0GANDrDJk"
+    },
+    {
+      "query": "airlines",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "AhZnEXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRoXA_92LUvMWhQZD-RFuiSj8IGFJFL5SljQKP0qtHYXvOXkPqvzslaj8Ey9R-FKGh1H49m9rUN1zIAKFH1CkjcyXvxd0BtV8ng0o8rdjjSB8AFnPWoE"
+    },
+    {
+      "query": "sway uk rapper",
+      "search_volume": 10000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "4zBdRHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgULk2-LUvMWhQYDAM8JDGU"
+    },
+    {
+      "query": "elon musk memphis airstream trailer",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "qunhinica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvkfKyYuSs1bFBoMANacDTM"
+    },
+    {
+      "query": "chase sapphire reserve 10th anniversary",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "shopping"
+      ],
+      "news_token": "vgVZGHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrlZ4qKLUvMWhQYDAMtYC8c"
+    },
+    {
+      "query": "fda approval inluriyo verzenio eli lilly",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "health"
+      ],
+      "news_token": "ymVWunica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUo_b2LUvMWhQYDAM6EDEk"
+    }
+  ]
 }
