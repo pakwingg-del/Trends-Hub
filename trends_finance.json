@@ -2,19 +2,306 @@
   "matrix_metadata": {
     "source_id": "finance",
     "categories": [
-      "business_and_finance",
-      "shopping"
+      "business_and_finance"
     ],
     "hours": [
-      24,
-      168
+      24
     ],
-    "strategy": "Category + lookback + optional keyword scoop via SerpAPI",
+    "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 0,
-      "last_updated_hkt": "2026-09-18 10:43:44"
+      "keywords_count": 31,
+      "fetch_errors": 0,
+      "last_updated_hkt": "2026-09-18 14:41:35"
     }
   },
-  "trending_seeds": []
+  "trending_seeds": [
+    {
+      "query": "senate blocks data center bill",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "pdgkNHica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZG-dy9motS8xaFBkP4CqERsSh8ybt9KHxzY3UUvsypNch8-eTyVBT-tT-GyHyZ09nrUeTrN1ejmOe7QhWVH8KDov60HIq8_Ju-xyjqJYK8UeS_1kuhyPtFxqDIH7_4C4X_85g0inpXLy5kvri2agmKvP7L6yj694cfhPAB6n-Dlg"
+    },
+    {
+      "query": "andy jassy",
+      "search_volume": 5000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "K_IzCHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgX7t_MWpeYtCg2G8kMyb0D4AMzIEqU"
+    },
+    {
+      "query": "fuel",
+      "search_volume": 2000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "wJ8mlnica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGuYlTfBal5i0KDYbwFZS-PUThc4QcRebL5xW1o_BN1i5DUe_i8QaFb54Rj8yX2_7UE0X_aTlVFP7RYx9R9EsZHkbhs0l4o6j_ohGIwk-uSEbhd-VEoOpf_AGFLx1fhWreNV0U9977jeJ--d93NFH4Pqv3QfgAB-l_ug"
+    },
+    {
+      "query": "warren buffett",
+      "search_volume": 20000,
+      "increase": 900,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "l15lGXica1xTlFpYmlpcEp-SWJJ4h0F88nkGBgZGBb_T4otS8xaFBkP5IW80UfiKR2Yh8-VnvvdH4fv7FCLzZdXu3kbRL-lcisyX_qGVjcxnniUuhaI-1P0LCj_I6CSK_jqLWyj2n1nGgqJeesEHFL7bhKUo6j9mHUThO2xgR-bLHXCNQJHv_jMXhZ87ZROK-YwHUO0P6s9H4Tt9htoHAAelijs"
+    },
+    {
+      "query": "gas",
+      "search_volume": 2000,
+      "increase": 700,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "lAzhaHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGBY6Qo4tS8xaFBkP5IZNQ-HITp_igyFs2ZSHz5SdVfkDhm6xdhsK_t34eCj_t8l0U8wwWx6HwBYTuofCtClpR-D4LK1D40vFVKHzV1TwofN6TOsh82R0WN1HckxJ4AIU_wdoBwgcAEepsvA"
+    },
+    {
+      "query": "social security administration",
+      "search_volume": 10000,
+      "increase": 500,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "FgzB-3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRnn5wEWLUvMWhQZD-HKfHJcg8-WbWLqR-QpSz9VR5DPM7qDIG-zahsJXmDoBRX2E2noU-4oP2aDIt-S0I_NlLTqfoZjH9fY7hA8AgRVLAw"
+    },
+    {
+      "query": "artificial intelligence news",
+      "search_volume": 2000,
+      "increase": 500,
+      "categories": [
+        "science",
+        "business_and_finance"
+      ],
+      "news_token": "XkT_anica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgW_v46LUvMWhQZD-UxhpSh8mV2sKHylLGkUfmizLwpfrlsIhW_6UA6ZLy-7KgpF3jckFsIHAFnqNig"
+    },
+    {
+      "query": "cryptocurrency trading",
+      "search_volume": 2000,
+      "increase": 500,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Ho-YkXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRgWLFVMWpeYtCg2G8s0NfyPz5f9ptqHIC5YYovBdv99D4cs9EEXh6x9E5XO53oXwAd05M28"
+    },
+    {
+      "query": "disneyland ticket prices",
+      "search_volume": 2000,
+      "increase": 400,
+      "categories": [
+        "travel_and_transportation",
+        "entertainment"
+      ],
+      "news_token": "vcGqUHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvnokzcWpeYtCg2G8BWCl89F5stvcsqC8AErgxh4"
+    },
+    {
+      "query": "costco food court",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "food_and_drink"
+      ],
+      "news_token": "MHcyoHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRgXlw9qLUvMWhQZD-UFr5VH41qHCKHyhlzIofP4vFSh83fviyHz5rWp_UOTNnuWiyNetyUCRN1q2DIVv8akLmS8zqckXwgcA4YpJ6g"
+    },
+    {
+      "query": "mortgage rates today",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Y1a9bHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgWVv3cWpeYtCg2G8kXkNqLwNby3IPPlb5Z3o8gHCT1Dkc_lWQ_hAwAlYiik"
+    },
+    {
+      "query": "airlines",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "K0Y1lnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRoXA_92LUvMWhQZD-VKGh1H4QcKSKPzgjP3IfPmfnoEo8vZva1D4SlnSKHzbfTmo5t3dgGLevaAzKPIBRdoo8r7qW1H4nyfFoai3e54E4QMAaABV7A"
+    },
+    {
+      "query": "dow jones stock market",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "dFqhF3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRgXGAyyLUvMWhQZD-Xz2n5D58lk8MijyztmyKHybxGUo6rv_zEXhy66KQuHnTtmEol9EbiMyX-7qES0IHwAdGD2a"
+    },
+    {
+      "query": "technology",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "6tnjPHica1xTlFpYmlpcEp-SWJJ4h0F88nkGBgZG-a_2Jxel5i0KDYbwFTyOCqDwVdZqo_Al7ixE5sv_PCaNzJe7UceLIq_PuhWF_2X6VxT1h5LlUMx3eBuBop4x2QJF3mgpin75SQdR3Wf4kAuFb_5jHgrfu3I-Kn86Nwrf_e8xFL6YXBgyX7Z632IU--96taPwZVdFofhv728HCB8AzpmKbw"
+    },
+    {
+      "query": "netflix stock",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "entertainment"
+      ],
+      "news_token": "OwvGdHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoWQA3sWpeYtCg2G8OWjvf4h8xWkn3OiyHf_mYsiH3LgBwrfyrAUhS-qsRJV_RtNFL6k0xYUvrenB4QPAILXPyQ"
+    },
+    {
+      "query": "flight",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "wTQPGnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoWgktuLUvMWhQZD-VKGh1H4ZqK-KHzPyXuQ-fK3J4ig8J8e2onCt799CEW__dsaFL5JsiCEDwBTSToC"
+    },
+    {
+      "query": "toys r us",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "shopping",
+        "business_and_finance"
+      ],
+      "news_token": "5HWuAnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgWpva8XpeYtCg0GANH2DMU"
+    },
+    {
+      "query": "larry ellison",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Y77gVHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrlDKesXpeYtCg2G8BWc1fuQ-fIMpih8hRBGXhQ-yzIHFD7f-pkQPgDFjCaB"
+    },
+    {
+      "query": "dewalt prime big deal days",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "hobbies_and_leisure"
+      ],
+      "news_token": "rZ6Opnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvn61MWLUvMWhQZD-fZJ_RA-AMOjEfs"
+    },
+    {
+      "query": "bitcoin",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "SPDdXXica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGBUXO2YtS8xaFBsP4mlLIfPmJl5PQ5E-g8G3MLFH4skV9KHy_SFR5wRUyKHxVDxTz5DtrUlDkeXQbUeQfs01HkWefLInCl37OiaJ-rdNuFPnQxrco8l9Zz6HwX2u2oqj3bXyDIv-CtxaFH_DSEEW9cV0JhA8AuQV_Yw"
+    },
+    {
+      "query": "btc",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "j8VRiXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGBRszy0WpeYtCgyF8-Re8tch8BfbJkih86eecKHxFztkofN_GNyh8VY8TKHy_SBT7FARXyKDY_5X1HIq8yn0bFL6X_GMU9QEvDVH4rzVbUdQb8PqjyD9IXYrCPyb3FEW9dqIIhA8AsOFpNQ"
+    },
+    {
+      "query": "alex karp",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "BO2venica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXLlJeLUvMWhQYDANA3DIk"
+    },
+    {
+      "query": "boil water advisory wichita ks",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "0VKwLnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXhaQyLUvMWhQYDAMoSC6w"
+    },
+    {
+      "query": "is reddit down",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "law_and_government",
+        "politics"
+      ],
+      "news_token": "2paBZnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgWV-16LUvMWhQZD-V5f_VD4zhMOofDZV0gh8-VvlndD-AC4xSMh"
+    },
+    {
+      "query": "on",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "zi9vbnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGBWttkUWpeYtCgyF8-SrdOBT-U-WzKPxeYQVkvoKr0nkUvulhVRT1M3WlUPj1TzNR1OtbXUSRL2_5h8yXW25pjKLeN1cYlR9qjaK_pewLiryRxHYUvsMCW2S-7K91xyF8AKe-ZPI"
+    },
+    {
+      "query": "colleges",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "jobs_and_education"
+      ],
+      "news_token": "JMWOBHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRnn3JxKLUvMWhQZD-c8XV6Dw_4auReF__WWOwn_nm4XMV_B7egVFfs1SFHm5w-_4Ufi5pj9Q9CvYxaPw7VcfQeEbSfEi82Xffw9FMa-9-R6K_Y-qjkP4AHoJX9I"
+    },
+    {
+      "query": "btc price",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "aQ0lGHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRvmvrOcWpeYtCg2G8BVUPU6g8G3MLFH4ipyzUfiCK2SQ-fJlX9IhfADfNSdj"
+    },
+    {
+      "query": "trucker strike",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "cpgxVHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgV7DetFqXmLQoMhfLmJU3xQ-Icme0H4APUIFzc"
+    },
+    {
+      "query": "danone ice cream recall target walmart",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "food_and_drink"
+      ],
+      "news_token": "m5Qc2Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvm1vLaLUvMWhQYDAMzVC_k"
+    },
+    {
+      "query": "target 30th anniversary pokemon",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "games",
+        "entertainment"
+      ],
+      "news_token": "mPNnSnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrldnmWLUvMWhQZD-PIPluch8xXcWaQgfAAZOxdZ"
+    },
+    {
+      "query": "africa",
+      "search_volume": 100,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "EP_RFXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRgXXWqVFqXmLQoMhfPm9E4KR-QqGSbdR5Df8OIzC_1TpisI__MQchX_QYCEKf0qYI4r5jKtFUPjS8dko6p29HCB8AKKVRLQ"
+    }
+  ]
 }
