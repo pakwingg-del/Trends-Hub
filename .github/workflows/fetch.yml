@@ -1,11 +1,12 @@
-name: Fetch US Trends (3 times daily)
+name: Fetch US Trends
 
+# Driven by outside workflow_dispatch (e.g. UTC 00/03/06/21 via
+# POST .../actions/workflows/fetch.yml/dispatches). No in-repo cron —
+# that previously stacked with the outside schedule (HKT 09/14/20).
 on:
-  schedule:
-    - cron: '0 1 * * *'    # UTC 01:00 -> HKT 09:00
-    - cron: '0 6 * * *'    # UTC 06:00 -> HKT 14:00
-    - cron: '0 12 * * *'   # UTC 12:00 -> HKT 20:00
   workflow_dispatch:
+  repository_dispatch:
+    types: [fetch_trends]
 
 jobs:
   fetch:

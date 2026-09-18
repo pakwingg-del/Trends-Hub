@@ -17,8 +17,7 @@ CATEGORY_IDS = {
     "science": 15,
 }
 
-# Niche sources often have thin category pools in a 24h window.
-# Strategy: wider lookback + sibling categories + keyword scoop from "all".
+# Slim sources: ~4 SerpAPI searches per full run (all@24 prefetch reused).
 SOURCES = [
     {
         "id": "general",
@@ -29,12 +28,13 @@ SOURCES = [
         "blacklist_extra": [],
         "keyword_include": [],
         "scoop_from_all": False,
+        "reuse_all_pool": True,
     },
     {
         "id": "finance",
         "output": "trends_finance.json",
-        "categories": ["business_and_finance", "shopping"],
-        "hours": [24, 168],
+        "categories": ["business_and_finance"],
+        "hours": [24],
         "top_n": 80,
         "blacklist_extra": ["nba", "nfl", "mlb", "score", "taylor swift", "kardashian"],
         "keyword_include": [
@@ -48,9 +48,9 @@ SOURCES = [
     {
         "id": "tech",
         "output": "trends_tech.json",
-        # Technology alone is often <10 in 24h; games/science + 7-day window help.
-        "categories": ["technology", "games", "science"],
-        "hours": [24, 168],
+        # One tech window only — games/science x 168h burned ~6 calls for little gain.
+        "categories": ["technology"],
+        "hours": [24],
         "top_n": 80,
         "blacklist_extra": ["nba", "nfl", "mlb", "score", "divorce", "wedding", "lottery"],
         "keyword_include": [
@@ -66,7 +66,7 @@ SOURCES = [
     {
         "id": "entertainment",
         "output": "trends_entertainment.json",
-        "categories": ["entertainment", "beauty_and_fashion"],
+        "categories": ["entertainment"],
         "hours": [24],
         "top_n": 80,
         "blacklist_extra": ["nba", "nfl", "mlb", "stock", "mortgage", "bitcoin"],
@@ -82,7 +82,6 @@ BASE_BLACKLIST = [
 
 
 def fetch_category(api_key: str, category: str, hours: int) -> list:
-    """Fetch trending now for one category + lookback window via SerpAPI."""
     url = "https://serpapi.com/search.json"
     params = {
         "engine": "google_trends_trending_now",
@@ -113,7 +112,6 @@ def fetch_category(api_key: str, category: str, hours: int) -> list:
 
 
 def normalize_categories(raw_cats) -> list:
-    """Keep category names as strings for content-factory compatibility."""
     out = []
     if not raw_cats:
         return out
@@ -186,7 +184,6 @@ def keyword_match(query: str, keywords: list) -> bool:
         k = kw.lower().strip()
         if not k:
             continue
-        # Space-padded short tokens like "ai " / " app" avoid false positives
         if k.endswith(" ") or k.startswith(" "):
             if k in q or k.strip() in query.lower().split():
                 return True
@@ -208,23 +205,53 @@ def merge_unique(base: list, extra: list) -> list:
     return out
 
 
-def build_one_source(api_key: str, source: dict, all_pool_raw=None) -> dict:
+def existing_seed_count(path: str) -> int:
+    if not os.path.exists(path):
+        return 0
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        seeds = data.get("trending_seeds") or []
+        return len(seeds) if isinstance(seeds, list) else 0
+    except Exception:
+        return 0
+
+
+def write_output(path: str, output_data: dict) -> bool:
+    seeds = output_data.get("trending_seeds") or []
+    prev = existing_seed_count(path)
+    if len(seeds) == 0 and prev > 0:
+        print(f"  !! Keep existing {path} ({prev} seeds) — refusing to overwrite with empty")
+        return False
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(output_data, f, indent=2, ensure_ascii=False)
+    print(f"Wrote {path} -> {len(seeds)} seeds")
+    return True
+
+
+def build_one_source(api_key: str, source: dict, all_pool_raw=None) -> int:
     print(f"\n{'=' * 50}")
     print(f"Building source: {source['id']} -> {source['output']}")
     print(f"{'=' * 50}")
 
     hours_list = source.get("hours") or [24]
     all_raw = []
-    for cat in source["categories"]:
-        for hours in hours_list:
-            try:
-                all_raw.extend(fetch_category(api_key, cat, hours))
-            except Exception as e:
-                print(f"  !! Skip category {cat}@{hours}h: {e}")
+    fetch_errors = 0
+
+    if source.get("reuse_all_pool") and all_pool_raw is not None:
+        print("  -> Reusing prefetched all@24 pool (no extra SerpAPI call)")
+        all_raw.extend(all_pool_raw)
+    else:
+        for cat in source["categories"]:
+            for hours in hours_list:
+                try:
+                    all_raw.extend(fetch_category(api_key, cat, hours))
+                except Exception as e:
+                    fetch_errors += 1
+                    print(f"  !! Skip category {cat}@{hours}h: {e}")
 
     cleaned = clean_trends(all_raw, source.get("blacklist_extra", []))
 
-    # Scoop tech/finance-ish queries from the general "all" pool when the niche is thin
     if source.get("scoop_from_all") and source.get("keyword_include") and all_pool_raw is not None:
         scooped = clean_trends(all_pool_raw, source.get("blacklist_extra", []))
         scooped = [t for t in scooped if keyword_match(t["query"], source["keyword_include"])]
@@ -240,23 +267,21 @@ def build_one_source(api_key: str, source: dict, all_pool_raw=None) -> dict:
             "source_id": source["id"],
             "categories": source["categories"],
             "hours": hours_list,
-            "strategy": "Category + lookback + optional keyword scoop via SerpAPI",
+            "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
             "provider": "serpapi",
             "config": {
                 "keywords_count": len(top_trends),
+                "fetch_errors": fetch_errors,
                 "last_updated_hkt": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             },
         },
         "trending_seeds": top_trends,
     }
 
-    with open(source["output"], "w", encoding="utf-8") as f:
-        json.dump(output_data, f, indent=2, ensure_ascii=False)
-
-    print(f"Wrote {source['output']} -> {len(top_trends)} seeds")
+    written = write_output(source["output"], output_data)
     if top_trends[:5]:
         print("   Sample:", ", ".join(t["query"] for t in top_trends[:5]))
-    return output_data
+    return len(top_trends) if written else existing_seed_count(source["output"])
 
 
 def main():
@@ -272,7 +297,7 @@ def main():
     if not api_key:
         raise ValueError("[FATAL] SERPAPI_API_KEY is missing.")
 
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Trends Hub starting (SerpAPI)...")
+    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Trends Hub starting (SerpAPI, slim)...")
 
     targets = SOURCES
     if args.id:
@@ -280,23 +305,26 @@ def main():
         if not targets:
             raise SystemExit(f"Unknown source id: {args.id}")
 
-    # Prefetch general "all" once if any niche wants to scoop keywords from it
-    all_pool_raw = None
-    needs_all = any(s.get("scoop_from_all") for s in targets)
+    all_pool_raw = []
+    needs_all = any(s.get("scoop_from_all") or s.get("reuse_all_pool") for s in targets)
     if needs_all:
         try:
-            # Prefer 24h active pool; also pull 7-day for more candidates
-            all_pool_raw = []
             all_pool_raw.extend(fetch_category(api_key, "all", 24))
-            all_pool_raw.extend(fetch_category(api_key, "all", 168))
         except Exception as e:
             print(f"  !! Could not prefetch all pool for scoop: {e}")
             all_pool_raw = []
 
+    seed_counts = []
     for source in targets:
-        build_one_source(api_key, source, all_pool_raw=all_pool_raw)
+        seed_counts.append(build_one_source(api_key, source, all_pool_raw=all_pool_raw))
 
-    print("\nAll requested trend files updated.")
+    total = sum(seed_counts)
+    print(f"\nDone. Seed counts per source: {seed_counts} (total={total})")
+    if total == 0:
+        print("[FATAL] All sources empty — likely SerpAPI quota/error. Not wiping prior JSON.")
+        raise SystemExit(2)
+
+    print("All requested trend files updated (empty overwrites skipped).")
 
 
 if __name__ == "__main__":
