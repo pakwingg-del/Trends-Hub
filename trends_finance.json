@@ -10,21 +10,12 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 28,
+      "keywords_count": 27,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-19 00:30:52"
+      "last_updated_hkt": "2026-09-19 03:30:55"
     }
   },
   "trending_seeds": [
-    {
-      "query": "andy jassy",
-      "search_volume": 5000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "A0XV3nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgXF878XpeYtCg2G8kMyb6Dyr0VC-AApIxiM"
-    },
     {
       "query": "fuel",
       "search_volume": 2000,
@@ -44,22 +35,13 @@
       "news_token": "07rytXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRgXV1TyLUvMWhQZD-VYFrSj8uGUHUfmRPch8-YTERyjyxrc5UOSXKB5BkY95Mw2ZLzdxig-KfMikoxA-AOI3P6k"
     },
     {
-      "query": "warren buffett",
-      "search_volume": 20000,
+      "query": "social security administration 2027 adjustment",
+      "search_volume": 50000,
       "increase": 500,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "diux4Hica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGBb_T4otS8xaFBkP5ikdmIfNl1e7eRpGXdC5F5kv_0MpG5jPPEpdC0X_c9A8Kf1NDDYp5ovIFKPwgo5MofLcJS5H58kfZeVH4_j6FKPyZ7_1R9Esb5aPyF3xAUe-wgR3FP3UWt5D5cgdcI5D5kr6eE1HUXxD5D-EDADWwfCI"
-    },
-    {
-      "query": "cryptocurrency trading",
-      "search_volume": 2000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "aP7fbHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoW45vBFqXmLQoMhfPm1TyWQ-QpR3aoo_MBdWih8wRJDFP3_NNtQ5C1WTEHhu32RReGbG_5G4bt-v4fC1z8oisKXewDlAwBN90nG"
+      "news_token": "O9m_wHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRnn5wEWLUvMWhQZD-RFq61H4nW-_IPMVpJ6ro_Aj5bhR-ApTJ6DozzC7gyJvsGsbMl_WovMZMl_uk-MSCB8A5E8_hQ"
     },
     {
       "query": "talent acquisition",
@@ -71,31 +53,22 @@
       "news_token": "fkW1FHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoUQhpuLUvMWhQZD-RFuU1D4ZqeWQ_gAA3wXjw"
     },
     {
-      "query": "aviation",
-      "search_volume": 5000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Us5YIHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWgktuLUvMWhQZD-Q5a-ch8-ZWdf1Hkg5cHovBZZ3egqK-v0kbhZzsthfAB2NkuJA"
-    },
-    {
-      "query": "costco churros",
-      "search_volume": 5000,
-      "increase": 400,
-      "categories": [
-        "food_and_drink"
-      ],
-      "news_token": "ug0wdHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXlw9qLUvMWhQYDAM03DBQ"
-    },
-    {
-      "query": "stock market news today",
+      "query": "cryptocurrency trading",
       "search_volume": 2000,
+      "increase": 500,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "bPRfXHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgVzw9-LUvMWhQZD-RYrpiDz5f9ptqHIu32RReG7fr-Hon7tUwkUef2Doij8uOZwFL7cA6g8AJh4Ogg"
+    },
+    {
+      "query": "warren buffett",
+      "search_volume": 20000,
       "increase": 400,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "bUvVinica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoU4b79FqXmLQoMhfPncKZtQ-EeLs5D5CgYL96DIy75UQJG3CGBE4YccQFXf_WcuhA8AzGA0UA"
+      "news_token": "Nd6ZXXica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGBb_T4otS8xaFBkP5ikdmofBF5QuQ-bJqd28j86V_aGUj85lniUuhqD9u-geFv6mhBpkvd8A1Apkv6es5EcX-IKOTKHy3CUuR-fJH2XlR-P4-hSj8me_9UfRLG-Wj8hd8QOFHL_uMot9hAzuKf-ssbqHwL4j8h_ABjEx9RQ"
     },
     {
       "query": "disneyland ticket prices",
@@ -105,16 +78,7 @@
         "travel_and_transportation",
         "entertainment"
       ],
-      "news_token": "79KbcHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvlNTlmLUvMWhQZD-dEnbyDzFYKXz4XwAR4DGHg"
-    },
-    {
-      "query": "social security administration",
-      "search_volume": 50000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "sqYAs3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRnn5wEWLUvMWhQZD-DKFfG-Q-fIRauuR-QpSz9VR-JFy3Ch8hakTUPRnmN1BkTfYtQ2Fz_X2OzJf1qLzGYQPAHMqPpw"
+      "news_token": "vcGqUHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvnokzcWpeYtCg2G8BWCl89F5stvcsqC8AErgxh4"
     },
     {
       "query": "data center bill",
@@ -123,17 +87,34 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "6xIKNHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvncvZqLUvMWhQZD-Ap6Ry6i8I0d01H4fs-skPnyeUq8yHxxbdUSFPX6L68j82X4uMQhfACNpjGn"
+      "news_token": "GTQ5Bnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvncvZqLUvMWhQZD-Ap6Ry6i8GVmaqPwkxJPoPD9nlkh8-X13rih8POUeJH54tqqJSj69V9eR-bL8HGJQ_gAynY9HA"
     },
     {
-      "query": "toys r us",
+      "query": "aviation",
       "search_volume": 10000,
-      "increase": 200,
+      "increase": 300,
       "categories": [
-        "shopping",
         "business_and_finance"
       ],
-      "news_token": "5HWuAnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgWpva8XpeYtCg0GANH2DMU"
+      "news_token": "eTzhGHica1xTlFpYmlpcEp-SWJI4d_J5BgYGRoWgktuLUvMWhQZD-PLZTkuR-QpKWdIofGcnNRS-huFCFL79V14UfqLZaRR-8PJAFD7r7A4U--urtFHkY2_NQubLcp13QFHPbXEWwgcAUitNlA"
+    },
+    {
+      "query": "costco churros",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "food_and_drink"
+      ],
+      "news_token": "hd9X93ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgXlw9qLUvMWhQZD-dahwij8oLXyED4A7uIWWw"
+    },
+    {
+      "query": "dólar estadounidense",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "ItJsbXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgWxYzaLUosXhQZD-Ur2rih8LstrED4A794Wbw"
     },
     {
       "query": "oreos",
@@ -154,23 +135,22 @@
       "news_token": "a_tw63ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgWVv3cWpeYtCg2G8kXkNqLwNby3IPPlb5Z3o_BzedYj8-UmlJ2H8AEnyykt"
     },
     {
-      "query": "airlines",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "AhZnEXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRoXA_92LUvMWhQZD-RFuiSj8IGFJFL5SljQKP0qtHYXvOXkPqvzslaj8Ey9R-FKGh1H49m9rUN1zIAKFH1CkjcyXvxd0BtV8ng0o8rdjjSB8AFnPWoE"
-    },
-    {
       "query": "btc",
       "search_volume": 10000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "MhT2zXica1xTlFpYmlpcEp-SWJJ4h0F28nkGBgZGBRszy0WpeYtCgyF8-YCXhij8r6znkPkKipyzUfhe5kEofIsVU1D4Cm8dUPiCK2RQzN-x-iIqf-NdFH49zwsU_oQLcsh8ORPDByjyD1KXotinnSiCor6RyQZF3i_SEtV_mlIo_MiNy1H4Yd3uKHwHhlAUflQlNwpf-jknivtea7aiyNtsQfGPvKrJXxR5JqllKPJrnXaj8KfMCYHwAcSNpiA"
+      "news_token": "GQH14nica1xTlFpYmlpcEp-SWJJ4h0F68nkGBgZGBRszy0WpeYtCg6H8sG53ZL780eIoFP5X1nMo6qWfc6LwvcyDUPgWK6ag8BXeOqDwVUS3opj_WrMVhR_w0hCFP-GCHAr_QepSZL6cieEDFPO1E0VQ5BuZbFDkfX56o_D9IlHCQ37H6oso8oqaUij8yI3LUcNvHmp4dWqvQpGPquRGkVc1-YsizyS1DEV-rdNuCB8AsvGb3Q"
+    },
+    {
+      "query": "dow jones industrial average",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "x8MnM3ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRoU4b79FqXmLQoMhfPncKZuQ-Qp89p-Q-XJXj2ihyDvHnkTR_-l_D4q8iNxGKP9clvZbFRS1R4uzUNQaLNyDIi_7UgFF3iKAEYUfcgBVffefuRA-AGFhVy4"
     },
     {
       "query": "meritage hospitality group chapter 11",
@@ -183,15 +163,6 @@
       "news_token": "gPgK4Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvltl8MXpeYtCg0GANQMDOI"
     },
     {
-      "query": "peso mexicano",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "BbK9zXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgWxYzaLUosXhQYDAM1lDCA"
-    },
-    {
       "query": "elon musk memphis airstream trailer",
       "search_volume": 2000,
       "increase": 100,
@@ -201,15 +172,6 @@
       "news_token": "qunhinica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvkfKyYuSs1bFBoMANacDTM"
     },
     {
-      "query": "dow jones industrial average",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Us1wK3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvncKZsWpeYtCg2G8BXivP1Q-Hz2n5D5clePaKHIO8eeRObLf_rfgyIvIrcRRV52VRSEDwAC2TRp"
-    },
-    {
       "query": "netflix stock",
       "search_volume": 2000,
       "increase": 100,
@@ -217,7 +179,7 @@
         "business_and_finance",
         "entertainment"
       ],
-      "news_token": "A1bunHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoWQA3sWpeYtCg2G8uPfxqLwpZ9zIvPlo73-ochbGZai8EU1VqLww9-8Q9G_LfY6hA8ABcE03g"
+      "news_token": "HEVlenica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWQA3sWpeYtCg2G8pNahVH48W9jUfjSzzlR-FaGpch8-WivfyjyohorIXwAwTEtew"
     },
     {
       "query": "dewalt prime big deal days",
@@ -227,6 +189,15 @@
         "hobbies_and_leisure"
       ],
       "news_token": "KLzqHHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvn61MWLUvMWhQZD-fZJ_ch8hTDPBxA-ABAMF70"
+    },
+    {
+      "query": "act",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "iDglOHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRjkTwweLUvMWhQZD-YtezkbmK9iYWaLwFTlR5S1WTEHhC63dj8yXv383CcV8l5xtKOrD9FNQ1MuuikLhJ1cwo6i31VdH4YsvkkPh8-y4g6L_m8csCB8AlJpZvg"
     },
     {
       "query": "covid test",
@@ -255,6 +226,25 @@
         "business_and_finance"
       ],
       "news_token": "9dcwTXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWAIu1FqXmLQoMhfLkFi90hfAC5BRG7"
+    },
+    {
+      "query": "mc donalds",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "food_and_drink"
+      ],
+      "news_token": "WI6NNHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRgXbSV2LUvMWhQZD-PIdAi3IfAU3uRQUflzpOhT1y0L4UPghv_RQ1Nt9nIvCD4qZA-EDAIckMy0"
+    },
+    {
+      "query": "is twitter down",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "LqSafHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmNr-oXlRQtCg0GANYKDS8"
     },
     {
       "query": "danone ice cream recall target walmart",
