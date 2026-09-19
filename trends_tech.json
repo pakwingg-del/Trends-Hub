@@ -10,122 +10,114 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 12,
+      "keywords_count": 11,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-18 21:30:53"
+      "last_updated_hkt": "2026-09-19 21:31:02"
     }
   },
   "trending_seeds": [
     {
-      "query": "iphone 15 pro to buy",
-      "search_volume": 5000,
-      "increase": 500,
+      "query": "technology news",
+      "search_volume": 20000,
+      "increase": 400,
+      "categories": [
+        "science",
+        "technology"
+      ],
+      "news_token": "AzRGYHica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZG-eMVNxal5i0KDYbwFZRmOCDz5Q__SUHh_2PKR1HPo2qFwg-Z3IKivnCGAIq8XLcQCj-JUwWFH35zL4r-hN7lKPI2iR9Q-LnJ3Cj8CMsEFL6wrSgKP2f5JWS-bOnnVch8GVneQyj2y66KQuELO7ZB-ACXE3Uz"
+    },
+    {
+      "query": "phone",
+      "search_volume": 500,
+      "increase": 200,
       "categories": [
         "technology"
       ],
-      "news_token": "sWaTq3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRgX5kH2LUvMWhQZD-LKPLCcj8xV0BO4j8-VXakqi8J94vEdRHzs5EoVvZdWGor7lzx0U-35ceoYin2mkhqI_eNJEFPnbu0NQ-Kc_L0Hmy3Q5fkGRr_t7C8IHAAjFX4I"
+      "news_token": "p5hd0Xica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGBfmQfYtS8xaFBkP5oW5eKHy5Q_Uo_MQJd5D58jc3_kCRz3AIR9V__QKqvKMzCl_QRALFvIus01H4tz9dQ1Wf8A-ZLzc5dhaKvKw5qn94VK1Q3f_vK6p7bs1Gse8fEwcK_-5tWxT-C8kzKPqTYyxRw2_bcxR-4H9pZL7UJ3shCB8ANsyQMA"
     },
     {
-      "query": "artificial intelligence news",
-      "search_volume": 2000,
-      "increase": 500,
+      "query": "paige price",
+      "search_volume": 500,
+      "increase": 200,
       "categories": [
-        "science"
+        "entertainment"
       ],
-      "news_token": "w0EMknica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGBbluoUWpeYtCgyF8edmXCsh8haCbrSh8R69aFL4ix0kUPrOSOArfWSMAxfwNaadR-J-euqDKbxRB0e_TtQlFfq3XTBR5K81EFL5B7CcUfqSADArf768jink_Mh6jyPuGxKLwIywqUfh89pcgfAA5SHUK"
+      "news_token": "GbNc73ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWwbslFqXmLQoMBzMQL_Q"
     },
     {
-      "query": "heathrow airport",
-      "search_volume": 10000,
-      "increase": 400,
+      "query": "sustainability news",
+      "search_volume": 200,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "7TZWpnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvknDJsWpeYtCg2G8qe-4kLmK-T2PUbh52x7jaJ-_ryVKHyfay4o6iODp6HwQ41lUPgSYnMgfADqczod"
+    },
+    {
+      "query": "kick",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "technology",
+        "games"
+      ],
+      "news_token": "IrCy7Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXoGWcWpeYtCg2G8n0FYyB8AMVLEb8"
+    },
+    {
+      "query": "daily mail",
+      "search_volume": 5000,
+      "increase": 100,
       "categories": [
         "other"
       ],
-      "news_token": "9vb7-nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgXPyXsWpeYtCg2G8t1fWqPwA68Yo_ANi9-i8DU5jyPz5eZU3kWRD_l7E4UvsvoninrOXT4QPgCW1Drf"
+      "news_token": "c5YYpnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvGTO4IXpeYtCg2G8OV_F8xC5kvN_fcKmS87bf4_ZL5c4vxqCB8AOcomBg"
     },
     {
-      "query": "traitors new blood",
-      "search_volume": 20000,
-      "increase": 300,
+      "query": "maitreyi ramakrishnan",
+      "search_volume": 5000,
+      "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "KBNQ4nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrlzB3MXpeYtCg2G8OW5vpSj8Dc2-SDzZZS3JkD4ANvmHew"
+      "news_token": "7zNf_Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrmXd_IXpeYtCg0GANa9DTU"
     },
     {
-      "query": "irgc captured american underwater drone",
-      "search_volume": 2000,
-      "increase": 200,
+      "query": "camera news",
+      "search_volume": 200,
+      "increase": 100,
       "categories": [
-        "technology",
-        "hobbies_and_leisure",
-        "shopping"
+        "technology"
       ],
-      "news_token": "UFSgvHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXw6ZMXpeYtCg2G8OUTOeIgfADAIBGN"
+      "news_token": "1FTXPXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvmeR_GLUvMWhQZD-ArJa14i8-UNfNhR5MOKJqDw8zN7UdTX_TmIIp_tx4wi776JD0U-ckkOhA8AdOg5gw"
     },
     {
-      "query": "what did stanford researchers discover about the human brain being two separate organs",
-      "search_volume": 2000,
-      "increase": 200,
+      "query": "smartphone market",
+      "search_volume": 200,
+      "increase": 100,
       "categories": [
+        "business_and_finance",
+        "technology",
         "science"
       ],
-      "news_token": "wUcRvXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgVfC6tFqXmLQoMBysILwg"
+      "news_token": "3Ehj03ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgVloZ-LUvMWhQZD-Ymdyih81hM1KHzv6bNR-PIh-5D5sj277kL4AOhrKKQ"
     },
     {
-      "query": "sara haines",
-      "search_volume": 2000,
-      "increase": 200,
+      "query": "paint news",
+      "search_volume": 200,
+      "increase": 100,
       "categories": [
-        "entertainment"
+        "other"
       ],
-      "news_token": "qdA5hHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgWpZ9MWpeYtCg0GANDrDJk"
+      "news_token": "hMh423ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgXjT0KLUvMWhQZD-PL3gqKQ-Qq5s9-h8AuzF6Dw5VLjUfgxYg9QzPu-RxfCBwDkmC7a"
     },
     {
-      "query": "airlines",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "AhZnEXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRoXA_92LUvMWhQZD-RFuiSj8IGFJFL5SljQKP0qtHYXvOXkPqvzslaj8Ey9R-FKGh1H49m9rUN1zIAKFH1CkjcyXvxd0BtV8ng0o8rdjjSB8AFnPWoE"
-    },
-    {
-      "query": "sway uk rapper",
-      "search_volume": 10000,
+      "query": "christina applegate",
+      "search_volume": 100,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "4zBdRHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgULk2-LUvMWhQYDAM8JDGU"
-    },
-    {
-      "query": "elon musk memphis airstream trailer",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "qunhinica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvkfKyYuSs1bFBoMANacDTM"
-    },
-    {
-      "query": "chase sapphire reserve 10th anniversary",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "shopping"
-      ],
-      "news_token": "vgVZGHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrlZ4qKLUvMWhQYDAMtYC8c"
-    },
-    {
-      "query": "fda approval inluriyo verzenio eli lilly",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "health"
-      ],
-      "news_token": "ymVWunica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUo_b2LUvMWhQYDAM6EDEk"
+      "news_token": "5sqpR3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgXlpa8WpeYtCg2G8KXfv1GH8AHOohL1"
     }
   ]
 }
