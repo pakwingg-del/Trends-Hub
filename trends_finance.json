@@ -10,38 +10,48 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 18,
+      "keywords_count": 12,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-20 06:30:52"
+      "last_updated_hkt": "2026-09-20 21:30:50"
     }
   },
   "trending_seeds": [
     {
-      "query": "real estate",
-      "search_volume": 2000,
-      "increase": 700,
+      "query": "mortgage rates today",
+      "search_volume": 10000,
+      "increase": 1000,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "CqKImXica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZGBZW_dxal5i0KDYbyg4SeIfPlc3nWo8iLyG1E5kvN69VFkfdf5IjCz5v5AYVfWeSHwi-vTkPhx-y8iMIvdPuPwjfVfIzCt9NeiMK33HgehZ-tlYXin1OZ7ajyLtNQ-BVnY1DU197dhcJv8lqKor7U5zAKP5cnGYWvJX4FRX9JqggK__h3qP8AS6yV0g"
+      "news_token": "lGbI-3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgWVv3cWpeYtCg2G8nkWFqPwFX3qkPnyuTzrUeRF5DYi86Xm9epC-AAFlye2"
     },
     {
       "query": "10 year treasury yield",
-      "search_volume": 2000,
+      "search_volume": 1000,
       "increase": 600,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "MeXHA3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRvncKZsWpeYtCg2G8BWkn3Oi8IvVA1H4cd5-yHy5ja-zUeS1KitR-Cp_7yDz5T_G2KDwNz5SReE_2eOJoj_rlQAKv_zCDhT1p8qbUPjH6gpQ-A0__0L4AMQpXt4"
+      "news_token": "oTpxgHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRgWm648WpeYtCg2G8OVzp2xC4S_Xe4LMV4jz9oPwAdn0Heg"
+    },
+    {
+      "query": "mark zuckerberg",
+      "search_volume": 500,
+      "increase": 500,
+      "categories": [
+        "business_and_finance",
+        "shopping"
+      ],
+      "news_token": "fGdnh3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvm5FQKLUvMWhQZD-cxXQ5H5Cq2GHSjysi8VkPlyJ-wsUdQ3WUWj6uezQuELFH1B4QvW8qPwrTQTIXwASzI8CQ"
     },
     {
       "query": "stock market today",
-      "search_volume": 5000,
-      "increase": 300,
+      "search_volume": 10000,
+      "increase": 400,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "P7oTmXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRgV1ddZFqXmLQoOh_DhvP2S-_NHiLBR-7pRNKOpDDuxBkf-qtRlFPr3kOwqf8QALhA8AjBUzrQ"
+      "news_token": "howwVHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRgU-h22LUvMWhQZD-dVtnij8OG8_ZL587pRNKPyjxVko6kXkNqLwGQ-woPDTS75D-ACFADLq"
     },
     {
       "query": "vix",
@@ -50,138 +60,71 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "dJtFh3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRnmPlMpFqXmLQoMhfAVp1ioIHwC1sREE"
+      "news_token": "2GyiRHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXGUxcWpeYtCg2G8qVZqyB8AMy9Efs"
     },
     {
-      "query": "money",
+      "query": "spacex launch",
       "search_volume": 500,
       "increase": 200,
       "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "d-I2Ynica1xTlFpYmlpcEp-SWJI4c_J5BgYGRnmB4_6LUvMWhQZD-ArGy28g8-V3rL6IIl--cTcKn2ehCgo_PsARVf2CKhTz_vYYosjz_Q2D8AGalTp0"
-    },
-    {
-      "query": "spacex",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "t-WCVnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRgXXH06LUvMWhQZD-eFvQpH58pttk1DkXT7MRuHb28uj8BO4-VD0298-hML_cXMpivrM0D0ofC7Xuyh8g_-nIXwASjFF3g"
-    },
-    {
-      "query": "market news",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "FBZR9nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoU4b79FqXmLQoMhfPnjlfUo_G98Sch8BXV1VhS-jZklivptl8NR5IukmVH4ZR98UdTnTtkE4QMAsGk4Bw"
-    },
-    {
-      "query": "investing",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
         "business_and_finance",
         "science"
       ],
-      "news_token": "eH3KKHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoWSyYyLUvMWhQZD-RLvUfjyRSWZKPLBWxVQ-OXGc1D4FgGo-o-y86LwXzUZoKiPdKuG8AGJcDb9"
-    },
-    {
-      "query": "savings",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "CFqVF3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoXS7J-LUvMWhQZD-PLfJzEg8xXi1eJR5G9XnUSRz-cpQ-GzXL6Hwi_Y9AKFLyK3EcIHACsGNM0"
-    },
-    {
-      "query": "money news",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "U1ftoHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgWRRu5FqXmLQoOh_PKNu1H48bY6KHzj5TdQ5QMcUfh8f8OQ-fLK01JR-PO9nVDUF_nwQ_gAxEk3fg"
-    },
-    {
-      "query": "startup news",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "2iL5p3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRgXxGzcWpeYtCg2G8s2U2VH4XqYvkPnyc_K3oMgHFTuh8I0MYlD4xmJHUPjMTijmy9_5zYrC_7IhB8IHAGw5PbI"
-    },
-    {
-      "query": "sports market",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "sEobdHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgXfxpWLUvMWhQZD-fnufSh8rQmrkflyp5edRebLn9nehcKv7WRF4Z-d-xHFPAXbZhR-7hwBCB8AxN064A"
-    },
-    {
-      "query": "spacex launch today",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "VYdlFnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRvkfN5cuSs1bFBoM5dvfPoTC36yYhcyXytlWhcyXbSjRQebLGd4NgfABjq8p8g"
-    },
-    {
-      "query": "smartphone market",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "technology",
-        "science"
-      ],
-      "news_token": "P0wDsHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgVloZ-LUvMWhQZD-Ymdyih81hM1KHzv6bNR-PIh-5D5sj277iLzpdZcYYDwAaC1LmE"
+      "news_token": "ZVlZ83ica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG-R83ly5KzVsUGgzl298-hMLfrJiFzJfK2VaFzJdtKNFB5ssZ3g1B5is477iHwvfd9QeFX75yOQqfSQjFPQoRn5pQ-FVLXqHwXX84ofBFJqPaz535H4XvYH4Yxb23XB1Q-EfOyqCoD38TihIeO_hTUeRdPsxG5kszfH2NIm_syIbCb_YRhfABJ8ORHg"
     },
     {
       "query": "fidelity ira",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "LLyeOnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgWtCcaLUvMWhQYDAMwWC_A"
-    },
-    {
-      "query": "fidelity crypto",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "7Nmsh3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvkdqy8uSs1bFBoM4StIxoQj8-Vqn8yF8AEmORiE"
-    },
-    {
-      "query": "b",
       "search_volume": 500,
-      "increase": 50,
+      "increase": 100,
       "categories": [
-        "business_and_finance",
+        "business_and_finance"
+      ],
+      "news_token": "5yqbb3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoWWbsVFqXmLQoOhfMmYcGS-XO2Tuch8-R2rL6Kob9jMjcLXmmAM4QMAFMEoqA"
+    },
+    {
+      "query": "act",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "rFksyXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRjkTwweLUvMWhQZD-Ytezkbmyx9OVUDhb9X_jcxXEFq7H4Xfrq-KYp5LzjYU_ffuGKGoz3iThSIvuyoKRV4hyBqF7-ykhqL-_t0kFPu-el6B8AFIbVcB"
+    },
+    {
+      "query": "credit acceptance",
+      "search_volume": 100,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "dtRQ3nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgXLpqRFqXmLQoMhfPmTynsgfAC95RIK"
+    },
+    {
+      "query": "walmart near me",
+      "search_volume": 5000,
+      "increase": 75,
+      "categories": [
         "law_and_government"
       ],
-      "news_token": "c7FYynica1xTlFpYmlpcEp-SWJI4f_J5BgYGRoXIx-sXpeYtCg2G8hNdolH4laofUPjmdTtR-DkafSj80o9NKHy_0-LIfPkfvj0o8naxC1D4pg1LUPgFrtwo-v_M7UeRj1kyCdW86VtQ1Puuz4LwAbysXJk"
+      "news_token": "SDeVSnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvkXvPsXpeYtCg2G8BWChCMhfADE6xG3"
     },
     {
-      "query": "bitcoin price",
-      "search_volume": 200,
-      "increase": 50,
+      "query": "fidelity etf",
+      "search_volume": 100,
+      "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "jNrMn3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgUbM8tFqXmLQoOhfL9IVH7ZdwYUvs9PbxR-3MdqFL5sUR8KXzImHIWvXv0LmS9XVRoA4QMAt2Q4Lw"
+      "news_token": "IwAz7nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoWGzdyLUvMWhQZD-PLVzzxR-DtWX0Thb3JWhPABzBsd-w"
+    },
+    {
+      "query": "fidelity investments",
+      "search_volume": 100,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "yAOhgnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgWtCcaLUvMWhQZD-S3dish8-epnnhA-APsJF08"
     }
   ]
 }

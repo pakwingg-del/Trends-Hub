@@ -10,114 +10,133 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 11,
+      "keywords_count": 13,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-19 21:31:02"
+      "last_updated_hkt": "2026-09-20 21:30:51"
     }
   },
   "trending_seeds": [
     {
-      "query": "technology news",
-      "search_volume": 20000,
-      "increase": 400,
+      "query": "amd radeon",
+      "search_volume": 10000,
+      "increase": 1000,
+      "categories": [
+        "technology",
+        "shopping"
+      ],
+      "news_token": "0C3QR3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoWg0-8XpeYtCg2G8rluy6DwLRlykPnyH9TWovAX6qWjqG-tXY3Cz_j9DIUvqasP4QMA7TEz7A"
+    },
+    {
+      "query": "tesla roadster",
+      "search_volume": 10000,
+      "increase": 1000,
+      "categories": [
+        "autos_and_vehicles"
+      ],
+      "news_token": "LpieTnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRvkd_KmLUvMWhQZD-HKZqvuR-TJPi84i8xX0__5D4Tc_FkDhO1ROgPABRGIp0Q"
+    },
+    {
+      "query": "human brain",
+      "search_volume": 2000,
+      "increase": 800,
+      "categories": [
+        "science"
+      ],
+      "news_token": "1WvjbXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgVfC6tFqXmLQoOhfEmd7yj8IktGFH5HkhkyX_633mZU_dxeKPxcXl4IHwAvryss"
+    },
+    {
+      "query": "blade",
+      "search_volume": 5000,
+      "increase": 500,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "r2VMXHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRoXsmSWLUvMWhQZD-PKLhFOQ-QpaGdko_A61_yj89plPUPjV8QUo_JrOfyj8xpcyKPbNrzuHIl_mooXMlzvS-QqZL9O2-BqKfmfPnch86fmPmiF8AGxmWLw"
+    },
+    {
+      "query": "twilight",
+      "search_volume": 1000,
+      "increase": 500,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "n235onica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWCb0GLUvMWhQZD-RXfpqHw6x6GI_PlPWPeocjz8SxE4RdeskNRv2vmOQgfADWTL_U"
+    },
+    {
+      "query": "beats",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "u4zh8Hica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoVMfZNFqXmLQoMhfPnVU3eg8PdVMqLJN6Dwz928gMxXiFzSicLP3PgZwgcA_aYwVw"
+    },
+    {
+      "query": "spacex launch",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "ZVlZ83ica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG-R83ly5KzVsUGgzl298-hMLfrJiFzJfK2VaFzJdtKNFB5ssZ3g1B5is477iHwvfd9QeFX75yOQqfSQjFPQoRn5pQ-FVLXqHwXX84ofBFJqPaz535H4XvYH4Yxb23XB1Q-EfOyqCoD38TihIeO_hTUeRdPsxG5kszfH2NIm_syIbCb_YRhfABJ8ORHg"
+    },
+    {
+      "query": "mustafa suleyman",
+      "search_volume": 200,
+      "increase": 200,
       "categories": [
         "science",
         "technology"
       ],
-      "news_token": "AzRGYHica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZG-eMVNxal5i0KDYbwFZRmOCDz5Q__SUHh_2PKR1HPo2qFwg-Z3IKivnCGAIq8XLcQCj-JUwWFH35zL4r-hN7lKPI2iR9Q-LnJ3Cj8CMsEFL6wrSgKP2f5JWS-bOnnVch8GVneQyj2y66KQuELO7ZB-ACXE3Uz"
+      "news_token": "p3UvC3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvlFspsXlRQtCg2G8BXkuoUgfADAYhGY"
     },
     {
-      "query": "phone",
-      "search_volume": 500,
+      "query": "kauai",
+      "search_volume": 100,
       "increase": 200,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "p5hd0Xica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGBfmQfYtS8xaFBkP5oW5eKHy5Q_Uo_MQJd5D58jc3_kCRz3AIR9V__QKqvKMzCl_QRALFvIus01H4tz9dQ1Wf8A-ZLzc5dhaKvKw5qn94VK1Q3f_vK6p7bs1Gse8fEwcK_-5tWxT-C8kzKPqTYyxRw2_bcxR-4H9pZL7UJ3shCB8ANsyQMA"
-    },
-    {
-      "query": "paige price",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "GbNc73ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWwbslFqXmLQoMBzMQL_Q"
-    },
-    {
-      "query": "sustainability news",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "7TZWpnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvknDJsWpeYtCg2G8qe-4kLmK-T2PUbh52x7jaJ-_ryVKHyfay4o6iODp6HwQ41lUPgSYnMgfADqczod"
-    },
-    {
-      "query": "kick",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "technology",
-        "games"
-      ],
-      "news_token": "IrCy7Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXoGWcWpeYtCg2G8n0FYyB8AMVLEb8"
-    },
-    {
-      "query": "daily mail",
-      "search_volume": 5000,
-      "increase": 100,
       "categories": [
         "other"
       ],
-      "news_token": "c5YYpnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvGTO4IXpeYtCg2G8OV_F8xC5kvN_fcKmS87bf4_ZL5c4vxqCB8AOcomBg"
+      "news_token": "SZ_CXnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvl_0XsXpeYtCg2G8BX8Dc8g8-Uv-iajyDvc-IfMl9NbYgXhAwD4DSQQ"
     },
     {
-      "query": "maitreyi ramakrishnan",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "7zNf_Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrmXd_IXpeYtCg0GANa9DTU"
-    },
-    {
-      "query": "camera news",
+      "query": "tv app",
       "search_volume": 200,
       "increase": 100,
       "categories": [
         "technology"
       ],
-      "news_token": "1FTXPXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvmeR_GLUvMWhQZD-ArJa14i8-UNfNhR5MOKJqDw8zN7UdTX_TmIIp_tx4wi776JD0U-ckkOhA8AdOg5gw"
+      "news_token": "Ayq2XXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvnTyrqLUvMWhQZD-AomS_VR-KKBd5H58gsvX0XmyzAvmojMl2p_0IHMl34a4Q_hAwC-Pi7k"
     },
     {
-      "query": "smartphone market",
+      "query": "flock camera",
       "search_volume": 200,
       "increase": 100,
       "categories": [
-        "business_and_finance",
-        "technology",
-        "science"
+        "technology"
       ],
-      "news_token": "3Ehj03ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgVloZ-LUvMWhQZD-Ymdyih81hM1KHzv6bNR-PIh-5D5sj277kL4AOhrKKQ"
+      "news_token": "ldGZTXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvmeR_GLUvMWhQZD-AocqziQ-fJfJxxBkU_SLUPhhxVNQOHnZ_ai8GPOrUYx78XecyjyovILUfU_ewfhAwByOkFN"
     },
     {
-      "query": "paint news",
+      "query": "chanley painter",
       "search_volume": 200,
       "increase": 100,
       "categories": [
         "other"
       ],
-      "news_token": "hMh423ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgXjT0KLUvMWhQZD-PL3gqKQ-Qq5s9-h8AuzF6Dw5VLjUfgxYg9QzPu-RxfCBwDkmC7a"
+      "news_token": "LR4N43ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvkEk12LUvMWhQYDAM7DDFA"
     },
     {
-      "query": "christina applegate",
+      "query": "clay aiken",
       "search_volume": 100,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "5sqpR3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgXlpa8WpeYtCg2G8KXfv1GH8AHOohL1"
+      "news_token": "eqCGGHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXrimuLUvMWhQYDANBkDIw"
     }
   ]
 }
