@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 10,
+      "keywords_count": 15,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-21 03:31:04"
+      "last_updated_hkt": "2026-09-21 06:30:52"
     }
   },
   "trending_seeds": [
@@ -23,7 +23,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "bx_qO3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgWVv3cWpeYtCg2G8nkWFqPwReQ2IvPlc3nWI_Ol5vXqQvgAugIiiA"
+      "news_token": "yo_S0nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgWVv3cWpeYtCg2G8hV96lD4PAuLUfgichuR-fK5POuR-VLzenUhfAD9-Ce2"
     },
     {
       "query": "stock market today",
@@ -32,7 +32,28 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "GDxxR3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoWOrT2LUvMWhQZD-QF6nih8L0EBZL587pRNKPwdDf4o_KPFWSj647z9UPiMB1hQ-EbLTCF8AOL2N7g"
+      "news_token": "YxFppnica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoWOrT2LUvMWhQZD-PK5UzYh8xXivP1Q-BVi71D40s85UfgBep4o5pl3cKDwjxZnoahnPMCCwk8v-Y7CF5HbiKJfdlUUhA8ASF9IpQ"
+    },
+    {
+      "query": "asteroid impact",
+      "search_volume": 500,
+      "increase": 400,
+      "categories": [
+        "science",
+        "business_and_finance"
+      ],
+      "news_token": "DB160Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvmWS1cWpeYtCg2G8m88_Y3MlzbcOwfCBwBOihnu"
+    },
+    {
+      "query": "chief",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "science",
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "UqHC8nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoX-Z42LUvMWhQZD-WzrOVH4Rectkfny3ydFo_BnHp-Foj58cRSK_IXZW1DkS9p-ociXS4lD-ADMfzsy"
     },
     {
       "query": "technology news",
@@ -54,6 +75,26 @@
       "news_token": "vOZDWnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoWWbsVFqXmLQoOhfMmYcGS-_I7VF1HkGzZzo_C1JhhD-ACjiyJp"
     },
     {
+      "query": "real",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "technology",
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "goapTXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvk32-cvSkldFBoM4Su0sXog8-VVPpajyKc0L0Lht88UQlF_7uYFFPnsD80ofGnxKggfADcrNOI"
+    },
+    {
+      "query": "jd5",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "53M3T3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvnAtJ2LUvMWhQZD-AoNH29B-ADKDxMA"
+    },
+    {
       "query": "fidelity bitcoin",
       "search_volume": 200,
       "increase": 100,
@@ -70,6 +111,15 @@
         "business_and_finance"
       ],
       "news_token": "dtRQ3nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgXLpqRFqXmLQoMhfPmTynsgfAC95RIK"
+    },
+    {
+      "query": "walmart near me",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "SDeVSnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvkXvPsXpeYtCg2G8BWChCMhfADE6xG3"
     },
     {
       "query": "flights",
@@ -100,13 +150,13 @@
       "news_token": "mtAwZXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRgWtCcaLUvMWhQZD-e0uX1D4Ld2KyHz56meeED4AqS8dUQ"
     },
     {
-      "query": "walmart near me",
-      "search_volume": 1000,
+      "query": "facebook marketplace",
+      "search_volume": 2000,
       "increase": 50,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "SDeVSnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvkXvPsXpeYtCg2G8BWChCMhfADE6xG3"
+      "news_token": "WQKGZXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvmzWk2LUvMWhQZD-Appjq9Q-A49WRA-ABVhF8g"
     }
   ]
 }
