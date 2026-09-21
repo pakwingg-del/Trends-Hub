@@ -10,150 +10,102 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 100,
+      "keywords_count": 96,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-21 06:30:51"
+      "last_updated_hkt": "2026-09-21 21:30:58"
     }
   },
   "trending_seeds": [
     {
       "query": "presley gerber",
-      "search_volume": 50000,
+      "search_volume": 200000,
       "increase": 1000,
       "categories": [
         "entertainment"
       ],
-      "news_token": "8cYFQXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoWerohFqXmLQoOh_NZ971H44f89UPiiR66h8L1XCiPz5QXTklDkQeanpCL4dv69yPIy2ptOovCXx9xC5ks73zSF8AGjc0Wy"
-    },
-    {
-      "query": "patrick clancy",
-      "search_volume": 50000,
-      "increase": 1000,
-      "categories": [
-        "other"
-      ],
-      "news_token": "UjkrhHica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGBZP9OYtS8xaFBkP48m0yT5D5CuFG-1D4ylqfkfmyX058R-ZLR53sQjHvwbZTKPqZLcKR-XL3uTegmJf_Yy6KeakT76DoVwpPgPLPnTh-nRPFrslJ01DMXnDCDZkv9Xrqb2S-zOq4UhT1r2vLUMwreNyIYrevsiGKfIo3M4pbf_KEoPCvfZuAYv4zw08QPgCQUJRs"
-    },
-    {
-      "query": "chad gilbert",
-      "search_volume": 20000,
-      "increase": 1000,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "5-axlnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoW29g-LUvMWhQZD-Py-F2SR-bwL3lyA8AEotBj4"
+      "news_token": "09aUrnica1xTlFpYmlpcEp-SWJJ4h0Ft8nkGBgZGhZ6uiEWpeYtCg6H8qYEWKPwFS9uQ-TJmX_-hyE_Ra0bhM0cVo_BnbApC4c8-eAmFP-eyOApfLDcPhZ9gXYDCT3rag8K3MDFA5stpuqK6f3Z5JAp_lsF1ZL783SwU--X_uImiqLe-twSFb7I_B0V9m8wTZL7slxPfkfnSUSe7UNwXc3gPqv8fLUPhL8p6icJvn6mPEv7am04i-AYMH_q7tJHlGT9JosbX8phbKPyjD9RR3CvAgBo_oPSQkorg96pPQOaDzUOWn-XNiuJf55umED4AX5Dh4Q"
     },
     {
       "query": "permanent daylight savings time",
-      "search_volume": 10000,
+      "search_volume": 50000,
       "increase": 1000,
       "categories": [
         "other"
       ],
-      "news_token": "sZEBmnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvngC1MXpeYtCg0GANIrDLo"
+      "news_token": "BwogEnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvngC1MXpeYtCg2G8BUWNImj8Bdd-4HCF-e6icKfe-sgCr__2TcUvlmDFTJfLnR7MjJflvnmNAgfAA7nO-Q"
     },
     {
-      "query": "amd radeon",
-      "search_volume": 10000,
-      "increase": 1000,
-      "categories": [
-        "technology",
-        "shopping"
-      ],
-      "news_token": "DCd2q3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoWg0-8XpeYtCg2G8rluy6DwLRlykPnyH9TWovAX6qWjqJfU1UeR3yHXh8yX9txkBeEDAK2KMok"
-    },
-    {
-      "query": "mortgage rates today",
-      "search_volume": 10000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "yo_S0nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgWVv3cWpeYtCg2G8hV96lD4PAuLUfgichuR-fK5POuR-VLzenUhfAD9-Ce2"
-    },
-    {
-      "query": "netflix new releases",
-      "search_volume": 10000,
-      "increase": 1000,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "9XrWcHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvlDZ08uSs1bFBoM4Ss0t7Qi82UP5IhA-AA4-Rip"
-    },
-    {
-      "query": "ladera ranch cancer",
+      "query": "wendy's",
       "search_volume": 2000,
       "increase": 1000,
       "categories": [
-        "health"
+        "business_and_finance",
+        "food_and_drink"
       ],
-      "news_token": "SSPTXnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvkXzR2LUvMWhQZD-HIpya0QPgDPTBKC"
+      "news_token": "DD7HCHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvltl8MXpeYtCg2G8BUYtZVR-O1CFsh8-a8_byLz2e_umIfMl9kv44nMlztjJofMl154hAHCBwDy7DRV"
     },
     {
-      "query": "hal jordan lanterns",
-      "search_volume": 1000,
-      "increase": 1000,
+      "query": "jennifer eckhart",
+      "search_volume": 10000,
+      "increase": 900,
       "categories": [
         "entertainment"
       ],
-      "news_token": "GXXnrXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvmfG_8vSs1bFBoM4Sv0FbYh86Uv3IuH8AFLHRm-"
+      "news_token": "Idu7vXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoU5j5YtSs1bFBoMANXNDSc"
     },
     {
-      "query": "daycare",
-      "search_volume": 500,
-      "increase": 1000,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "b-s3nnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRgUBNpZFqXmLQoOh_HhbNWS-fL-JN4p83hIPFH4rkzgKv-Z8Dwo_7tB6FL6m5X0IHwDSOTGg"
-    },
-    {
-      "query": "burger near me",
-      "search_volume": 200,
-      "increase": 900,
-      "categories": [
-        "food_and_drink"
-      ],
-      "news_token": "LYEMdXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvkOgZZFqXmLQoMBzZEMHg"
-    },
-    {
-      "query": "asteroid",
+      "query": "mortgages",
       "search_volume": 1000,
       "increase": 800,
       "categories": [
-        "science"
+        "business_and_finance"
       ],
-      "news_token": "ykev63ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvkbT38vSs1bFBoM4SsYPlJA4Wd3t6DwazZ3IvPl66fuR-ZLnmIxQebLpOxjR5HflfYNwgcAkVI19Q"
+      "news_token": "ukBIH3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRgWVv3cWpeYtCg2G8udHCaPwReQ2ovC7_vqg8EP4vqLwOxddRubLP3iXgyLv_2QtCn9uTg0KX1NiHgp_4eI0FH7w8tMQPgBx1Ezk"
     },
     {
-      "query": "george lucas",
+      "query": "carnival cruise line",
+      "search_volume": 10000,
+      "increase": 700,
+      "categories": [
+        "travel_and_transportation"
+      ],
+      "news_token": "yowLLnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoXynAeLUvMWhQZD-c2MESj8mRcZUPhz1uij8GfV3kPmyyiorofwAR9UKLc"
+    },
+    {
+      "query": "kfc",
+      "search_volume": 5000,
+      "increase": 700,
+      "categories": [
+        "other"
+      ],
+      "news_token": "_zdtx3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgUdNY1FqXmLQoOh_I6Ps1H4M_dvRuHPeimGwu9KL0Phu8z2gfABI4YpFg"
+    },
+    {
+      "query": "ladera ranch cancer",
       "search_volume": 10000,
       "increase": 600,
       "categories": [
-        "entertainment",
-        "travel_and_transportation"
+        "health"
       ],
-      "news_token": "gOJbU3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoXkB6sWpeYtCg2G8hu6P6DwaxpPI_NlS2NDkfkyYSeUkfnyG8yPoehXcvyDIl_ewo4iX3vVHEXeqGs9hA8AwhhAbg"
+      "news_token": "TIEUyHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvkXzR2LUvMWhQZD-BKfVY4i8-VSklshfAAwFRiZ"
     },
     {
-      "query": "sylvester stallone",
-      "search_volume": 1000,
+      "query": "nor easter",
+      "search_volume": 10000,
       "increase": 600,
       "categories": [
-        "entertainment",
-        "law_and_government",
-        "politics"
+        "climate"
       ],
-      "news_token": "TXBTZXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoXmzIJFqXmLQoOh_MSJnSj85qlHUfj15-JR-Ma1G1D4Td-FUPgtK7qQ-bKz1KZC-ed-_FokCmEDAOBaO_U"
+      "news_token": "KuxqyXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRoX8nyqLUvMWhQZD-W3LF6Lwux9fQ-EvnrsIhT-vLhuFvyhbE4UfK3IQhS_9vxWFzzL5MDJfvsv_Mqp9Z7ej8EUrUc0TvFCMoj-k5RmKfNF5BwgfABIrXsg"
     },
     {
-      "query": "aaron rodgers wife",
-      "search_volume": 500,
+      "query": "doordash",
+      "search_volume": 10000,
       "increase": 600,
       "categories": [
-        "entertainment"
+        "law_and_government"
       ],
-      "news_token": "O8XvM3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoWmE9MWpeYtCg2G8KXtLnQh8-Xuc2-A8AEpBxiU"
+      "news_token": "Xtuhenica1xTlFpYmlpcEp-SWJJ4h0Fz8nkGBgZGhXbp1YtS8xaFBkP5eaHGKPy5CzNQ-DpqGij86fYmKPxZh_6i8GcvPIrCj3lkiMKf0jcThd9x4DQKf459GQq_cZEZCn-eVzeqe_Lfo7q_6wwyX_5MtzmKfHPZFxS-2ckkFL7eV1T3zpd9hsIXeimDwjc-cAeFv_AvE4r9v0N8UN2nw4XMlztcFYnCNxAxQOZLr_1zHIWf_7AQhX--CDU8FvemovBTuzeh8Nsi1qDwFxx8gxpfdyahutdlKjJflnlDNIp7b9b_R-HvLZmHop_7_BRkvmR5lwiEDwBOW_V_"
     },
     {
       "query": "taylor swift",
@@ -162,34 +114,16 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "ELdQW3ica1xTlFpYmlpcEp-SWJJ4h0F58nkGBgZG-Szu_YtS8xaFBkP5Lxb-QOGHHTFH5ivEsWWhyF-YvQVF3nYfC4r839PCyHy5BaZLUeRnaxii6NeJeYLMl1lRg2KfzKPMXyjmzfEXQubLqguZosj_2iKHzJc-dywSxb7uydNQ-L0_glH4bCZHUfiRp11Q-DHKVih8SYeXKP5LesmAYv-_rM0o7ltuaYyi_nH8KxTzmlxYUfgiUZoo_Oi83yj8dp8pqO47l4fC71yEGv7_T2mjyMfKPkfhO_S6Q_gAhIXOng"
+      "news_token": "04HpEXica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZG-Szu_YtS8xaFBkP5YUfMkfkKMqcMUPi2-1hQ-LNbDFH0v1j4A4X_97QwMl9ugelSZL7MiposFPNmLZ-OzJdVFzJF0T_HXwhF_6PMXyj8bqtHKOp_bZFD4f--huIf-VfKy1Dsj1G2QuGn9vii6HfJ2YYiz2ZyFIUv6fASxfyklwyo4cX_HUX-cfwrCB8AtNCWKg"
     },
     {
-      "query": "twilight",
-      "search_volume": 1000,
+      "query": "lanterns episode 6",
+      "search_volume": 10000,
       "increase": 500,
       "categories": [
         "entertainment"
       ],
-      "news_token": "abx2cHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWKb9MWpeYtCg2G8gu-BSHz5T1j3qHI1z0MR-Hz8SxE4XdEl6Do3zXzHIQPADQEL8s"
-    },
-    {
-      "query": "ari emanuel",
-      "search_volume": 1000,
-      "increase": 500,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "s7InwHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrmjX4QWpeYtCg2G8BVCDtaj8KseTEPh23BtQubL_1L6D-EDAPIoJG4"
-    },
-    {
-      "query": "ff7 revelation",
-      "search_volume": 500,
-      "increase": 500,
-      "categories": [
-        "games"
-      ],
-      "news_token": "D4B-dXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoXSdWsXpeYtCg2G8pudWpD5sjImOyB8ABpjF6c"
+      "news_token": "O_uXpHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvmfG_8vSs1bFBoM4Sv0Fbah8MP0-VD4i07vReEzvg1A4XfbTUTmy20vy4HwAUhwL64"
     },
     {
       "query": "martha stewart",
@@ -198,89 +132,62 @@
       "categories": [
         "hobbies_and_leisure"
       ],
-      "news_token": "kxcSjXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoVO75ZFqXmLQoOhfJUdj1H4XQqo_CJhSxR-xrJPKPzYl9Yo_BK2LSh8h8bfED4AAM40pQ"
+      "news_token": "qM_3jHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoVO75ZFqXmLQoOhfJUdj1H4sSneKPwuBVT5ImFLFH7Gsk-o-l9ao_C78xJR-ElygRA-AExoOTU"
     },
     {
-      "query": "kate beckinsale",
-      "search_volume": 10000,
-      "increase": 400,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "DiwSsHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoWG_cKLUvMWhQZD-bLc3Sh83vUlKPz4t6dQ-GHdksh8-YZf95D5co8r5FD4LjnbUPQ3bFqBoj_BZBcyXyb5bh-K_k19jhA-AMZbS8s"
-    },
-    {
-      "query": "stock market today",
-      "search_volume": 10000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "YxFppnica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoWOrT2LUvMWhQZD-PK5UzYh8xXivP1Q-BVi71D40s85UfgBep4o5pl3cKDwjxZnoahnPMCCwk8v-Y7CF5HbiKJfdlUUhA8ASF9IpQ"
-    },
-    {
-      "query": "keenan allen",
+      "query": "potash",
       "search_volume": 5000,
       "increase": 400,
       "categories": [
-        "law_and_government"
+        "other"
       ],
-      "news_token": "M31ND3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvkuGdlFqXmLQoMhfAWJYwuQ-fIXZm9B4Z_JlYPwAanjHYA"
+      "news_token": "uiJ0wHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoU5u9sWpeYtCg0GANO1DOA"
     },
     {
-      "query": "cbs",
-      "search_volume": 2000,
-      "increase": 400,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "eG63NHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoXMjecWpeYtCg2G8k325yDz5S_M3oIiHxcQjsJvzsxF4UfPvITCz7glisJvOJCBzJd6PfU3hA8A2ac8GA"
-    },
-    {
-      "query": "nor easter",
-      "search_volume": 1000,
-      "increase": 400,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "gKQhY3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoX8nyqLUvMWhQZD-Vk-myF8AMZ9Ejs"
-    },
-    {
-      "query": "carnival cruise line",
-      "search_volume": 1000,
-      "increase": 400,
-      "categories": [
-        "travel_and_transportation"
-      ],
-      "news_token": "zZeNM3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoXynAeLUvMWhQZD-d23lVD4JWs1IXwAIZEYHg"
-    },
-    {
-      "query": "asteroid impact",
+      "query": "ff7 revelation",
       "search_volume": 500,
       "increase": 400,
       "categories": [
-        "science",
-        "business_and_finance"
+        "games"
       ],
-      "news_token": "DB160Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvmWS1cWpeYtCg2G8m88_Y3MlzbcOwfCBwBOihnu"
+      "news_token": "bclkPHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoWZ-6wXpeYtCg2G8kvXrUXhNzu1IPNlZUx2QPgAzI0dfA"
     },
     {
-      "query": "austin metcalf",
-      "search_volume": 200,
-      "increase": 400,
+      "query": "fat bear week",
+      "search_volume": 10000,
+      "increase": 300,
       "categories": [
-        "law_and_government"
+        "hobbies_and_leisure",
+        "pets_and_animals"
       ],
-      "news_token": "grn5AHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWYR7aLUvMWhQZD-DKT3vRB-ADJ9hLJ"
+      "news_token": "hhMYPHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrmW_VMWpeYtCg2G8BWmaxui8KNd-pH5MnvTpkH4ALxfHXc"
     },
     {
-      "query": "jets schedule",
-      "search_volume": 2000,
+      "query": "patrick clancy interview",
+      "search_volume": 10000,
       "increase": 300,
       "categories": [
         "other"
       ],
-      "news_token": "6U9IQXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgWzBqtFqXmLQoMhfPl9kikQPgC2txFw"
+      "news_token": "4b6uRHica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGBZP9OYtS8xaFBkP40qkT7yDzFaJzW5D58r_vhqDIL94xE4Xf0xWBon6q7GYU-UVnXiDz5b72OCLzZbqtHqHwO1aimKdQ4XQfmS-b_2Muin38G2tRzH9dW4YiPzlpGor8ghNuyHyp11N_o9hv92YqhA8AwKJ4xA"
+    },
+    {
+      "query": "newark airport",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "other"
+      ],
+      "news_token": "KY1DrXica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGhdaf_YtS8xaFBkP5SlnSKHxnJzUUvp22EjJfmucxFwo__2EhMl9G2tUehd_2bzMKn9vXEsX8snUSKPzZGzeh8Od5LkXhWxVsROE3xZ5F4U_R3YvCX-xVicLvOGGGwm84rYrMlzv30wBFftaWUhR--JtQFL6U4WFkvmzWBCMUefu3NSj8vHZWZL7U1S2XIHwABdOZ9A"
+    },
+    {
+      "query": "asteroid impact",
+      "search_volume": 1000,
+      "increase": 300,
+      "categories": [
+        "science"
+      ],
+      "news_token": "6aGDkXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvkbT38vSs1bFBoM4StM61iBzJdvuXQFRX5-bSkKf94GRhT-7AWLUPgTLXpQ-M08S5D5krvSvqHYVz91P4QPAKIkQyo"
     },
     {
       "query": "ohio tornado warnings",
@@ -289,108 +196,62 @@
       "categories": [
         "climate"
       ],
-      "news_token": "RH3e63ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoX-MP1FqXmLQoMBzbcMFw"
+      "news_token": "7OqbgHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUZ3-wXpeYtCg0GANN4DNA"
     },
     {
-      "query": "street fighter movie",
-      "search_volume": 500,
-      "increase": 300,
+      "query": "meta stock",
+      "search_volume": 20000,
+      "increase": 200,
       "categories": [
-        "entertainment",
-        "games"
+        "business_and_finance"
       ],
-      "news_token": "ENdyH3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgWrgzWLUvMWhQYDANAtDHo"
+      "news_token": "BfVxJXica1xTlFpYmlpcEp-SWJJ4h0F-8nkGBgZG-UnfTy9KzVsUGgzhK0yc9RSFb6WZiMJPucyAwp8x1wOFP2fqZBT-tA4RZL5sfs0uZL5ccl0YCl87xRqZL7np5nVkvvy2tb9RzGdjkEbhN7dUoPBLfH6i6Jd9qYDCb-g3RuH_Wb8ExT0fZnehmCdZshWFn_sNxT3y5VLiKPJTZJtRzFv0KhZFfvH2Vyh8pk0rUfhzg6pQzH_nm4UiH2FRicLXrb6PwlfKgoYPAP3hubg"
     },
     {
-      "query": "jensen huang",
-      "search_volume": 500,
-      "increase": 300,
+      "query": "el nino",
+      "search_volume": 2000,
+      "increase": 200,
       "categories": [
-        "science"
+        "climate"
       ],
-      "news_token": "ZumxjXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgWmTSsXpeYtCg2G8OVlXyog8xVCj3iiyC8SNkKRz1ruBuEDAJ2PIjA"
+      "news_token": "uavykHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRvku_8uLUosXhQZD-AqilQdR-OHab1D4DcHTUPhK394i8-V3LrKA8AE_-SnY"
     },
     {
-      "query": "against",
-      "search_volume": 500,
-      "increase": 300,
+      "query": "oura",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "GdzeT3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmDnsWLUvMWhQYDANDjDH8"
+    },
+    {
+      "query": "gracie mansion",
+      "search_volume": 1000,
+      "increase": 200,
       "categories": [
         "politics",
         "law_and_government"
       ],
-      "news_token": "ADN-D3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRvmVNi6LUvMWhQZD-ArNU--h8Pm7bJH58nOjmVDkW_Mfo_A71i1EUb9PMgWZL7fc0hhFfdC6VSh8bmEhFH7dkVwUfijPHxS-MqcGCj9CuxqZLyu48SWEDwCx6Vlz"
-    },
-    {
-      "query": "andy beshear",
-      "search_volume": 500,
-      "increase": 300,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "Zd6Es3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgVPpoOLUvMWhQZD-PLef9WR-Qot3Ywo8s__LUTmS73StkDmS37w2QzhAwAYxSmQ"
-    },
-    {
-      "query": "sharon stone",
-      "search_volume": 200,
-      "increase": 300,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "Md4Jq3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRvlrbrcXpeYtCg2G8BXCp59F4UfHvEbhx_o7ofCt5pmj8MvCtkP4AFRXKSU"
-    },
-    {
-      "query": "cremation",
-      "search_volume": 200,
-      "increase": 300,
-      "categories": [
-        "other"
-      ],
-      "news_token": "tQuvq3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoXYLrZFqXmLQoMhfPmt_gnIfIXCvyEo_JjwGyj8WHtxZL5cf_EGFPNeLpoN4QMAsoouug"
-    },
-    {
-      "query": "yom kippur",
-      "search_volume": 20000,
-      "increase": 200,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "UmykB3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgXp3uOLUvMWhQZD-bXJfih8my3nkfny871uo8hXzTRF4SeJbEPhBx-5h8LPZ0pH4ct-94HwAXGuOds"
-    },
-    {
-      "query": "rajeev malhotra",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "rzo04Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUSE6FFqXmLQoMByukLvQ"
-    },
-    {
-      "query": "lioness season 4",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "hofbvnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgULrcRFqXmLQoMhfHmG9bIo_ONcnBA-AORrFfA"
+      "news_token": "ttnmHHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoWEgpuLUvMWhQZD-a0_-1H4qn_Po_A9J-9B5ss3yN1CkZ_o9gVF_sH2eyjymuLfUPixHpNR-JIlW1H0T33FhSKv99UQwgcANEZNZQ"
     },
     {
       "query": "lioness season 3 finale",
-      "search_volume": 5000,
+      "search_volume": 1000,
       "increase": 200,
       "categories": [
         "entertainment"
       ],
-      "news_token": "lfaio3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnmG9bKLUvMWhQZD-AolJkIofAutRBS-8JklyHz541ycyHypvaLHUeQ_VbZC-AAilCy7"
+      "news_token": "AUWbDXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRnmG9bKLUvMWhQZD-AolJkIo_Hken1H4wmeWQPgAht8crQ"
     },
     {
-      "query": "avengers doomsday",
-      "search_volume": 2000,
+      "query": "blair underwood",
+      "search_volume": 1000,
       "increase": 200,
       "categories": [
         "entertainment"
       ],
-      "news_token": "1IN6HHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoXKrNBFqXmLQoOhfAtNQWS-fKr3GRT-Bs_bKOoLXlug8G2Wt6Hw8zbeQ-E3Sj1D4Zs-WI3Ml1X4uwPCBwDxsUBi"
+      "news_token": "EavgU3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvk_fGGLUvMWhQZD-AoLK7wgfADDDhII"
     },
     {
       "query": "how old is travis kelce",
@@ -402,53 +263,41 @@
       "news_token": "xNFxrnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXbfSyLUvMWhQYDAMzoDAI"
     },
     {
-      "query": "address",
-      "search_volume": 1000,
+      "query": "sharon stone",
+      "search_volume": 500,
       "increase": 200,
       "categories": [
-        "entertainment"
+        "entertainment",
+        "health"
       ],
-      "news_token": "v6Q3-nica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGOZecbYtS8xaFBkP5JoYPkPkKZcXnUfhCa_cj8-Xv3TFCkW_XV0XhZ7zJQlEvuyoKhX__bhKK_V89r6DwF72cjcKvW7sUmS_9k6cCxb7K7doo5jf0G6PId70vQpHf_tULRb7j41sUfpOyEwrfrDEdRf9unUoUedfVgRA-AF5ih20"
+      "news_token": "M4wFmHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvlrbrcXpeYtCg2G8BXCp59F4U-LiUXhR8e8RuHPv3IFhT9jQw0K3_3vCRT-wj-o8lbzzFH4sf5OED4ARMJCLQ"
     },
     {
       "query": "chief",
       "search_volume": 500,
       "increase": 200,
       "categories": [
-        "science",
-        "business_and_finance",
-        "technology"
+        "other"
       ],
-      "news_token": "UqHC8nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoX-Z42LUvMWhQZD-WzrOVH4Rectkfny3ydFo_BnHp-Foj58cRSK_IXZW1DkS9p-ociXS4lD-ADMfzsy"
+      "news_token": "JOUbDnica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGhZK2X4tS8xaFBkP5846dR-En81Sh8F02paPwrefsQuEXcKgg8-V_T65FkV8YtQWFX8gei6L-GY8Givxsow0o_Cm6D1D1T7RA4c-59BdVvUwzqnvu_EGRL5P-iGq_cyqEDwCmRG_a"
     },
     {
-      "query": "administration",
+      "query": "juju smith-schuster",
       "search_volume": 500,
       "increase": 200,
       "categories": [
-        "law_and_government",
-        "politics"
+        "other"
       ],
-      "news_token": "OWGBc3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoVQnj-LUvMWhQZD-UXnLVH4KX-foPCVsqRR-NEzLyHz5RvSf6Dwd6R0ovA_C2Qi86Ud1l1HMS9tjzKEDwCQrUDZ"
+      "news_token": "p9kf8Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoW8O4yLUvMWhQZD-PLn5nxC5ivELIXKAwAgsBgx"
     },
     {
-      "query": "ability",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "science",
-        "technology"
-      ],
-      "news_token": "AQGKVnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrldR3YvSs1bFBoM4Su4MytA-ADOrRHn"
-    },
-    {
-      "query": "jennifer garner",
+      "query": "jev",
       "search_volume": 200,
       "increase": 200,
       "categories": [
-        "entertainment"
+        "science"
       ],
-      "news_token": "UzRgdXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgVxboVFqXmLQoOh_PRGKxQ-_yFU-eZDlij8TCsDZL48M-9XZD7rppALED4ACUAr-g"
+      "news_token": "ZjwTN3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgUGc_dFqXmLQoOh_HkP5kP4ALKDEeE"
     },
     {
       "query": "kristen bell",
@@ -465,129 +314,156 @@
       "search_volume": 200,
       "increase": 200,
       "categories": [
-        "other"
+        "entertainment"
       ],
-      "news_token": "imf-Qnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgUm3SWLUvMWhQZD-DJ3HyRA-AC6dhIy"
+      "news_token": "cDgOcHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoXZH-oWpeYtCg2G8pl0lyDzZe4-SIDwASGmGH4"
     },
     {
-      "query": "whio",
+      "query": "andrea martin",
       "search_volume": 200,
       "increase": 200,
       "categories": [
-        "climate"
+        "entertainment"
       ],
-      "news_token": "VsWFA3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgUjydZFqXmLQoOh_O7zKqj8yUkofNaUqSj89ti7ED4AkwQinA"
+      "news_token": "kI3meHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvk8y9mLUvMWhQZD-c-8jCB8AL-2Eeg"
+    },
+    {
+      "query": "jennifer garner",
+      "search_volume": 200,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "qEqnL3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgVxboVFqXmLQoOh_PRGKxR-8yFLFD7_IRT18sy8X5H5MgueCkP4AIyWJr0"
     },
     {
       "query": "jay leno",
       "search_volume": 200,
       "increase": 200,
       "categories": [
-        "autos_and_vehicles",
-        "law_and_government"
+        "autos_and_vehicles"
       ],
-      "news_token": "ji1BDXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmueUqLUvMWhQYDAM9lDEw"
+      "news_token": "06fywHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoUuxhmLUvMWhQZD-PJd85QgfAC7-xGy"
     },
     {
-      "query": "caleb wilson",
+      "query": "whio",
       "search_volume": 200,
       "increase": 200,
       "categories": [
         "other"
       ],
-      "news_token": "d472UXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRknJ6O2LUvMWhQZD-AqNGySR-fJntVohfAAEKBdy"
+      "news_token": "gCuxTHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoVZBnsXpeYtCg2G8rvPq0D4AMbvEks"
     },
     {
-      "query": "nate burleson",
-      "search_volume": 200,
-      "increase": 200,
+      "query": "epic",
+      "search_volume": 50000,
+      "increase": 100,
       "categories": [
+        "food_and_drink",
         "entertainment"
       ],
-      "news_token": "HR0GhHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoW25caLUvMWhQYDANAKDGM"
+      "news_token": "-a9-bXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoWKiamLUvMWhQZD-Qs3JCHz5bv8L6PIT3T7giK_kvktCv845yMU9VNkGVDk_3ekQfgARWc1VQ"
     },
     {
-      "query": "cory booker",
-      "search_volume": 200,
-      "increase": 200,
+      "query": "amd stock",
+      "search_volume": 10000,
+      "increase": 100,
       "categories": [
-        "politics"
+        "business_and_finance"
       ],
-      "news_token": "HV54oXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvn51rcXpeYtCg2G8BWiZ15C4TfFOUP4ACMQGCY"
+      "news_token": "KdM6Q3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGBRXRVYtS8xaFBkP5bAzSKPyJ396h8KPtVFD4i7YsR-Ezz5iFzJd_wiCEwn9U9RZFfd8vfxT-7IyTKHzp55wo_PmpXch8GTbrZmS-bKqiJjJfOps3AsV-2VVRED4Ax8RfdA"
     },
     {
-      "query": "mustafa suleyman",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "science",
-        "technology"
-      ],
-      "news_token": "p3UvC3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvlFspsXlRQtCg2G8BXkuoUgfADAYhGY"
-    },
-    {
-      "query": "san gennaro festival",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "tEPkp3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvkJa-cvSs1bFBoM4cttU10L4QMAzr8Spw"
-    },
-    {
-      "query": "lonnie bunch",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "wHLhDHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgXHJ-8WpeYtCg2G8OXknNqR-dIv8vIgfAAhfBhA"
-    },
-    {
-      "query": "steven spielberg",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "1hA-pnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRvnv_bMXpeYtCg2G8k8K_ELmKxRuiEPh90YJoKgvb2FHkU9-sAqFX3RTB4Vv19WKws9NckHhpzVsRObLHHzyEMIHANViRuc"
-    },
-    {
-      "query": "japan",
-      "search_volume": 100,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "iK7t03ica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGBR6fukWpeYtCgyF8ucesv5D58nv0vyDzFbhDJ6Pw-y-boKi3OGiKIl8uiKJevrcExTz5ht73KOrDu8JR-IXqTSj8nmJ7FH5n8iwU8zbx7kaRd2AIReF3h6eh8JMil0P4ANzTZqE"
-    },
-    {
-      "query": "kauai",
-      "search_volume": 100,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "3S_TRHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvl_0XsXpeYtCg2G8BX8Dc-g8NsuOCPz5X1vpCLz5fSWWEH4AO84I5w"
-    },
-    {
-      "query": "technology news",
+      "query": "latest news",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
-        "business_and_finance",
-        "science"
+        "politics"
       ],
-      "news_token": "DQEr2nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoWYv28WpeYtCg2G8OVlXyog8xX02VtR-JECMijqD_9JQZFP0i1Dkd-29jcK_3jFDRT1bTJ6KHwZEWYIHwAusD6l"
+      "news_token": "cnBtqHica1xTlFpYmlpcEp-SWJJ4h0Fm8nkGBgZGheiZlxal5i0KDYbye7oiUPgz67pQ-JIlW1H4CQU3UfhF5y2R-XLrz3Ah82UffLdFUd-ZwoLCX7xDEYXfZh2Fwu-NSkXhSz_nRObLt_3uQ5GfIqOKwo_QrkZRv0MOVT3brkAU-amym1Hkp3auQpG_4y2DIt_6sx-FP_-tDar8vnIUfiL3BhTzXi5CcY_ch9ko4S-35c59CB8Aw1GpEw"
     },
     {
-      "query": "mikayla demaiter",
+      "query": "instagram",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "AKeZW3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoWG_cKLUvMWhQZD-T1dESj8ivTrKHxZ7m4U_sQnZ5H58iWmP1HkedeXoMg3_LqHzJd7XCGHor5h0woU9Qkmu1DkfY5D9QMARvxNBg"
+    },
+    {
+      "query": "pelican",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "other"
       ],
-      "news_token": "R_QQpHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUqyaxFqXmLQoMBzK8MAA"
+      "news_token": "lodUx3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvn_0TcWpeYtCg2G8BUWpEqg8B0W2CLz5feGn4HwAdcpHhY"
+    },
+    {
+      "query": "destiny 2",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "games"
+      ],
+      "news_token": "s3sOgnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoV5nRmLUvMWhQZD-HIz1t5D5ivIim6A8AEjlxgb"
+    },
+    {
+      "query": "upcoming events",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "entertainment",
+        "hobbies_and_leisure"
+      ],
+      "news_token": "_264Q3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoXFwQKLUvMWhQZD-fOnq6Pwuxw3oPC9PQ6h8GfETEPhT-3aBuEDAP5_KOQ"
+    },
+    {
+      "query": "technology news",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "toGJ_nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWJs54uSs1bFBoM4cvfmDgXwgcA16ATWw"
+    },
+    {
+      "query": "peter krause",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "7eHx5nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvlmnvJFqXmLQoMhfAWP279Q-At3ofJn5VtA-ADUmx6E"
+    },
+    {
+      "query": "japan",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "1so4s3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRgUen7pFqXmLQoOh_LK06yj8nmJ7FL7KfRsU_nwdERT-FJklKPy0PYwo_EUv7yDz5X9_VkWRn-vqjMJ3YAhF4VfFCUL4AEhCSVw"
+    },
+    {
+      "query": "starbucks",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "PB-MEnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoVJRywWpeYtCg2G8qdfYkThW5gYoPDtMjVR-DPO2KLwZ2bLoPA7Z4ej8Ls6tqLwEzaIQPgA8J44pg"
+    },
+    {
+      "query": "movies",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "fV1oKXica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZG-fd2tYtS8xaFBkP5DKZ9yHyFxdbbUfgsDY9Q-AvLJ6Oq53mLwp_B-w2F3zaJA4Vv62WEwo_1CEfhi3MroPCVo_-i8OdaqqO4_9dtLxT5BVuzUPizjR-iqP_w8xaKfIfOYxR-2A8U9QrJMZYQPgBMl3kr"
     },
     {
       "query": "big brother spoilers",
@@ -596,89 +472,89 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "u2P3fnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoWUrxsXpeYtCg2G8suNY1D4kdN7kPlyHw86QPgA1CIeSA"
+      "news_token": "gLSyrHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoWUrxsXpeYtCg2G8u3Eq1D45cYxKPzI6T3IfLmPBx0gfAC_-SNa"
     },
     {
-      "query": "fox",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "politics",
-        "law_and_government"
-      ],
-      "news_token": "M4kbxHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRgWN96aLUvMWhQZD-Tkc2Sj86JmXkPnyKYHHUeQNdmWgyM88XoEiH_J6Bgq_7hgzCr9dejUK3335NGS-3GmJZyjyZu8OoPBTI08g82UYTz2A8AEax1fG"
-    },
-    {
-      "query": "national hurricane center",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "lbL3oHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoVWlfuLUvMWhQZD-b1i-Sh80cqDyHxph3XXkfnyk-_NQ1HfdsEZyj93dqphAoQNAEXEL7Y"
-    },
-    {
-      "query": "hulu",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "KfvNdnica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGhfi_CouyEheFBkP5jFpFKPyo18-R-fKp3uko8qU3wlH4GZOkUPgd9Y0o_PabeSh85517UPgqTa9Q-E0L61DsrxboR5FniK5F4cvNNkPmyx56boPMl3x68wCEDwB3PGJH"
-    },
-    {
-      "query": "austin",
+      "query": "flores amarillas",
       "search_volume": 500,
       "increase": 100,
       "categories": [
-        "law_and_government"
+        "hobbies_and_leisure",
+        "shopping"
       ],
-      "news_token": "UdrFhnica1xTlFpYmlpcEp-SWJI4f_J5BgYGRoV26dWLUvMWhQZD-W0Ra1D4PO-NkfmyzBuikflyN-v_I_NluOO8kPnyj_ZJoMh7vXqJYj73-Sko5u0tmYfMlyzvEkHR_2bLIhT9TbdPoPDTPNRR7Dcos4DwAeNYXO8"
+      "news_token": "uQTAUnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrkFqp6LUosXhQYDAM1-DBQ"
     },
     {
-      "query": "line of fire",
+      "query": "holiday today",
       "search_volume": 500,
       "increase": 100,
       "categories": [
-        "entertainment"
+        "shopping"
       ],
-      "news_token": "4ti2AHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvlmnvJFqXmLQoMhfAWP278gfAC-yxJo"
+      "news_token": "gBCqgXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgWpva8XpeYtCg2G8mfV-iDz5ed73UaRj-LOQ-EzfViGwnc8LAvhAwA2WijG"
     },
     {
-      "query": "kylie kelce",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "ZTEE5nica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoWYc3mLUvMWhQZD-Q697ih806Z4FL6NQw0yX5J74h4IHwCe2yIa"
-    },
-    {
-      "query": "houthis",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "AxxCuHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoXmqfcWpeYtCg2G8muPz0Hmy73d2Y0ir_hxBwpf470pCl_m4VIUflpJNQqfv8sWhd-x9SwyX34NZz4K_-9KM2S-7A6LmxA-ACHuTZo"
-    },
-    {
-      "query": "fidelity ira",
+      "query": "hotels",
       "search_volume": 500,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "vOZDWnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoWWbsVFqXmLQoOhfMmYcGS-_I7VF1HkGzZzo_C1JhhD-ACjiyJp"
+      "news_token": "a4GRZHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG-R8zXixKzVsUGgzhK-gUL0Tmy_c-cUORV_tbgcKPedOKwu__yIHCL8nZi8IPit6OYv7dxhIU_k-mQBT-SYG_KPon3ytH4ceKrEZR38BTj2rf6ZUo_Al6M1H4jS8FUPghf3MgfAAT5XBz"
     },
     {
-      "query": "movies",
+      "query": "strands hint",
       "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "aF8s9Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRnmf1ccWpeYtCg0GANIbDL8"
+    },
+    {
+      "query": "taylor tomlinson",
+      "search_volume": 200,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "QlP5yXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG-fd2tYtS8xaFBkP4Cqnls5D58o9eT0CRD-XVQuHHeoSj8M0a4lD01yseR-bLzlKbiiLfq6ODor9tEgcKv_1mHor6ExvZUfhLzd1Q-BOYL6Pobzq-CUX-9YJ7KPIsDY9Q-PF_FSB8AFShba0"
+      "news_token": "HAEgpXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvlftfKLUvMWhQZD-ApWLVMgfADHGhIt"
+    },
+    {
+      "query": "adam sandler",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "pjAdknica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoUFTNqLUvMWhQZD-bYCi1H4oX1TUfjNqo4ofNXyNmS-DHc9O4QPAKYUJh8"
+    },
+    {
+      "query": "avengers endgame encore",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "aNPI9nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvlU7zOLUvMWhQZD-AqVWaEo_FnL7kH4ABSdGFo"
+    },
+    {
+      "query": "gate",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "G9yQuHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoXyJ7MXpeYtCg2G8q2s1FD4JcedUPiL_k5E4ZuHq6DweXzqUPiLbaxR-PPfKiLz5T7M7kLmywd6O6Dat_okivyrNXsgfACoQEvF"
+    },
+    {
+      "query": "hawaii",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "climate"
+      ],
+      "news_token": "CrUFCnica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGBZV77xel5i0KDYbye-KCUfhtF5xR-KXLpZD58v-i96LIt6rcR-HLcaig8DvavqDwC77xo_AnnHyKwp-9mQ2Fv7hvFQpfYU0-Cn_qjmYU9x2eFY4iP2-KMYQPAMHiZCc"
     },
     {
       "query": "kimora lee simmons",
@@ -690,13 +566,14 @@
       "news_token": "UPe8FHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWSSo5FqXmLQoMBzMsL-A"
     },
     {
-      "query": "avengers endgame encore",
+      "query": "steve martin",
       "search_volume": 200,
       "increase": 100,
       "categories": [
-        "entertainment"
+        "entertainment",
+        "business_and_finance"
       ],
-      "news_token": "AtCS83ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvlU7zOLUvMWhQZD-AoWmoLIfFnFOB0Ufhn_TQgfAIQuG7w"
+      "news_token": "ehxvmHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXGfzsWpeYtCg2G8s2VYyB8ANCPEjM"
     },
     {
       "query": "anna paulina luna",
@@ -705,27 +582,25 @@
       "categories": [
         "politics"
       ],
-      "news_token": "nO4ECnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgWtieKLUvMWhQZD-RESE5D50i-7FCF8APGQFuo"
+      "news_token": "FJZ8dXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRgWtieKLUvMWhQZD-eGLP6DwIyQmIPOlX3YpQvgApJIdFw"
     },
     {
-      "query": "ga lottery",
+      "query": "is keenan allen playing",
       "search_volume": 200,
       "increase": 100,
       "categories": [
-        "games"
+        "other"
       ],
-      "news_token": "SUMuWXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvnHZacWpeYtCg2G8BW6Tf5A-ADWwRMj"
+      "news_token": "nUu6onica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvkuGdlFqXmLQoMByzILxQ"
     },
     {
-      "query": "real",
+      "query": "jd5",
       "search_volume": 200,
       "increase": 100,
       "categories": [
-        "technology",
-        "business_and_finance",
-        "science"
+        "law_and_government"
       ],
-      "news_token": "goapTXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvk32-cvSkldFBoM4Su0sXog8-VVPpajyKc0L0Lht88UQlF_7uYFFPnsD80ofGnxKggfADcrNOI"
+      "news_token": "VSvpH3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWGj7cWpeYtCg2G8OUD03ZC-ADXzxMA"
     },
     {
       "query": "amanda bynes",
@@ -738,123 +613,58 @@
       "news_token": "5M47uHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvlHlSaLUvMWhQYDANHTDJE"
     },
     {
-      "query": "jd5",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "53M3T3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvnAtJ2LUvMWhQZD-AoNH29B-ADKDxMA"
-    },
-    {
-      "query": "princess diana",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "r4s4rHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvmpspsXpeYtCg2G8BUCbNRR-DVfulD4pdm7UPhVJ0JR-G0z16Pwdc-xI_Nl7ugtRObLl7f8Q-bLxRzeA-EDAEZ0QOg"
-    },
-    {
-      "query": "tv app",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "technology",
-        "entertainment"
-      ],
-      "news_token": "YHBdy3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoXOIzcWpeYtCg2G8OVPK-ui8BdevorMl2FeNBGZL9X-oAOZL_00wh_CBwB75yp7"
-    },
-    {
-      "query": "fidelity bitcoin",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "BX3wNHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvkdqy8uSs1bFBoM4Su0dCui8CVjwpH5crVP5kL4ANMoHfc"
-    },
-    {
-      "query": "ncis new york",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "A-G2DXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvkTy80WpeYtCg0GANJnDKc"
-    },
-    {
-      "query": "new york",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "politics",
-        "law_and_government"
-      ],
-      "news_token": "_fp3c3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoWEgpuLUvMWhQZD-ZIlW1H4_WFcyHz5lZ9mocg7L-dE4ef_VEHht7p7ovCTtk9A4TdP_YvCLz8GdQ8AOwpA1A"
-    },
-    {
-      "query": "credit acceptance",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "dtRQ3nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgXLpqRFqXmLQoMhfPmTynsgfAC95RIK"
-    },
-    {
-      "query": "jane pauley",
+      "query": "education",
       "search_volume": 100,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "J2N4Snica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgU7badFqXmLQoMBygsLrg"
+      "news_token": "81kodnica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGBS63xkWpeYtCg6H8heefofBrj89B4Ut9b0Lmy7_r34TCP3nPCkX9zEAfFL7Bh9MofL-Mhyj8uR9LUPixdV4ofI0ncSj8CMsEFP4sIxZU_oocFPfd7wpCkXeKz0eR_5-egxoejRYo_GaJFSj8GRtR_ddTzI9qv5c5Cl9pbzWEDwD4bpEE"
     },
     {
-      "query": "clay aiken",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "eqCGGHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXrimuLUvMWhQYDANBkDIw"
-    },
-    {
-      "query": "dengue fever",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "health"
-      ],
-      "news_token": "VdmEjXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRgUe69eLUvMWhQZD-R3r_iLzZVjjMpH5Uq9KayB8AMCMHc4"
-    },
-    {
-      "query": "tv guide",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "H2XHSXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrmUEIFFqXmLQoMhfPkb2w4h8xXkDoVD-AAL-RfV"
-    },
-    {
-      "query": "ukraine war",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "A1bziXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRnmWMw8XpeYtCg2G8BViRQ6i8GXKbqLwg7fGIvPly9VvociLL1yOwk9VNkJRfzFuMTJfTjtoB4p68wYJCB8ADhw-cw"
-    },
-    {
-      "query": "charles spencer",
+      "query": "el salvador",
       "search_volume": 100,
       "increase": 100,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "I-x2U3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoWaL12LUvMWhQZD-PJTZTcj8xVyDaxR-AE26hA-AMXvHLU"
+      "news_token": "-pIWoHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoWpUnaLUosXhQZD-bFT3VH4i-fsQObLS5jvRZGPTHuCzJdLMzgK4QMA_WsolA"
+    },
+    {
+      "query": "india",
+      "search_volume": 100,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "25YQHnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvn9TjcXpeYtCg2G8u-dkEXmKzS48KHwK38qovC7vq1E4VvfW4LCn9xbhcKft1gOxb7tzP9R5CWSEyF8AMWZQNE"
+    },
+    {
+      "query": "derek spencer",
+      "search_volume": 100,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "mvFJWHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXOFJZFqXmLQoMBzMQL9A"
+    },
+    {
+      "query": "slides",
+      "search_volume": 20000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "IzPufnica1xTlFpYmlpcEp-SWJJ4h8Fw8nkGBgZGhZ6Hbxal5i0KDYbw5S--1EXh9wtmofDLW1tR-KXrjZD5Cn7Siih8uR4vFL61tggKX4nXBcW8rf9movDXcOajqA-KZUOR_zPhB4q8YvwJFH7-TxUU9ScDbFD4DKZ9KOpr2Fah8FkaHqHwS_6dROEv9opA4QffRZXPjTJH4QteKEbhO8eiqlcRRbV_1suVKHwRuY0ofMYDLCj8OG8_FP_JropC4edO2YQankao9i_a8gWFL6G-B4VvY2aJ6n9VYRS-8Z1IZL6MdcsZFPnUldwo7lnflIIiH65ejWq-TCAKX-HWTRS-xh9NFPOmZIaj2H8_2RFFvV2mMar-J9sgfABqCxiX"
+    },
+    {
+      "query": "dictionary",
+      "search_volume": 20000,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "doOYiXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvkvM3kWpeYtCg2G8BVmbTaF8AHJrhJg"
     },
     {
       "query": "facebook",
@@ -863,16 +673,71 @@
       "categories": [
         "other"
       ],
-      "news_token": "B5_8rnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRgVZ7u5FqXmLQoOh_O7U6yj8NqMuZL78q0mayHy5xxVyKPKbfxWg6Oc9qYyinu9OIDJfRv37cRS-g7kjhA8ACxs_GA"
+      "news_token": "iT5843ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgVZ7u5FqXmLQoOhfN6Tyij82S22KPw2oy4UfmHjBWS-3OMKORQ-351AZL6M-vfjKPqVzs2E8AHQsDlB"
+    },
+    {
+      "query": "stopwatch",
+      "search_volume": 10000,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "Mo__1Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqmT-U2LUvMWhQZD-AoJy3MhfADKwRJu"
+    },
+    {
+      "query": "cat",
+      "search_volume": 5000,
+      "increase": 75,
+      "categories": [
+        "hobbies_and_leisure",
+        "pets_and_animals"
+      ],
+      "news_token": "UBi0d3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgWzd3MXpeYtCg2G8vN22aDwFxn8R-XP8Efmyz-8egpFfkE0irxCg_NCFL7gys0o_HkPbkP4AAhTPI0"
+    },
+    {
+      "query": "btc",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "839LtXica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGBRszy0WpeYtCg6H8lMsMKPxZ0gko_D6Gryj8ugo9FH5I7AcUvsYEF2S-_GvNVmS-nInhAxT1fpGo7mGSWobC104UQeZLJ_mFoJj_IHUpivy8ZiUU-QkX5CB8AJ1xXjc"
     },
     {
       "query": "walmart near me",
       "search_volume": 2000,
       "increase": 75,
       "categories": [
+        "health"
+      ],
+      "news_token": "ZssJn3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvnfk84sSs1bFBoM5b_g3Q_hAwDcPxNR"
+    },
+    {
+      "query": "khan",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
         "law_and_government"
       ],
-      "news_token": "SDeVSnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvkXvPsXpeYtCg2G8BWChCMhfADE6xG3"
+      "news_token": "ThRA6Xica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoXaqPZFqXmLQoOh_JnvvJD58lfTalH42-J8UdQzrjqBIv97oTgKf68lA4p6G7NeZL7M7OcCyHy5l3fyUfjLb8eg6HdfZgHhAwA8nUwE"
+    },
+    {
+      "query": "intc",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "RCndkHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgU2BulFqXmLQoOh_LLvWSh8hVt6KPx563ej8OfvK4HwAYGUIwg"
+    },
+    {
+      "query": "current events",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "HFz0I3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgXJkq2LUvMWhQZD-Yofd6Dw-0WUIXwADmcXWw"
     },
     {
       "query": "jon bernthal",
@@ -881,26 +746,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "KD62Enica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoVu8X2LUvMWhQZD-PL31x5D5ivUKR9A4TfO8ENRf8RuJTJfJvY2E4QPAF04Kas"
-    },
-    {
-      "query": "loteria nacional",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "games"
-      ],
-      "news_token": "-svQ7Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXmLqNFqcWLQoMhfPl97KYQPgC9ExGI"
-    },
-    {
-      "query": "flights",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "oo8nYXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRvnbsUaLUvMWhQZD-ApShodR-G0Rx1D4zG0-KPz2v99Q1T-YjyovfQCFr1vjhMIP-ymDwg8quY3Cb_3Zj8Iv-R-Iwo_tYkThm4n6IvNlpKKWQPgA2GNb2g"
+      "news_token": "etzJXnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoXGGX6LUvMWhQZD-Ysbj6DwF606h8yXv7_2GIp8t_g-FH6d8gEU_gyZbhS-lUI5hA8AjiM1Yw"
     },
     {
       "query": "logan paul",
@@ -912,31 +758,142 @@
       "news_token": "U2XELXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUOmzOLUvMWhQYDANDzDJM"
     },
     {
-      "query": "ukraine news",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "5Zp503ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGhViRg4tS8xaFBkP54guXo_AlS7ai8EN5_iDz5Y8e-4jC96nKROGXq99C4W8T4UHhf_TTQOGfTjJG4fcKK6DwZwZUovBZzjxEcV_kWwkU-YWs7Mh86aOex1DU8-iGIPNlVpuroui_tpkTwgcA7pNwuQ"
-    },
-    {
-      "query": "fidelity etf",
-      "search_volume": 100,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "IwAz7nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoWGzdyLUvMWhQZD-PLVzzxR-DtWX0Thb3JWhPABzBsd-w"
-    },
-    {
       "query": "fidelity investments",
       "search_volume": 100,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "mtAwZXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRgWtCcaLUvMWhQZD-e0uX1D4Ld2KyHz56meeED4AqS8dUQ"
+      "news_token": "BAr1BXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvkNEfsWpeYtCg2G8BUW8pug8EP7TiPz5U8sL0PhVz_zRFGvNcEYRf7j9LMo8u0uX5D5sitroyF8ALZ4O30"
+    },
+    {
+      "query": "silent hill townfall",
+      "search_volume": 100,
+      "increase": 75,
+      "categories": [
+        "games"
+      ],
+      "news_token": "6XzQs3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgX9BMFFqXmLQoOh_OnT8pD50uk8PyB8APYTFyo"
+    },
+    {
+      "query": "rande gerber net worth",
+      "search_volume": 100,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "d4qGsnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoUJt_YsSkldFBoM5fd0RUD4ANQpEsY"
+    },
+    {
+      "query": "v",
+      "search_volume": 10000,
+      "increase": 50,
+      "categories": [
+        "other"
+      ],
+      "news_token": "wD7nWHica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGhQX3DBel5i0KDYbyZ75dicLvmZyMwm-beRaF37jwCgp_zpRWZL78jWUGKPIzsthR5Bm6T6HIFx77hiK_7cV0FP7W7gIU9XbdHCh8C_-lyHyZbc9EUfTrbQpH4U-zCIDwAaOEao0"
+    },
+    {
+      "query": "fortnite",
+      "search_volume": 5000,
+      "increase": 50,
+      "categories": [
+        "games",
+        "hobbies_and_leisure"
+      ],
+      "news_token": "VMJT1nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoUp83cuSs1bFBoM5fvofUDhM0-_g8Kv3K6Ewm_W343CX9ivgsyX-9WKwpf-fLYTmS-b2cqDwhfc-A3CBwCPHkDO"
+    },
+    {
+      "query": "world map",
+      "search_volume": 5000,
+      "increase": 50,
+      "categories": [
+        "other"
+      ],
+      "news_token": "JXxgw3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoWyI6GLUvMWhQZD-ZFyX5H5cqda65D58mfezIHwAdNdHuU"
+    },
+    {
+      "query": "tubi",
+      "search_volume": 5000,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "lz1iVXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoXpzC8XpeYtCg2G8s1OfEPhl1QqQ_gAHtUYEA"
+    },
+    {
+      "query": "facebook marketplace",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "kZOlJHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoVCDZFFqXmLQoMhfPmzWk3IfIU0x1cQPgD2oRc_"
+    },
+    {
+      "query": "d",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "other"
+      ],
+      "news_token": "uqgU73ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGhQStD4tS8xaFBkP5i7YwofJnTEDhd2bxovDnJD9F4XNaHULhez9cgMyXPzzzGYp8zywvFH7TlAoUfuIGZhS-jI0PqvsexKDwHSR-o_Al1HNR-PLXzqLwQ_mmo_DV8-pR-FYKShA-ABMmcXY"
+    },
+    {
+      "query": "xrp",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "nqA9qnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGBYW3DotS8xaFBkP5NmaWyHy5vcz8KPJxH6uR-fJfWc-hyHck-aHww922oPADJLRR-AvPh6OYt2P1RRR5lR1yKHxZbhkUvsYEFxT-DBcnFL7Fiiko_KoTmSj2_RJ6DOEDAFnbZVA"
+    },
+    {
+      "query": "pictures",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "entertainment",
+        "law_and_government"
+      ],
+      "news_token": "5oi5z3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoXiR16LUvMWhQZD-VHdLCj8ueXyKPzZ8hwofKXwBGS-_GLvayjyEy0mQPgAfngtBw"
+    },
+    {
+      "query": "argentina",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "other"
+      ],
+      "news_token": "d8hVvHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgVD0-uLUosXhQZD-HJruGWR-QreuzpQ-JwKKsh8-e91b1HkW6UDUOSLVlVB-AB_ji2H"
+    },
+    {
+      "query": "xbox cloud gaming",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "technology",
+        "games"
+      ],
+      "news_token": "Z3U0gXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoWmBdMXpeYtCg2G8lt_zkTmy9985YTMlyvddBiZLz3F8AEKf89OTQgfAKWEK0c"
+    },
+    {
+      "query": "nws",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "climate"
+      ],
+      "news_token": "8PK92nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoXOs_mLUvMWhQZD-TO-2aPwFz6chMKfu7AShe-_JRmFv0BSAoWv9CAQhV8kfBKZL3_yxmwIHwD4PTuL"
+    },
+    {
+      "query": "landman season 3",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "B6RwxHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWJ5p8XpeYtCg2G8OVTvp2B8AHP9xMm"
     }
   ]
 }
