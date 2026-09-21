@@ -10,15 +10,15 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 34,
+      "keywords_count": 35,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-20 21:30:53"
+      "last_updated_hkt": "2026-09-21 00:30:51"
     }
   },
   "trending_seeds": [
     {
       "query": "chad gilbert",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 1000,
       "categories": [
         "entertainment"
@@ -44,16 +44,6 @@
       "news_token": "1GS093ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoXcXW8WpeYtCg2G8GXzNa4i86Wj57Aj8xXMdtyH8AHWoB4O"
     },
     {
-      "query": "george lucas",
-      "search_volume": 5000,
-      "increase": 900,
-      "categories": [
-        "entertainment",
-        "travel_and_transportation"
-      ],
-      "news_token": "5Ixl-Hica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoXkB6sWpeYtCg2G8psWBqLwG7o_oPBrGk-j8KuWZCHzZUtjQ5H58hvMj6Gor71qjsyXOMhsgqLeqGs9hA8A4S9AvQ"
-    },
-    {
       "query": "deep sea",
       "search_volume": 10000,
       "increase": 800,
@@ -61,7 +51,17 @@
         "science",
         "entertainment"
       ],
-      "news_token": "lMI7v3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoW4iVaLUvMWhQZD-Q6njqPw646eQOG32BYg8-Vd5N-iyMsGXEbhO7W7ofAFq1dD-AAFczPj"
+      "news_token": "KscC43ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoW4iVaLUvMWhQZD-Q6njqPwOz6ZofDrjp5A4csGXEbht9gWoPCd2t1Q-ILVqyF8AB7YNEQ"
+    },
+    {
+      "query": "george lucas",
+      "search_volume": 5000,
+      "increase": 700,
+      "categories": [
+        "entertainment",
+        "travel_and_transportation"
+      ],
+      "news_token": "5seUxHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoXkB6sWpeYtCg2G8hu6P6Dwq5ZkIfNlS2NDkfnyG8yPoahXcvyDwq-9ao7MlzjIbIKi36hrPYQPAOGCOp0"
     },
     {
       "query": "netflix new movies",
@@ -81,7 +81,7 @@
         "law_and_government",
         "politics"
       ],
-      "news_token": "a_r0Unica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoXmzIJFqXmLQoMhfNlZalOR-Qq1e-6g8BMndqLw68_Fo_BbVnSh8JunHoXyz_34tUgUwgYAhUI23A"
+      "news_token": "THX6aXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoXmzIJFqXmLQoMhfNlZalOR-Qr15-JR-E3fhVD4LSu6oPxzP34tEoWwAaR3KnQ"
     },
     {
       "query": "aaron rodgers wife",
@@ -102,6 +102,15 @@
       "news_token": "SYS-tXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWG_cKLUvMWhQZD-DLJd_sgfADETRJi"
     },
     {
+      "query": "twilight",
+      "search_volume": 1000,
+      "increase": 500,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "5S9GY3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRnnPmHeLUvMWhQZD-Ap8PAtR-B3RJSj8in2MKHwZbxFU-W_TUPgF34JQ-HUPw5H58rtmnkORj9CuRuZLXXU9BOEDAOr-RV0"
+    },
+    {
       "query": "ari emanuel",
       "search_volume": 1000,
       "increase": 500,
@@ -109,6 +118,15 @@
         "entertainment"
       ],
       "news_token": "lL9uNXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrmjX4QWpeYtCg2G8BVCDtaj8KseTEPh23BtQuZL17JfQubL_1L6D-EDAFgrKgI"
+    },
+    {
+      "query": "cbs",
+      "search_volume": 2000,
+      "increase": 400,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "ivTyH3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoXMjecWpeYtCg2G8k3256DwO57fR-bLP_yqgSLfnJmLwufX6UfhR8-8hMLPuCWKzJd6PfU3hA8AFL08Yg"
     },
     {
       "query": "resident evil movies",
@@ -120,13 +138,13 @@
       "news_token": "QlP5yXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG-fd2tYtS8xaFBkP4Cqnls5D58o9eT0CRD-XVQuHHeoSj8M0a4lD01yseR-bLzlKbiiLfq6ODor9tEgcKv_1mHor6ExvZUfhLzd1Q-BOYL6Pobzq-CUX-9YJ7KPIsDY9Q-PF_FSB8AFShba0"
     },
     {
-      "query": "cbs",
-      "search_volume": 1000,
-      "increase": 400,
+      "query": "jason kelce wife",
+      "search_volume": 2000,
+      "increase": 300,
       "categories": [
         "entertainment"
       ],
-      "news_token": "mnC4Ynica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoXMjecWpeYtCg2G8lv3laPwmzNzUfh1R9ag8M3DzVD40TMvofAzbomi8BsOZCDz5VdPY4HwAdGoOtE"
+      "news_token": "DcdBVXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRvks7v2LUvMWhQZD-Aqdi5ai8FX_5aHwRaI0UfjReb9R-DHnUNTL_z-ljSIfK_schZ-xtBuZL1m_sQFF3rQpHsIHAHdoRdM"
     },
     {
       "query": "street fighter movie",
@@ -148,22 +166,13 @@
       "news_token": "rzo04Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUSE6FFqXmLQoMByukLvQ"
     },
     {
-      "query": "jason kelce wife",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "wgv3Xnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvks7v2LUvMWhQZD-AqmTfEQPgC7ChGP"
-    },
-    {
       "query": "address",
-      "search_volume": 500,
+      "search_volume": 1000,
       "increase": 200,
       "categories": [
         "entertainment"
       ],
-      "news_token": "JGRgt3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRjmXnG2LUvMWhQZD-PIRdfOR-Qrhi4xR-FI9F1D4DS58KPq11qLKmzWmo6o__QFFfbHeKhT5-gP_UPgsH_egqGc58xCZL8fTPBuF__f7ehT9WWEHIHwAr5leKQ"
+      "news_token": "EagkP3ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRjmXnG2LUvMWhQZD-SaGD5D5CmXF51H4FiumoPCF1u5H5svfu2OEIp_xJguF366viqJedlUUCv_-3SQU93z1vILCX_RyNgq_bu1SZL70T54KCB8AmNFY9g"
     },
     {
       "query": "jessica tarlov",
@@ -200,7 +209,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "LVNrd3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRvnv_bMXpeYtCg2G8k8K_ELmKxRuiEPhJz9YhaL-Tm0ainzRTR0Uvl1XKwo_N8kFRf8aiT0o8mkNG5H5MgefPITwAWTQSCw"
+      "news_token": "W8oNy3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvnv_bMXpeYtCg2G8k8K_ELmKxRuiEPhJz9YhaL-Tm0ainzRTR0Uvl1XKwo_N8kFhZ_WsBGZL3PwyUMIHwAiEUJq"
     },
     {
       "query": "jennifer garner",
@@ -212,40 +221,13 @@
       "news_token": "Vdn6PHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgVxboVFqXmLQoOhfP5DqPz0RisUfqaVAQrfoXEVhA8AN18gog"
     },
     {
-      "query": "rebecca gayheart",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "3zwyvHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXs7qBFqXmLQoOh_Mi38yB8AMPHEnI"
-    },
-    {
       "query": "lioness season 4",
-      "search_volume": 1000,
+      "search_volume": 2000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "uwTIHHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgULrcRFqXmLQoMhfHmG9bIQPgCuaxDU"
-    },
-    {
-      "query": "brian evans",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "8DLYYnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWkpz2LUvMWhQYDANMlDNY"
-    },
-    {
-      "query": "hulu",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "y0YX7Hica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoWo188XZSUuCg2G8hm1ilD4Zed_ovDbb-ah8DvqG1H4TQvrUPjxfxVQ-M479yDz5asF-lHkGaJrUfh1Yj4o_PDXUPcBAGyISzs"
+      "news_token": "hofbvnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgULrcRFqXmLQoMhfHmG9bIo_ONcnBA-AORrFfA"
     },
     {
       "query": "avengers doomsday",
@@ -254,7 +236,25 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "1Z_h0Xica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoXGl2sWpeYtCg2G8i00BVH4eRvvofAbpZ4h8-UffvmLIp--rx2Fb_pgNTJf-nZyG4r-DZ63Ufip3mcgfAANPUKu"
+      "news_token": "rqcY63ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoXKrNBFqXmLQoOhfAtNQWS-fKr3GRT-Bs_bKOobpZ6hyD_88hdFPm_jPRS-6YPVyHzp28ltyHzZrGe_kflSD_ZD9QMAut1JJg"
+    },
+    {
+      "query": "brian evans",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "VI6xi3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWkpz2LUvMWhQZD-bXLH0L4ANF1Ex4"
+    },
+    {
+      "query": "hulu",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "lOdtG3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoWy8z8XZSUuCg2G8ttv5qHw4_8qoPBVml6h8JsW1qHwGbWKUPjOO_cg8-WrBfpR5MNfo6qXm20G4QMAt-g_2A"
     },
     {
       "query": "snl",
@@ -267,12 +267,21 @@
     },
     {
       "query": "kylie kelce",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "BMgZX3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoWYc3mLUvMWhQZD-aZN8Sh887RHKHwbhxoUvkOvOzJfknviHggfAP2jJ9w"
+    },
+    {
+      "query": "avengers endgame encore",
       "search_volume": 200,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "QsDAI3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoWYc3mLUvMWhQZD-aZN8Sh887RHKHwbhxoUvkOvOzJfIpHtDIQPAPy3J7Y"
+      "news_token": "V8DzKnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvlU7zOLUvMWhQZD-AqVWaEofAtNQWS-rGKcDgq_jP8mhA8Afm0hNw"
     },
     {
       "query": "ncis new york",
@@ -293,13 +302,13 @@
       "news_token": "4oBGDXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXoFrdFqXmLQoMBzfQMKA"
     },
     {
-      "query": "svengoolie",
-      "search_volume": 200,
+      "query": "clay aiken",
+      "search_volume": 100,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "wHVB0nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXSS4aLUvMWhQYDANC7DHs"
+      "news_token": "eqCGGHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXrimuLUvMWhQYDANBkDIw"
     },
     {
       "query": "tv guide",
@@ -311,22 +320,23 @@
       "news_token": "H2XHSXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrmUEIFFqXmLQoMhfPkb2w4h8xXkDoVD-AAL-RfV"
     },
     {
-      "query": "clay aiken",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "eqCGGHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXrimuLUvMWhQYDANBkDIw"
-    },
-    {
-      "query": "lioness season 3",
+      "query": "jon bernthal",
       "search_volume": 200,
       "increase": 75,
       "categories": [
+        "entertainment",
+        "hobbies_and_leisure"
+      ],
+      "news_token": "cPOUqnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWcFKdFqXmLQoMhfPn7a48h8xWqXX-j8OuUD6DwG2f4ofCtFMpRzDtitxLCBwAKfy72"
+    },
+    {
+      "query": "lioness season 3",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
         "entertainment"
       ],
-      "news_token": "RbPw4nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRnmG9bKLUvMWhQZD-AolJkIofAutRGS-1F7R48h8-U-Vrch8adm3fhA-AKMcJ28"
+      "news_token": "3CFyYHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnmG9bKLUvMWhQZD-AolJkIofAutRGS-_HEuThR54TNLkPlSe0WPo6j_VNkK4QMAF_Qsuw"
     }
   ]
 }

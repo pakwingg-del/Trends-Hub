@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 12,
+      "keywords_count": 14,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-20 21:30:50"
+      "last_updated_hkt": "2026-09-21 00:30:50"
     }
   },
   "trending_seeds": [
@@ -23,7 +23,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "lGbI-3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgWVv3cWpeYtCg2G8nkWFqPwFX3qkPnyuTzrUeRF5DYi86Xm9epC-AAFlye2"
+      "news_token": "4s2jEnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgWVv3cWpeYtCg2G8nkWFiPz5XN51qPIi8htROZLzevVhfABvkIiiA"
     },
     {
       "query": "10 year treasury yield",
@@ -51,7 +51,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "howwVHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRgU-h22LUvMWhQZD-dVtnij8OG8_ZL587pRNKPyjxVko6kXkNqLwGQ-woPDTS75D-ACFADLq"
+      "news_token": "P-QwVXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRgWtiOuLUvMWhQZD-PK5UzYh8xXivP1Q-IwHWFD4FWLvUPjSzzlR-HwO21DMP1qchSIvIrcRhZ9e8h3CBwCasD4G"
     },
     {
       "query": "vix",
@@ -73,22 +73,32 @@
       "news_token": "ZVlZ83ica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG-R83ly5KzVsUGgzl298-hMLfrJiFzJfK2VaFzJdtKNFB5ssZ3g1B5is477iHwvfd9QeFX75yOQqfSQjFPQoRn5pQ-FVLXqHwXX84ofBFJqPaz535H4XvYH4Yxb23XB1Q-EfOyqCoD38TihIeO_hTUeRdPsxG5kszfH2NIm_syIbCb_YRhfABJ8ORHg"
     },
     {
+      "query": "technology news",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "S2Mt8Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoWYv28WpeYtCg2G8OVlXyog8xX02VtR-JECMijqD_9JQZFP0i1DkT9ecQNFXkaEGZkvPX96IYQPADaSONc"
+    },
+    {
       "query": "fidelity ira",
       "search_volume": 500,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "5yqbb3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoWWbsVFqXmLQoOhfMmYcGS-XO2Tuch8-R2rL6Kob9jMjcLXmmAM4QMAFMEoqA"
+      "news_token": "vOZDWnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoWWbsVFqXmLQoOhfMmYcGS-_I7VF1HkGzZzo_C1JhhD-ACjiyJp"
     },
     {
-      "query": "act",
-      "search_volume": 500,
+      "query": "fidelity bitcoin",
+      "search_volume": 200,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "rFksyXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRjkTwweLUvMWhQZD-Ytezkbmyx9OVUDhb9X_jcxXEFq7H4Xfrq-KYp5LzjYU_ffuGKGoz3iThSIvuyoKRV4hyBqF7-ykhqL-_t0kFPu-el6B8AFIbVcB"
+      "news_token": "BX3wNHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvkdqy8uSs1bFBoM4Su0dCui8CVjwpH5crVP5kL4ANMoHfc"
     },
     {
       "query": "credit acceptance",
@@ -109,6 +119,16 @@
       "news_token": "SDeVSnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvkXvPsXpeYtCg2G8BWChCMhfADE6xG3"
     },
     {
+      "query": "flights",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "oo8nYXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRvnbsUaLUvMWhQZD-ApShodR-G0Rx1D4zG0-KPz2v99Q1T-YjyovfQCFr1vjhMIP-ymDwg8quY3Cb_3Zj8Iv-R-Iwo_tYkThm4n6IvNlpKKWQPgA2GNb2g"
+    },
+    {
       "query": "fidelity etf",
       "search_volume": 100,
       "increase": 75,
@@ -124,7 +144,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "yAOhgnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgWtCcaLUvMWhQZD-S3dish8-epnnhA-APsJF08"
+      "news_token": "mtAwZXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRgWtCcaLUvMWhQZD-e0uX1D4Ld2KyHz56meeED4AqS8dUQ"
     }
   ]
 }
