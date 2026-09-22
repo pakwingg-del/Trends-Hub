@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 16,
+      "keywords_count": 18,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-21 21:30:59"
+      "last_updated_hkt": "2026-09-22 00:30:53"
     }
   },
   "trending_seeds": [
@@ -24,25 +24,27 @@
         "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "DD7HCHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvltl8MXpeYtCg2G8BUYtZVR-O1CFsh8-a8_byLz2e_umIfMl9kv44nMlztjJofMl154hAHCBwDy7DRV"
+      "news_token": "5lud13ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvltl8MXpeYtCg2G8BUYtZVR-IukVVH47UIWyHz5rz9vIvNl9st4IvPlzpjJocgfXHAPmS-98AgDhA8ABOg5mw"
     },
     {
       "query": "mortgages",
       "search_volume": 1000,
       "increase": 800,
       "categories": [
-        "business_and_finance"
+        "entertainment",
+        "politics",
+        "law_and_government"
       ],
-      "news_token": "ukBIH3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRgWVv3cWpeYtCg2G8udHCaPwReQ2ovC7_vqg8EP4vqLwOxddRubLP3iXgyLv_2QtCn9uTg0KX1NiHgp_4eI0FH7w8tMQPgBx1Ezk"
+      "news_token": "9H0mH3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWlV34uSs1bFBoM5XcuuozCV_l7B5kv_-BdDor8klXRKPy5OTUofBG5jRA-ANMaMUw"
     },
     {
       "query": "meta stock",
-      "search_volume": 20000,
+      "search_volume": 5000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "BfVxJXica1xTlFpYmlpcEp-SWJJ4h0F-8nkGBgZG-UnfTy9KzVsUGgzhK0yc9RSFb6WZiMJPucyAwp8x1wOFP2fqZBT-tA4RZL5sfs0uZL5ccl0YCl87xRqZL7np5nVkvvy2tb9RzGdjkEbhN7dUoPBLfH6i6Jd9qYDCb-g3RuH_Wb8ExT0fZnehmCdZshWFn_sNxT3y5VLiKPJTZJtRzFv0KhZFfvH2Vyh8pk0rUfhzg6pQzH_nm4UiH2FRicLXrb6PwlfKgoYPAP3hubg"
+      "news_token": "8R7MLnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRvlJ308vSs1bFBoM4StMnPUUhW-lmYjCX9AUgsL3mLMcVb08qvoZcz1Q-HOmTkbmy-bX7ELmy2mnWCPzJTfdvA7hAwDeEEaJ"
     },
     {
       "query": "oura",
@@ -54,13 +56,31 @@
       "news_token": "GdzeT3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmDnsWLUvMWhQYDANDjDH8"
     },
     {
+      "query": "gaslighting",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "nnqoKXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmpspsXpeYtCg0GAM-3DGc"
+    },
+    {
       "query": "amd stock",
       "search_volume": 10000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "KdM6Q3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGBRXRVYtS8xaFBkP5bAzSKPyJ396h8KPtVFD4i7YsR-Ezz5iFzJd_wiCEwn9U9RZFfd8vfxT-7IyTKHzp55wo_PmpXch8GTbrZmS-bKqiJjJfOps3AsV-2VVRED4Ax8RfdA"
+      "news_token": "UkOoBXica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGBRXRVYtS8xaFBkP5szNOovD7fvmj8NkYpFH4VpqJKHwBpwIUfoOmBwo_2k4FhT9zfywyX_5R1VsUfvud-SjquW43IfNl2KybkfnSZWdEUPgfwxJQ1NsKhaCYt2jLchT-_NQuFPtlV0WhmJfNG4HMl01V1ETRr5-QCuEDANHgf3Y"
+    },
+    {
+      "query": "xrp",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "_Ix2Nnica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGBYW3DotS8xaFBkP5ueJxKHz3oBhkvtzXiA4UeYW3X1D4rT-rUPgqO-RQ9O9l5keRX7iRF5kvHyfKjSJfqXoQhb9gMhMK32dBBgpfY4ILCl-WWwaFP8PFCcU9JoYPUOz_JfQYhX_yVTaEDwDefHAs"
     },
     {
       "query": "starbucks",
@@ -71,6 +91,15 @@
         "business_and_finance"
       ],
       "news_token": "PB-MEnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoVJRywWpeYtCg2G8qdfYkThW5gYoPDtMjVR-DPO2KLwZ2bLoPA7Z4ej8Ls6tqLwEzaIQPgA8J44pg"
+    },
+    {
+      "query": "robinhood",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "X_0dYHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRgW-uteLUlIXhQZD-Vyud1H4esL_UPjMj3lR-E3HUdTLF36oQubLbXydjSK_Q_Ipiv6lX4RR-GVsiij86U_WofB7Hr5B4ctFhKPwdasNUOz7p9kG4QMA1V1cwg"
     },
     {
       "query": "hotels",
@@ -98,7 +127,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "IzPufnica1xTlFpYmlpcEp-SWJJ4h8Fw8nkGBgZGhZ6Hbxal5i0KDYbw5S--1EXh9wtmofDLW1tR-KXrjZD5Cn7Siih8uR4vFL61tggKX4nXBcW8rf9movDXcOajqA-KZUOR_zPhB4q8YvwJFH7-TxUU9ScDbFD4DKZ9KOpr2Fah8FkaHqHwS_6dROEv9opA4QffRZXPjTJH4QteKEbhO8eiqlcRRbV_1suVKHwRuY0ofMYDLCj8OG8_FP_JropC4edO2YQankao9i_a8gWFL6G-B4VvY2aJ6n9VYRS-8Z1IZL6MdcsZFPnUldwo7lnflIIiH65ejWq-TCAKX-HWTRS-xh9NFPOmZIaj2H8_2RFFvV2mMar-J9sgfABqCxiX"
+      "news_token": "JFA5Cnica1xTlFpYmlpcEp-SWJJ4h0F18nkGBgZGhZ6Hbxal5i0KDYby667kIfPlL77UReH3C2ah8MtbW1H4peuNUMzzk1ZE4cv1eKHwrbVFUPRv_TcTRd459iQKf9bLlSh8FdFVKPrnn3iGwp_0_TSKesYDLCj8OG8_FL6I3EYU_bKropD5chtfZ6PIv9ZE8b-CjZklCn_xr1kofIsVU1D4uVduo5j3lfUcavhU6KDwNQMvoqhfw5mPIh8kOAeFz64bgsyXuZ_siMK3bjmDor7AVRSFP_2JLArf_EkjCn_JdWj4AAABltk0"
     },
     {
       "query": "btc",
@@ -107,7 +136,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "839LtXica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGBRszy0WpeYtCg6H8lMsMKPxZ0gko_D6Gryj8ugo9FH5I7AcUvsYEF2S-_GvNVmS-nInhAxT1fpGo7mGSWobC104UQeZLJ_mFoJj_IHUpivy8ZiUU-QkX5CB8AJ1xXjc"
+      "news_token": "oq_punica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRgUbM8tFqXmLQoMhfPnXmq3IfAWNCS4o_LBudxR-SOwHFL52oggKv4_hKwpf-jknCr-sJgGZLz2vWQmZL2di-ABF_obVKQgfAKSVSMQ"
     },
     {
       "query": "walmart near me",
@@ -125,16 +154,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "RCndkHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgU2BulFqXmLQoOh_LLvWSh8hVt6KPx563ej8OfvK4HwAYGUIwg"
-    },
-    {
-      "query": "current events",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "HFz0I3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgXJkq2LUvMWhQZD-Yofd6Dw-0WUIXwADmcXWw"
+      "news_token": "J9ZloXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRgU2BulFqXmLQoOhfIVbeij8su9ZKPx563dD-AB3Rhz0"
     },
     {
       "query": "fidelity investments",
@@ -143,7 +163,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "BAr1BXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvkNEfsWpeYtCg2G8BUW8pug8EP7TiPz5U8sL0PhVz_zRFGvNcEYRf7j9LMo8u0uX5D5sitroyF8ALZ4O30"
+      "news_token": "LTZI8nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoUlmYsXpeYtCg2G8OWrn3ki8xUW8pug8LUmGKOoP7G8DEU-tO80ivzH6WdR-Bsi9iHzZVfWRkP4AJx-O24"
     },
     {
       "query": "facebook marketplace",
@@ -155,13 +175,13 @@
       "news_token": "kZOlJHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoVCDZFFqXmLQoMhfPmzWk3IfIU0x1cQPgD2oRc_"
     },
     {
-      "query": "xrp",
-      "search_volume": 500,
+      "query": "argentina",
+      "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "nqA9qnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGBYW3DotS8xaFBkP5NmaWyHy5vcz8KPJxH6uR-fJfWc-hyHck-aHww922oPADJLRR-AvPh6OYt2P1RRR5lR1yKHxZbhkUvsYEFxT-DBcnFL7Fiiko_KoTmSj2_RJ6DOEDAFnbZVA"
+      "news_token": "2542iXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgXvXR2LUosXhQZD-PLf694i8-XWcMsi8xU4FVRQ-MafdVD4hqbXUcwrWlUF4QMA0VAt6Q"
     }
   ]
 }
