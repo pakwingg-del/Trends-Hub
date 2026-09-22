@@ -10,101 +10,121 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 35,
+      "keywords_count": 34,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-22 00:30:55"
+      "last_updated_hkt": "2026-09-22 03:30:58"
     }
   },
   "trending_seeds": [
     {
-      "query": "presley gerber",
-      "search_volume": 200000,
-      "increase": 1000,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "Pbwx53ica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGhZ6uiEWpeYtCgyF8-btZ4ij8P26iyHwF63tLUPgm-3NQ1LfJPEHmy3458R2ZLx11sguZLxdzeA-KeXMeLUPhG9-1Q-bLaG86icxn_CTZhuAbMHzo79JGUb885hYK_-gDdRTzQf5PSUXwe9UnIPPB5iPxweYhq194ZCmKeUsrzVD4s7xZUfzvfNMURX6BgTxKeAkwBEH4AG6Zne4"
-    },
-    {
       "query": "jennifer eckhart",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 1000,
       "categories": [
         "entertainment"
       ],
-      "news_token": "Idu7vXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoU5j5YtSs1bFBoMANXNDSc"
+      "news_token": "gMduSXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoU5j5YtSs1bFBoM4cs_nmqMzFfo6YpA4VvfW4LCN75rh8KfHfUBwgcAfo4qfg"
     },
     {
-      "query": "lanterns episode 6",
-      "search_volume": 10000,
-      "increase": 500,
+      "query": "clavicular",
+      "search_volume": 5000,
+      "increase": 1000,
       "categories": [
         "entertainment"
       ],
-      "news_token": "TL8rQ3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvmfG_8vSs1bFBoM4Sv0Fbah8MP0-ZD5sttmpaHIL3k1BYXP-DYAmS-3vSwHwgcAT-Mv_w"
+      "news_token": "NvA3bHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvnnkn2LUosXhQZD-ApzGIJR-LOvrUHhh580ReZz5iw3gvAByeYjRA"
     },
     {
-      "query": "taylor swift",
-      "search_volume": 10000,
-      "increase": 500,
+      "query": "digger",
+      "search_volume": 1000,
+      "increase": 800,
       "categories": [
         "entertainment"
       ],
-      "news_token": "2tURynica1xTlFpYmlpcEp-SWJJ4h0F88nkGBgZG-Szu_YtS8xaFBkP5YUfMkfkKMqcMUPi2-1hQ-LNbDFH0v1j4A4X_97QwMl9ugelSZL7MiposFPNmLZ-OzJdVFzJF0T_HXwhF_6PMXyj8bqtHKOp_bZFD4f--huIf-VfKy1Dsj1G2QuGn9vii6HfJ2YYiz2ZyFIUv6fASxfyklwwQPgC3fYnY"
+      "news_token": "I0zFcHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWE5bmLUvMWhQZD-SHaVij8pQEiKPwKp53IfPn3drVo-teiyLuKQc0DAIL3LKc"
+    },
+    {
+      "query": "hal jordan lanterns",
+      "search_volume": 2000,
+      "increase": 600,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "tAnXYHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvmfG_8vSs1bFBoM4Sv0Fbah8MP0-ZD5sttmpUH4APMUHj8"
+    },
+    {
+      "query": "bryan cranston",
+      "search_volume": 500,
+      "increase": 600,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "mapbMnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoU2FZlFqXmLQoMhfPnjFY8gfAC58BIs"
     },
     {
       "query": "the voice",
-      "search_volume": 2000,
+      "search_volume": 10000,
+      "increase": 500,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "oNB6lnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRrl5V24sSs1bFBoM4SssnzgLhT8vWx2Fz9VtjsyX3qguhiI_Y447qnmNBSj8ZXKrkflyBQ-0IHwAnUQ6FA"
+    },
+    {
+      "query": "erin andrews",
+      "search_volume": 500,
+      "increase": 500,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "xRftD3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvks7v2LUvMWhQZD-AoLtn5B5ss_jn8F4QMAIzIZMA"
+    },
+    {
+      "query": "street fighter movie",
+      "search_volume": 500,
+      "increase": 500,
+      "categories": [
+        "entertainment",
+        "games"
+      ],
+      "news_token": "fKlEKnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoWSuTKLUvMWhQZD-VYHa1D4K3oUUfjLthdD-ACxUh2V"
+    },
+    {
+      "query": "line of fire",
+      "search_volume": 5000,
       "increase": 400,
       "categories": [
         "entertainment"
       ],
-      "news_token": "Pkc8wHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRrl5V24sSs1bFBoM4SvMy1ZH4XN1myPzpTeqi6HIz5jjjsJfxu-Hwp-Vb4HMlyt4oAXhAwDT7jM8"
+      "news_token": "TLD-8Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvlmnvJFqXmLQoMhfIVla6JQ-LPyLVD4Hrd_ofAX7oLyAcICJHM"
     },
     {
-      "query": "line of fire",
+      "query": "rande gerber",
+      "search_volume": 20000,
+      "increase": 300,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "6aVUy3ica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGhZ6uiEWpeYtCg6H8qYEWKPwFS9uQ-fJZ3PuR-TJmX_-hyN_NEkfh_3ETRTHP-t4SFL7J_hwU9W0yT5D5sl9OfEfmS0ed7ELmy8Uc3oPiHu1NJ5H5jJ8kUdwvszzmFgr_6AN1FPeAwiMlFcgHAE7wcQ8"
+    },
+    {
+      "query": "alexis bledel",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
         "entertainment"
       ],
-      "news_token": "aMFKEHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvlmnvJFqXmLQoMhfAWP279Q-LPyLVD4C3dB5QHDWx6E"
+      "news_token": "_zWqfHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWFyn8XpeYtCg2G8mdszIHwAc2jErw"
     },
     {
-      "query": "lioness season 3 finale",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "XU2rfnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRnmG9bKLUvMWhQZD-ArCZ5ag8Od5fEbhl5gIQfgAn_8crQ"
-    },
-    {
-      "query": "how old is travis kelce",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "xNFxrnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgXbfSyLUvMWhQYDAMzoDAI"
-    },
-    {
-      "query": "daredevil born again",
+      "query": "kristen bell",
       "search_volume": 500,
       "increase": 200,
       "categories": [
-        "entertainment"
+        "entertainment",
+        "hobbies_and_leisure"
       ],
-      "news_token": "zEGpy3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvnDisyLUvMWhQYDAMylC-k"
-    },
-    {
-      "query": "when is dancing with the stars on",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "LIpTO3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvku285FqXmLQoMhfIWlL0NQ-Aq3lqDwVe9uRObL5bC2Q_gA27Yjhw"
+      "news_token": "4xON03ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoXW43yLUvMWhQZD-YXsN1H4pXPXo_AXsVtC-AC3WB0a"
     },
     {
       "query": "sharon stone",
@@ -123,35 +143,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "TrGK3nica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoWESV2LUvMWhQZD-YqbxFH4c-xyUPmC31D40y-sQ-FP-6iAwg86PQOFX35mH4QPAP40NZk"
-    },
-    {
-      "query": "kristen bell",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "entertainment",
-        "hobbies_and_leisure"
-      ],
-      "news_token": "j86LJXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoXW43yLUvMWhQZD-aVz16PwQ3krUPiF7DchfAC2HB0S"
-    },
-    {
-      "query": "andrea martin",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "kI3meHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvk8y9mLUvMWhQZD-c-8jCB8AL-2Eeg"
-    },
-    {
-      "query": "jennifer garner",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "qEqnL3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgVxboVFqXmLQoOh_PRGKxR-8yFLFD7_IRT18sy8X5H5MgueCkP4AIyWJr0"
+      "news_token": "KOckr3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoU5gt8WpeYtCg2G8hMmdaHwFTeJo_Dn2OWg8KdfWIfCn_ZRAYUfdHoGCr_8zD4IHwASEzWZ"
     },
     {
       "query": "epic",
@@ -164,13 +156,13 @@
       "news_token": "-a9-bXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoWKiamLUvMWhQZD-Qs3JCHz5bv8L6PIT3T7giK_kvktCv845yMU9VNkGVDk_3ekQfgARWc1VQ"
     },
     {
-      "query": "instagram",
-      "search_volume": 5000,
+      "query": "daredevil born again",
+      "search_volume": 1000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "AKeZW3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoWG_cKLUvMWhQZD-T1dESj8ivTrKHxZ7m4U_sQnZ5H58iWmP1HkedeXoMg3_LqHzJd7XCGHor5h0woU9Qkmu1DkfY5D9QMARvxNBg"
+      "news_token": "zEGpy3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvnDisyLUvMWhQYDAMylC-k"
     },
     {
       "query": "movies",
@@ -179,25 +171,70 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "dnAlanica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZG-fd2tYtS8xaFBkP5DKZ9yHyFqK5XKHyWhkcofOXovyj8pbftUflrXVH4Tcc3ofDbJnGg8Jecc0Pl8xqi8GcvEkXh23oZofCrGyJR_LPq4RoU-QVbs1DNv66Iwo9X40fhz-D9hsK3bO5G4YtzK0D4AC3rfVg"
+      "news_token": "o06cYnica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZG-fd2tYtS8xaFBkP5DKZ9yHyFqK5XKHyWhkcofOXovyj8pbftUfjLbN-hmL9r8lQU-abjm1D4bZM4UPizF4mi8Jecc0Ph23oZofCrGyJR7Fv1cA2K_IKtWajmXVdE4cer8aPwZ_B-Q-FbNnej8MW5FSB8AA-KfpE"
     },
     {
-      "query": "big brother spoilers",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "gLSyrHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoWUrxsXpeYtCg2G8u3Eq1D45cYxKPzI6T3IfLmPBx0gfAC_-SNa"
-    },
-    {
-      "query": "alexis bledel",
+      "query": "christina applegate",
       "search_volume": 500,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "Ao1mAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUZG3MWpeYtCg0GANKLDLg"
+      "news_token": "B7H4DHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvknRmWLUvMWhQZD-ArLbr1F4SsvfYXMl37_Rh3CBwD1vh9z"
+    },
+    {
+      "query": "jason kelce",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "RjnF9Hica1xTlFpYmlpcEp-SWJI4a_J5BgYGRgWRKM1FqXmLQoMhfPks7v3IfIXuydNQ5A-39aHIL34viiL_3yUVRT5IaDWKPMuZhyjyC7Z-QeZL1m9sgPABDVVAsQ"
+    },
+    {
+      "query": "when is dancing with the stars on",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "w9CCInica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvku285FqXmLQoMhfIWlL0NQ-Aq3liDz5XJY2yF8AMhfHZE"
+    },
+    {
+      "query": "avengers endgame encore",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "woduZXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvlU7zOLUvMWhQZD-AricTtR-AvN8lD4s5bdQ-H7L8hC4Re8tkDmyyrG6SDzZSw3aKDIl_HfRNFfmRUK4QMAEGo-ng"
+    },
+    {
+      "query": "once upon a time in hollywood",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "KoI4xnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRnnWUzGLUvMWhQYDAM2uDC0"
+    },
+    {
+      "query": "kat dennings",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "vZdIOnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoVltocWpeYtCg2G8itZjCF8AMM1EZs"
+    },
+    {
+      "query": "landman season 3",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "B6RwxHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWJ5p8XpeYtCg2G8OVTvp2B8AHP9xMm"
     },
     {
       "query": "adam sandler",
@@ -215,36 +252,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "HAEgpXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvlftfKLUvMWhQZD-ApWLVMgfADHGhIt"
-    },
-    {
-      "query": "kimora lee simmons",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "UPe8FHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWSSo5FqXmLQoMBzMsL-A"
-    },
-    {
-      "query": "steve martin",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "entertainment",
-        "business_and_finance"
-      ],
-      "news_token": "ehxvmHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXGfzsWpeYtCg2G8s2VYyB8ANCPEjM"
-    },
-    {
-      "query": "amanda bynes",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "entertainment",
-        "beauty_and_fashion"
-      ],
-      "news_token": "5M47uHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvlHlSaLUvMWhQYDANHTDJE"
+      "news_token": "98kX6Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgWrlimLUvMWhQYDAM7tDFU"
     },
     {
       "query": "education",
@@ -256,15 +264,6 @@
       "news_token": "81kodnica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGBS63xkWpeYtCg6H8heefofBrj89B4Ut9b0Lmy7_r34TCP3nPCkX9zEAfFL7Bh9MofL-Mhyj8uR9LUPixdV4ofI0ncSj8CMsEFP4sIxZU_oocFPfd7wpCkXeKz0eR_5-egxoejRYo_GaJFSj8GRtR_ddTzI9qv5c5Cl9pbzWEDwD4bpEE"
     },
     {
-      "query": "page six",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "ak22K3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoWpgRaLUvMWhQZD-T1dESj8BUvbkPnyWdz7kfkyZl__QfgAuXEjvg"
-    },
-    {
       "query": "cat",
       "search_volume": 5000,
       "increase": 75,
@@ -273,7 +272,25 @@
         "hobbies_and_leisure",
         "entertainment"
       ],
-      "news_token": "NSkpX3ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGhaVrFRel5i0KDYbyu8v_ovAbnBei8Oc_fIPCF1y5GYW_QPwqCn-m1mdU-Wh_FP4S66-o5vMIoPAnr29C4Tff2oXCN3s3F9W8mMko_KWxK5H58g-vnkKRn_fgNgo_b5cNMl9OUh9qHgCJUHe-"
+      "news_token": "9b7yM3ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGhe7yv4tS8xaFBkP5S9cqovAbnBei8Oc_fIPCF1y5GYW_QPwqCn-m1mdU-Wh_FP4S66-o5vMIoPAnr29C4Tff2oXCN3s3F9X9sSuR-fIPr55CkZ_34DYKP-5TKwo_b5cNMl9OUn8yhA8AuMh4AA"
+    },
+    {
+      "query": "khan",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "dOIy4Xica1xTlFpYmlpcEp-SWJI4e_J5BgYGRvnfC8UXpeYtCg2G8BVmvvNC5su9vJOPIj8jKweFP_fDF2S-_F5LBhR5xlUnUOSvptWi8A98K0NRXxvVjsLvf3YWwgcApfRJLw"
+    },
+    {
+      "query": "equinox",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "AyXDznica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoVZl5QWpeYtCg2G8gUvFKPwG1tYkfnyO6ISUeQnLUiF8AG4ISME"
     },
     {
       "query": "tv guide",
@@ -282,7 +299,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "9QOoiXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoWIht2LUvMWhQZD-PI3th1C4TfzlCPz5VJCBJD5CnKHwiF8ANtHIvM"
+      "news_token": "yRlH0nica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvkb2w4tSs1bFBoM4StENOxG5ss385Qj8-VSQgRQ1MsdCofwAecHIvM"
     },
     {
       "query": "ryan seacrest",
@@ -294,15 +311,6 @@
       "news_token": "e8jVMHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvl_xX6LUvMWhQZD-ArzPHYh8-UrFcMhfAAgoBfX"
     },
     {
-      "query": "logan paul",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "U2XELXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUOmzOLUvMWhQYDANDzDJM"
-    },
-    {
       "query": "rande gerber net worth",
       "search_volume": 100,
       "increase": 75,
@@ -312,31 +320,14 @@
       "news_token": "d4qGsnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoUJt_YsSkldFBoM5fd0RUD4ANQpEsY"
     },
     {
-      "query": "tubi",
-      "search_volume": 5000,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "lz1iVXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoXpzC8XpeYtCg2G8s1OfEPhl1QqQ_gAHtUYEA"
-    },
-    {
       "query": "pictures",
       "search_volume": 500,
       "increase": 50,
       "categories": [
-        "entertainment"
+        "entertainment",
+        "law_and_government"
       ],
-      "news_token": "mOaBAHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRgXGn1MXpeYtCg2G8pdafkXmy2-8chlFvviRFwo_qpsFhT-3XB6FP1ueA4WvFJ4A4QMAT4Uz5w"
-    },
-    {
-      "query": "landman season 3",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "B6RwxHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWJ5p8XpeYtCg2G8OVTvp2B8AHP9xMm"
+      "news_token": "yr8kYHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoXiR16LUvMWhQZD-Yw_p6LwNeSfovCjullQ-Estv6Lw55bLo_Bny3Og8JXCE5D58ou9r0H4AC9hOMI"
     }
   ]
 }
