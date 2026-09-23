@@ -10,178 +10,76 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 18,
+      "keywords_count": 7,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-22 21:30:55"
+      "last_updated_hkt": "2026-09-23 21:31:01"
     }
   },
   "trending_seeds": [
     {
-      "query": "amazon ftc prime settlement update",
-      "search_volume": 2000,
+      "query": "suriname",
+      "search_volume": 200000,
       "increase": 1000,
       "categories": [
-        "shopping"
-      ],
-      "news_token": "ksKZknica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvnyoppFqXmLQoMBz9AMZw"
-    },
-    {
-      "query": "kelly clarkson new haircut today show",
-      "search_volume": 5000,
-      "increase": 600,
-      "categories": [
-        "entertainment",
-        "beauty_and_fashion"
-      ],
-      "news_token": "Grbw1Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvldLywWpeYtCg0GANP_DNw"
-    },
-    {
-      "query": "beats 360",
-      "search_volume": 2000,
-      "increase": 600,
-      "categories": [
+        "science",
         "technology"
       ],
-      "news_token": "pwNH_3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWtx5MXpeYtCg0GANQBDOI"
+      "news_token": "5z2YsHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoXABQ2L8nIWhQZD-YdErVD4B2YpovBlHqHyD0nnIvNlIhv2QfgABXAodQ"
     },
     {
-      "query": "dairy queen oreo halloween blizzard",
-      "search_volume": 1000,
-      "increase": 400,
-      "categories": [
-        "food_and_drink"
-      ],
-      "news_token": "wPWD1Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWt9z0XpeYtCg0GANQLDOA"
-    },
-    {
-      "query": "trump approval rating reuters/ipsos poll",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "0LzQj3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRvmXi_oWpeYtCg2G8ifJLEDmK3gc-Q3ln7v0YudkFLXH9R-jqDXYlYHMl9ty5z4yXzo13RBF_aLrL1HUS384i6J-2r5oZL6sVmAChA8AnXRPfQ"
-    },
-    {
-      "query": "halo",
-      "search_volume": 2000,
-      "increase": 200,
+      "query": "paywall",
+      "search_volume": 50000,
+      "increase": 1000,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "tjZe-3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgWu0PJFqXmLQoOh_O0pTij8urRZKHyjnVIo_HLGfmS-fO_bTyh8MeFXyHy5_XPTUfSXzjWE8AEBBDlZ"
+      "news_token": "Do_khHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoVrk4sWpeYtCg2G8uUOTkfmy29IO43Mlzm4MBXCBwDjLB7A"
     },
     {
-      "query": "kaitlan collins",
-      "search_volume": 1000,
-      "increase": 200,
+      "query": "donald trump approval rating 29 percent",
+      "search_volume": 20000,
+      "increase": 1000,
       "categories": [
-        "politics",
-        "law_and_government"
+        "politics"
       ],
-      "news_token": "dyMaenica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoXtfrcWpeYtCg2G8lP-PkHhR8-8BOEDADokGXM"
+      "news_token": "qKT0O3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmXi_oWpeYtCg0GANXQDRs"
     },
     {
-      "query": "air force",
-      "search_volume": 200,
-      "increase": 200,
+      "query": "six flags roller coaster brain injury",
+      "search_volume": 20000,
+      "increase": 500,
       "categories": [
         "other"
       ],
-      "news_token": "PPNP53ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRoWtmdGLUvMWhQZD-PLPX-xF5it4cFWh8Ne9qkRR_y0iE0V-Xvh2FPl77Y0o8rsb16Pqr3mOar5rOAq_4fFvFH4LvwSK_hb5LxA-AHYfVHs"
+      "news_token": "4vx8P3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoXCr8qLUvMWhQZD-LIHLYWQ-TIPKhUhfAAPXBeR"
     },
     {
-      "query": "amd stock price",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "7szUWXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRgUV0VWLUvMWhQZD-WskLqLwF21ZjsIPOv0ehR8yaTcyX37S99Mo8jsmP0LhR9upoPC3pN5B0d9-Zz4K_1HVWxT-EwYhZL7cm5PtyHzpj2EJED4An11a2A"
-    },
-    {
-      "query": "daredevil born again",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "WLjobnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvnDisyLUvMWhQZD-ApzP55G4S9wWY3Ml371eSqEDwDPch8H"
-    },
-    {
-      "query": "christina applegate",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "xq0PeXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvknRmWLUvMWhQYDANF7DI4"
-    },
-    {
-      "query": "aapl stock",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "technology",
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "hH-IcHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgUxubBFqXmLQoMhfPnZ--9D-AC0PRII"
-    },
-    {
-      "query": "intel stock",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "KYz0DHica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGBYVbeotS8xaFBkP5Zd-zUPg7b25G5S--hsyXv7PZHUV-3vrdKHzp55wo_KgVU1D0T_p-GkW-5-EbZL7clr8vUOTZGKRR-AJOBSh8FdFVKHzzn9NQ-LMzTqLwmWfMQubL_FN5h8yX1TgWiuLe_6JQeQDBXn1Z"
-    },
-    {
-      "query": "google stock",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "xHQm7Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoXVXVcWpeYtCg2G8OW0U6yR-QouLYUo_IhoFhT-lFQzFH4z43pkvuSEdR0QPgCfkC13"
-    },
-    {
-      "query": "faa ground stop dfw airport",
-      "search_volume": 100,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "UPEtLHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWuB7KLUvMWhQZD-a0_-yF8AMuGEto"
-    },
-    {
-      "query": "twitter",
+      "query": "apple lawsuit claim",
       "search_volume": 2000,
-      "increase": 50,
+      "increase": 300,
       "categories": [
         "technology"
       ],
-      "news_token": "b9x8T3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoV1B34vKilaFBoM5S-IZkThd2ZloPD7GL4i8-WE5l5D5sve9oyA8AFtWioD"
+      "news_token": "HiiMonica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWOdqNFqXmLQoMBzxUMRA"
     },
     {
-      "query": "tesla",
-      "search_volume": 500,
-      "increase": 50,
+      "query": "blair underwood",
+      "search_volume": 1000,
+      "increase": 300,
       "categories": [
-        "autos_and_vehicles"
+        "entertainment"
       ],
-      "news_token": "s8Y-2Hica1xTlFpYmlpcEp-SWJI4b_J5BgYGRvlFnGaLUvMWhQZD-Aq7FSah8hfNQOHLfbdE5svPf6CNIu9yUAVF_sJJNhT5GYZXUPg7IltQ-FMXnUbhb5Y7isJX1rqBYv6uWfUo8otjQyB8AC8XV38"
+      "news_token": "P8BeOHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvk_fGGLUvMWhQYDANBTDGI"
     },
     {
-      "query": "tesla stock",
-      "search_volume": 500,
-      "increase": 50,
+      "query": "arc raiders",
+      "search_volume": 200,
+      "increase": 200,
       "categories": [
-        "business_and_finance"
+        "games"
       ],
-      "news_token": "BRFAe3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgX5afMXpeYtCg2G8ndEtqDwl4iUovCVtW6g8PkPySPz5TJV90P4APw0J8g"
+      "news_token": "PacmM3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgU3OdtFqXmLQoMBycgLpA"
     }
   ]
 }
