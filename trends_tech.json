@@ -10,76 +10,123 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 7,
+      "keywords_count": 12,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-23 21:31:01"
+      "last_updated_hkt": "2026-09-24 21:30:56"
     }
   },
   "trending_seeds": [
     {
-      "query": "suriname",
-      "search_volume": 200000,
-      "increase": 1000,
-      "categories": [
-        "science",
-        "technology"
-      ],
-      "news_token": "5z2YsHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoXABQ2L8nIWhQZD-YdErVD4B2YpovBlHqHyD0nnIvNlIhv2QfgABXAodQ"
-    },
-    {
-      "query": "paywall",
+      "query": "meta vr glasses",
       "search_volume": 50000,
-      "increase": 1000,
+      "increase": 900,
       "categories": [
-        "games",
         "technology"
       ],
-      "news_token": "Do_khHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoVrk4sWpeYtCg2G8uUOTkfmy29IO43Mlzm4MBXCBwDjLB7A"
+      "news_token": "-FQ3Onica1xTlFpYmlpcEp-SWJI4f_J5BgYGRrkTdpaLUvMWhQZD-Ap3rN4j8-UOrfmCzJe9eW8KinrW_7rIfI58K1lkPs-ODawo-oOedSDzpS_e7EexL7kuDJkvs7HoJ4p9E2c9RebLT_p-GkX-dg6Ke-W7hCUgfAB4UGBf"
     },
     {
-      "query": "donald trump approval rating 29 percent",
-      "search_volume": 20000,
-      "increase": 1000,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "qKT0O3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmXi_oWpeYtCg0GANXQDRs"
-    },
-    {
-      "query": "six flags roller coaster brain injury",
-      "search_volume": 20000,
+      "query": "anthony bourdain",
+      "search_volume": 2000,
       "increase": 500,
       "categories": [
-        "other"
+        "food_and_drink",
+        "entertainment"
       ],
-      "news_token": "4vx8P3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoXCr8qLUvMWhQZD-LIHLYWQ-TIPKhUhfAAPXBeR"
+      "news_token": "v8ZseHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoUp8_UWpeYtCg2G8OX_hqUh82UMZO-j8BcceYLMl026sgiFr71oG4QPAE3QKiw"
     },
     {
-      "query": "apple lawsuit claim",
-      "search_volume": 2000,
-      "increase": 300,
+      "query": "aircraft carrier uss abraham lincoln",
+      "search_volume": 20000,
+      "increase": 400,
       "categories": [
-        "technology"
+        "law_and_government"
       ],
-      "news_token": "HiiMonica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWOdqNFqXmLQoMBzxUMRA"
+      "news_token": "xNazaXica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGhZtu-xel5i0KDYbymTiXI_PlPLmWIfNlxN54IPNlPVc8RtH_pfwWivo_v9-hqG_cwY7CX_1QC4V_v387innPJqLIyz__po0i_zEiHoW_m-EwCv8iTwQK_7FQP4p5b2c1QvgA6GFr4w"
+    },
+    {
+      "query": "daredevil born again",
+      "search_volume": 5000,
+      "increase": 400,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "zEGpy3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvnDisyLUvMWhQYDAMylC-k"
+    },
+    {
+      "query": "xbox studio changes and restructuring",
+      "search_volume": 2000,
+      "increase": 400,
+      "categories": [
+        "games"
+      ],
+      "news_token": "eM4fRXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRgWu0PJFqXmLQoOh_GuOX1H4IrLLUPjn0qKR-fK3A1RR5Nfd0EXhZwlyoPCfzjqFwt8pvQ6Fz5ZRi2J-79tPKHwx4VcQPgCORkrk"
     },
     {
       "query": "blair underwood",
       "search_volume": 1000,
-      "increase": 300,
+      "increase": 400,
       "categories": [
         "entertainment"
       ],
       "news_token": "P8BeOHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvk_fGGLUvMWhQYDANBTDGI"
     },
     {
-      "query": "arc raiders",
-      "search_volume": 200,
+      "query": "samsung galaxy s26 ultra",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "technology",
+        "shopping"
+      ],
+      "news_token": "XfVhu3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoWDsYWLUvMWhQZD-VdOCqHw771YhcK_drYPhf9C8wAyX66srguZLytUvguZL_27VxDCBwDD4zbY"
+    },
+    {
+      "query": "zelda ocarina of time",
+      "search_volume": 1000,
+      "increase": 300,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "FwctKHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoUjT5YvSs1bFBoM5e9-rIzCz9u9Epkve2umIDJf-sgEVRR-28qvyHyZR0ZLUcyT3foBhd8r1gDhAwBtFDyr"
+    },
+    {
+      "query": "daisy ridley",
+      "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "games"
+        "entertainment"
       ],
-      "news_token": "PacmM3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgU3OdtFqXmLQoMBycgLpA"
+      "news_token": "UL3jeXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoXdjQ8WpeYtCg2G8mWiNqLwPe6oo_DbpWsgfADRPB14"
+    },
+    {
+      "query": "tesla cybertruck driveway collision california",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "other"
+      ],
+      "news_token": "X02tH3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUlNh2LUvMWhQYDANATDGs"
+    },
+    {
+      "query": "mia airport",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "K0FV9Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoUbV3wXpeYtCg2G8nfvj0Lmy4v4LYbwAS8BGFo"
+    },
+    {
+      "query": "raising cane's",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "VJilS3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvnnUmKLUvMWhQZD-ArTlJYg8-Ufmu5D5kubrW-H8AGwUR14"
     }
   ]
 }

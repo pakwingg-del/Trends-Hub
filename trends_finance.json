@@ -10,49 +10,41 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 21,
+      "keywords_count": 12,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-24 06:30:56"
+      "last_updated_hkt": "2026-09-24 21:30:54"
     }
   },
   "trending_seeds": [
     {
-      "query": "congressional budget office social security projection",
-      "search_volume": 20000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance",
-        "law_and_government"
-      ],
-      "news_token": "E1QoAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVDH80XpeYtCg0GANSSDO0"
-    },
-    {
-      "query": "mortgage rates",
-      "search_volume": 20000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "p91BF3ica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGhTsPty9KzVsUGgzln9k3AYW_T3E9Cl9EbiMKX-XvHWS-fC4PqvqLTp4o_KnJzij8O9e_IPNljkbcQpFnU4lB4V9L2IFi39X_LCjyN5SjkPnSv75IoMjfrOpB0X8oQBnCBwB_UWuH"
-    },
-    {
-      "query": "current mortgage rates",
+      "query": "bankruptcy",
       "search_volume": 10000,
       "increase": 1000,
       "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "9wHp_Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgWVv3cWpeYtCg2G8u883I7C1_DeAuEDAD4_GSE"
-    },
-    {
-      "query": "meat recall",
-      "search_volume": 50000,
-      "increase": 700,
-      "categories": [
-        "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "1gJ-Bnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoVDH4sWpeYtCg2G8OXX8toi8xXOX1NE4d_604Gi_o_rGxR505ggZL7c1qfByHwp03xdZL6sy-_ZKObJxDMg82WYC7sgfAA-nUXw"
+      "news_token": "M86SXXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoUrrg8WpeYtCg2G8s-msqLwo3KWo_C_zDqKwpfa-xqZL7_tcjiK_J5ZoSj8lTocKPzZ_tOQ-aLrkrQgfAD5C0Em"
+    },
+    {
+      "query": "boeing 787 9 diverted to lax",
+      "search_volume": 2000,
+      "increase": 900,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "lEqPcnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWni4UXpeYtCg0GANJhDJ4"
+    },
+    {
+      "query": "student loan",
+      "search_volume": 2000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance",
+        "jobs_and_education",
+        "law_and_government"
+      ],
+      "news_token": "7BvkdHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoUPm6ctSs1bFBoM5V_gPIPCz43qQeG_K89F4e-IWgThAwAPEiTG"
     },
     {
       "query": "aldi prices",
@@ -62,91 +54,55 @@
         "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "YPf_EHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWzLYyLUvMWhQZD-PK3_92C8AHMHhNK"
-    },
-    {
-      "query": "tv price",
-      "search_volume": 200,
-      "increase": 500,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "StlLIHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoWLk24tSs1bFBoM5Z9qKEHhT32yFMIHAEBDGaI"
-    },
-    {
-      "query": "brent faiyaz tour",
-      "search_volume": 10000,
-      "increase": 400,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "1Za1Rnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWr-zgXpeYtCg0GANJjDJ8"
-    },
-    {
-      "query": "stock markets",
-      "search_volume": 2000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "csddtXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRvnXDNWLUvMWhQZD-AqXI7ei8M9-_ozCv3P9Cwo_dSU3Cl_jyTZkvvwB9y4U-QNeOih8CfU9yHzZlbXRyHzpyiUpED4AwG9H1w"
+      "news_token": "P46zLnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWzLYyLUvMWhQZD-Y_TLkD4AMdqErE"
     },
     {
       "query": "f35",
-      "search_volume": 500,
+      "search_volume": 1000,
       "increase": 400,
       "categories": [
         "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "Fo6wLnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoXwE3cXpeYtCg2G8n0WfkHhb1Q6gcJX9H4O4QMA7vcelw"
+      "news_token": "SPd63nica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGhfATdxel5i0KDYbybaquo_B9Fn5B4ceuX4zC_-okhsI_1pWGwv9Ydw-F__7vDxT-3qcXUfi7ul-i8A9vbEXh33D7j8LfmhmCwv_C_g6F37pdAIUf7voUhX9BSxPVvSIeqO4z_IDCv8YuiMK_ZVqAzJc_fvEXirxQVjAKX9H7OYQPALoKlu4"
     },
     {
-      "query": "supermarket",
-      "search_volume": 200,
-      "increase": 400,
+      "query": "kfc menu",
+      "search_volume": 500,
+      "increase": 300,
       "categories": [
-        "business_and_finance",
-        "food_and_drink"
+        "food_and_drink",
+        "business_and_finance"
       ],
-      "news_token": "eBbrg3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoV1v68sSs1bFBoM5R-5MQuFLxD7FYV_KOQxCv9GnSEK__q6blT5q9yo8oe9UPh7p1pA-ADCFD3m"
+      "news_token": "AveKLnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoX9gY8WpeYtCg0GANQkDPU"
     },
     {
-      "query": "burger king",
+      "query": "costco stock",
+      "search_volume": 100,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "R-uQPXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXjYY8WpeYtCg2G8h989ILwAddOE2A"
+    },
+    {
+      "query": "oracle stock",
       "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance",
-        "food_and_drink"
-      ],
-      "news_token": "OwAcvnica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGBdtJXYtS8xaFBkP5NlM_ofBZdoeh8O-06SHzZatU36PIT9HdicLPkq1G4R_SsUHhxzwyRObLPz-4B0U-qesgCn-b6gUU_rHCDhT-ssUFyHyZ_TKeKOZ3CLSgyF8JvIzClz_YBuEDAFbVbuc"
-    },
-    {
-      "query": "la nación",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "f-w3oXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvn7T78tSi1eFBoM4Sscu6yKwn_w7wcKPzWlBYV_XzkGmS8foLULRX7xLyUU_skDp1H49_YdQOEfvLEPwgcACfxFgQ"
-    },
-    {
-      "query": "dollar general",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "ou5s4nica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGhfNV5YtS8xaFBkP48pO-n0bmK3hPO4Ei7_UpG0X-_msU9fIbPN-iyG_-dwOFP0tqOwrfhtsSRf-fd-wo8rduNKDwryWGo_AveGuh6P_V5YnCv5_risyXO9gN9S8AOWhnng"
-    },
-    {
-      "query": "bitcoin",
-      "search_volume": 10000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "FJ71kXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRgXJQycWpeYtCg2G8q-dVUflP1yLwt_u54bCnyWdgMLPVDiHzJd_rdmKIv_QdT4K38bMEoVv_9wYwgcAx9JARw"
+      "news_token": "c-sg0Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoVgT_VFqXmLQoOh_G2sx1D4Mx7KIPNlFUxR5GW2SvxH5ssdSlkP4QMA8tko3g"
+    },
+    {
+      "query": "mcdonald's",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "food_and_drink"
+      ],
+      "news_token": "0JvqJHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRgXbSV2LUvMWhQZD-XdqzFH4HzbfQeFfmPIPhX-Tox2F7_n3JDJffurPbyjy8zewoPAXzTBC5svs3ngcRf4421YIHwDzvEnU"
     },
     {
       "query": "sakutaro higashi",
@@ -159,59 +115,23 @@
       "news_token": "y4f9c3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXssvhFqXmLQoMBzsMMQw"
     },
     {
-      "query": "best tv deals",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "shopping"
-      ],
-      "news_token": "MxwLi3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRnn7pP5FqXmLQoMhfIVTDSUQPgDAbxIz"
-    },
-    {
-      "query": "pltr",
-      "search_volume": 100,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "LTvZanica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoW7tssXpeYtCg2G8gNZ3VD4hu7rUfhS398h86VzTv9B5st8Eo5C4R83ugjhAwDgbS9n"
-    },
-    {
-      "query": "fafsa",
-      "search_volume": 20000,
-      "increase": 100,
-      "categories": [
-        "jobs_and_education",
-        "business_and_finance"
-      ],
-      "news_token": "cakr2nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXcqJ5FqXmLQoOh_FO2XRA-AMKEEio"
-    },
-    {
-      "query": "ionq stock",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "AVthSnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgU_E8tFqXmLQoOhfOnnnCh8P-PLKPzbOT4ofMvdOch82QDXP8h8mZ2_f0D4AH0HLtg"
-    },
-    {
-      "query": "p385",
-      "search_volume": 1000,
+      "query": "meta",
+      "search_volume": 10000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "zCXl2nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVDoVMXpeYtCg0GANJEDK8"
+      "news_token": "gXrpVXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRvlJ308vSs1bFBoM4cudsLNE5it8nOCCwp846ykK__p6TRT-Usk-NP2XkPmy-TW7UORfnTNG5stsLPqJ4p7HFXIQPgDOeklw"
     },
     {
-      "query": "micron stock price",
+      "query": "raising cane's",
       "search_volume": 200,
       "increase": 100,
       "categories": [
+        "food_and_drink",
         "business_and_finance"
       ],
-      "news_token": "1AHUhXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUTk88tSs1bFBoMANX5DSw"
+      "news_token": "VJilS3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvnnUmKLUvMWhQZD-ArTlJYg8-Ufmu5D5kubrW-H8AGwUR14"
     }
   ]
 }
