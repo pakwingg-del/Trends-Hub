@@ -10,21 +10,12 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 17,
+      "keywords_count": 18,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-23 21:31:00"
+      "last_updated_hkt": "2026-09-24 00:30:55"
     }
   },
   "trending_seeds": [
-    {
-      "query": "giada de laurentiis",
-      "search_volume": 100000,
-      "increase": 1000,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "NiUyOHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRgVlpYWLUvMWhQZD-PIbm3xQ-F22nch8uRzWdmS-bMttTWS-gqLdJxQ-99oAFP4hpT8o_IM_FFD4R7gfodi_1KcbRZ6zihGFf1lqNwp_3-QlED4ARd9V9w"
-    },
     {
       "query": "uninspected beef pork goat recall",
       "search_volume": 50000,
@@ -33,7 +24,16 @@
         "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "b3LFYXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoVDH4sWpeYtCg2G8OVUHpxB5stErGRC5suv5bVF5itcdeRGkf_j-gaF_7Q_H0W9aUwQin1bnwYj86VM83WR-bIuv2ej8Lfcnw7hAwBbekyS"
+      "news_token": "6OWuU3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoVDH4sWpeYtCg2G8OXX8toi8xWu6W5B4V915EZR_8f1DYq8aUwQMl9u69NgZL6Uab4uMl_W5fdsFP6W-9NRzJeJZ4DwAcbIRdE"
+    },
+    {
+      "query": "giada de laurentiis",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "GCgD3Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRgVlpYWLUvMWhQZD-PIbm3xQ-F22nch8uRzWdmS-bMttTWS-gqLdJxQ-99oAFP4hpT8QPgCHhjM_"
     },
     {
       "query": "mortgage rates",
@@ -42,7 +42,27 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "e4b-znica1xTlFpYmlpcEp-SWJI4d_J5BgYGRgWVv3cWpeYtCg2G8jW8t6DwLzp5ovBF5DYi82WORtxCkb-hHIXCv5awA5kv_5qhGkV-wSEFZL70ry8SKOoPBSijqDf0aEPmSz2RgboPABjKUR4"
+      "news_token": "RPno_Hica1xTlFpYmlpcEp-SWJI4f_J5BgYGRgWVv3cWpeYtCg2G8jW8t6DwReQ2IvPlc3nWo8hfdPJE4U9NdkbmyxyNuIWi_-p_FhT1V39yofBvKEeh8K8l7EDmS__6IoFi3qEAZRT1hh5tyHypJzJQ9wEA0fRczg"
+    },
+    {
+      "query": "congressional budget office social security projection",
+      "search_volume": 10000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "E1QoAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVDH80XpeYtCg0GANSSDO0"
+    },
+    {
+      "query": "aldi prices",
+      "search_volume": 2000,
+      "increase": 700,
+      "categories": [
+        "business_and_finance",
+        "food_and_drink"
+      ],
+      "news_token": "g_jtZXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWzLYyLUvMWhQYDANATDFU"
     },
     {
       "query": "earthquake",
@@ -66,12 +86,12 @@
     },
     {
       "query": "stock markets",
-      "search_volume": 1000,
+      "search_volume": 2000,
       "increase": 400,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "AB7btnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgWtDPlFqXmLQoMhfPnXDNUo_PLWlch8BZeWQhT-AS8dFL7kxMMQPgDcsifo"
+      "news_token": "97VeZ3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRvnXDNWLUvMWhQZD-ArSzzlR-POvvkbhS048jMLfJsaFwtd4sg2ZL3_AvQtFXkJ9DzJfdmVtNDJfunJJCop6piVQ9wEAaVFFGw"
     },
     {
       "query": "supermarket",
@@ -81,7 +101,7 @@
         "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "lxG9Y3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoULn18vSs1bFBoM5R-5MQuFLxD7FYV_o84QhX8o5DEKf93vK6jqr3Kj8K-v60blH_ZC4Z-v_AXhAwAXkUWP"
+      "news_token": "eBbrg3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoV1v68sSs1bFBoM5R-5MQuFLxD7FYV_KOQxCv9GnSEK__q6blT5q9yo8oe9UPh7p1pA-ADCFD3m"
     },
     {
       "query": "burger king",
@@ -91,26 +111,7 @@
         "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "g7c4Inica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGBdtJXYtS8xaFBkP5NlM_ofAv3m5C5stWqb5HkZ-iuxOFnyVbjcI_pGODwo95ZIjMl39-cA-KfFLXQRT-NtULKPxjhR0o_GWLC5D5MvtlPFHM7xBoQZG_EngZhS9_sA3CBwCNeWot"
-    },
-    {
-      "query": "congressional budget office social security projection",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance",
-        "law_and_government"
-      ],
-      "news_token": "E1QoAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVDH80XpeYtCg0GANSSDO0"
-    },
-    {
-      "query": "dollar general",
-      "search_volume": 500,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "TkrSNHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvk_79gXpeYtCg2G8BWabi9H4cs8Ukfh71s9GYW_I3IuCn-XnyAKf4mKGgrfyOAHMl_-V5cnMl_uYHc5hA8A041BDw"
+      "news_token": "dLXMQXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGBdtJXYtS8xaFBkP50s85UfgXbzeh8G2mfkLmy1apvkeRn6K7E4WfJVuNwj-kY4PCj3lkiMyXf35wD4p8UtdBFP421Qso_GOFHSj8ZYsLkPky-2U8UczvEGhBkb8SeBmFL3-wDcIHANeKb3s"
     },
     {
       "query": "bitcoin",
@@ -119,16 +120,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "70HiTXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoXNy2YsSs1bFBoM5V87q47CtzGzRObL-cTKo6p_uBaFb_jwEgpf9Z8aCv9mvj0Kf7ufGwr_ovY_FH6mwjkUvmRMOIQPAFBfS5A"
+      "news_token": "jStZr3ica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGhc3LZixKzVsUGgzll31nQOH7SR9C4W_3c0Ph25hZosqb_kXhdx6pQuEfOdaEzJc778yKIn_t4VoU_i2BOSj82wt1kfnyrzVbUeQzFc6h8A8HvUTh2z83RuEbPrwE4QMAKpJqjA"
     },
     {
-      "query": "peso mexicano",
+      "query": "meta",
       "search_volume": 1000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "BbK9zXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgWxYzaLUosXhQYDAM1lDCA"
+      "news_token": "B7vwU3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvlJ308vSs1bFBoM4Svc3nQbhT9x1lNU-ZwvyHy5E3aWKPLbXLeiqp-5GJW_uR6ZL5tfswuZL7Ox6CeEDwAoI0Uv"
     },
     {
       "query": "best tv deals",
@@ -146,7 +147,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "G51K2Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRgU121mLUvMWhQZD-YGsbsh86ZzTf5D5MseNLkL4AJa9HVk"
+      "news_token": "UyzF_3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgU121mLUvMWhQZD-Ybu65H50jmn_yDzZT4JR6HwjxtdhPABsE8jgg"
     },
     {
       "query": "ionq stock",
@@ -155,16 +156,16 @@
       "categories": [
         "other"
       ],
-      "news_token": "yu9cPHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgU_E8tFqXmLQoOhfOnnnCh8P-PLKHytDHlkvszO3z9Q-H9Dn0P4AMh0KPo"
+      "news_token": "vE_rp3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgU_E8tFqXmLQoOhfOnnnCj82zk-KHw_48sofMvdOch8mZ2_f6Dw_4Y-h_ABmI8vfw"
     },
     {
       "query": "instacart",
-      "search_volume": 200,
+      "search_volume": 1000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "g0QnRHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvlJ308vSs1bFBoM4SucrypH5st7fcpG4W_wfIuifpbUdhT-5n83UPg23JYQPgCShTCn"
+      "news_token": "fW4HxHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRoXzVeWLUvMWhQZD-PKTvp9G4W_wfIvMV5gltR2Fv_nfDRS-Dbcliv4_79hR-F6fslHU37rRgMK_lhiOwr_grYWi_1eXJwr_fq4rMl_uYDfUPwAZsFqO"
     },
     {
       "query": "micron stock price",
@@ -173,7 +174,17 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "N892Rnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoUTk88tSs1bFBoM5Td9j0Pmy8gHmiDz5f9FWkL4AORmHfs"
+      "news_token": "1AHUhXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUTk88tSs1bFBoMANX5DSw"
+    },
+    {
+      "query": "fafsa",
+      "search_volume": 5000,
+      "increase": 75,
+      "categories": [
+        "jobs_and_education",
+        "business_and_finance"
+      ],
+      "news_token": "FkysC3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXcqJ5FqXmLQoMBzzAMVg"
     }
   ]
 }
