@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 12,
+      "keywords_count": 14,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-25 00:30:56"
+      "last_updated_hkt": "2026-09-25 03:30:52"
     }
   },
   "trending_seeds": [
@@ -21,9 +21,9 @@
       "search_volume": 20000,
       "increase": 1000,
       "categories": [
-        "food_and_drink"
+        "business_and_finance"
       ],
-      "news_token": "NNLXEHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoUrrg8WpeYtCg2G8vfMCkXhf5e1ReFH5SxH4X-MZEXhv5_8E4V_NhVFXn7b5XAU-ZU6HCj8L7OOovCl9r6G8AEnbEfV"
+      "news_token": "9r9Ap3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoU9s0IXpeYtCg2G8q-4PkDhf5e1ReFvZfmAwv85VReFH5WzHJkvv-1yOIr8hzNlKPyzqawo_C-zjqLwpfa-RuG_OnQFwgcAHxpPhw"
     },
     {
       "query": "mcdonald's menu",
@@ -33,12 +33,22 @@
         "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "ltDtfHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRgXbSV2LUvMWhQZD-PJTf35D5issmmGEwv-w-Q4K3_PvSRT-_A0sKHyW3WHIfJndG4-jyB9n24rMl9X6sxOF3-RmgqL_7vRgFP6VwMso5vH9vYnCfxzEB-EDAOYwYE8"
+      "news_token": "WzQV4Xica1xTlFpYmlpcEp-SWJI4f_J5BgYGRgXbSV2LUvMWhQZD-PJTf35D5issmmGEwvf8exKFf6fGHIX_YfMdFD7L7jAU_vwNLMh8md0bjyPzZWtMbVDUH2fbiiKv9WcnCr_JzQRFPd_fmyj8x0F8ED4AhPRfEQ"
+    },
+    {
+      "query": "star meat delivery inc recall",
+      "search_volume": 10000,
+      "increase": 700,
+      "categories": [
+        "business_and_finance",
+        "food_and_drink"
+      ],
+      "news_token": "A0lzenica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVDH4sWpeYtCg0GANYvDSg"
     },
     {
       "query": "boeing 787 9 diverted to lax",
       "search_volume": 5000,
-      "increase": 800,
+      "increase": 600,
       "categories": [
         "travel_and_transportation",
         "business_and_finance"
@@ -53,7 +63,7 @@
         "business_and_finance",
         "jobs_and_education"
       ],
-      "news_token": "b7A1tHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoUPm6ctSs1bFBoM5V_gPIPCz43qQeG_K89F4Zu8WYbCz5g8D5kvN2HpdmS-rI7lPmS-TMHpDxA-ADWBPK4"
+      "news_token": "UhtRCnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoUPm6ctSs1bFBoM5V_gPIPC33PwBQrf5M0yFP678lwUfsbkech8efcnEsh8WR3Lfch8uQlLtyPzZQpOf4DwAYjKQ0U"
     },
     {
       "query": "f35",
@@ -63,16 +73,25 @@
         "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "FNquhnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRoXwE3cXpeYtCg2G8lu3C6Dwl7svROFf0NJE4Ye7PkXhfxTxQOG_XyyKwr9lWoDMlz9-8ReKvLxlIwrfZ-EXFL5QVjAKX9H7OYQPAEZMUYI"
+      "news_token": "n0OLF3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoXwE3cXpeYtCg2G8lu3C6DwL2hpovDDXZ-i8D-KeKDwb5kWoPBtqq4j8-WPX_yFIi9v2YjCV_R-jsL3WfgFhS-UFQzhAwA-EUuW"
     },
     {
       "query": "a different world reboot",
-      "search_volume": 2000,
+      "search_volume": 5000,
       "increase": 300,
       "categories": [
         "entertainment"
       ],
       "news_token": "0K5Xd3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgVLTbdFqXmLQoOhfP-nx1H4LyN-IfNlW_qnI_Nllk1YBuEDANDWJGw"
+    },
+    {
+      "query": "vix",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "N-fbg3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoXGUxcWpeYtCg2G8t-YrEThb6sXROFLs1Yh82VCipQgfADoOSK3"
     },
     {
       "query": "kfc menu",
@@ -91,7 +110,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Ujazp3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXjYY8WpeYtCg0GANSUDQI"
+      "news_token": "PK2Ba3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXjYY8WpeYtCg2G8qWfc0L4AM5KElA"
     },
     {
       "query": "oracle stock",
@@ -100,17 +119,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "559ggXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoVgT_VFqXmLQoOh_G2sx5D5sgqmKHyZrRL_kflyh1LWQ_gAkxojBg"
-    },
-    {
-      "query": "sakutaro higashi",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "games",
-        "entertainment"
-      ],
-      "news_token": "y4f9c3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXssvhFqXmLQoMBzsMMQw"
+      "news_token": "eDnZ8Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoVgT_VFqXmLQoOh_O0lhij8x0HuKPxtrMdQ-JekfZH5sgqmKPIyWyX-I_PlDqWsh_ABmjAz4Q"
     },
     {
       "query": "dow jones industrial average",
@@ -119,7 +128,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "o1ZS43ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoW3_TGLUvMWhQZD-PKvGaqR-Qr3byxC4W9jPYbCvyJqCeWfy9J-q4Ii1_PwDYQPALRmMKs"
+      "news_token": "nr_gf3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoW3_TGLUvMWhQZD-PKvGaqR-Qrv_TxR-F-PSqPwvxwIQOHfv7EIhX9F1BKF3_PwDZR_Lkv7rQqEDQBQ0T0P"
     },
     {
       "query": "raising cane's",
@@ -130,6 +139,16 @@
         "business_and_finance"
       ],
       "news_token": "VJilS3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvnnUmKLUvMWhQZD-ArTlJYg8-Ufmu5D5kubrW-H8AGwUR14"
+    },
+    {
+      "query": "temperature",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "climate",
+        "business_and_finance"
+      ],
+      "news_token": "k6SsAHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRgWzmVsXpeYtCg2G8veqcKPwueeqoPB_RG9D4T9rMkXhu034jcK_xrYXhf_ytyeqfXVBKHzRyoMQPgBDfkCz"
     }
   ]
 }
