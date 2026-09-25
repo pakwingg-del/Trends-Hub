@@ -10,54 +10,25 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 14,
+      "keywords_count": 13,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-25 06:31:02"
+      "last_updated_hkt": "2026-09-25 21:30:56"
     }
   },
   "trending_seeds": [
     {
-      "query": "bankruptcy",
-      "search_volume": 20000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "FpULvnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoU9s0IXpeYtCg2G8q-4PkDhf5e1ReFH5SxH4W9l-YDC_3CmDIX_ZdZRFP7ZVFZkvvy2y-Eo8guVj6Hwpfa-hvABbTNIkw"
-    },
-    {
-      "query": "star meat delivery inc recall",
-      "search_volume": 10000,
-      "increase": 700,
-      "categories": [
-        "business_and_finance",
-        "food_and_drink"
-      ],
-      "news_token": "A0lzenica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVDH4sWpeYtCg0GANYvDSg"
-    },
-    {
-      "query": "boeing 787 9 diverted to lax",
+      "query": "norse atlantic airways us route cuts",
       "search_volume": 5000,
-      "increase": 600,
+      "increase": 400,
       "categories": [
         "travel_and_transportation",
         "business_and_finance"
       ],
-      "news_token": "lEqPcnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWni4UXpeYtCg0GANJhDJ4"
-    },
-    {
-      "query": "student loan",
-      "search_volume": 2000,
-      "increase": 600,
-      "categories": [
-        "business_and_finance",
-        "jobs_and_education"
-      ],
-      "news_token": "Jrz6bHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoUPm6ctSs1bFBoM5V_gPIPCN3mzDIW_5-ALFP678lwUfsbkech8efcnEsh8WR3Lfch8uQlLt0P4AH6hPNs"
+      "news_token": "Kr01h3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoU1Lg6LUvMWhQYDAM6jDDM"
     },
     {
       "query": "starbucks store",
-      "search_volume": 500,
+      "search_volume": 5000,
       "increase": 400,
       "categories": [
         "food_and_drink",
@@ -66,60 +37,60 @@
       "news_token": "ZQB2gXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWXbryLUvMWhQYDAM9zDD8"
     },
     {
+      "query": "nasa missing sr 71 blackbird",
+      "search_volume": 5000,
+      "increase": 400,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "cIe6E3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUTvrsWpeYtCg0GANM9DNI"
+    },
+    {
       "query": "a different world reboot",
       "search_volume": 10000,
       "increase": 300,
       "categories": [
         "entertainment"
       ],
-      "news_token": "7nLkYHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgVLTbdFqXmLQoOh_JcRv1D4_k-PI_Nllk1YhsyXbemfDuEDANfmJGw"
+      "news_token": "foaIcXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgVLTbdFqXmLQoMhfEWu2y9R-Z-4kPmyLf3TkfkyyyYsg_ABlsQjDA"
     },
     {
-      "query": "vix",
-      "search_volume": 2000,
+      "query": "restaurants near me",
+      "search_volume": 5000,
       "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "gqASiXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgWNPxsWpeYtCg2G8htPXUDhy1X_QeG_MVmJwt9WL4jCl2atQubLhBQpQfgAQb8upg"
-    },
-    {
-      "query": "kfc menu",
-      "search_volume": 500,
-      "increase": 300,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "AveKLnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoX9gY8WpeYtCg0GANQkDPU"
-    },
-    {
-      "query": "costco stock",
-      "search_volume": 100,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "DiMDIHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoXjYY8WpeYtCg2G8qWfc6LwlQ9rI_Nlp2TrQvgAwkodEA"
-    },
-    {
-      "query": "oracle stock",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "SDnAx3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoVgT_VFqXmLQoOh_G2sx1D420sMUfgzHsqg8B8HuSPzZRVMUfWrmjQi8-UOpayH8AGb5TNO"
-    },
-    {
-      "query": "mcdonald's",
-      "search_volume": 2000,
-      "increase": 200,
       "categories": [
         "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "curfjXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRgXbSV2LUvMWhQZD-PJTf35D5it4_j2Jwl80wwiFf6fGHIX_YfMdFD7L7jAU_vwNLMh8md0bjyPzZWtMbVDUH2fbiiKv9WcnCr_JzQTCBwBig1Nk"
+      "news_token": "YYaR5Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgXbSV2LUvMWhQZD-IoMhu-Q-QrX191C4St2bUHh71wsAeEDAM3_I7o"
+    },
+    {
+      "query": "xrp news",
+      "search_volume": 500,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "vXANp3ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRgWFtw6LUvMWhQZD-R_eKSPzFVnUNZD58u3uJijqdVdoovC_yhah8I_56qKYx_zLDEV-X9N8FP5vFldkvlzAX1UU-aoTmch8GZaWXSjq9zLzQ_gA9D1UTA"
+    },
+    {
+      "query": "parent",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "rtv3Bnica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGRb6rhotS8xaFBkP4Cu8XX0bmKzJ9YEeRzw-OQ-FfNVmCwr-8QAKF77huHgr_6--dKPwzOV9R-JPu_Eaxn9-sGkX--9O5KPy9T71R1HPInkHh880VQFE__eJMFH7t8Tko6nlR_a_wU-I-qn2r7qGqbzVD5sv_dnWB8AFqpYkh"
+    },
+    {
+      "query": "frontier",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "shopping"
+      ],
+      "news_token": "v1f0ynica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZGRa7T6YtS8xaFBkP4Cg0f_6Hw377tQOF_OemOwl_i047MV-SY-Q6FzyLbgqL-Zr83Ml9-0vfTKPJLlVei8P0iY1D491UlUPivWRlQ-E85dqPwnzW-QuH_mrgLxX2cl0xQ3S8rhqL-r8cKFL7M9afIfLlnXPoo8hs8dFHk_35fj-Lf3wuTUdRbLteD8AEsIpka"
     },
     {
       "query": "dow jones industrial average",
@@ -128,27 +99,45 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "CudobHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRvnXDNWLUvMWhQZD-Ar7HIxR-I2nLqDw3_bHoPCVVrih8L8cCIDwAUHCKe8"
+      "news_token": "Qd4GXXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvnXDNWLUvMWhQZD-NKNP4yQ-Qpx3n4o_FkFhSj8zwx9KPy3_TEo_K9x8ij8K6KWED4A9zc0Qg"
     },
     {
-      "query": "raising cane's",
-      "search_volume": 200,
+      "query": "jenson brooksby",
+      "search_volume": 500,
       "increase": 100,
       "categories": [
-        "food_and_drink",
         "business_and_finance"
       ],
-      "news_token": "VJilS3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvnnUmKLUvMWhQZD-ArTlJYg8-Ufmu5D5kubrW-H8AGwUR14"
+      "news_token": "rTZM6Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkV2zd-LUvMWhQZD-AqvDKah8KcJdUH4AAwcF5c"
     },
     {
-      "query": "temperature",
-      "search_volume": 500,
-      "increase": 50,
+      "query": "dow",
+      "search_volume": 100,
+      "increase": 100,
       "categories": [
-        "climate",
         "business_and_finance"
       ],
-      "news_token": "k6SsAHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRgWzmVsXpeYtCg2G8veqcKPwueeqoPB_RG9D4T9rMkXhu034jcK_xrYXhf_ytyeqfXVBKHzRyoMQPgBDfkCz"
+      "news_token": "_SE7bHica1xTlFpYmlpcEp-SWJJ4h0Fh8nkGBgZGhThvv0WpeYtCgyF8-dcM1ch8ha9x8sh8RW7LWyjyV0QtUfR35UQg8-WuHtFC5ku_nn8VmS8b46aEYt5FxwUo_Lf9MSj8nodvUOzbLLwWRf5TyAkU_vneABT3M8mg2K_wbKcJCt_1sT0Kf__LIyj8mx0hKHzn2JMo_HsrVqDYx_V3Jor8__ksKPL8Jaj6zy5disyXedxqh6Ke94sHivovB1D8p3DXdjkKn_EAin0yLgsqIXwAV_nCDw"
+    },
+    {
+      "query": "msft stock",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "iKKMaXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRgV1bv5FqXmLQoOh_L8eK5D5itzf0lDk47z9UPjSzzlR-MGe6ij6eeR-IPNlzq5AkVc4GVCLwt__ey6EDwA_kz5h"
+    },
+    {
+      "query": "google",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "science",
+        "technology",
+        "business_and_finance"
+      ],
+      "news_token": "xLttxHica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGhTfflBal5i0KDYbyV12xQOFbrIpA4b_2X4bMV-Rg6EPh8y87jsLnPViCon9XeTwKf6MnI4p69mWnUOTfTS1HNe-LL4r8Ise3KHzzW9tR-DPtdqHwq0-juFfhmu4qZL78Rv9AVPde3IpiP-efdBT51V1XkPkysryHIHwAa3aG3Q"
     }
   ]
 }
