@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 16,
+      "keywords_count": 15,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-26 03:30:52"
+      "last_updated_hkt": "2026-09-26 06:30:59"
     }
   },
   "trending_seeds": [
@@ -36,33 +36,13 @@
       "news_token": "Kr01h3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoU1Lg6LUvMWhQYDAM6jDDM"
     },
     {
-      "query": "starbucks store",
-      "search_volume": 5000,
-      "increase": 400,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "ZQB2gXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWXbryLUvMWhQYDAM9zDD8"
-    },
-    {
-      "query": "restaurants near me",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance",
-        "food_and_drink"
-      ],
-      "news_token": "j7l5e3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRgXbSV2LUvMWhQZD-IoMhu-Q-QrX191C4St2bYHwAcAjHgM"
-    },
-    {
       "query": "chatgpt down",
       "search_volume": 2000,
       "increase": 300,
       "categories": [
         "other"
       ],
-      "news_token": "mHIdpHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoUdHPsWpeYtCg2G8BUF53Qh82UuTktF4S-PzYfwAcA5Hbk"
+      "news_token": "k_IZyHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoUdHPsWpeYtCg2G8GUuTktF4S-PzYfwAR40GD4"
     },
     {
       "query": "xrp news",
@@ -71,7 +51,17 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "hRVXV3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRgWFtw6LUvMWhQZD-cd8dVH4H94po_B_s7ii8HVXaKLwP9n4IPPlAv6qIvNlWFp2ocjvZeaH8AFIbjjg"
+      "news_token": "A2IoTnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoXfLK6LUvMWhQZD-cd8dVH42_3cUPgf3imj8OM-VqPwP9n4QPgAIgUpZg"
+    },
+    {
+      "query": "starbucks locations",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "ZQB2gXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWXbryLUvMWhQYDAM9zDD8"
     },
     {
       "query": "parent",
@@ -81,16 +71,6 @@
         "other"
       ],
       "news_token": "2PY9gHica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZGhasmSxal5i0KDYbwFdkqNyDzFaZfnInCrz0-B0U90wd2FD5vqxmK-pcn2lD4juvmoajn03-JIv_1904UvpwvK4p6frNqVP1zBVD4HLJnUPR3tJ1H4a_KYEHhWzvcRebLLxDfgsyX2678HcV8wSJU837PkEDh7111D4U_6c5vFP72uqUo9v12dYHwAavclxg"
-    },
-    {
-      "query": "navy",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "law_and_government",
-        "business_and_finance"
-      ],
-      "news_token": "AG-Pt3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRkUOuZOLUvMWhQZD-Ao33faj8BP_S6DwP0bEo_C_3pBE4e9pv43MVxTouIsiHx1rgsL_HBWHwi9edAyZL79cbz2EDwDSvkb-"
     },
     {
       "query": "jennifer garner turns down affleck film",
@@ -112,17 +92,27 @@
       "news_token": "v1f0ynica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZGRa7T6YtS8xaFBkP4Cg0f_6Hw377tQOF_OemOwl_i047MV-SY-Q6FzyLbgqL-Zr83Ml9-0vfTKPJLlVei8P0iY1D491UlUPivWRlQ-E85dqPwnzW-QuH_mrgLxX2cl0xQ3S8rhqL-r8cKFL7M9afIfLlnXPoo8hs8dFHk_35fj-Lf3wuTUdRbLteD8AEsIpka"
     },
     {
-      "query": "jenson brooksby",
-      "search_volume": 500,
+      "query": "navy",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "law_and_government",
+        "business_and_finance"
+      ],
+      "news_token": "xkJBn3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRkUOuZOLUvMWhQZD-AofOeeg8L_ekETh33Tbj8JP_C-Bqj8iHoW_p_02Cj861gSF_zkqDoVfvOgYMl9-ud56ZL7s6odaED4AeNlNFA"
+    },
+    {
+      "query": "voo stock",
+      "search_volume": 1000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "P0ZZv3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkV2zd-LUvMWhQZD-AqvDKah8KcJdaHw_3s5Q_gAs_QdZg"
+      "news_token": "Ap_tyXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRoVnO00WpeYtCg2G8BWF_Pcg8xUWHLRF4UsHNKHwk7ZdQOHP4xdG4X-d3oHCf_BwAQq_YqYyCv_P8aMo_BdBZch82R8Sc5D58pucFVHk16ZeQfEP21dDCB8Ag8NegA"
     },
     {
       "query": "a different world (2026 cast)",
-      "search_volume": 500,
+      "search_volume": 1000,
       "increase": 100,
       "categories": [
         "entertainment"
@@ -136,7 +126,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "eHUE23ica1xTlFpYmlpcEp-SWJJ4h0F58nkGBgZGhThvv0WpeYtCg6H8t_0xKPyvcfLIfEWBghcofG7LWyjqex6-QeF_4D6LzJeNcVNC4SdLPkPhhzyfj6JfRG4jCv-KqCUyX-7qES1kvvTr-VeR-fKvGapR9N95uB2Ff8BLB4X_vFMFhX_jpB0K_8GSXBT_s8t_RZG_f-sAqv-l-lDUc_2diSJ_syMEhX-OMxE1_M1fIvNlHreiuEdu4-tslPArvGqIot859iRKeHTlRKDIx3mj2vflQAAKn_EAC4QPAKfn0x0"
+      "news_token": "SSbXWXica1xTlFpYmlpcEp-SWJJ4h0F58nkGBgZGhThvv0WpeYtCg6H8t_0xKPyvcfLIfEVuy1sofIGCF8h8-dcM1Sj6ex6-QeF_4D6LzJeNcVNCkb8iaoli3vwTz5D5clePaCHzpV_Pv4qi_6_HChT3sS57giJ_wEsHhf-8UwWFf-OkHQr_wZJcFPPY5b-iyN-_dQDVf1J9qOrfJ6P4Z7PwWhT1NztCUPjnOBOR-TKPW1Hcoyg0YQFK-BVeNUTR7xx7EoWf8P8GCj_OG8V8hS8HAlD4jAdYUMJb_OgyCB8AS-nTFw"
     },
     {
       "query": "msft stock",
@@ -145,7 +135,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "NMsR5nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRgV1bv5FqXmLQoOh_L8eK5D5itzf0pD5MmdXqKOoPxlQi8Lf_3suhA8A75gpbQ"
+      "news_token": "PJDggnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgV1bv5FqXmLQoOh_L8eK5D5iqKVuSjyJwNqUfj7f8-F8AGCkiMm"
     },
     {
       "query": "google",
@@ -156,7 +146,7 @@
         "technology",
         "business_and_finance"
       ],
-      "news_token": "RmWqMnica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGhTfflBal5i0KDYby300tR-YrcjBMQJE3v7UdhT_TbhcK_0FbGop-Zq1uFPlVVyzQzO9D4Qsb9aLy3TRQ-RtR-AobPRlR5NmXnUKR31UeD-Wf-1e1bzOEDQD5BWEK"
+      "news_token": "w9jFUXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRoU335QWpeYtCg2G8BU5GCag8IWNepH5CjubWVD4q65YoPAXOb5F4c-024XC3-jJiGI--7JTKPLvppaj8HeVxyPzZUs_r4Lyz_2r2rcZwgYAYHNSwQ"
     },
     {
       "query": "brightline",
