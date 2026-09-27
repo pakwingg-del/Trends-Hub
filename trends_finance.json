@@ -10,12 +10,30 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 10,
+      "keywords_count": 11,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-27 03:30:54"
+      "last_updated_hkt": "2026-09-27 06:30:51"
     }
   },
   "trending_seeds": [
+    {
+      "query": "mortgage rates today",
+      "search_volume": 10000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "FEhxEHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoU7D7cvSs1bFBoMANh8DXc"
+    },
+    {
+      "query": "stock market today",
+      "search_volume": 10000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "rV8fA3ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGhWc7TRal5i0KDYbyex6-QeYrcjJ5och_2HwHhf-2PwZFPX_JSRS-UtxvFPXSAU0o_JdT5yHz5f-u3I0i_-DhAhT-i6DzKObLJYWh8GVu9KDK-0xC5sv-kJiDYt72d7NQ-J3lZ1HUlx-sg_AB0Kx4Nw"
+    },
     {
       "query": "trump rejects iran deal",
       "search_volume": 20000,
@@ -23,17 +41,17 @@
       "categories": [
         "politics"
       ],
-      "news_token": "xdjMInica1xTlFpYmlpcEp-SWJJ4h0F58nkGBgZGBY33potS8xaFBkP4iorpIch8BSZlZxR-yt8nyHy5LXfuo-jnZPJCUV9ycwsKf7G2FDJfftva3yjyZ_jXovB32B5CMV9w6XwUebv901DMe7moD0X-WsIBFP2qW3RQ5M3DzVD4MwxXoKhXmO6KIn9ZCtV9Sy3fovBXPZiNwt__Oxs1fHZroshfOPIQxf1nvqCEj0La1_cofMWPO1DUx4l8RImP1pVhKPIJvcuR-bJxiSnIfJmVfhkofBbTuyjmeXVC0wcAj1PRiw"
+      "news_token": "cJaeg3ica1xTlFpYmlpcEp-SWJJ4h0Ft8nkGBgZGBY33potS8xaFBkP4igpb_6Dw1dPYkfkKTMrOKPyUv0-Q-XJb7txH4X8-I4jMlxXqZETRX3JzCwr_WsIBFPvVNlii8AWXzkd173RXZL78y0V9KObtsD2Ewp9huAKFf6p0Aop5iiURKPI_N09GkVfdooMiv1hbCoVvHm6Gwl_1YDYKf6nlWxT-_t_ZKOZz7tZEkb9w5CGKPO-vrSj-PfMF1f60r-9R-Iofd6CojxP5iBI_rSvDUOQTepejxFdcYgoyX2alXwYKn8X0Lop5Xp3Q9AQAZ8Dipg"
     },
     {
       "query": "meat",
-      "search_volume": 5000,
+      "search_volume": 10000,
       "increase": 300,
       "categories": [
         "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "CI9cFnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoVDH4sWpeYtCg2G8vtOcaPwn-1kROEf7GVG4d8tjEPmKyp1T0Dhy8_YgMJnUQuH8AFOFDQl"
+      "news_token": "QJwcb3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoVDH4sWpeYtCg2G8vtOcaPw7xbGofAP9jIj8xWVuieg8OVnbEDhs6iFI_PlnVsXQfgAMRYz7g"
     },
     {
       "query": "snack",
@@ -64,13 +82,22 @@
       "news_token": "FgBCu3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoV7qxYtSi1eFBoMANZXDTI"
     },
     {
+      "query": "citibank",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "R9Tk9nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRgWehcWLUvMWhQYDAM1QDCM"
+    },
+    {
       "query": "kyrgyzstan",
       "search_volume": 500,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "J7tQxXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoV-l72LUvMWhQZD-aGXNJH5ipJxSijyD1zmosjzfVyCwmfjj0ZRf2FZPArfbW4uhA8AsrkzTQ"
+      "news_token": "KNz5cnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoV-l72LUvMWhQZD-aGXNFH4qxafQOYrSsYpocg_cJmLIs_3cQkKn40_GkX9hWXxKHy3ubkQPgBobDml"
     },
     {
       "query": "dólar estadounidense",
@@ -82,15 +109,6 @@
       "news_token": "K0Y0I3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoU7HkcWpRYvCg2G8u-tWoTCv6n2BMIHADx7GY0"
     },
     {
-      "query": "a different world reboot cast",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "S9g0W3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRgVLTbdFqXmLQoOh_GuTy5H5MssmLEPmy7b0T4fwAa8DHdM"
-    },
-    {
       "query": "silver price today",
       "search_volume": 200,
       "increase": 75,
@@ -98,15 +116,6 @@
         "business_and_finance"
       ],
       "news_token": "xOTuWnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoXDJicXpeYtCg2G8Q_lIvNlON4UofDXGK1B5itKH36Mon9D2VkUefE0AWS-bNSWShR-rpoPhA8A4Jc6WA"
-    },
-    {
-      "query": "vanguard",
-      "search_volume": 100,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "SZj8f3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRoVnO00WpeYtCg2G8qUDmlD4L6fOQ-bL_125G0X-wcMFKPwXQeeR-YpySWEofJkbPajyPpOQ-bI_JOagmLf93SwUfmf5WRT15QfrIHwAXAFUig"
     }
   ]
 }

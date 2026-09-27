@@ -10,12 +10,21 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 46,
+      "keywords_count": 41,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-27 03:30:55"
+      "last_updated_hkt": "2026-09-27 06:30:53"
     }
   },
   "trending_seeds": [
+    {
+      "query": "netflix new releases",
+      "search_volume": 10000,
+      "increase": 1000,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "0abKdXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRnk74ceLUvMWhQZD-Ao3JK1Q-Oev_kThf5yXgcxXlEt8hSL_7Y4AMl_2QI4IivzC6BgIHwBZGDWr"
+    },
     {
       "query": "dolph lundgren",
       "search_volume": 2000,
@@ -26,13 +35,40 @@
       "news_token": "dZzw1Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoXDsWcWpeYtCg2G8OXTyy8i82XT0qdB-AArQxiD"
     },
     {
-      "query": "jon watts",
-      "search_volume": 5000,
+      "query": "who is johnny knoxville",
+      "search_volume": 2000,
+      "increase": 1000,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "mXHztHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkVuS89FqXmLQoOhfKUKaRS-IuMLFD7r58PIfAX7xLMQPgBQAyGH"
+    },
+    {
+      "query": "natalie harp",
+      "search_volume": 2000,
       "increase": 900,
       "categories": [
         "entertainment"
       ],
-      "news_token": "6nNXlHica1xTlFpYmlpcEp-SWJI4d_J5BgYGRoWFF9gWpeYtCg2G8gMKDJD5ispfGlDke8zNkfnyqd5nUORvSFqh6Fc5Px-Fr2bFiGr-7j0ofFGeOSjmzao9hcI_f_UnCt809jiEDwDrwU_r"
+      "news_token": "sy3vWnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkW1DZaLUvMWhQZD-AqrvZmR-YqKJREofMGl81HUR8-8BOEDAHmMIiI"
+    },
+    {
+      "query": "jon watts",
+      "search_volume": 10000,
+      "increase": 700,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "Zk3y23ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRoWFF9gWpeYtCg2G8gMKDFD4RR8Wo_B7zM1R-LNqTyHzFbkdjVHks6U_oMgr796DwhflmYOi3jT2OAr_hqQVinrFkiAUvsr5-RA-ABkUTrw"
+    },
+    {
+      "query": "nicki minaj",
+      "search_volume": 2000,
+      "increase": 700,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "7FLT9Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvmjFy4uSs1bFBoM4Sv88VNA5isqNO9G5st32yijqNd-1QHhAwD5MyPD"
     },
     {
       "query": "prince william",
@@ -42,7 +78,25 @@
         "law_and_government",
         "entertainment"
       ],
-      "news_token": "Jmy-gXica1xTlFpYmlpcEp-SWJJ4h0F18nkGBgZGherTWYtS8xaFBkP48je2pyDzFdlkviLzFVY810bhb1m0GYVf9_csCv9SQTqKeXL53ijyL7WrUOSZP-qhyL-aX4_ivqmyKPbJnT7PjCKfvbAdmS_Lc7AcmS-zs2EtinyXgieKfUe_r0fh53AUoriPO1QdRb5J7xYK_85mQxT33J7wDUWeyX0PinmSXFtR-LKRjCjqb3lpofC3FRuh8LdzPkLhz7t6DYX_7T8zqvnCP1Dkdx1Dca9C1YlQFH7Nly6U8LujtxAl_GMOQ_0DAAX53a4"
+      "news_token": "yl9e1nica1xTlFpYmlpcEp-SWJJ4h0F28nkGBgZGherTWYtS8xaFBkP48je2pyDzFdlkvqLwZYV_IPMVtizajCIvl--NIv9SuwpFnvmjHop9tyd8Q1G_4rk2inr1mjko8kzue5D5cqfPM6OYl72wHZkvy3OwHJkvs7NhLYr5klxbUf0XyYhi3y0vLRT-tmIjFP7GRYtR-POuXkNxz1RZlPBR-PYfxb0KVSdCUfi7jhmi8Gu-dKG4_47eQhT_xxyGhgcAHbivHw"
+    },
+    {
+      "query": "season 4 lioness",
+      "search_volume": 2000,
+      "increase": 600,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "QXFyW3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoU1qg8WpeYtCg0GANILDLQ"
+    },
+    {
+      "query": "katseye",
+      "search_volume": 50000,
+      "increase": 500,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "QYCCR3ica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGhSNPQhal5i0KDYbw5XzeKiHzFTW4t6Hw1TZYIvMVcne9QZW_fROFrxzbgsJXj2hC4csueYzMl1nPsQXFPRdY_yPz5Y-ri6Oa_3s-Cp_t-kEU9318EInC_x6kgMK_ksWFwj9x4zcyXzzmUQKKe2x_9qO499UpYRT938TmorpvTzEyX_LtpCAU9aXZu5D5sgLTJSF8APPongs"
     },
     {
       "query": "billy gardell",
@@ -61,16 +115,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "2Ef61Hica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGhcSJnYtS8xaFBkP551nEkfmKyn5lKPLNU4-i8H-XN6HKZxZA-ecuTolsRZaTnaU2FcVsxVIhFL1_9EVR-CC3pWUi-Iu1pZD58td-d6HwfVYfQ1HvpLQBmS_b4RSDIi_MYg3hAwA3PmY7"
-    },
-    {
-      "query": "nicki minaj",
-      "search_volume": 2000,
-      "increase": 500,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "7FLT9Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvmjFy4uSs1bFBoM4Sv88VNA5isqNO9G5st32yijqNd-1QHhAwD5MyPD"
+      "news_token": "uZt6jHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoXzLOKLUvMWhQZD-YkTO5H5isp-ZSjyzVOPovB_lzehymcWQPgA-MkozA"
     },
     {
       "query": "kelsey parker",
@@ -100,22 +145,22 @@
       "news_token": "Puff23ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXr614sSs1bFBoMANgODXA"
     },
     {
-      "query": "new movies streaming",
-      "search_volume": 1000,
-      "increase": 400,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "mO6LBnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoUbklaLUvMWhQZD-WWPv6Lwz-3-hcI_bdyLwl8YHQPhAwANsiTu"
-    },
-    {
       "query": "marvel avengers endgame encore",
       "search_volume": 500,
       "increase": 400,
       "categories": [
         "entertainment"
       ],
-      "news_token": "f3ZNFXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvlU7zOLUvMWhQZD-Iq82m0ofIX1Lsh8hdlRnih8C01BZL5s1rPfKHzfKdnIfBm5hHJkvvTtZBT7ZCw3aED4AG3GPao"
+      "news_token": "MvblnHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvlU7zOLUvMWhQYDANAmDH4"
+    },
+    {
+      "query": "snl cast",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "hwx_4Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkUN7m2LUvMWhQZD-bJLHqPwle2ikPkKOoulUfi5u94g82XzNa5C-ADVaSgD"
     },
     {
       "query": "cardi b",
@@ -125,17 +170,7 @@
         "entertainment",
         "beauty_and_fashion"
       ],
-      "news_token": "sdGUSHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoXLX48sSs1bFBoM4SvyfFuCwpeOnonMV7ihtRZFXv5zJ4q8MscFFP60jwrIfOl__WXIfJmVB1ogfAAVqDwy"
-    },
-    {
-      "query": "alix earle",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "entertainment",
-        "beauty_and_fashion"
-      ],
-      "news_token": "Q5ptvnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoXvMr8XpeYtCg2G8h9NSEbhvz3UicxXZM2bi8yXOfxQAcIHAB-YJPs"
+      "news_token": "BYpDZXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoXLX48sSs1bFBoM5U_7qIDMV-T5tgSFz_b1JApfOnomiv4bWmtR5OU_d6LIb955HJkv_a-_DJkvs_JAC4QPAGPRQ3I"
     },
     {
       "query": "concerts",
@@ -144,16 +179,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "vOV5snica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoWXLo8WpeYtCg2G8t-1PkPlm8oh8xV5z0xAkX_E9B5FXl4Yha9woz4CmS_zueQTMl_-v9NpFPmcYg0UPncpVD8Ak2NHjw"
-    },
-    {
-      "query": "olivia rodrigo tour setlist",
-      "search_volume": 500,
-      "increase": 300,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "wW2K3Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkX25r-LUvMWhQYDANADDIs"
+      "news_token": "QlQkMHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoWXLo8WpeYtCg2G8t-ZyiHzFdVr7qDwNRi3o6pvfYbC313-HEW9aqgxCp_3zAQUPuclDRQ-e_NfZL7M55JPED4Ayx1GvQ"
     },
     {
       "query": "jennifer garner",
@@ -163,15 +189,6 @@
         "entertainment"
       ],
       "news_token": "0__OInica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgVxboVFqXmLQoOhfJNr01H4fy89R-bLM_N-RZH_NuU3hA8AqTYkMQ"
-    },
-    {
-      "query": "snl",
-      "search_volume": 10000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "ZhXvEXica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGhSNPQhal5i0KDYbydRZLo_Bzd71B5ivKLnmMwldq7EXhS73bgSYfiir_VBiZL7OeYwuKfZ07spH58sfVxVH0s1ifQOGzK_Cg8JV_z0fmy11g_Y9i_qHSIhT-N7G5KPqFnqxG5SdMQDU_tgXCBwAQT3fD"
     },
     {
       "query": "the unabomber",
@@ -189,16 +206,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "xlBv1nica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkXp6xaLUvMWhQZD-bIBxch8hRsPl6HwL2oHoPBvb1ZA4W-vz0QxT8YWRV42pOonhA8A5pQ0Gg"
-    },
-    {
-      "query": "woody harrelson",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "ip5EX3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvk2_gWLUvMWhQZD-Io8RWbIfPnHbE-R-XIOry4i8xVW_rsB4QMArEkkPQ"
+      "news_token": "TPRPX3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkXp6xaLUvMWhQZD-bIBxch8hRsPl6Hwb29WQOFvr89E4V_UDkAxT8YWRb1sSNVPCB8A8eQ0Gg"
     },
     {
       "query": "aleutian lady",
@@ -217,6 +225,24 @@
         "entertainment"
       ],
       "news_token": "VNWQmHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUbCTmLUvMWhQYDANJDDKc"
+    },
+    {
+      "query": "halle berry",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "Rp08w3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkXJ_4cWpeYtCg2G8BUeWy5G5ityfeJCkZfUS0fh7370BkW9APtRFPn3Gr8hfAAAri9c"
+    },
+    {
+      "query": "the social reckoning",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "57Dz03ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoX4LxcXpeYtCg2G8BV5H7Ui8xVuaOkh8-XfLHVE5sscKbqLor7VsANFfYAfF4r6fYzaED4AWIk0TA"
     },
     {
       "query": "pearl jam new drummer",
@@ -250,9 +276,10 @@
       "search_volume": 200,
       "increase": 200,
       "categories": [
-        "entertainment"
+        "entertainment",
+        "games"
       ],
-      "news_token": "7MxH13ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoX6xuJFqXmLQoOh_K4JZ1D4VgdrkPmKcuFBKPJsXR-R-TJWc7tR-M_yFiLzZRXjdJD5csyb5kD4AGuGOXo"
+      "news_token": "jLWLEHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgWrgzWLUvMWhQZD-fWNxSh8tq6PyHwZq7ndKPxneQuR-bKKcTrIfDnmTXMgfADjly5G"
     },
     {
       "query": "music",
@@ -264,13 +291,13 @@
       "news_token": "2OTIRHica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGhRvK9otS8xaFBkP5L602I_MV5RTeofDZ5R-jqL-x8CGKvNR7aRS-aNVeFL6MRisKX-RgBop5LzYmo8jzh_5DNV_vJAqf20oSha_I-ALFvN2M61D4S5XXoKhXWPgKhS_vUoOiXv8QE6q85TMIHwAHOHXa"
     },
     {
-      "query": "katseye",
-      "search_volume": 2000,
+      "query": "scarlett johansson",
+      "search_volume": 1000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "6YCM9Hica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkW26wcXpeYtCg2G8BW-Bymg8D8-iEThH3kSgsK_ksWFwj9x4zcyXzzmUQKEDwBcsDE7"
+      "news_token": "tk-xdnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkW5pAOLUvMWhQZD-AqyumnIfEXJcHMU-VkGwSjyMnsZUeSvhbIj82UmN5tB-AAjFSug"
     },
     {
       "query": "heather matarazzo",
@@ -282,13 +309,13 @@
       "news_token": "rh4Wvnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXFGR2LUvMWhQYDANFqDJY"
     },
     {
-      "query": "primetime cast",
+      "query": "ny times",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "DoVh2Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoXfD3UWpeYtCg2G8BVZan8j8xU8HKogfAAobhgQ"
+      "news_token": "rtZIc3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRvlrv7sWpWUuCg2G8BWVd69E5is4KW1A5sv7rD6Gol6SMwpF_cXb0Sj8u_fNkPmyHU4xKPLCLNYo5oPck5qHkF_36g4KH6QezAcAV5RLfQ"
     },
     {
       "query": "kristen bell",
@@ -309,27 +336,6 @@
       "news_token": "9ATlaHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkUe2QmLUvMWhQZD-AoT9JYi8xWlA_JR-LKB6hA-AH4JG1o"
     },
     {
-      "query": "amanda bynes",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "entertainment",
-        "beauty_and_fashion"
-      ],
-      "news_token": "PA0dS3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoW3txgWpeYtCg0GANPcDMo"
-    },
-    {
-      "query": "oktoberfest",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "entertainment",
-        "hobbies_and_leisure",
-        "food_and_drink"
-      ],
-      "news_token": "wpVJ0Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgVF87WLUvMWhQZD-Iry8z6j8FW3yCPzFXYfSEbh788tQubLL3RuQdEvyJMI4QMAv84tpg"
-    },
-    {
       "query": "yahoo news",
       "search_volume": 200,
       "increase": 100,
@@ -340,31 +346,14 @@
       "news_token": "_EhWcnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkU1Ga1FqXmLQoMhfIWfmyej8G99ikDhX5CajsJ_aWkI4QMAxlwjsw"
     },
     {
-      "query": "bill conradt",
+      "query": "oktoberfest",
       "search_volume": 200,
       "increase": 100,
       "categories": [
+        "hobbies_and_leisure",
         "entertainment"
       ],
-      "news_token": "N9A9knica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkWp93MWpeYtCg0GANFnDKk"
-    },
-    {
-      "query": "ny times",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "9oyPa3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRvlrv7sWpeYtCg2G8BUWa0uh8BMndqLw1726g8IXZrFG5isqavCh8PmXt6Go__SUA4VfvKgXmS87bX4TCt_H3x7CBwBqSUTF"
-    },
-    {
-      "query": "zendaya",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "CQWDZnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoWvG9ctSs1bFBoM4SvK1KPyBcJCUfgcPs3IfIXvfFtQ5BX8OJD5ovPnP0Pmy-TMmYHMl5X75I_Ml6vme4zMl4462QXhAwA3YUUm"
+      "news_token": "dCxVq3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoXrP7QWpeYtCg2G8BUFth5C5isomq9FkVfdIo_Ml1_o3IIiL8iTiMKXXcIH4QMAyoksyg"
     },
     {
       "query": "page six",
@@ -373,7 +362,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "SFzLoXica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGhV0-uxal5i0KDYbwFRU_iCPzFRI776DIy9_UQeFzTAxBUX-NXRBFXsrXDEV-D9MSZL6M2dd_yHxZY-OVKOpvl51BMY_9IYp-ReVXx1D4CjO8UPh8e6JQ-DxFLajqL89G9Y_PLRT7F-6JQZGXfR6LIh9QYIDCl9r7GsV_l-3kUPwXvPYKhA8A8cCOZQ"
+      "news_token": "yy8VrHica1xTlFpYmlpcEp-SWJJ4h0F88nkGBgZGhV0-uxal5i0KDYbwFRU_iCPzFRI776DIc0wMQeFL-ZqhqN_DtASFf41dEJkvY_b1HzJf1th4JYr622VnUMxnf4hinqLyq2MofIUZXih8vj1RKHyeohZU9Zdno_rH5xaK_Qv3xKDIyz6PRZEPKDBA4UvtfY3iv8t2cij-C157BcIHAH2uiP0"
     },
     {
       "query": "nbc news",
@@ -391,7 +380,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "Hsdsv3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoVNF34vSs1bFBoM4ctff34OwgcA5eEUTg"
+      "news_token": "eqILBXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVNF34vSs1bFBoMANhWDYA"
     },
     {
       "query": "lewis hamilton",
@@ -401,43 +390,6 @@
         "entertainment"
       ],
       "news_token": "SU79F3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoWaxtOLUvMWhQZD-Iocv4SQ-QoXtQNQ-Lx7KlD4cx69ROE_i3RDMU-2uhxFfn2eDgpfU7wFmS__7B-q_KX9F5H5ci452yB8ABXMTCw"
-    },
-    {
-      "query": "gene wilder",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "Ds5CF3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvk5bU8XpeYtCg0GANScDQk"
-    },
-    {
-      "query": "a different world reboot cast",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "S9g0W3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRgVLTbdFqXmLQoOh_GuTy5H5MssmLEPmy7b0T4fwAa8DHdM"
-    },
-    {
-      "query": "robert pattinson",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "vrfopnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRgUPh6pFqXmLQoOh_Kder5D5ivz3V6HIbwv8h8L_UMOEzJe7v_8DivxlzV5kvrT_KnFkvryD0w8U_v6T-hA-AOjfQdQ"
-    },
-    {
-      "query": "kick",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "entertainment",
-        "games"
-      ],
-      "news_token": "Q0hkFXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWzU30XpeYtCg2G8GWkfL0hfADEMhGj"
     }
   ]
 }
