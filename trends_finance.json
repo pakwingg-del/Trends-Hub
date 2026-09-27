@@ -10,20 +10,30 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 11,
+      "keywords_count": 10,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-26 21:30:53"
+      "last_updated_hkt": "2026-09-27 00:30:51"
     }
   },
   "trending_seeds": [
     {
       "query": "trump rejects iran deal",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 700,
       "categories": [
         "politics"
       ],
-      "news_token": "ApiNzHica1xTlFpYmlpcEp-SWJJ4h0Fn8nkGBgZGBY33potS8xaFBkP5V1yNUPgpf58g8-W23LmPIs-k7IzMlxXqZERR79WJYr7Mkm2LUPhTn6KqD2VYimL-Gf61KPxrCQdQ-I5P3qHwF2tLIfMVBZfOR5GfYbgChV9ycwsKf8X5hyj6Faa7ovClrGpQ1DdVq6HwbzzqQOH_cMtF0S9bnYoif8CzHMX_rSvDkPnyCb3LUcLXzbwWJfxW-mWg8FlM76KY_-fWOhT-ndNZKPxTpRNQ7Nu29jeK_PVT_1D4m1_loPhHaelJ1PDKCkJR_z6jFYX_ecZ-FPVyye4o_nfJ2Ybinr1O71H0RwrIQPgAkG0GYA"
+      "news_token": "KPtmC3ica1xTlFpYmlpcEp-SWJJ4h0Fp8nkGBgZGBY33potS8xaFBkP51xIOIPPlt639jSKf8vcJMl9uy537KPJMys7IfFmhTkZkviInkxeKerv901D4JTe3oPDNw81Q-DtsD6GYJ7h0Pop7Xy7qQ1E_w3AFCv8M_1oU_mJtKRT-Usu3KPz9v7NR-KsezEb1z25NFPkLRx6iyPP-2ooin_b1PYo8-8MPKPKKH3eg-CdO5CNKeLeuDEORT-hdjsI_8wXFPzIr_TJQ-Cymd1H4S7YtQtG_wqAWwgcAL2fOIw"
+    },
+    {
+      "query": "meat",
+      "search_volume": 5000,
+      "increase": 400,
+      "categories": [
+        "business_and_finance",
+        "food_and_drink"
+      ],
+      "news_token": "-k8LJnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoVDH4sWpeYtCg2G8BWVuicg8xWWfF6Cwl-UnYSiXiXSEUX-YC8zirz8jA0o8l8L_ZH58s6tiyB8ANJyOr4"
     },
     {
       "query": "snack",
@@ -36,26 +46,8 @@
       "news_token": "mG43-3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRkWm61sXpeYtCg2G8BXe85ki8xWVOJ6jyJ88LIYiL-_8GUV-TvIMFHnp08tQ-Tb3kPnSD36eQubLcqzaC-EDACsgQI0"
     },
     {
-      "query": "jennifer garner turns down affleck film",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "hBRmlXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgVxboVFqXmLQoOh_L-XnqPwTa5NR-bLM_N-RZH_NuU3hA8AuoYkMQ"
-    },
-    {
-      "query": "chatgpt down",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "other"
-      ],
-      "news_token": "k_IZyHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoUdHPsWpeYtCg2G8GUuTktF4S-PzYfwAR40GD4"
-    },
-    {
       "query": "orlando weekend downtown traffic parking",
-      "search_volume": 1000,
+      "search_volume": 2000,
       "increase": 300,
       "categories": [
         "travel_and_transportation"
@@ -63,23 +55,22 @@
       "news_token": "BxrNRnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkVuK9dFqXmLQoMByNcLjg"
     },
     {
-      "query": "act",
-      "search_volume": 100,
+      "query": "jennifer garner turns down affleck film",
+      "search_volume": 2000,
       "increase": 300,
       "categories": [
-        "business_and_finance"
+        "entertainment"
       ],
-      "news_token": "y-kiCHica1xTlFpYmlpcEp-SWJI4d_J5BgYGRoUXZ_QWpeYtCg2G8hW7tiDz5bet_Y0iX6ghh8xXlNQKROEL-j9GUf_IcAGKeQtbj6PIb2xBkVcUmCuOIn-BqwOFf89pFjJfziVnG4QPAPiRUQ4"
+      "news_token": "ijcaLXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgVxboVFqXmLQoOh_G9TfkP4ALBdEg0"
     },
     {
-      "query": "meat",
+      "query": "dólar estadounidense",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "business_and_finance",
-        "food_and_drink"
+        "business_and_finance"
       ],
-      "news_token": "k8RKA3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoVDH4sWpeYtCg2G8BWVuieg8Pnu9SLzFQ72MqPIy8_YgCL_tdAfmS_v3LoIwgcAGbQvSQ"
+      "news_token": "9reOJHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoV7qxYtSi1eFBoM5d_xOILCv6n2BMIHAECbGY0"
     },
     {
       "query": "a different world (2026 cast)",
@@ -107,7 +98,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "aIXj-Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoXDJicXpeYtCg2G8Q_lIvMVxdMEkPkyHG-KUPhrjNZA-ADSJCM3"
+      "news_token": "xOTuWnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoXDJicXpeYtCg2G8Q_lIvNlON4UofDXGK1B5itKH36Mon9D2VkUefE0AWS-bNSWShR-rpoPhA8A4Jc6WA"
     },
     {
       "query": "vanguard",
@@ -116,7 +107,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "eKBy8Hica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGhRdB5xel5i0KDYbyX06dh8xXFPLfgyIvHdCEzJf_u3I3ivyznSYofNmmQyjmyflMQpH_e2gJCv_BwwWo6pPCUOTvOzWjyEs2obhH9ofEHBT1neVnUeTLD9ah8H0qZkH4AERnayE"
+      "news_token": "j7R6j3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoVnO00WpeYtCg2G8h88XIDCfxF0HpmvKJcUhiIvHdCEwn85dR6KepkbPaj6fSYh8-X_rtyNzJf9ITEHwgcACvRCAg"
     }
   ]
 }
