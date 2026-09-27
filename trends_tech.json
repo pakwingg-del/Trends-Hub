@@ -10,121 +10,139 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 12,
+      "keywords_count": 14,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-26 21:30:54"
+      "last_updated_hkt": "2026-09-27 21:30:55"
     }
   },
   "trending_seeds": [
     {
-      "query": "vr glasses",
-      "search_volume": 100,
+      "query": "google's birthday",
+      "search_volume": 200000,
+      "increase": 1000,
+      "categories": [
+        "other"
+      ],
+      "news_token": "XmFPb3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkWV__8WpeYtCg0GANTvDSU"
+    },
+    {
+      "query": "28º aniversario de google",
+      "search_volume": 50000,
       "increase": 1000,
       "categories": [
         "technology"
       ],
-      "news_token": "4WhYIXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrkTdpaLUvMWhQZD-ArvM1lR-Hes3iPzZW_emwLhAwDF0x6z"
+      "news_token": "dABASnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUuhheLUosXhQYDAMuHC_s"
     },
     {
-      "query": "ukraine",
-      "search_volume": 500,
-      "increase": 800,
-      "categories": [
-        "other"
-      ],
-      "news_token": "UIMvvHica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGBcWuLYtS8xaFBkP55-V8Ufjlxb0o_CshJSj8RJdoFP5dzSJkvqLUyk0o8ouy81H4r4pmovA_mO1D4X8qvoJinpLcbGS-3IdnKPIKu3o8kPnyC1uPo7onOgKFz1h1FJkvWzkTxT3yKd-aUMyfPm0dCv9gYw8KP83JH4Wf3Y1inuzOM79Q5CdyNKLwl68vg_ABX0KfIw"
-    },
-    {
-      "query": "playstation plus",
+      "query": "raf fairford",
       "search_volume": 10000,
       "increase": 700,
       "categories": [
-        "games",
-        "technology"
+        "law_and_government"
       ],
-      "news_token": "SSHjAnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoVP3XyLUvMWhQZD-IqsAYEofNm-qSh8hc5MFL6g6BRkvtyDbfbIfBmpK-oo_OKA68h82Wkf3yDzpZZ2aiLzFfKZFkH4AJ9hRDA"
+      "news_token": "5G9xU3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRkWN59sXpeYtCg2G8tWftSPzFW58EUKR171UjMIXfHIUhW8wpQhF_5foiyjyXJtNUfj6t9lR-Comq1H4xukVKHypjF8QPgB1Cks8"
     },
     {
-      "query": "new secret lair deck",
+      "query": "farm aid 2026",
+      "search_volume": 10000,
+      "increase": 600,
+      "categories": [
+        "other"
+      ],
+      "news_token": "bI2cSXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoX8WotFqXmLQoOhfP1DTCj8Iy6_kPmKUhfdUeSvXVuEzJdt5jgF4QMAESkpPg"
+    },
+    {
+      "query": "trump mamdani",
       "search_volume": 5000,
       "increase": 500,
       "categories": [
-        "games"
+        "entertainment"
       ],
-      "news_token": "AfQI3Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWFG5oWpeYtCg2G8KVtjpRA-ADNMBKI"
+      "news_token": "FgHwhHica1xTlFpYmlpcEp-SWJJ4h0Fp8nkGBgZGRbUNlotS8xaFBkP4CgkFN1H4R56EIPMVjdrWoMj_nH8Cha_69zwK31LuNTJf7vMZQRT--jNcKOqdndRQ5N_u7Ebmyx-IvYLiHsUfi1D4Qgk2KOa9FVuIIs93uBeFrxzbgsLn-oTiPoUHp_lR-Lm9d5D5slZ1H5D5MueS9VDUr_ZmRnVvSQSK_LWEAyj862WbUMzrfJCN4v-_KxtR1EfPvITgGzByiakeQ3HfvkniKOaJvfFAkV9WrYMif-9ZMYQPAGrRzKU"
+    },
+    {
+      "query": "caitriona balfe",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "-sLJ1Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkXDMwsXpeYtCg2G8R0YkPkyE9b0ovB3CKZC-ACmBRzM"
+    },
+    {
+      "query": "tv app",
+      "search_volume": 1000,
+      "increase": 300,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "C14junica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkVdzRmLUvMWhQZD-ZLhZsh8GeZFE5H58gsvX0Xhn1bWhfABejEiOQ"
     },
     {
       "query": "bill gates",
-      "search_volume": 100,
-      "increase": 400,
+      "search_volume": 1000,
+      "increase": 300,
       "categories": [
         "science",
         "technology"
       ],
-      "news_token": "NUBp33ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWfUjyLUvMWhQZD-LLXnDpR-H_l25D5Us-K36DI64lcQubLLN-zD0V-345ACB8ADxIwIg"
+      "news_token": "j3mR3nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWfUjyLUvMWhQZD-Iq61_ch82WvOXWi8P_KtyHzpZ4Vv0Hmyyzfg6p_345ACB8AJ80w1A"
     },
     {
-      "query": "trump approval",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "8FutBnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG-ZeL-hal5i0KDYbyt639jcxX2O53C4XvcQRFXlH-8G4UeaUZnMh8mdPZ65H5clvu3EdR_-DhYxT-mphyFP5pk0Mo9smUzEDhK0x3RVH_9dd3FP6uAnEUfiL3BhR-g3A_hA8ABiVs-A"
-    },
-    {
-      "query": "chatgpt down",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "other"
-      ],
-      "news_token": "k_IZyHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoUdHPsWpeYtCg2G8GUuTktF4S-PzYfwAR40GD4"
-    },
-    {
-      "query": "bangkok thailand",
-      "search_volume": 500,
-      "increase": 300,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "RmMtVnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvmdr9cvSs1bFBoM4SsqyFoi82VcOAqQ-dLfnW9D-AC7sR1d"
-    },
-    {
-      "query": "apple tv",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "zHIFvnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkVZ5ahFqXmLQoOhfN5H1Sh8hT-5yHyFV-d4kfny1353ocgf3_YfhX9D0gqF__bWPQgfABPVNtM"
-    },
-    {
-      "query": "appletv",
-      "search_volume": 200,
+      "query": "apple iphone 18 pro review",
+      "search_volume": 1000,
       "increase": 200,
       "categories": [
         "technology"
       ],
-      "news_token": "8lOz3Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoXj2_4vSs1bFBoM4SsysJgj8xXe3rqHIs_7qBpF3ryXDUWeLycPRT5w1VMUedYvxRA-ADBMNKA"
+      "news_token": "M2aCOnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkXWJzmLUvMWhQZD-AoHYwtR-OflNFD4NV8SIHwAt-gdlg"
     },
     {
-      "query": "météo demain",
-      "search_volume": 500,
+      "query": "ps plus games",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "wT3a53ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkXWgMBFqXmLQoOhfNm-qch8hU_dfCjyunuFUPiColNQ-Aqdmch8uQfb7JH5Mpnensh82Wkf30D4AJIgOJU"
+    },
+    {
+      "query": "kailua shooting",
+      "search_volume": 200,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "RFj7-3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkXNUqVFqXmLQoMBysgLxA"
+    },
+    {
+      "query": "power outage near me",
+      "search_volume": 200,
       "increase": 100,
       "categories": [
         "climate"
       ],
-      "news_token": "r-wC4Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoUCf65FaUWLQoMhfNGZWoIQPgCwhRDi"
+      "news_token": "-mb1d3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkXG6rRFqXmLQoOhfOVUHmS-Qv5PFWS-_K9j51DU87s-gPABiFEi1Q"
     },
     {
-      "query": "sean sakaida",
+      "query": "civilian detained macdill air force base",
       "search_volume": 100,
       "increase": 100,
       "categories": [
-        "other"
+        "law_and_government"
       ],
-      "news_token": "dnL7OHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoU_W4sWpeYtCg0GANZZDSY"
+      "news_token": "sS9f4Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUlt9xFqXmLQoMByx4L2Q"
+    },
+    {
+      "query": "twitch",
+      "search_volume": 5000,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "hsz39Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkXOo-mLUvMWhQZD-Aof61VR-Lc1eiB8AA9dF-M"
     }
   ]
 }
