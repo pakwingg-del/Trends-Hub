@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 8,
+      "keywords_count": 7,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-28 00:30:54"
+      "last_updated_hkt": "2026-09-28 03:30:58"
     }
   },
   "trending_seeds": [
@@ -23,7 +23,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "LuLAGHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoU7D7cvSs1bFBoM4cscjbiFzFdQ-XsHwgcAS94Z7Q"
+      "news_token": "5bLG73ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoU7D7cvSs1bFBoM4SuKerAh82WLbRshfAAg0BeP"
     },
     {
       "query": "stock market today",
@@ -32,7 +32,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "9vpSy3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoUHS3IXpeYtCg2G8p_tNEHhf42TR-Ef8NJB4aeu5Ebh9zx8g8I_w7QKhf-2PwbCBwBlnzYG"
+      "news_token": "etKTGHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkUzo52LUvMWhQZD-Ar72Y6g8OWq_6Dwv8bJo_APeOkg8xX1CzNQ5HsevkHhn2FaBeEDAOOlNJo"
     },
     {
       "query": "target pokemon 30th anniversary",
@@ -42,7 +42,7 @@
         "entertainment",
         "games"
       ],
-      "news_token": "4pG8U3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVHE8wWpeYtCg0GANKjDKs"
+      "news_token": "qV5Bbnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoVHE8wWpeYtCg2G8OV2eZZB-ADKdxJl"
     },
     {
       "query": "jim banks",
@@ -52,6 +52,16 @@
         "law_and_government"
       ],
       "news_token": "-Pjdu3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkWhpdMWpeYtCg2G8GW28pRC-AC-qRHG"
+    },
+    {
+      "query": "spacex starship launch",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "VWzCJXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVbc3gXpeYtCg0GANGcDIY"
     },
     {
       "query": "snack",
@@ -71,26 +81,6 @@
         "business_and_finance"
       ],
       "news_token": "tR2_O3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkWN7geLUvMWhQYDANChDJc"
-    },
-    {
-      "query": "spacex starship launch",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "VWzCJXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVbc3gXpeYtCg0GANGcDIY"
-    },
-    {
-      "query": "publix",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "lu6FwXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkX9P7cXpeYtCg2G8BV2m2ij8Fc8F0DmK_K1LEWRfx31F0WeM7YNRf50RBwK_3HaBRT1PEyXIHwAvfU6vQ"
     }
   ]
 }
