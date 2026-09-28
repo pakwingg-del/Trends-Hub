@@ -10,29 +10,21 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 7,
+      "keywords_count": 5,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-28 03:30:58"
+      "last_updated_hkt": "2026-09-28 06:30:55"
     }
   },
   "trending_seeds": [
     {
-      "query": "mortgage rates today",
+      "query": "gofundme deactivates david johnson fundraiser",
       "search_volume": 50000,
       "increase": 1000,
       "categories": [
+        "health",
         "business_and_finance"
       ],
-      "news_token": "5bLG73ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoU7D7cvSs1bFBoM4SuKerAh82WLbRshfAAg0BeP"
-    },
-    {
-      "query": "stock market today",
-      "search_volume": 50000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "etKTGHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkUzo52LUvMWhQZD-Ar72Y6g8OWq_6Dwv8bJo_APeOkg8xX1CzNQ5HsevkHhn2FaBeEDAOOlNJo"
+      "news_token": "arpzx3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkWL01MWpeYtCg2G8BVWdvBC-ADGhRIc"
     },
     {
       "query": "target pokemon 30th anniversary",
@@ -42,7 +34,7 @@
         "entertainment",
         "games"
       ],
-      "news_token": "qV5Bbnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoVHE8wWpeYtCg2G8OV2eZZB-ADKdxJl"
+      "news_token": "4pG8U3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVHE8wWpeYtCg0GANKjDKs"
     },
     {
       "query": "jim banks",
@@ -55,13 +47,13 @@
     },
     {
       "query": "spacex starship launch",
-      "search_volume": 2000,
+      "search_volume": 5000,
       "increase": 200,
       "categories": [
         "business_and_finance",
         "science"
       ],
-      "news_token": "VWzCJXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVbc3gXpeYtCg0GANGcDIY"
+      "news_token": "CNt-aHica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGhVtzeBel5i0KDYbytyxehsJ_IDQZhW__tgaFX6s3C5mvaPkyEoXP9vUMivpf8stR5I1dHqHI_0wSQpFXemaHwjer_YPMl7e_fQiZL3PLfRUyX_oUvzEyX06DA8oHAAY0Yvo"
     },
     {
       "query": "snack",
@@ -72,15 +64,6 @@
         "business_and_finance"
       ],
       "news_token": "K8ixfHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkWm61sXpeYtCg2G8vUL7VD4unq-yHyFZw-lUOR1dlih8KVt7qGo364chyKv-skHRX5O8gwIHwDgWTib"
-    },
-    {
-      "query": "citibank",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "tR2_O3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkWN7geLUvMWhQYDANChDJc"
     }
   ]
 }
