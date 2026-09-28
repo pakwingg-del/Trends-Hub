@@ -10,139 +10,150 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 14,
+      "keywords_count": 15,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-27 21:30:55"
+      "last_updated_hkt": "2026-09-28 21:30:54"
     }
   },
   "trending_seeds": [
     {
-      "query": "google's birthday",
-      "search_volume": 200000,
+      "query": "gofundme deactivates david johnson fundraiser",
+      "search_volume": 100000,
       "increase": 1000,
       "categories": [
         "other"
       ],
-      "news_token": "XmFPb3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkWV__8WpeYtCg0GANTvDSU"
+      "news_token": "QjQyT3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWVHbyLUvMWhQYDAM9DDEE"
     },
     {
-      "query": "28º aniversario de google",
-      "search_volume": 50000,
+      "query": "taylor sheridan landman filming update",
+      "search_volume": 10000,
       "increase": 1000,
       "categories": [
-        "technology"
+        "entertainment"
       ],
-      "news_token": "dABASnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUuhheLUosXhQYDAMuHC_s"
+      "news_token": "i76Dh3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkXrJMNFqXmLQoMhfIVL-7dA-AC7zRJa"
     },
     {
-      "query": "raf fairford",
-      "search_volume": 10000,
-      "increase": 700,
+      "query": "kurt cobain death",
+      "search_volume": 5000,
+      "increase": 1000,
       "categories": [
-        "law_and_government"
+        "entertainment"
       ],
-      "news_token": "5G9xU3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRkWN59sXpeYtCg2G8tWftSPzFW58EUKR171UjMIXfHIUhW8wpQhF_5foiyjyXJtNUfj6t9lR-Comq1H4xukVKHypjF8QPgB1Cks8"
+      "news_token": "XBzHDnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkXjus-LUvMWhQZD-Ar_RC2Q-YoGRx0hfAAWPxew"
     },
     {
-      "query": "farm aid 2026",
-      "search_volume": 10000,
-      "increase": 600,
-      "categories": [
-        "other"
-      ],
-      "news_token": "bI2cSXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoX8WotFqXmLQoOhfP1DTCj8Iy6_kPmKUhfdUeSvXVuEzJdt5jgF4QMAESkpPg"
-    },
-    {
-      "query": "trump mamdani",
+      "query": "trump approval",
       "search_volume": 5000,
       "increase": 500,
       "categories": [
-        "entertainment"
+        "politics"
       ],
-      "news_token": "FgHwhHica1xTlFpYmlpcEp-SWJJ4h0Fp8nkGBgZGRbUNlotS8xaFBkP4CgkFN1H4R56EIPMVjdrWoMj_nH8Cha_69zwK31LuNTJf7vMZQRT--jNcKOqdndRQ5N_u7Ebmyx-IvYLiHsUfi1D4Qgk2KOa9FVuIIs93uBeFrxzbgsLn-oTiPoUHp_lR-Lm9d5D5slZ1H5D5MueS9VDUr_ZmRnVvSQSK_LWEAyj862WbUMzrfJCN4v-_KxtR1EfPvITgGzByiakeQ3HfvkniKOaJvfFAkV9WrYMif-9ZMYQPAGrRzKU"
+      "news_token": "KG04BXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvmXi_oWpeYtCg2G8BWUZnAi8-WnBH9Hkd_udwuZr-jI6YnMlzmdvR5F_YOHj1HUe1ytRZFP5N4A4QMA0Rg7gg"
     },
     {
-      "query": "caitriona balfe",
+      "query": "playstation 5",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "technology",
+        "games"
+      ],
+      "news_token": "y5Cm9Xica1xTlFpYmlpcEp-SWJI4f_J5BgYGRoWO368WpeYtCg2G8BWtd3Ig8xUOx25C4c_7cACFP2NuMAq_rvwvink-M6xQ5NMnbkaRtzshjcJ3KtRD4UuYoKhXuHY2HUXeVXw-Ml_-K-tpFHkLmVUQPgD4h11I"
+    },
+    {
+      "query": "ps5 emulation",
       "search_volume": 2000,
       "increase": 300,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "-sLJ1Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkXDMwsXpeYtCg2G8R0YkPkyE9b0ovB3CKZC-ACmBRzM"
-    },
-    {
-      "query": "tv app",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "C14junica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkVdzRmLUvMWhQZD-ZLhZsh8GeZFE5H58gsvX0Xhn1bWhfABejEiOQ"
-    },
-    {
-      "query": "bill gates",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "science",
-        "technology"
-      ],
-      "news_token": "j3mR3nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWfUjyLUvMWhQZD-Iq61_ch82WvOXWi8P_KtyHzpZ4Vv0Hmyyzfg6p_345ACB8AJ80w1A"
-    },
-    {
-      "query": "apple iphone 18 pro review",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "M2aCOnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkXWJzmLUvMWhQZD-AoHYwtR-OflNFD4NV8SIHwAt-gdlg"
-    },
-    {
-      "query": "ps plus games",
-      "search_volume": 1000,
-      "increase": 200,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "wT3a53ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkXWgMBFqXmLQoOhfNm-qch8hU_dfCjyunuFUPiColNQ-Aqdmch8uQfb7JH5Mpnensh82Wkf30D4AJIgOJU"
+      "news_token": "BvRptXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoW68r-LUvMWhQZD-IoSJpuR-QpnvjagyNudkEaRfxW3FMIHAOwzJFE"
     },
     {
-      "query": "kailua shooting",
-      "search_volume": 200,
+      "query": "aircraft",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "8KOneXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRkWFy22LUvMWhQZD-aYLd6DwLRZmI_MVTjPJo8gb98ih8L2fLkbh228oRdH_b5sJiryJ200UvvO9ShT1l87vQTV_y2kU-RebUNyn6LmbDcIHAAV3V8o"
+    },
+    {
+      "query": "russia ukraine",
+      "search_volume": 500,
+      "increase": 300,
+      "categories": [
+        "other"
+      ],
+      "news_token": "J7Le93ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkWfGVWLUvMWhQZD-AqKXVuQ-XJWfBXIfEU7tXko6v8fKUPhP7r3CYXfFHQBRb_WbH4U-fNyvhA-AGIwOjg"
+    },
+    {
+      "query": "nvidia",
+      "search_volume": 50000,
       "increase": 200,
       "categories": [
-        "law_and_government"
+        "business_and_finance",
+        "technology"
       ],
-      "news_token": "RFj7-3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkXNUqVFqXmLQoMBysgLxA"
+      "news_token": "wXCr7nica1xTlFpYmlpcEp-SWJJ4h0Fm8nkGBgZGRYcnOxel5i0KDYbw5b_MQOErvO2PQeYrcr9oRpE_a1CGIq-6SheZL7PlyiFkvhzLERkU9Xas91H4VuXeKHyfblcUvrfHARS-49tKVPVakiju-3OzF4X__-o0FH4gqxuKfsV0VRS-fmEGCt8pfg-K_tMmn1Dk-XnlUOTvXbiOEr7fJ0SiyPuZWKLwxeTCUMLromQaiv6Dp6ogfAAOFqXW"
     },
     {
-      "query": "power outage near me",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "-mb1d3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkXG6rRFqXmLQoOhfOVUHmS-Qv5PFWS-_K9j51DU87s-gPABiFEi1Q"
-    },
-    {
-      "query": "civilian detained macdill air force base",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "sS9f4Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUlt9xFqXmLQoMByx4L2Q"
-    },
-    {
-      "query": "twitch",
-      "search_volume": 5000,
-      "increase": 75,
+      "query": "apple iphone 18 pro",
+      "search_volume": 2000,
+      "increase": 200,
       "categories": [
         "technology"
       ],
-      "news_token": "hsz39Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkXOo-mLUvMWhQZD-Aof61VR-Lc1eiB8AA9dF-M"
+      "news_token": "taFim3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkXWJzmLUvMWhQZD-Artf6-i8Gu-JCDzFW1aOVDkD8YWIvPlyuq6kPnymUZqKOrlQ_ZB-AAyZDQd"
+    },
+    {
+      "query": "sciencedaily",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "health"
+      ],
+      "news_token": "iC8inXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoU7m-4uSs1bFBoM4StqePch8-U3sx9GkXfYOAmFr6M4B5mvsGJ6F4r-t5wSKPKJG5ghfAAvNTQZ"
+    },
+    {
+      "query": "ios 27.0 1",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "F1cUXHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoWaLwmLUvMWhQZD-cdbQ1D4U-yqIXwAJk4YRg"
+    },
+    {
+      "query": "jessica chastain",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "kpsThHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWP8xwXpeYtCg2G8OUX3BWD8AHPWxKo"
+    },
+    {
+      "query": "muse ai",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "kkw9N3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRvlJ308vSs1bFBoM4Sua88Sg8G0s2ZH5clsTjFD4J-wskfkKb0yWQ_gA-vAoCw"
+    },
+    {
+      "query": "mail",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "politics",
+        "law_and_government"
+      ],
+      "news_token": "Qb0binica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoX9X7gXpeYtCg2G8BX5NH4j8xXa9VVR-MciHqCod9i0HYUvr8-Kwnf9-Q9F_-eozxA-APEFNRw"
     }
   ]
 }
