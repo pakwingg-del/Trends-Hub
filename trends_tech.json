@@ -10,150 +10,122 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 15,
+      "keywords_count": 12,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-28 21:30:54"
+      "last_updated_hkt": "2026-09-29 21:31:02"
     }
   },
   "trending_seeds": [
     {
-      "query": "gofundme deactivates david johnson fundraiser",
-      "search_volume": 100000,
+      "query": "james hetfield new hairstyle vegas",
+      "search_volume": 5000,
       "increase": 1000,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "v_hR03ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkXnvNZFqXmLQoMBzi8MOg"
+    },
+    {
+      "query": "deadlock update",
+      "search_volume": 2000,
+      "increase": 1000,
+      "categories": [
+        "games"
+      ],
+      "news_token": "twbNOXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkXNwNRFqXmLQoMhfLkQMTMIHwCv4xDE"
+    },
+    {
+      "query": "spain",
+      "search_volume": 20000,
+      "increase": 700,
       "categories": [
         "other"
       ],
-      "news_token": "QjQyT3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWVHbyLUvMWhQYDAM9DDEE"
+      "news_token": "ObzolHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoWDfPsWpeYtCg2G8rXe-yPzFUM9b6DwwyvYUdT__FuAwm-6E4TCnyU1G0W_k9wHFPlPcij2S7WdVEbmy1zdxoSiHuzeYiAfADqnTDI"
     },
     {
-      "query": "taylor sheridan landman filming update",
+      "query": "openai dots",
       "search_volume": 10000,
-      "increase": 1000,
+      "increase": 600,
       "categories": [
-        "entertainment"
+        "other"
       ],
-      "news_token": "i76Dh3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkXrJMNFqXmLQoMhfIVL-7dA-AC7zRJa"
+      "news_token": "noBW2Xica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoU5UycvSs1bFBoM4SsqbP2Dwk_NqULhW5V7I_MV9FuNUOTV735BkX-YKowir31tDYp8yTp-FPmEM3shfABXTkA-"
     },
     {
-      "query": "kurt cobain death",
-      "search_volume": 5000,
-      "increase": 1000,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "XBzHDnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkXjus-LUvMWhQZD-Ar_RC2Q-YoGRx0hfAAWPxew"
-    },
-    {
-      "query": "trump approval",
-      "search_volume": 5000,
-      "increase": 500,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "KG04BXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvmXi_oWpeYtCg2G8BWUZnAi8-WnBH9Hkd_udwuZr-jI6YnMlzmdvR5F_YOHj1HUe1ytRZFP5N4A4QMA0Rg7gg"
-    },
-    {
-      "query": "playstation 5",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "technology",
-        "games"
-      ],
-      "news_token": "y5Cm9Xica1xTlFpYmlpcEp-SWJI4f_J5BgYGRoWO368WpeYtCg2G8BWtd3Ig8xUOx25C4c_7cACFP2NuMAq_rvwvink-M6xQ5NMnbkaRtzshjcJ3KtRD4UuYoKhXuHY2HUXeVXw-Ml_-K-tpFHkLmVUQPgD4h11I"
-    },
-    {
-      "query": "ps5 emulation",
+      "query": "nathalie belizaire",
       "search_volume": 2000,
-      "increase": 300,
+      "increase": 600,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "izpJgHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVAh5OL0ooWhQYDAM8uDGM"
+    },
+    {
+      "query": "minecraft dungeons 2 error code 0064",
+      "search_volume": 200,
+      "increase": 600,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "BvRptXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoW68r-LUvMWhQZD-IoSJpuR-QpnvjagyNudkEaRfxW3FMIHAOwzJFE"
+      "news_token": "_E1juXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXoYKFFqXmLQoMBywoLxA"
     },
     {
-      "query": "aircraft",
+      "query": "bose earbuds",
+      "search_volume": 5000,
+      "increase": 400,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "bOuhcnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkXuVT6LUvMWhQZD-d45H1D4GXx3kfkKytENyHzZKD4DFL7kmiUo6qUX_ETmywT__4gif-_FdggfAPsKOoI"
+    },
+    {
+      "query": "strait of hormuz oil flow",
       "search_volume": 2000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "8KOneXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRkWFy22LUvMWhQZD-aYLd6DwLRZmI_MVTjPJo8gb98ih8L2fLkbh228oRdH_b5sJiryJ200UvvO9ShT1l87vQTV_y2kU-RebUNyn6LmbDcIHAAV3V8o"
+      "news_token": "YmImlXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoUDnuWLUvMWhQZD-Ip-ekkofDOuSch82Z6KPyj81A9fkfkKZ5ljIHwABfEo9A"
     },
     {
-      "query": "russia ukraine",
-      "search_volume": 500,
+      "query": "aircraft recovery mishap uss eisenhower",
+      "search_volume": 1000,
       "increase": 300,
       "categories": [
-        "other"
+        "law_and_government"
       ],
-      "news_token": "J7Le93ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkWfGVWLUvMWhQZD-AqKXVuQ-XJWfBXIfEU7tXko6v8fKUPhP7r3CYXfFHQBRb_WbH4U-fNyvhA-AGIwOjg"
+      "news_token": "PqVKnHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUgyc-LUvMWhQYDAM8QDGI"
     },
     {
-      "query": "nvidia",
-      "search_volume": 50000,
-      "increase": 200,
+      "query": "claude unable to authenticate",
+      "search_volume": 200,
+      "increase": 300,
       "categories": [
-        "business_and_finance",
+        "science",
         "technology"
       ],
-      "news_token": "wXCr7nica1xTlFpYmlpcEp-SWJJ4h0Fm8nkGBgZGRYcnOxel5i0KDYbw5b_MQOErvO2PQeYrcr9oRpE_a1CGIq-6SheZL7PlyiFkvhzLERkU9Xas91H4VuXeKHyfblcUvrfHARS-49tKVPVakiju-3OzF4X__-o0FH4gqxuKfsV0VRS-fmEGCt8pfg-K_tMmn1Dk-XnlUOTvXbiOEr7fJ0SiyPuZWKLwxeTCUMLromQaiv6Dp6ogfAAOFqXW"
+      "news_token": "hvaVA3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWEM0WLUvMWhQYDANGfDKI"
     },
     {
-      "query": "apple iphone 18 pro",
+      "query": "federal bureau of investigation",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
+        "law_and_government",
         "technology"
       ],
-      "news_token": "taFim3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkXWJzmLUvMWhQZD-Artf6-i8Gu-JCDzFW1aOVDkD8YWIvPlyuq6kPnymUZqKOrlQ_ZB-AAyZDQd"
-    },
-    {
-      "query": "sciencedaily",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "health"
-      ],
-      "news_token": "iC8inXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoU7m-4uSs1bFBoM4StqePch8-U3sx9GkXfYOAmFr6M4B5mvsGJ6F4r-t5wSKPKJG5ghfAAvNTQZ"
-    },
-    {
-      "query": "ios 27.0 1",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "F1cUXHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoWaLwmLUvMWhQZD-cdbQ1D4U-yqIXwAJk4YRg"
-    },
-    {
-      "query": "jessica chastain",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "kpsThHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWP8xwXpeYtCg2G8OUX3BWD8AHPWxKo"
+      "news_token": "Mr9oCXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWdzSyLUvMWhQZD-IquR9IgfADAKRH2"
     },
     {
       "query": "muse ai",
-      "search_volume": 200,
+      "search_volume": 1000,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "kkw9N3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRvlJ308vSs1bFBoM4Sua88Sg8G0s2ZH5clsTjFD4J-wskfkKb0yWQ_gA-vAoCw"
-    },
-    {
-      "query": "mail",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "politics",
-        "law_and_government"
-      ],
-      "news_token": "Qb0binica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoX9X7gXpeYtCg2G8BX5NH4j8xXa9VVR-MciHqCod9i0HYUvr8-Kwnf9-Q9F_-eozxA-APEFNRw"
+      "news_token": "z4y1zHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkVnwRuLUvMWhQZD-eY8Mch8-dsxJ1D4k76fRuYrvDpnjMI_4hqNYl7i1C4U-Z2aEhA-AAxdNMA"
     }
   ]
 }
