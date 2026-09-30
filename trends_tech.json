@@ -10,122 +10,94 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 12,
+      "keywords_count": 9,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-29 21:31:02"
+      "last_updated_hkt": "2026-09-30 21:30:56"
     }
   },
   "trending_seeds": [
     {
-      "query": "james hetfield new hairstyle vegas",
-      "search_volume": 5000,
+      "query": "strait of hormuz news",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "1qDAqnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsWmLrZFqXmLQoMhfAWN96bIfMWm-X9Q-C2f36Cob9dXRZEPt_iMIh-0AIWvaHPTDZkvwzGNG5kvO_ViMAo_9cNXCB8AsMxGww"
+    },
+    {
+      "query": "flydubai",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "other"
+      ],
+      "news_token": "MzPkDHica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGxYLD8xfl5SwKDUbip-Yh-BV3-FH59XdR-DwOqSj8Go4fKHy3Hy9R-KxH-VD4WnI7Ufj1M3hQ-NrKXMh8mYQZM1D4a2MWIfNlp1ZbI_MVJqYrophndt4Ahe95zROF77d6GYr-D_ulUOXX6KHIa56VQebLz5OzQubLXXBdgcJ3ydmGov6thAOKvADHBggfAPKSmGQ"
+    },
+    {
+      "query": "hailee steinfeld",
+      "search_volume": 2000,
       "increase": 1000,
       "categories": [
         "entertainment"
       ],
-      "news_token": "v_hR03ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkXnvNZFqXmLQoMBzi8MOg"
+      "news_token": "8LVhwXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkWV5O-LUvMWhQZD-AoWmoLIfMXCnk0o_Jpr1ij8_LgEFL4EzyoIHwDoOyd-"
     },
     {
-      "query": "deadlock update",
-      "search_volume": 2000,
-      "increase": 1000,
-      "categories": [
-        "games"
-      ],
-      "news_token": "twbNOXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkXNwNRFqXmLQoMhfLkQMTMIHwCv4xDE"
-    },
-    {
-      "query": "spain",
-      "search_volume": 20000,
-      "increase": 700,
-      "categories": [
-        "other"
-      ],
-      "news_token": "ObzolHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoWDfPsWpeYtCg2G8rXe-yPzFUM9b6DwwyvYUdT__FuAwm-6E4TCnyU1G0W_k9wHFPlPcij2S7WdVEbmy1zdxoSiHuzeYiAfADqnTDI"
-    },
-    {
-      "query": "openai dots",
-      "search_volume": 10000,
+      "query": "passenger duct taped airline seat",
+      "search_volume": 5000,
       "increase": 600,
       "categories": [
         "other"
       ],
-      "news_token": "noBW2Xica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoU5UycvSs1bFBoM4SsqbP2Dwk_NqULhW5V7I_MV9FuNUOTV735BkX-YKowir31tDYp8yTp-FPmEM3shfABXTkA-"
+      "news_token": "tNDuSXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkWzJIVFqXmLQoMhfLnnfJUQPgCzTRFr"
     },
     {
-      "query": "nathalie belizaire",
-      "search_volume": 2000,
-      "increase": 600,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "izpJgHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVAh5OL0ooWhQYDAM8uDGM"
-    },
-    {
-      "query": "minecraft dungeons 2 error code 0064",
-      "search_volume": 200,
-      "increase": 600,
+      "query": "playstation plus free games october 2026",
+      "search_volume": 5000,
+      "increase": 400,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "_E1juXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXoYKFFqXmLQoMBywoLxA"
+      "news_token": "xegzMHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsX6f6GLUvMWhQZD-ArPeKSQ-YrN_11Q-InTIpH5cg-22SPzZTK9PZH5stM-vkGRLw64jmJfPtMiFPnuuK8QPgCUMUEU"
     },
     {
-      "query": "bose earbuds",
-      "search_volume": 5000,
+      "query": "secret lair",
+      "search_volume": 2000,
       "increase": 400,
       "categories": [
-        "technology"
+        "games"
       ],
-      "news_token": "bOuhcnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkXuVT6LUvMWhQZD-d45H1D4GXx3kfkKytENyHzZKD4DFL7kmiUo6qUX_ETmywT__4gif-_FdggfAPsKOoI"
+      "news_token": "7W_0cXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWUSLtFqXmLQoMBzL8L_w"
     },
     {
-      "query": "strait of hormuz oil flow",
+      "query": "alaska airlines atlantic pacific partnership",
       "search_volume": 2000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "YmImlXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoUDnuWLUvMWhQZD-Ip-ekkofDOuSch82Z6KPyj81A9fkfkKZ5ljIHwABfEo9A"
+      "news_token": "IdCcFHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVkYbdFqXmLQoMByr4LwA"
     },
     {
-      "query": "aircraft recovery mishap uss eisenhower",
+      "query": "hailey glassman",
       "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "PqVKnHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUgyc-LUvMWhQYDAM8QDGI"
-    },
-    {
-      "query": "claude unable to authenticate",
-      "search_volume": 200,
-      "increase": 300,
-      "categories": [
-        "science",
-        "technology"
-      ],
-      "news_token": "hvaVA3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWEM0WLUvMWhQYDANGfDKI"
-    },
-    {
-      "query": "federal bureau of investigation",
-      "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "law_and_government",
-        "technology"
+        "entertainment"
       ],
-      "news_token": "Mr9oCXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWdzSyLUvMWhQZD-IquR9IgfADAKRH2"
+      "news_token": "a8qpdHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUC_82LUvMWhQYDANAODHY"
     },
     {
-      "query": "muse ai",
+      "query": "ps5 pro",
       "search_volume": 1000,
-      "increase": 75,
+      "increase": 100,
       "categories": [
-        "business_and_finance"
+        "games",
+        "technology"
       ],
-      "news_token": "z4y1zHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkVnwRuLUvMWhQZD-eY8Mch8-dsxJ1D4k76fRuYrvDpnjMI_4hqNYl7i1C4U-Z2aEhA-AAxdNMA"
+      "news_token": "QAyOKXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkWGGQyLUvMWhQZD-ArpEzcj8xUb9z9C4cf8-IbCZ6j_j8yX2z83HYUfcCIHmS-zfPZEFPu-FhZC-ADLhTw1"
     }
   ]
 }
