@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 17,
+      "keywords_count": 14,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-30 00:30:55"
+      "last_updated_hkt": "2026-09-30 03:30:52"
     }
   },
   "trending_seeds": [
@@ -26,22 +26,32 @@
       "news_token": "CzKHoXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkVm87RFqXmLQoOh_IQzRSj89Pj3yHwZGe4KCB8AljccXQ"
     },
     {
-      "query": "james hetfield new hairstyle vegas",
-      "search_volume": 10000,
-      "increase": 1000,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "v_hR03ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkXnvNZFqXmLQoMBzi8MOg"
-    },
-    {
       "query": "30 year mortgage rate",
       "search_volume": 2000,
       "increase": 1000,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "m37pzHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoU7D7cvSs1bFBoM4StqLfdC5iv8DXGF8AE17Riv"
+      "news_token": "CTIBXXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoU7D7cvSs1bFBoM5f8NcUXmyxyNuIXMly22bURR_1bsLIQPACbYJQo"
+    },
+    {
+      "query": "james hetfield new hairstyle vegas",
+      "search_volume": 10000,
+      "increase": 800,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "v_hR03ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkXnvNZFqXmLQoMBzi8MOg"
+    },
+    {
+      "query": "navy fighter",
+      "search_volume": 5000,
+      "increase": 800,
+      "categories": [
+        "law_and_government",
+        "business_and_finance"
+      ],
+      "news_token": "awsMm3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRkXZyLRFqXmLQoOhfJ0ti1D4CpfbkPkKH-t7UeQl935GkX8mPR2ZL7M3pA-F37XiFwo_OjcJhb9PvBmFv5rNAMIHAKcZRfQ"
     },
     {
       "query": "national coffee day deals",
@@ -50,12 +60,12 @@
       "categories": [
         "food_and_drink"
       ],
-      "news_token": "nyOQp3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoWlKv6LUvMWhQZD-IrOJ6cg8xUm9S1HkU82Lkbhp7_djMqfewmFL_BTHoWvq9eGwudNb0fmy9XvvonMl7_nIoii3iUlH8IHAOt5Sq8"
+      "news_token": "8s-Wjnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRoWlKv6LUvMWhQZD-IrOJ6cg8xVKJtuh8Cf1LUdRn7OIHYWfKiiLwhf4KY_C19VrQ-Hzprcj8-XvuQgi8-Xqd99EUe-Sko_Cz9aqgfABt5tOCg"
     },
     {
       "query": "alaska airlines atlantic pacific partnership",
-      "search_volume": 1000,
-      "increase": 400,
+      "search_volume": 2000,
+      "increase": 300,
       "categories": [
         "business_and_finance"
       ],
@@ -71,16 +81,6 @@
       "news_token": "YmImlXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoUDnuWLUvMWhQZD-Ip-ekkofDOuSch82Z6KPyj81A9fkfkKZ5ljIHwABfEo9A"
     },
     {
-      "query": "boeing",
-      "search_volume": 500,
-      "increase": 300,
-      "categories": [
-        "law_and_government",
-        "business_and_finance"
-      ],
-      "news_token": "aUtLG3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRkXZyLRFqXmLQoOhfJ0ti1D43C-akfkKH-t7Ufj9z36gqHcpN0Dmc-Q9VkGRl9z7GYWvcLkNxbxn0tOR-TJ7Q_ogfACfO0ai"
-    },
-    {
       "query": "trump accounts child enrollment regulations",
       "search_volume": 2000,
       "increase": 200,
@@ -91,25 +91,6 @@
       "news_token": "a3h0q3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsW4JacXpeYtCg0GANK8DNE"
     },
     {
-      "query": "anthropic ipo prospectus",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "o6GP53ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkWdR28WpeYtCg0GANPRDP4"
-    },
-    {
-      "query": "federal bureau of investigation",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "law_and_government",
-        "technology"
-      ],
-      "news_token": "Mr9oCXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWdzSyLUvMWhQZD-IquR9IgfADAKRH2"
-    },
-    {
       "query": "social security benefit increase 2027",
       "search_volume": 1000,
       "increase": 200,
@@ -117,16 +98,6 @@
         "business_and_finance"
       ],
       "news_token": "KVOIoHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoWOqB2LUvMWhQZD-RuMjJH58vKBi5D5MoV8b1DUc739DuEDAK3FIyQ"
-    },
-    {
-      "query": "starlink",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "fCvAp3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoVbc3gXpeYtCg2G8BVtnWVQ-BGyhSh8_9wUZL5CuVwOinzosmso8o-2SSHz5a8_P4cif3SlPirfbxuK-sbjXBA-ANkDRZA"
     },
     {
       "query": "be stock",
@@ -142,27 +113,27 @@
       "search_volume": 500,
       "increase": 100,
       "categories": [
-        "business_and_finance"
+        "science"
       ],
-      "news_token": "mNqEp3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsV42QmLUvMWhQZD-bymB1H4CWf2ovCtyr2R-QrbWI-hyCeufobCD-1YCeEDAKmyLog"
+      "news_token": "41_0uXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkWrcu9FqXmLQoMhfIVtrMeQ-Yq8pgdR-Aln9qKof1-4GkU-cfUzFH687AQUfmjHSggfAPH4NNY"
     },
     {
       "query": "oracle stock",
       "search_volume": 200,
       "increase": 100,
       "categories": [
-        "science"
+        "business_and_finance"
       ],
-      "news_token": "el3wvHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkWrcu9FqXmLQoOh_IQze1H4vKYHUfgxKonIfIVAVjcU_jbWYyjq7aa1osgHe6pD-AByDzHf"
+      "news_token": "RtCqZ3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkVP9mWLUvMWhQZD-Vbl3ih8XtODyHyFbazHUPjBnuoo6hNXP0Phx6gkovATzuxF4dtNa4XwAazQOHA"
     },
     {
       "query": "delta",
-      "search_volume": 50000,
+      "search_volume": 100000,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "WZMRhXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsXQZdcWpeYtCg2G8g12J6HwM09nIvMVbFoyUOQ9D25A4bN9PYPCT5U6isKPPX0PhZ_crYvCd6szROHz-d-F8AG44kWj"
+      "news_token": "TQeUMnica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRsXQZdcWpeYtCg2G8g12J6HwM09nIvMVbFoyUOQ9D25A4bN9PYPCT5U6isJ3qzNE4ceevofMl21XRdEvs3j1UhR5RYn7ED4ASJZMCA"
     },
     {
       "query": "muse ai",
