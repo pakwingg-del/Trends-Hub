@@ -10,216 +10,209 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 22,
+      "keywords_count": 21,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-01 06:30:52"
+      "last_updated_hkt": "2026-10-01 21:30:53"
     }
   },
   "trending_seeds": [
     {
-      "query": "trump aca refund checks",
+      "query": "sud",
       "search_volume": 200000,
       "increase": 1000,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "vydmy3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWXSl8WpeYtCg0GANSkDQI"
+      "news_token": "FXpdlXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsXio28WpRUtCg2G8uW0mlH4gtXXUPgzND6g8DsT3qPw-34fQ-HbvatB5stue4BivvRShZkQPgD-sDyO"
     },
     {
-      "query": "tj maxx closing",
-      "search_volume": 100000,
-      "increase": 1000,
-      "categories": [
-        "shopping",
-        "business_and_finance"
-      ],
-      "news_token": "DaT4Xnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsWyf88XpeYtCg2G8pu03qHw020fo_Azr3mj8GNusKPwgxyEkfmyrkYPkfkKmyv0IHwAWPs0cg"
-    },
-    {
-      "query": "strait of hormuz news",
-      "search_volume": 50000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "-wTRW3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsWmLrZFqXmLQoMhfAWN96Yo_KcTrqDwd9p-QeYrajzfjiLfrq-KIh9u8RlFPmgBCl926sVgZL4MxzRuCB8Aj2BAVQ"
-    },
-    {
-      "query": "state department visa crackdown donald trump",
-      "search_volume": 50000,
-      "increase": 1000,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "fnCVgHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWNCx8tSs1bFBoM4St6ac-C8AHS9BKK"
-    },
-    {
-      "query": "fast food restaurant",
-      "search_volume": 2000,
+      "query": "coffee shops near me",
+      "search_volume": 500,
       "increase": 1000,
       "categories": [
         "food_and_drink",
         "business_and_finance"
       ],
-      "news_token": "PWuX-Hica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGhRkNhYtS8xaFBkP5H86yoPAXzTBC5ivKr2dHkb8Rr4Mi7_AcVb3xIXEUftWpIhR-9JxuFH7hChkUvve_ryj8xDVWKPxKqU8o_PLpa1H4cUeOofDjZ4iimp9zFZkv382TisKf-vMbivrI2jQU_-eFGkP4AEeef04"
-    },
-    {
-      "query": "bank",
-      "search_volume": 2000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "i8iFJnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGxWrux4tS8xaFBkP5dWfmofArP4Wi8lNqUPgK91tQ-Om69ij88BtHUPhB3Bwo_KoHtih84_zLKPzayeyo7nvWiSbfh8I3OrkRma-wmPs5qn2ONij8osnlED4AZ5doCQ"
+      "news_token": "yExy6nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWXbryLUvMWhQZD-UtV_CF8AL2lEZo"
     },
     {
       "query": "supermarket",
-      "search_volume": 2000,
+      "search_volume": 500,
       "increase": 1000,
       "categories": [
-        "food_and_drink"
+        "other"
       ],
-      "news_token": "GXZ4g3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoVNLrWLUvMWhQZD-Ipt81-i8JuXKKHweRefROF33VqGwk-f0oqqv-AtMl9BsWsLCn-H7U0IHwDrSDv7"
+      "news_token": "6c74mXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoUdgdcWpeYtCg2G8hddn4_MV1yUfBiFv-B6Jgp_bsFGFP2bXGpR5GfaaaLw06e0ovCzFXpQ-M0FbyF8AC0mQaw"
     },
     {
-      "query": "senate democrats block stock bill",
+      "query": "500 checks",
+      "search_volume": 100000,
+      "increase": 800,
+      "categories": [
+        "law_and_government",
+        "business_and_finance"
+      ],
+      "news_token": "vydmy3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWXSl8WpeYtCg0GANSkDQI"
+    },
+    {
+      "query": "nike stock",
       "search_volume": 20000,
-      "increase": 600,
+      "increase": 700,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "NcjSE3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGhZBy3kWpeYtCgyF8xcWKu1D5qzRR-KHPvFD4c_IdUfhWnHLIfNltmcwofKOnXch8BaYqGRT985IskPlya_Iskfkyb_w2ochbBDWi6J97_RgKv_e4H4p9ktHCED4AN8JfdA"
+    },
+    {
+      "query": "cross",
+      "search_volume": 20000,
+      "increase": 700,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "FNbK7Hica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGRX-7pEWpeYtCgyF8hX2LelD4Kv9sUPiXJusj8xUbPn9F4c_2f47Cd_50DIUfd7gehT9zpjUKP_6LLwp__mFDFP7CQ89Q-fxHUfgyL5pQ-AkaH1Dc_95fBEXe574MKn9BIIQPAAvicKM"
+    },
+    {
+      "query": "bezos earth fund",
+      "search_volume": 10000,
+      "increase": 500,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "o0cRb3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkWNT-KLUvMWhQZD-VW-O5D5Cqv2zUeR99x0F0We7Ysminymyg8UPot_PDJf5v_qJhS-wcxHED4AlUc62A"
+    },
+    {
+      "query": "petrol station",
+      "search_volume": 1000,
+      "increase": 400,
+      "categories": [
+        "autos_and_vehicles",
+        "business_and_finance"
+      ],
+      "news_token": "JLrEYXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoVHWw0XpeYtCg2G8BXTgmNR-E3XIlD4HZ_vI_MVFLu2oMj3pzmiyH_mu4rMl1UWd4fwAUsfNK0"
+    },
+    {
+      "query": "trucker strike",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "zWzfgnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgV7DetFqXmLQoMhfEXDXmUU_hwOBggfAOAJFbI"
+    },
+    {
+      "query": "rocket launch today",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "5lRronica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG-c22SYtS8xaFBkP4Cm--KaHw3y8uQOHfmsOLzFdkF4lHkb-7_yIK_8zksyjq_QPWovAX8d1AUX_CdxeKfMfxd8h8udkRKPplG0p0UPiSP_4i82Vc62ehyIvwHEMxX2fLIggfAC1PatY"
+    },
+    {
+      "query": "social security benefit increase projection",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "og0Khnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsU88Z2LUvMWhQZD-PLygYsgfAC7tRGW"
+    },
+    {
+      "query": "acn stock",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "7GpG5Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmvPx8vSs1bFBoMANtHDdM"
+    },
+    {
+      "query": "insider trading congress",
+      "search_volume": 2000,
+      "increase": 300,
       "categories": [
         "politics",
         "law_and_government"
       ],
-      "news_token": "iW-ITXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRkW3mcyLUvMWhQZD-QlnvZH5Mnf01iLz5TN5fFHUF_boo_AzmJlQ-B3PcpD5ClN37EGRb38wBYXPrX8FhV8Q-w3CBwC3SkS_"
+      "news_token": "-zYtfnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkW3mcyLUvMWhQYDAMwUC-Y"
     },
     {
-      "query": "gemini 4",
-      "search_volume": 20000,
-      "increase": 500,
-      "categories": [
-        "science",
-        "business_and_finance"
-      ],
-      "news_token": "Xgt0y3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRgXzW9sXpeYtCg2G8t9NLUfh31uxApmv2LrcB0X-zTclZL7M3zgU9bITnZNR-MlS9sh8yQnrOlD0v8-KQubLpwS-Q9EfucAGwgcATSVNfw"
-    },
-    {
-      "query": "minnesota federal judges misconduct complaint",
-      "search_volume": 10000,
-      "increase": 500,
-      "categories": [
-        "law_and_government",
-        "politics"
-      ],
-      "news_token": "mxUD_3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUNl-5FqXmLQoMBzBYL-w"
-    },
-    {
-      "query": "millennials",
-      "search_volume": 1000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "QIfzKnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkUjJs9FqXmLQoMhfIWLUftQ-NPWXkPhvzgog8J_FqmMzFfMiuNHkX_PIIEiX73rHwq_rVYcwgcAYUY58A"
-    },
-    {
-      "query": "ken griffin",
-      "search_volume": 20000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "bYxPonica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsUS7tJFqXmLQoMhfNnZc-8g8xWePwiA8AEUpxim"
-    },
-    {
-      "query": "mu stock",
-      "search_volume": 50000,
+      "query": "delivery",
+      "search_volume": 200,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "VeDeUnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRsWsxpRFqXmLQoOh_KaNVch8hUBWNxT-7FYfFP5m_9vIfFk5sY8o_BnFzSj8kOfzUfSHZu1AsT_shD2K_InJ55D5MvKBJijquV-gmv_1IhOEDwDRg1ar"
+      "news_token": "1oxcrHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRsXqJttFqXmLQoOh_Dl-s5D58iWs8Sjy1WciUPiCjTYo_P79N1H4U_vuIvMVNi4SQZFvPBCMwp-o-hCFz_3tJwp_0VcFFP78qPfIfNkNLx1Q7FvS5A7hAwDhRF5P"
     },
     {
-      "query": "bond",
-      "search_volume": 10000,
-      "increase": 300,
+      "query": "brooklyn",
+      "search_volume": 500,
+      "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "OQbeoHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG-dcM1YtS8xaFBkP4ih4Rk1H4Gs95kPkKr3_Xosg3fOlA4fdfCULhS5zcjsKP_boZxbxrD9eiyBdP00SRv-i4AEVeJGYRCr_D7TcKP-yEPQo_IfAUCj-b7yGK-YGsbij8T3vSIHwAxLNwNw"
+      "news_token": "s10N4Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsVZX-0XpeYtCg2G8BUOf9iHzFdMr3iNwl9wfQMKP1K3GoXfKKWEwp-8yANVvdR9CB8ArE81nA"
     },
     {
-      "query": "ynon kreiz",
-      "search_volume": 2000,
-      "increase": 300,
+      "query": "department of treasury",
+      "search_volume": 500,
+      "increase": 200,
       "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "C4dWaHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXWTy8XpeYtCg2G8qv8yiB8ANjHEuY"
-    },
-    {
-      "query": "bank fraud",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
+        "business_and_finance",
         "law_and_government"
       ],
-      "news_token": "2g5-OXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsX4VWWLUvMWhQZD-Zkzp6LwMwRyUfhVYgdQ-G01dih84Q-fUfjpFxNQ-J5Fm5H5Cl_aSiB8AFzMOpg"
+      "news_token": "EVICKXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsW4JacXpeYtCg2G8k2j0pH5Cu_99FH4fw99RVG_6Ml8FH5d2zxkvkxIWxkyX7b4wD4IHwB8jDbA"
     },
     {
-      "query": "pce",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "fr39kHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWwE_aLUvMWhQZD-V1z2FH4NezLkPkK6z9xocgXT9NE5stuLD4J4QMABMgo0A"
-    },
-    {
-      "query": "alex karp swedish forest purchase",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "K40kEHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkU71duLUvMWhQYDAM4UDEI"
-    },
-    {
-      "query": "northern lights",
+      "query": "moon",
       "search_volume": 500,
       "increase": 200,
       "categories": [
-        "science",
-        "business_and_finance"
+        "business_and_finance",
+        "science"
       ],
-      "news_token": "o95iEnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsXCnn2LUvMWhQZD-U5xM5H5Cg0aD1HkqyZfQ-ZLtZ1UhvAB2nkj3g"
+      "news_token": "yO80DXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoVbc3gXpeYtCg2G8hs0HiLzFXn2paHIS2-5hCI_YQMnCt9-2gYUfqbsehT91_TuovD_bTNAUR8ddBKFb76FD5kvV_7JBsIHAA0vS6E"
     },
     {
-      "query": "forex factory",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "ydIPC3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXiaZqLUvMWhQZD-ApK51kgfAC67RFu"
-    },
-    {
-      "query": "wssc",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "w6laAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsW4X5aLUvMWhQYDANFuDJU"
-    },
-    {
-      "query": "carhartt",
-      "search_volume": 500,
+      "query": "tj maxx",
+      "search_volume": 10000,
       "increase": 100,
       "categories": [
         "shopping",
         "business_and_finance"
       ],
-      "news_token": "YLgyMXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoWdE3kWpeYtCg2G8j9LeSPzFZVcvyHz5cs0AyB8AK8RHMY"
+      "news_token": "92zhfnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsWyf88XpeYtCg2G8qdHeKDwY26wo_DTbR-j8IMchFH4mde8kfmyrkYPIXwABVcucw"
+    },
+    {
+      "query": "target",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "gJxxY3ica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGxYkiixal5i0KDYbymxdXofC5XzQj8xVu54ShyDd-C0HhN7G2oPDDubag6H9lU44iP2WbLAq_49kGFH6vrCEKf64XqnzlAzEU87WMklDkZ6QrovCDS-tQ-JM_m6LwyzZ8RuGHvElEMf-zlDeKfG2mFgpfd30shA8AIfSEAg"
+    },
+    {
+      "query": "nasa perseverance rover jezero crater water",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "science",
+        "business_and_finance"
+      ],
+      "news_token": "D2Qy33ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWO4-8WpeYtCg2G8BXmp-pB-ADVgBK2"
+    },
+    {
+      "query": "microsoft",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "EYIKrHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRsXupOpFqXmLQoMhfIU9h_yQ-YpT-xYg8-VfM6CoV5xeo4DCT7E_jsJv1ctF4VdVrkQ1_-4kFP7MNmsUfoOiHYr72DJqUeS5XzSjyEeL9iLz5e4dNYTwAcPcW9k"
     }
   ]
 }
