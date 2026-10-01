@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 25,
+      "keywords_count": 27,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-09-30 21:30:55"
+      "last_updated_hkt": "2026-10-01 00:30:58"
     }
   },
   "trending_seeds": [
@@ -26,23 +26,32 @@
       "news_token": "Sad5F3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWXSl8WpeYtCg2G8OVzpDohfADOQRJT"
     },
     {
+      "query": "tj maxx closing",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "shopping",
+        "business_and_finance"
+      ],
+      "news_token": "mQfmj3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWyf88XpeYtCg2G8BU2V-hB-ADZkRL7"
+    },
+    {
       "query": "strait of hormuz news",
       "search_volume": 50000,
       "increase": 1000,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "1qDAqnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsWmLrZFqXmLQoMhfAWN96bIfMWm-X9Q-C2f36Cob9dXRZEPt_iMIh-0AIWvaHPTDZkvwzGNG5kvO_ViMAo_9cNXCB8AsMxGww"
+      "news_token": "p8yugXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRsWmLrZFqXmLQoMhfAWN96bIfMXUb3wo_OBDLijq2_VVUeRbPr9B4YdbfEbh29x0Q9EftABFXnbqxWBkvgzHNG4U-dQPXyF8ALJnS6w"
     },
     {
-      "query": "gemini 4",
-      "search_volume": 5000,
+      "query": "state department visa crackdown donald trump",
+      "search_volume": 20000,
       "increase": 1000,
       "categories": [
-        "science",
-        "business_and_finance"
+        "law_and_government"
       ],
-      "news_token": "4Yu2LHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRgXzW9sXpeYtCg2G8BUD4xOR-Qpvvimh8O-tWIGivnW5Dwrf0JMBmS8jy3sIhf8-KwrCBwA0-zRv"
+      "news_token": "fnCVgHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWNCx8tSs1bFBoM4St6ac-C8AHS9BKK"
     },
     {
       "query": "supermarket",
@@ -52,7 +61,7 @@
         "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "ombj3Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsW2-S8XpeYtCg2G8BU2udSi8HfY3kTmKybcvojCT5_SisJvLniLws9W6EExT7FrC4p80eRUCB8AKOE7vA"
+      "news_token": "qGyH9Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsW2-S8XpeYtCg2G8BU2udQi8xXTp7Si8JsL3qKo32F7E0U-W6EHRf7JNw0UvmLXFhT1TjP-QvgADIQ8Hg"
     },
     {
       "query": "fast food restaurant",
@@ -75,13 +84,23 @@
     },
     {
       "query": "senate democrats block stock bill",
-      "search_volume": 5000,
-      "increase": 800,
+      "search_volume": 10000,
+      "increase": 900,
       "categories": [
         "politics",
         "law_and_government"
       ],
-      "news_token": "-zYtfnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkW3mcyLUvMWhQYDAMwUC-Y"
+      "news_token": "VRwZf3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRkW3mcyLUvMWhQZD-AqnfRpQ-CU3tyDzFTuzGVHkp-7YgyJf2KOPws9gZkLmy2fy-KLIp2qko_C59a9A-ADMKT04"
+    },
+    {
+      "query": "gemini 4",
+      "search_volume": 10000,
+      "increase": 800,
+      "categories": [
+        "science",
+        "business_and_finance"
+      ],
+      "news_token": "fXC7BHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRgXzW9sXpeYtCg2G8u-tWIHMVwyMT0Tht5iiyrd5RKHov_hiDQr_zTclFPWty32Q-TJ_41DMk5HlPYTCf58FNR8AQ7FHrA"
     },
     {
       "query": "navy fighter",
@@ -91,7 +110,17 @@
         "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "ZmjHmHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkXZyLRFqXmLQoMhfIXfpzKQ-YoizJUofJ0ti1DUf6zvRZFXuNyGIv-51xFFXnLvZwgfAOKTNPg"
+      "news_token": "x1Cq7nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkXZyLRFqXmLQoMBy1gL4A"
+    },
+    {
+      "query": "minnesota federal judges misconduct complaint",
+      "search_volume": 10000,
+      "increase": 600,
+      "categories": [
+        "law_and_government",
+        "politics"
+      ],
+      "news_token": "mxUD_3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUNl-5FqXmLQoMBzBYL-w"
     },
     {
       "query": "passenger duct taped airline seat",
@@ -103,27 +132,8 @@
       "news_token": "tNDuSXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkWzJIVFqXmLQoMhfLnnfJUQPgCzTRFr"
     },
     {
-      "query": "tj maxx closing",
-      "search_volume": 1000,
-      "increase": 600,
-      "categories": [
-        "shopping",
-        "business_and_finance"
-      ],
-      "news_token": "mQfmj3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWyf88XpeYtCg2G8BU2V-hB-ADZkRL7"
-    },
-    {
-      "query": "mu stock",
-      "search_volume": 20000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "_eYMv3ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRsWsxpRFqXmLQoMhfIVAVjcUfmjWDhT-7FYfFP5m_9vIfFll-UsofDmxj8h8mb9xK1DkZxQ3I_MVw07Yo5h_YvI5FP3ygSYo-kOZ2VD4Xy8yQfgAW7lVGg"
-    },
-    {
       "query": "ken griffin",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 500,
       "categories": [
         "business_and_finance"
@@ -131,13 +141,22 @@
       "news_token": "bYxPonica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsUS7tJFqXmLQoMhfNnZc-8g8xWePwiA8AEUpxim"
     },
     {
-      "query": "goog stock",
-      "search_volume": 2000,
+      "query": "millennials",
+      "search_volume": 1000,
+      "increase": 500,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "fhkaS3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkUjJs9FqXmLQoMhfIWLUftQ-C8OyqDwn0Uqo_DfM0gg8xWrd_1D4bfViqPws-L4IXwAzoUzlA"
+    },
+    {
+      "query": "mu stock",
+      "search_volume": 50000,
       "increase": 400,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "isV4lnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsXA-MRFqXmLQoMhfAXzW9uR-Yqty31Q5O-tWIHCd2kphPABzUsjyQ"
+      "news_token": "TCJ0IXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGxazGlEWpeYtCg6F8h6c_UPitz9JQ-Gk7TiPzFS5En0Hmy509woeiPuvgKhT1gaxuKPzZrT4o_M3-t5H5Mn_jViDzZWcUN6Pw5cQ-ougPzdqBwj8x-RyKe7hfoOiXkQ80QTHv60UmCB8AGINwYw"
     },
     {
       "query": "vix",
@@ -149,31 +168,31 @@
       "news_token": "Ee3tQnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkUDq5BFqXmLQoMhfIXpFw8g8xUZgjlQ-KzLniDzZUKKlCB8AIw5IcY"
     },
     {
-      "query": "ynon kreiz",
-      "search_volume": 1000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "C4dWaHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXWTy8XpeYtCg2G8qv8yiB8ANjHEuY"
-    },
-    {
       "query": "bond",
       "search_volume": 10000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Ze3nnXica1xTlFpYmlpcEp-SWJJ4h0Fl8nkGBgZG-dcM1YtS8xaFBkP4ih4Rk5H5ChcdF6DIi8QsQuFrPOdB4RtYhaDws2bNQeFHzpZF4XO_aEbhC8rkoPCLp2ki8-XWqh9H5svcT3ZEkRdtkEbRXxHdgsIPO2GPwm992oni30v716LIN_-XR-H7LAhEUd9zLBhF3sJyDQpfMWQ1ang0pqCGt2I5inlsX1D8q8j8ywyVX3gVhd-oWYfC13n0BsW8T3vSUOQzpB6j8FONn6Gol206hBr_UftQ-A0zEiF8AOuj0cw"
+      "news_token": "NOSYDnica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZG-dcM1YtS8xaFBkP4ilmz5qDwRWIWofDT505C5itcdFyAIt_h9huVP-UYCl_jOQ8K3yNiMgpfUCYHxfwnXF-R-XJr1Y8j82XuJzuiyE_4uwGZL5ss-QzF_LAT9ij8hMBTKPxsvoco9geyuqHwP-1Jg_ABzLF5uw"
     },
     {
-      "query": "alaska airlines atlantic pacific partnership",
+      "query": "goog stock",
       "search_volume": 2000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "IdCcFHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVkYbdFqXmLQoMByr4LwA"
+      "news_token": "2oQSiXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsXA-MRFqXmLQoOh_NblPsh8hXsrVqDwzW9th_ABvuUeTQ"
+    },
+    {
+      "query": "ynon kreiz",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "C4dWaHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXWTy8XpeYtCg2G8qv8yiB8ANjHEuY"
     },
     {
       "query": "bank fraud",
@@ -182,16 +201,7 @@
       "categories": [
         "law_and_government"
       ],
-      "news_token": "kNK1sHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsX4VWWLUvMWhQZD-Zkzp6Lw22rsUPhVYgdQ-OkXE5D5CnUTo1Dk-UqPovDDN31G4Qt_gPIBe0w7BA"
-    },
-    {
-      "query": "googl stock",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "8dbH73ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoV7K1YsSs1bFBoM5Zvf2o7Cf_NNCZmv2OYRhcIPjE9EUX_xxRoIHwCTNCrs"
+      "news_token": "nNYmMHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsX4VWWLUvMWhQZD-W01dij8KrEDKPzMmVNR-MIfPqPw0y8mIPMV6iZGociHb0JVnyGQC-EDAJOGOqE"
     },
     {
       "query": "pce",
@@ -200,7 +210,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "xdqzZnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWwE_aLUvMWhQZD-RXRLSj8GvZlyHyF9Z-4UOSLp2ki82U3Fp-E8AEQCSj6"
+      "news_token": "w64Ji3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsWwE_aLUvMWhQZD-R1uv1H4NezLkPkKr_RjUfjrP3GhqC-eponMl91YfBLCBwDt2i8l"
+    },
+    {
+      "query": "palmer luckey",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "WcWDJnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsV2-5pFqXmLQoOhfF_pb8h8mTDjamS-rKn_cQgfAKP7HLY"
     },
     {
       "query": "alex karp swedish forest purchase",
@@ -219,7 +238,7 @@
         "science",
         "business_and_finance"
       ],
-      "news_token": "pgNMP3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXCnn2LUvMWhQZD-U5xM1H4VZOvQfgAHLQYYw"
+      "news_token": "L8c-9Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsXCnn2LUvMWhQZD-U5xM5H5Cg0aD5H5Um0nlSF8AMdYHbc"
     },
     {
       "query": "forex factory",
