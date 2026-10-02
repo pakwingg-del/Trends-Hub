@@ -10,105 +10,104 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 18,
+      "keywords_count": 14,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-02 06:30:54"
+      "last_updated_hkt": "2026-10-02 21:30:54"
     }
   },
   "trending_seeds": [
     {
-      "query": "social security benefit increase projection",
-      "search_volume": 50000,
-      "increase": 1000,
+      "query": "shivon zilis",
+      "search_volume": 10000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "N6mdM3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsVtz9MWpeYtCg2efC7iyY8FEDYAo1sT_A"
+    },
+    {
+      "query": "jim farley ford skilled trades ai",
+      "search_volume": 10000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "hWNSX3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUOwYpFqXmLQoMhfIXnD1UgfAC_-BJE"
+    },
+    {
+      "query": "chip city",
+      "search_volume": 10000,
+      "increase": 500,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "yo0gmXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkX-Fd2LUvMWhQYDAM5VDEY"
+    },
+    {
+      "query": "coffee shops near me",
+      "search_volume": 200,
+      "increase": 500,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "ZQB2gXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWXbryLUvMWhQYDAM9zDD8"
+    },
+    {
+      "query": "jobs report",
+      "search_volume": 10000,
+      "increase": 400,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "e62si3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRkXmwquLUvMWhQZD-WWn3VD4SYZpKPxlZyYg82U27i1Ekd_r2Y_CL847g8L3-OCBwt_K2oPMlwvVbELhpz12h_ABmq9F4w"
+    },
+    {
+      "query": "skydance",
+      "search_volume": 5000,
+      "increase": 400,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "MEbJe3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsW4vMZFqXmLQoOh_NSKVhT-3qXcED4ADRsXqA"
+    },
+    {
+      "query": "social security benefit increase 2027",
+      "search_volume": 5000,
+      "increase": 400,
       "categories": [
         "business_and_finance"
       ],
       "news_token": "TrQHcHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsU88Z2LUvMWhQYDAM5mDEI"
     },
     {
-      "query": "coffee shops near me",
-      "search_volume": 500,
-      "increase": 1000,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "yExy6nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWXbryLUvMWhQZD-UtV_CF8AL2lEZo"
-    },
-    {
-      "query": "supermarket",
-      "search_volume": 500,
-      "increase": 1000,
-      "categories": [
-        "other"
-      ],
-      "news_token": "g2W-P3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoUdgdcWpeYtCg2G8hddn4_MV9R14EThz-59g8yXX__kEIr8ouTDKOZtcqlFkU-f0orCX3A9E4U_004TwgcAFGFB1A"
-    },
-    {
-      "query": "extreme heat warning",
-      "search_volume": 20000,
-      "increase": 600,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Xv2kQXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXABXGLUvMWhQZD-UpFfyB8AME4Eic"
-    },
-    {
-      "query": "tjmaxx closing stores",
-      "search_volume": 5000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance",
-        "shopping"
-      ],
-      "news_token": "YxC4-nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWyf88XpeYtCg0GANcoDV8"
-    },
-    {
-      "query": "nike stock",
-      "search_volume": 20000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "KdrHnXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRoWQct5FqXmLQoMhfEXmwqso_NBnXij8xas0Ufgz6qyQ-bLbMplR-EZPu1DUu9_dgMK34pRD4YtmoJgn88ZvE4QPALn1Q6U"
-    },
-    {
-      "query": "petrol station",
-      "search_volume": 1000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance",
-        "autos_and_vehicles"
-      ],
-      "news_token": "_bFiDnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoVHWw0XpeYtCg2G8BXTgmNR-OWW1Sj8pmsRKPwVW4pQ-JbBWij8js_3UfhmwjcgfAADpTSX"
-    },
-    {
-      "query": "spacex launch today",
-      "search_volume": 1000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "I8AKYXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoX3iwsWpeYtCg2G8OU32yYh8xXefFNC4b_6ehjCBwDx4R_F"
-    },
-    {
-      "query": "trucker strike",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "zWzfgnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgV7DetFqXmLQoMhfEXDXmUU_hwOBggfAOAJFbI"
-    },
-    {
-      "query": "acn stock",
+      "query": "winter storm",
       "search_volume": 2000,
+      "increase": 400,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "6V2ksHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkW-OTsWpeYtCg2G8oVnfEbh7y6LRuYrfG2qRpFvvMSJIp-_0QeFz_yqBcIHAAwTL1A"
+    },
+    {
+      "query": "index",
+      "search_volume": 5000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "7GpG5Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmvPx8vSs1bFBoMANtHDdM"
+      "news_token": "GJ4saHica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGxb2e_YtS8xaFBkP5zIVXUfjFeWdQ-MuMTqPw7Xl3ofClDz9G4S9VOoDCX_vHBoW_12EVCn_a0WQUfl3ZQhT-AgEBFH5bnzQKf7WIAzJf4aucJor8kqJ9ED4Ab9NipA"
+    },
+    {
+      "query": "tj maxx closing stores",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "shopping",
+        "business_and_finance"
+      ],
+      "news_token": "wQKbPnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsWyf88XpeYtCg2G8tdfOIzMV5DV2w3hAwBHdxku"
     },
     {
       "query": "peso mexicano",
@@ -120,70 +119,33 @@
       "news_token": "DtaCp3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUcxbJFqcWLQoMBzOMMDA"
     },
     {
-      "query": "delivery",
-      "search_volume": 200,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "IzTRXXica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGxeom20WpeYtCg2H8MxHIfPkS1ngUecFGGxR-__6bKPzGA8Eo_CV9KOYpTu27iyofGobCn-M3C4U_UfUhCn9hVyMKn_vbTxT-oq8KKPz5Ue-R-bIbXjpA-AAnlGSS"
-    },
-    {
       "query": "nasa spacex crew 13 launch",
-      "search_volume": 5000,
+      "search_volume": 1000,
       "increase": 200,
       "categories": [
         "business_and_finance",
         "science"
       ],
-      "news_token": "h_4EhXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvnNtkmLUvMWhQZD-ArvFxeg8O_uv4jMV-w4_g5F_oTvLhT-mclnkflysyPWouhnF4lHUf_q62EU_q05vBA-AJXYQ5U"
+      "news_token": "aNHaCXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvnNtkmLUvMWhQYDAM-ODFQ"
     },
     {
-      "query": "humana 2027 medicare advantage strategy",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Dqz3Rnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWGyWaLUvMWhQZD-f52SRA-ALy-EYA"
-    },
-    {
-      "query": "department of treasury",
+      "query": "spacex stock price",
       "search_volume": 500,
       "increase": 200,
       "categories": [
         "business_and_finance",
-        "law_and_government"
+        "science"
       ],
-      "news_token": "CX22Vnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsW4JacXpeYtCg2G8k2j0pH5Cu_99FHkVyrLoPDr2uah8PtX_kXhL3oyH4Uf0s2Hwne6cxaZLxPSVobMly0-sA_CBwCZWkbO"
+      "news_token": "nyP1pnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsV81pBFqXmLQoOh_O2Grsh8hTfflFD4t-bwIvNlw14zIfNl1k5gROGf8ElFUf_skCOEDwC8UDQr"
     },
     {
-      "query": "target",
-      "search_volume": 2000,
-      "increase": 100,
+      "query": "walmart bettergoods pasta recall",
+      "search_volume": 500,
+      "increase": 200,
       "categories": [
-        "business_and_finance"
+        "food_and_drink"
       ],
-      "news_token": "gJxxY3ica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGxYkiixal5i0KDYbymxdXofC5XzQj8xVu54ShyDd-C0HhN7G2oPDDubag6H9lU44iP2WbLAq_49kGFH6vrCEKf64XqnzlAzEU87WMklDkZ6QrovCDS-tQ-JM_m6LwyzZ8RuGHvElEMf-zlDeKfG2mFgpfd30shA8AIfSEAg"
-    },
-    {
-      "query": "nasa perseverance rover jezero crater water",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "science",
-        "business_and_finance"
-      ],
-      "news_token": "D2Qy33ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWO4-8WpeYtCg2G8BXmp-pB-ADVgBK2"
-    },
-    {
-      "query": "microsoft",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "EYIKrHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRsXupOpFqXmLQoMhfIU9h_yQ-YpT-xYg8-VfM6CoV5xeo4DCT7E_jsJv1ctF4VdVrkQ1_-4kFP7MNmsUfoOiHYr72DJqUeS5XzSjyEeL9iLz5e4dNYTwAcPcW9k"
+      "news_token": "3SMq33ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWmjUqLUvMWhQZD-PJ_XN9A-ADH8xLI"
     }
   ]
 }
