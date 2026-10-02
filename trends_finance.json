@@ -10,12 +10,21 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 20,
+      "keywords_count": 19,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-02 00:30:54"
+      "last_updated_hkt": "2026-10-02 03:30:56"
     }
   },
   "trending_seeds": [
+    {
+      "query": "sud",
+      "search_volume": 200000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "zYq6zXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsXio28WpRUtCg2G8mdofEDhL1LUQuH3_T6Gwu9MeI_Cl9NqRuHbvatB5stuewCVBwCJbDZ4"
+    },
     {
       "query": "social security benefit increase projection",
       "search_volume": 50000,
@@ -45,42 +54,41 @@
       "news_token": "g2W-P3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRoUdgdcWpeYtCg2G8hddn4_MV9R14EThz-59g8yXX__kEIr8ouTDKOZtcqlFkU-f0orCX3A9E4U_004TwgcAFGFB1A"
     },
     {
-      "query": "500 checks",
-      "search_volume": 20000,
-      "increase": 800,
-      "categories": [
-        "law_and_government",
-        "business_and_finance"
-      ],
-      "news_token": "vydmy3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWXSl8WpeYtCg0GANSkDQI"
-    },
-    {
       "query": "cross",
       "search_volume": 20000,
-      "increase": 700,
+      "increase": 600,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "vxE3Rnica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGRX-7pEWpeYtCgyF8BZV_Nsh8xYbPX1H4fhZOKPwlxjNR-JmfWVD4cT-_oPBDNEtQ7NunJIIiH__FF4U__7AhCn8h_1FU_qFnKPyCDgkU_rzEFBR-gsYHFPvf-6Pa73NfBsIHAO4hbcM"
+      "news_token": "US3ihXica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGRX-7pEWpeYtCg6F8j9bNyHyFfYt6UOTnJaagyKv8s0GRb-vbh2qegR6K-kuT9VHkGz5_RZHfuCgRRd7UE1V9_BdfFP78w4Yo_IWHnqHy-Y-i8BM0PqDwCzokUOx_7y-CIu9zXwbCBwBk9nQW"
+    },
+    {
+      "query": "extreme heat warning",
+      "search_volume": 20000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "WdiBs3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXABXGLUvMWhQZD-UpFf1D4rJ-PQfgAEiwYKQ"
+    },
+    {
+      "query": "tjmaxx closing stores",
+      "search_volume": 2000,
+      "increase": 500,
+      "categories": [
+        "business_and_finance",
+        "shopping"
+      ],
+      "news_token": "YxC4-nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWyf88XpeYtCg0GANcoDV8"
     },
     {
       "query": "nike stock",
       "search_volume": 20000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "L4xECnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWQct5FqXmLQoMhfMXFqzSR-bLbMplR-EZPu1DUz8l3ROGHPvNC5itIRgtD-ACPLCz7"
-    },
-    {
-      "query": "petrol station",
-      "search_volume": 1000,
       "increase": 400,
       "categories": [
-        "autos_and_vehicles",
         "business_and_finance"
       ],
-      "news_token": "rvAsqHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoVHWw0XpeYtCg2G8BXNhG-g8JuuRaDwOz7fR-YrfOa7isJX7NqCzJdVFneH8AE1Ki8-"
+      "news_token": "j0ZQi3ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRoWQct5FqXmLQoMhfEXmwqso_NBnXij8xas0UfgKYrXIfNltmcwofKOnXSjq5-Q7ovCXxy5E5sutybNE5su88duEIm8R1IiiXzTDCpmvIBktDOEDAOCZU24"
     },
     {
       "query": "trucker strike",
@@ -99,7 +107,7 @@
         "business_and_finance",
         "science"
       ],
-      "news_token": "UeVbL3ica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZG-c22SYtS8xaFBkP4ij1mwsh8hTfflFD47xcXoKhnF4lHkb81hxeZL29_-xCK_N39F1H4ZyafReHf6LNE4V-4NxfFvu611Sj8juPvUNSf8N2FIq-zZREyX252xFpkvmxDiQ4yX8a1fhaKvOSPvyh8EZ5jKP6banQDwgcAz2OC-Q"
+      "news_token": "x6S8Gnica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG-c22SYtS8xaFBkP4Cu8XF6Dw33xTQuYrsovEo8jfmsOLzJe3v30IRf7u_oso_DOTz6Lwb_RZovAv3JuLwj_huwvF_u611Sj8juPvkPlysyPWIvNlXOtnIfNlG0p0UPiSP_6i8EV4jkH4AMJocjk"
     },
     {
       "query": "acn stock",
@@ -108,17 +116,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "D4wzBHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvmvPx8vSs1bFBoM4SsyPmGE8AHg3RL9"
-    },
-    {
-      "query": "insider trading congress",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "politics",
-        "law_and_government"
-      ],
-      "news_token": "-zYtfnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkW3mcyLUvMWhQYDAMwUC-Y"
+      "news_token": "7GpG5Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmvPx8vSs1bFBoMANtHDdM"
     },
     {
       "query": "peso mexicano",
@@ -139,14 +137,13 @@
       "news_token": "IzTRXXica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGxeom20WpeYtCg2H8MxHIfPkS1ngUecFGGxR-__6bKPzGA8Eo_CV9KOYpTu27iyofGobCn-M3C4U_UfUhCn9hVyMKn_vbTxT-oq8KKPz5Ue-R-bIbXjpA-AAnlGSS"
     },
     {
-      "query": "brooklyn",
-      "search_volume": 500,
+      "query": "humana 2027 medicare advantage strategy",
+      "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "business_and_finance",
-        "law_and_government"
+        "business_and_finance"
       ],
-      "news_token": "OPvwPXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoXDH_YtSs1bFBoM4SvO-mqPwvc__BuFn17xGoW_TP0sCj9StxqFP3mRBwp_wfUNED4A5WM3NA"
+      "news_token": "Dqz3Rnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWGyWaLUvMWhQZD-f52SRA-ALy-EYA"
     },
     {
       "query": "department of treasury",
@@ -156,7 +153,7 @@
         "business_and_finance",
         "law_and_government"
       ],
-      "news_token": "Kjok6Hica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsW4JacXpeYtCg2G8BXe--kj8xVNo9JR5P8e-ooiX9c2D4W_6Ml8FH5INx8K3-nOWWS-TEhbGTJftvjAPggfAPTeQiA"
+      "news_token": "fUKvPXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsW4JacXpeYtCg2G8k2j0pH5Cu_99FH4fw99RVFf1zYPhd-_8i8Kf9GT-Sj8kG4-FL7TnbPIfJmQtjJkvmzxgX0QPgBwCkiZ"
     },
     {
       "query": "moon",
@@ -167,16 +164,6 @@
         "science"
       ],
       "news_token": "yO80DXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRoVbc3gXpeYtCg2G8hs0HiLzFXn2paHIS2-5hCI_YQMnCt9-2gYUfqbsehT91_TuovD_bTNAUR8ddBKFb76FD5kvV_7JBsIHAA0vS6E"
-    },
-    {
-      "query": "tj maxx",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "shopping",
-        "business_and_finance"
-      ],
-      "news_token": "92zhfnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsWyf88XpeYtCg2G8qdHeKDwY26wo_DTbR-j8IMchFH4mde8kfmyrkYPIXwABVcucw"
     },
     {
       "query": "target",
