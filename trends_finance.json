@@ -10,12 +10,21 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 14,
+      "keywords_count": 17,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-03 00:30:54"
+      "last_updated_hkt": "2026-10-03 03:31:06"
     }
   },
   "trending_seeds": [
+    {
+      "query": "the widower netflix reviews",
+      "search_volume": 5000,
+      "increase": 700,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "13_ymnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVP-jaLUvMWhQYDANBVDGA"
+    },
     {
       "query": "shivon zilis",
       "search_volume": 10000,
@@ -26,6 +35,15 @@
       "news_token": "VGL80Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVtz9MWpeYtCg0GANUpDQc"
     },
     {
+      "query": "jim farley ford skilled trades ai",
+      "search_volume": 10000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "hWNSX3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUOwYpFqXmLQoMhfIXnD1UgfAC_-BJE"
+    },
+    {
       "query": "chip city",
       "search_volume": 20000,
       "increase": 500,
@@ -34,15 +52,6 @@
         "business_and_finance"
       ],
       "news_token": "yo0gmXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkX-Fd2LUvMWhQYDAM5VDEY"
-    },
-    {
-      "query": "jim farley ford skilled trades ai",
-      "search_volume": 10000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "hWNSX3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUOwYpFqXmLQoMhfIXnD1UgfAC_-BJE"
     },
     {
       "query": "coffee shops near me",
@@ -70,7 +79,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "gNN0VXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsW4vMZFqXmLQoOh_H2V71D4qRWtED4AHikYYA"
+      "news_token": "HdIc9Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsW4vMZFqXmLQoOh_NSKVmS-wqKSAhT53X_PofAPdkLVAwDXlSSd"
     },
     {
       "query": "social security benefit increase 2027",
@@ -88,16 +97,26 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "DCFT5Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkW-OTsWpeYtCg2G8oVnfEbhT46YhcJvvMSJwpdTkEDh7y6LRuYrfG2qhvAByAUuUA"
+      "news_token": "ZVu8_Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkW-OTsWpeYtCg2G8oVnfEbht31NQeFPjpiFzFf42lSNIi-nIIHCb7zEiaI-f6MPhA8AH_s0Ug"
     },
     {
-      "query": "the widower netflix reviews",
+      "query": "burkina faso",
       "search_volume": 1000,
+      "increase": 400,
+      "categories": [
+        "law_and_government",
+        "business_and_finance"
+      ],
+      "news_token": "u_uO23ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWlG3UWpRUtCg2G8lsY5FH4q277oPBZ7cVR-Dsy9FD4cisYIXwA2lsm3A"
+    },
+    {
+      "query": "index",
+      "search_volume": 5000,
       "increase": 300,
       "categories": [
-        "entertainment"
+        "business_and_finance"
       ],
-      "news_token": "13_ymnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVP-jaLUvMWhQYDANBVDGA"
+      "news_token": "cyTNdXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGxb2e_YtS8xaFBkP5S5UOIPMVrk2JQpFfLeKAwrfn3YXCX_vHBoUfvP46Cr_85i8U8-dMnYwir37VHYXfVlCAyu-TRubLvQhWQebLn_kfisyXyT0_DZkvG-dVh2K_fqsRin7Ls1shfAAV-W9i"
     },
     {
       "query": "target acotar",
@@ -109,13 +128,23 @@
       "news_token": "LIf7enica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWkd48XpeYtCg0GANXYDTc"
     },
     {
+      "query": "fundraiser",
+      "search_volume": 500,
+      "increase": 300,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "AJJPnHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkU_1bWLUvMWhQZD-Uu8pqPw9xUEovKvNaLwGy79QZU30EThu_00ReHvXcoI4QMANHk1VQ"
+    },
+    {
       "query": "medicare advantage plan reductions unitedhealth humana",
-      "search_volume": 1000,
+      "search_volume": 2000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "tBd8zXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkV_u6RFqXmLQoMBzCYL8w"
+      "news_token": "CrqmcXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkV_u6RFqXmLQoOh_IbJZhA-ALceEYA"
     },
     {
       "query": "nasa spacex crew 13 launch",
@@ -135,7 +164,7 @@
         "business_and_finance",
         "science"
       ],
-      "news_token": "DmsAeHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsV81pBFqXmLQoOh_O2Grsh8hTfflJD5smGvmZD5MmsnMKLwT_ikoqh_dsgRwgcApAEuZQ"
+      "news_token": "ZvsmIXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsV81pBFqXmLQoOh_O2Grsh8hTfflJD5Mid8UpH5smGvmVDk105gRJF_dsgRwgcAqwEuZQ"
     },
     {
       "query": "walmart bettergoods pasta recall",
