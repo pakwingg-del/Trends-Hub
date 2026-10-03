@@ -10,29 +10,30 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 14,
+      "keywords_count": 10,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-03 06:30:55"
+      "last_updated_hkt": "2026-10-03 21:30:58"
     }
   },
   "trending_seeds": [
     {
-      "query": "shivon zilis",
+      "query": "donald trump medicare payment",
       "search_volume": 20000,
-      "increase": 600,
+      "increase": 900,
       "categories": [
-        "business_and_finance"
+        "business_and_finance",
+        "law_and_government"
       ],
-      "news_token": "VGL80Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVtz9MWpeYtCg0GANUpDQc"
+      "news_token": "EmBovXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRsWD16IWpeYtCg2G8s_qrkHhr2J-gsJfMeEfMl9hegcjivzBzlYU_t4lR1H4h9bpofALDs9H4e9j-oNifru-Kor8tLflKPyjpn8hfABlBlSd"
     },
     {
-      "query": "jim farley ford skilled trades ai",
-      "search_volume": 10000,
-      "increase": 600,
+      "query": "getty",
+      "search_volume": 20000,
+      "increase": 700,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "hWNSX3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUOwYpFqXmLQoMhfIXnD1UgfAC_-BJE"
+      "news_token": "hRGd43ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUB-_2LUvMWhQYDAMyCDBI"
     },
     {
       "query": "the widower netflix reviews",
@@ -44,107 +45,69 @@
       "news_token": "13_ymnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVP-jaLUvMWhQYDANBVDGA"
     },
     {
-      "query": "chip city",
-      "search_volume": 20000,
-      "increase": 500,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "yo0gmXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkX-Fd2LUvMWhQYDAM5VDEY"
-    },
-    {
-      "query": "coffee shops near me",
-      "search_volume": 200,
-      "increase": 500,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "ZQB2gXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWXbryLUvMWhQYDAM9zDD8"
-    },
-    {
-      "query": "skydance",
-      "search_volume": 5000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "e_fEaXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsW4vMZFqXmLQoOh_NSKVhT-7r_nUPj7Kt-h8A92QtUDAPZFJT0"
-    },
-    {
-      "query": "social security benefit increase 2027",
-      "search_volume": 5000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "TrQHcHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsU88Z2LUvMWhQYDAM5mDEI"
-    },
-    {
-      "query": "winter storm",
+      "query": "social security administration 2027 announcement",
       "search_volume": 2000,
       "increase": 400,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ZVu8_Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkW-OTsWpeYtCg2G8oVnfEbht31NQeFPjpiFzFf42lSNIi-nIIHCb7zEiaI-f6MPhA8AH_s0Ug"
+      "news_token": "rGn1cHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsU88Z2LUvMWhQZD-DKFfG-Q-fLygYsgfAAGdRdA"
     },
     {
-      "query": "target acotar",
+      "query": "medicare advantage",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "T24usHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkV_u6RFqXmLQoOh_A2XYlD4DZPNkPkKW0rqUeTPeKgj82VdZRJR-D-tnqPoL1x_E8IHANk7NKM"
+    },
+    {
+      "query": "federal bureau of investigation",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "law_and_government",
+        "politics"
+      ],
+      "news_token": "j1uduHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsWdnEqLUvMWhQZD-dtkPFH4e7v4UPiLI6VR-IvCD6Hws_nSUPgpN25B-AB10i23"
+    },
+    {
+      "query": "xrp news",
       "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "other"
-      ],
-      "news_token": "LIf7enica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWkd48XpeYtCg0GANXYDTc"
-    },
-    {
-      "query": "fundraiser",
-      "search_volume": 500,
-      "increase": 300,
-      "categories": [
-        "business_and_finance",
-        "law_and_government"
-      ],
-      "news_token": "AJJPnHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkU_1bWLUvMWhQZD-Uu8pqPw9xUEovKvNaLwGy79QZU30EThu_00ReHvXcoI4QMANHk1VQ"
-    },
-    {
-      "query": "medicare advantage plan reductions unitedhealth humana",
-      "search_volume": 2000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "CrqmcXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkV_u6RFqXmLQoOh_IbJZhA-ALceEYA"
+      "news_token": "mZv2KHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgW3z0cXpeYtCg2G8BVtdctQ-DqzdyLzFRYqHUORL_V4gCL_8vdKFPn0J3YQPgAUlTAz"
     },
     {
-      "query": "spacex stock price",
+      "query": "stock market difficulty jim cramer",
       "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "ZvsmIXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsV81pBFqXmLQoOh_O2Grsh8hTfflJD5Mid8UpH5smGvmVDk105gRJF_dsgRwgcAqwEuZQ"
-    },
-    {
-      "query": "walmart bettergoods pasta recall",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "food_and_drink"
-      ],
-      "news_token": "oEq42Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWmjUqLUvMWhQYDAM_JDFk"
-    },
-    {
-      "query": "getty",
-      "search_volume": 200,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "hRGd43ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUB-_2LUvMWhQYDAMyCDBI"
+      "news_token": "919wOHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkWp99yLUvMWhQYDAM1wDBg"
+    },
+    {
+      "query": "t.j. maxx",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "shopping",
+        "business_and_finance"
+      ],
+      "news_token": "HrkEtXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsWyf88XpeYtCg2G8k8IMaLwY26wo_DnN6ii8A_MjEDh75O1RebLuho9hPAB-Coubg"
+    },
+    {
+      "query": "gasoline",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "zjYkh3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGxb0XxRel5i0KDYbyl6iwIfMVlsQyochnSL1F4c_4tBOFX3q5DoUff_c8Cr-pC8V8xYVdESj2nTRfgiKfx7Ibhd-R9hCFHzrzC4r-2YdKUOQ7qyxR5DlCV0D4AGp0Y2o"
     }
   ]
 }

@@ -10,39 +10,58 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 45,
+      "keywords_count": 42,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-03 06:30:57"
+      "last_updated_hkt": "2026-10-03 21:31:01"
     }
   },
   "trending_seeds": [
     {
-      "query": "taylor swift new curly hairstyle",
-      "search_volume": 10000,
-      "increase": 1000,
-      "categories": [
-        "entertainment",
-        "beauty_and_fashion"
-      ],
-      "news_token": "ci7PUXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkW2dO5FqXmLQoMhfJlHmb8gfACzUBIA"
-    },
-    {
-      "query": "halle berry",
-      "search_volume": 2000,
-      "increase": 1000,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "4LbsnHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsUlvFMWpeYtCg2G8BUYM58g82UDzbtQ5Nv1L6DwJfXSkfkymwIdIXwA5XonaQ"
-    },
-    {
       "query": "zach bryan",
-      "search_volume": 10000,
-      "increase": 700,
+      "search_volume": 50000,
+      "increase": 1000,
       "categories": [
         "entertainment"
       ],
       "news_token": "khogv3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWssJOLUvMWhQYDANCqDI0"
+    },
+    {
+      "query": "kathleen turner and michael douglas",
+      "search_volume": 20000,
+      "increase": 1000,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "zKU25Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXNqyoWpeYtCg0GANOkDNk"
+    },
+    {
+      "query": "paul mccartney",
+      "search_volume": 5000,
+      "increase": 1000,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "Ldxj9Xica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsXDlpsXpeYtCg2G8teKaiLzFf4s7EHhX1hmgqL-7NdWFP6522Uo_NPxBij80g8NKPwmySvIfFnVq3Eo8qJyxyB8AF60R3g"
+    },
+    {
+      "query": "taylor swift new curly hairstyle",
+      "search_volume": 20000,
+      "increase": 900,
+      "categories": [
+        "entertainment",
+        "beauty_and_fashion"
+      ],
+      "news_token": "mg5EYnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkW2dO5FqXmLQoMByHwLfA"
+    },
+    {
+      "query": "prince harry, duke of sussex",
+      "search_volume": 2000,
+      "increase": 700,
+      "categories": [
+        "law_and_government",
+        "entertainment"
+      ],
+      "news_token": "1X83_nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsVTv8wWpeYtCg2G8BWWe7Ai8xW5JlqjyD89nYYi31yYi8I_XdqDwk-dawzhAwDuVy7W"
     },
     {
       "query": "the widower netflix reviews",
@@ -54,70 +73,22 @@
       "news_token": "13_ymnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVP-jaLUvMWhQYDANBVDGA"
     },
     {
-      "query": "dolph lundgren",
-      "search_volume": 1000,
-      "increase": 600,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "QoTj8nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsWFLw4tSs1bFBoM4SvM89yOzFfcoe-EzJdPL78I4QMA8B4ejg"
-    },
-    {
-      "query": "kathleen turner",
-      "search_volume": 50000,
-      "increase": 500,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "v3QQxnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsXNqyoWpeYtCg2G8rMnnEDht309hsKfl8SFwt9pUITC76lsRebLVrGwQPgARJ0u4g"
-    },
-    {
-      "query": "benny johnson",
-      "search_volume": 10000,
-      "increase": 500,
-      "categories": [
-        "politics",
-        "law_and_government",
-        "entertainment"
-      ],
-      "news_token": "YUiw-Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVta_kXpeYtCg0GAND4DHY"
-    },
-    {
-      "query": "rick devens big brother",
-      "search_volume": 10000,
-      "increase": 500,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "NIwxuXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsXyxLOLUvMWhQZD-QvkxFH43nbhKPxmHzEIHwCgPhwP"
-    },
-    {
-      "query": "billy bush",
-      "search_volume": 1000,
-      "increase": 500,
-      "categories": [
-        "politics",
-        "entertainment"
-      ],
-      "news_token": "nIx9zHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsVdIVWLUvMWhQZD-Apb0s5C-ADKTBK2"
-    },
-    {
-      "query": "doing life tyler perry",
-      "search_volume": 20000,
-      "increase": 400,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "4WBkSnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvkzzjcWpeYtCg2G8BUueIsh8xV3PDyDwk9NOAThAwDloR7R"
-    },
-    {
-      "query": "cailee spaeny",
+      "query": "october 3rd",
       "search_volume": 10000,
       "increase": 400,
       "categories": [
         "entertainment"
       ],
-      "news_token": "OrulMHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVd748vSs1bFBoMANg0DXQ"
+      "news_token": "uSNzgnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsXTcaqLUvMWhQZD-f1uK1H4eYe0Ufgtj36i8M8n1qHwkw9Oh_ABRwoqRw"
+    },
+    {
+      "query": "denzel washington",
+      "search_volume": 5000,
+      "increase": 400,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "E8g1QXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkU9XvlFqXmLQoOh_HPFVij8w0-_QfgA8vUX_w"
     },
     {
       "query": "ryan seacrest",
@@ -126,43 +97,46 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "TI5-oHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsWlRcKLUvMWhQZD-SvffUTh7_pggsJPZu5F4Xv3nILwAfTOJDg"
+      "news_token": "rSvFq3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsWlRcKLUvMWhQZD-bs-mKDwvXtOofBXvvsI4QMAzasfAQ"
     },
     {
-      "query": "michael mcdonald son",
-      "search_volume": 1000,
-      "increase": 400,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "pcEuaXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXObJlFqXmLQoMBza4MFA"
-    },
-    {
-      "query": "bruce willis",
+      "query": "doing life tyler perry",
       "search_volume": 20000,
       "increase": 300,
       "categories": [
         "entertainment"
       ],
-      "news_token": "Zhgnb3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkVPHf9FqXmLQoOh_J1z56Pwl_VNhfLP1Qpf-4ssJ6_KWIjMlyn7sxeZL5vwdRVM7xG_-1EQNgAM0jaE"
+      "news_token": "qXLWxHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvkzzjcWpeYtCg2G8BV3PDyDwj8R3AjhAwA-Txly"
     },
     {
-      "query": "james gunn peter safran dcu future",
-      "search_volume": 10000,
-      "increase": 300,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "kK_kMXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsXUitZFqXmLQoOh_AyBMhT-jiOfUPj6qZ-R-QpPvV4h82Ue622H8AFIeip4"
-    },
-    {
-      "query": "the walking dead",
+      "query": "megan fox",
       "search_volume": 5000,
       "increase": 300,
       "categories": [
         "entertainment"
       ],
-      "news_token": "Djsyenica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkVTjVmLUvMWhQZD-QuSvqLwD91SRuHvNghH4e9weIOqX4AVma_QsXwrhA8A8BkvBw"
+      "news_token": "Y_0HXXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWZf4UWpeYtCg0GANKIDKw"
+    },
+    {
+      "query": "disneyland paris",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "travel_and_transportation",
+        "entertainment"
+      ],
+      "news_token": "zrya8Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkVZyfWLUvMWhQYDAMtXC-k"
+    },
+    {
+      "query": "kate middleton new hair scotland",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "beauty_and_fashion",
+        "law_and_government",
+        "entertainment"
+      ],
+      "news_token": "axUS33ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsVtBxYuSs1bFBoM4cves5GC8AHSsBKP"
     },
     {
       "query": "freddie mercury",
@@ -174,22 +148,13 @@
       "news_token": "fmUGZnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoVLbx8uSs1bFBoM4St6SWxH4e-9qI7Ml3-69TeKfGEvFzJfLnruOwgfAKtPK0M"
     },
     {
-      "query": "livvy dunne",
-      "search_volume": 2000,
+      "query": "michael mcdonald son",
+      "search_volume": 1000,
       "increase": 300,
       "categories": [
         "entertainment"
       ],
-      "news_token": "5z9NxHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVJzNyLUvMWhQYDAMpIC6Q"
-    },
-    {
-      "query": "brooke eby tiktok als passing",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "EbdnXHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUVRbyLUlIXhQYDAM5rDCE"
+      "news_token": "pcEuaXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXObJlFqXmLQoMBza4MFA"
     },
     {
       "query": "sheriff country",
@@ -198,7 +163,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "ygvlf3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkX9bsZFqXmLQoOh_ANeB5H58ous2SB8APwKFvM"
+      "news_token": "XeOflHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkX9bsZFqXmLQoMhfPlF1mwQPgCvjRDk"
     },
     {
       "query": "oliver hudson",
@@ -207,16 +172,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "B9gVNnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoVfBQ8XpeYtCg2G8BVnBihA-ADV_xKb"
-    },
-    {
-      "query": "kyle maclachlan",
-      "search_volume": 500,
-      "increase": 300,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "nhCVvnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRoVFgvMWpeYtCg2G8BWrn8qj8DN9T6Dw5238AeEDAMEnHmQ"
+      "news_token": "J6NKCnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVfBQ8XpeYtCg0GANcoDU4"
     },
     {
       "query": "war hbo",
@@ -225,17 +181,53 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "BwlgHnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkXZ93GLUvMWhQZD-Ap_L11F5itO4ZZC4W9e9Q1FvbHmFRR5w9UyED4AatkpmA"
+      "news_token": "xbisLHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkXZ93GLUvMWhQZD-Ap_L11F5itO4ZZCkTfWvIIib7haBsIHAN7wIwE"
     },
     {
-      "query": "pokemon 30th anniversary",
-      "search_volume": 5000,
+      "query": "sling day pass",
+      "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "games",
+        "entertainment",
+        "technology"
+      ],
+      "news_token": "uI3LTXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXdr9kWpeYtCg0GANLWDLA"
+    },
+    {
+      "query": "what is october 3rd",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
         "entertainment"
       ],
-      "news_token": "dWZQ6Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoVHEw4sSs1bFBoM55sh8xV3MM1G5W-RQ-HX7DuDwjc7tBzNvIvIfJkzUm7IfOnrhdshfAA_tTzi"
+      "news_token": "CKyrsHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsVTU08sSs1bFBoM5Z-OU0XhnzxTgsLfPOslhA8A9ikfhA"
+    },
+    {
+      "query": "rick ness",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "nMbhiHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXZTz8uSs1bFBoMANfzDXU"
+    },
+    {
+      "query": "fire country",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "Ul_pwXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUDXgcXpeYtCg0GANMYDM8"
+    },
+    {
+      "query": "rick devens big brother prize money",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "5C0Ti3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXyxLOLUvMWhQYDANGTDKk"
     },
     {
       "query": "alison hammond",
@@ -247,50 +239,51 @@
       "news_token": "z4YMknica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVNUvmLUvMWhQYDAM7cDD8"
     },
     {
-      "query": "harry and meghan",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "law_and_government",
-        "entertainment"
-      ],
-      "news_token": "2xKzenica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoV1Bx8vSs1bFBoM5S_3YEXmK24WVkGRf3o6DUW-uTAXwgcA46IjuA"
-    },
-    {
-      "query": "special victims unit",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "ib8-KHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsW9wW2LUvMWhQZD-Ar_Xy5C4UeduIPMV9wp-hKFv_W4Jgp_SwM3hA8Ar_YrDw"
-    },
-    {
-      "query": "apothecary diaries season 3",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "GjFXOHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvmdNzQWpeYtCg0GANMGDLs"
-    },
-    {
-      "query": "stray kids grammy boycott 2027",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "ELaCGHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWM5WqLUvMWhQYDAM6hDDg"
-    },
-    {
-      "query": "rick santelli",
+      "query": "ben affleck",
       "search_volume": 1000,
       "increase": 200,
       "categories": [
         "entertainment"
       ],
-      "news_token": "raKejnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUtHkcWpeYtCg2G8OUebTgM4QMA0tATWg"
+      "news_token": "Lik_vHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRkXPTYcXpeYtCg2G8pcbqqLwd-7cj8LvtchB4e96n47CXy8_B4XfYWmOwm_YJIXCX3jjLDJfQZxbAZkvz8z7FUX-25TfED4APANL2Q"
+    },
+    {
+      "query": "allison janney",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "gV6Ad3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXTQeWLUvMWhQYDANG1DJg"
+    },
+    {
+      "query": "kennedy center honors capital one arena",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "entertainment",
+        "law_and_government"
+      ],
+      "news_token": "fdzc-Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUdRyMXpeYtCg0GANPQDNo"
+    },
+    {
+      "query": "fiona lowe daughter of chad lowe",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "rbCN9Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWc-o5FqXmLQoMB0D0Mdw"
+    },
+    {
+      "query": "apple tv",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "entertainment",
+        "technology"
+      ],
+      "news_token": "rAu2lXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRsWzr_4tSs1bFBoM5XevNUfhH2jXQeHn9PxC4YtIi6Lw22omoPBrZl1C5iv8vXQVRX4ucwEK_9wefhT1i3cooch7aZ1C4c-zP47Ml2_jXwDhAwBuhFic"
     },
     {
       "query": "william shatner",
@@ -299,53 +292,16 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "_PoFn3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWSH1cXpeYtCg2G8BWqL7Ui8xUP11ij8Pd0Xkfh7_CfiMJv2HQYwgcArWcrjQ"
+      "news_token": "46JdP3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsWSH1cXpeYtCg2G8g_XWCPzFaovtaLI7-m8jsyXK8jMQ1F_KTwShR844RsyXybwsg2EDwCzijZ-"
     },
     {
-      "query": "fire country",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "Ul_pwXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUDXgcXpeYtCg0GANMYDM8"
-    },
-    {
-      "query": "marvel television",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "V_vYi3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsVVdbcWpeYtCg2G8ufmZyDzFXY-nYPC38ubg6J-70VDZL7M0241CB8AhZsqjA"
-    },
-    {
-      "query": "cruise industry",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "travel_and_transportation",
-        "entertainment"
-      ],
-      "news_token": "884t93ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsVt1cWLUvMWhQZD-bPn16LwV214hMI_XMCJwm_vfY7CP5iQj8Lnu1KNwteweIDCT_7OjcJ3tN0I4QMA9KpA9w"
-    },
-    {
-      "query": "scooter braun",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "w53srXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkWuP3mLUvMWhQZD-Su_fUHmK8wyVEHh79h3DJkvfyC3HZkvuyFvE4r8L6X_ED4AZ54xYw"
-    },
-    {
-      "query": "rolling loud movie",
-      "search_volume": 10000,
+      "query": "black clover",
+      "search_volume": 20000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "WZkfxHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkXd5oRFqXmLQoMBzQ4MFA"
+      "news_token": "q_T7x3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXgqPmLUvMWhQZD-dNPovDle0t1IHwAGT0YAw"
     },
     {
       "query": "acl lineup 2026",
@@ -357,22 +313,13 @@
       "news_token": "uGkPmXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkWHA98XpeYtCg0GANPCDPs"
     },
     {
-      "query": "eminem",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "s4swrnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXOiWaLUvMWhQZD-TtU9JH5CjvaJSB8AAW-Fz0"
-    },
-    {
-      "query": "black clover",
+      "query": "east of eden netflix cast",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "03lfTnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXgqPmLUvMWhQZD-ArrF9pD-ADB6RIi"
+      "news_token": "yly9YHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkVL12OLUvMWhQZD-LI-cd4QPgC7ixF9"
     },
     {
       "query": "friday the 13th",
@@ -381,25 +328,53 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "gbcEiHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoWj--IWpeYtCg2G8BUPFNxG5st2ef6B8AE2PBlC"
+      "news_token": "3VEywnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRoWj--IWpeYtCg2G8BVPqSsg82W7PP9A-AAfkRhI"
     },
     {
-      "query": "metallica sphere",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "x_jNAXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoWAOqFFqXmLQoMhfEXnvFYIHwC0yRFd"
-    },
-    {
-      "query": "hbo station eleven sci fi series",
+      "query": "kim kardashian five years single",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "CXzjonica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvk7L3wWpeYtCg0GANW9DRI"
+      "news_token": "t_PYcnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXjV1IXpeYtCg0GANUjDQQ"
+    },
+    {
+      "query": "renaissance festival",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "entertainment",
+        "hobbies_and_leisure"
+      ],
+      "news_token": "LglEAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUD79sWpeYtCg0GANajDTk"
+    },
+    {
+      "query": "the walking dead",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "BZsw-nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkVTjVmLUvMWhQZD-QuSvqLwD91SRpUXYEXh7zYIR-HvcHgD4QMAFdso4A"
+    },
+    {
+      "query": "aaron sorkin",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "_k2Zb3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsVzQlaLUvMWhQZD-WGT5qHwLVY9ReYrxH-5iCKfJ3YXhb99agKEDwA8linv"
+    },
+    {
+      "query": "nushrat bharucha",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "FU73M3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXJXEaLUvMWhQYDAMuaC9M"
     },
     {
       "query": "digger",
@@ -408,7 +383,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "Y4LRLXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoUQbatFqXmLQoOh_E8iDch8xW0zrqLwD-f_QOGnVrQi8-U5k45D-AAsTSl0"
+      "news_token": "beqv5Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoUQbatFqXmLQoOh_E8iDch8xW0zrqLwTy7cgsJnXT4JmS_PmXQcwgcAJuopRA"
     },
     {
       "query": "verity",
@@ -417,16 +392,16 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "_TcMSXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoVPIg2LUvMWhQZD-IrbZlxF5iuEaFuhyE-w00KRn9u5HEW-UNoEhT_b7ykyX3qZfiGKvPzhCAgfAFTdOVA"
+      "news_token": "nLKR2Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoVPIg2LUvMWhQZD-SHaVsh8xTO_V6Lwt824isI_uXALCp9vRR6KeXM7l6PIF0qboPBn-z2F8AHo_zuQ"
     },
     {
       "query": "crunchyroll",
-      "search_volume": 200,
+      "search_volume": 5000,
       "increase": 50,
       "categories": [
         "entertainment"
       ],
-      "news_token": "ACAwunica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsVZoi8WpeYtCg2G8BXeZ6xG5isGR81HkY-5fRSZL7_zhgaK-jXc9Sjq_14WQOFvX7kHwgcAeP42pg"
+      "news_token": "U8kZSnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsVZoi8WpeYtCg2G8oOj5qPw9asPIvMVYm4fReH_vSwA4QMA1jskPA"
     }
   ]
 }

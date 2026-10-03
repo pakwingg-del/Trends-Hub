@@ -10,166 +10,153 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 17,
+      "keywords_count": 15,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-02 21:30:55"
+      "last_updated_hkt": "2026-10-03 21:31:00"
     }
   },
   "trending_seeds": [
     {
-      "query": "what happened to chad lowes daughter",
-      "search_volume": 50000,
-      "increase": 1000,
+      "query": "taylor swift new curly hairstyle",
+      "search_volume": 20000,
+      "increase": 900,
       "categories": [
-        "entertainment"
+        "entertainment",
+        "beauty_and_fashion"
       ],
-      "news_token": "rbCN9Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWc-o5FqXmLQoMB0D0Mdw"
+      "news_token": "mg5EYnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkW2dO5FqXmLQoMByHwLfA"
     },
     {
-      "query": "jim farley ford skilled trades ai",
+      "query": "spain",
+      "search_volume": 5000,
+      "increase": 700,
+      "categories": [
+        "other"
+      ],
+      "news_token": "0Aw9J3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWDfPsWpeYtCg0GANEiDJA"
+    },
+    {
+      "query": "the widower netflix reviews",
       "search_volume": 10000,
       "increase": 600,
       "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "hWNSX3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUOwYpFqXmLQoMhfIXnD1UgfAC_-BJE"
-    },
-    {
-      "query": "cailee spaeny",
-      "search_volume": 5000,
-      "increase": 600,
-      "categories": [
         "entertainment"
       ],
-      "news_token": "i9_2Vnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsVd748vSs1bFBoM4cv2Gb2C8AHddhNe"
+      "news_token": "13_ymnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVP-jaLUvMWhQYDANBVDGA"
     },
     {
-      "query": "chip city",
-      "search_volume": 10000,
-      "increase": 500,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "yo0gmXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkX-Fd2LUvMWhQYDAM5VDEY"
-    },
-    {
-      "query": "ukraine",
-      "search_volume": 5000,
-      "increase": 500,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "OmlZnHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRkX7j6sXpeYtCg2G8BW-OF9H5is2XY1E4Tf7hKPwg6OWo-jP27gERX7llkAU_gzZeSjqm4IuoMhP6XNCkf8ZchlF3iA7HcIHANUgTO0"
-    },
-    {
-      "query": "mountain dew pitch black",
-      "search_volume": 5000,
+      "query": "cybersecurity tips",
+      "search_volume": 1000,
       "increase": 400,
       "categories": [
-        "food_and_drink"
+        "technology"
       ],
-      "news_token": "KJNNEXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsV5k_YuSs1bFBoMANQKDPE"
+      "news_token": "kzNG_Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWVk20XpeYtCg0GANDrDHw"
     },
     {
-      "query": "t-mobile new t-mix tiers",
+      "query": "eden prairie shooting",
+      "search_volume": 10000,
+      "increase": 300,
+      "categories": [
+        "other"
+      ],
+      "news_token": "9D9Gn3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWDfk8XpeYtCg2G8VdXofIf70Php73YgMLXfncbhZ_JUgvhAwDGYytw"
+    },
+    {
+      "query": "capcom re engine ai plans",
       "search_volume": 5000,
       "increase": 300,
       "categories": [
-        "technology"
+        "games",
+        "science"
       ],
-      "news_token": "kz5AO3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUFjAKLUvMWhQYDAMrZC7U"
+      "news_token": "RaVNynica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUdm74tSs1bFBoMANeDDWQ"
     },
     {
-      "query": "is traitors on tonight",
-      "search_volume": 1000,
+      "query": "kate middleton new hair scotland",
+      "search_volume": 2000,
       "increase": 300,
       "categories": [
+        "beauty_and_fashion",
+        "law_and_government",
         "entertainment"
       ],
-      "news_token": "FA41vXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWaqw8WpeYtCg2G8uc3fIDwAdqSE4g"
+      "news_token": "axUS33ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsVtBxYuSs1bFBoM4cves5GC8AHSsBKP"
     },
     {
-      "query": "fundraiser",
-      "search_volume": 500,
-      "increase": 300,
-      "categories": [
-        "food_and_drink"
-      ],
-      "news_token": "VSFKzXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsW9SxkXpeYtCg2G8pd4TUfh760PQeHX--ug8N1-mqLwdy3XQOWv_QLhAwDfXi9m"
-    },
-    {
-      "query": "lancaster property human remains",
+      "query": "doj minnesota judges misconduct complaint",
       "search_volume": 2000,
-      "increase": 200,
+      "increase": 300,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "OwecKnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsV0XdNFqXmLQoMByzsLzQ"
+      "news_token": "mxUD_3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUNl-5FqXmLQoMBzBYL-w"
     },
     {
-      "query": "moonshot ai",
+      "query": "artificial intelligence news",
+      "search_volume": 500,
+      "increase": 300,
+      "categories": [
+        "other"
+      ],
+      "news_token": "c3qmi3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkWFrX8WpeYtCg2G8u2nvUPht-X_R-H7PdyFzFf4kLsGRf5U9VMUfhdzFAp_i_hnFH6vYA6EDwBm7zx2"
+    },
+    {
+      "query": "sling day pass",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "entertainment",
+        "technology"
+      ],
+      "news_token": "uI3LTXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXdr9kWpeYtCg0GANLWDLA"
+    },
+    {
+      "query": "apple iphone duo",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "jqj17Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkXj-fsXpeYtCg2G8ndv10DhG72zQOHvWnobhR82mROFvz_RB8IHAEuTKXM"
+    },
+    {
+      "query": "anthropic claude frontier academy training",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
         "science"
       ],
-      "news_token": "J-TmKXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsV8d7FFqXmLQoOh_KaPJih84_rlyHxZ4UPiED4AnJkchA"
+      "news_token": "LUks13ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsX5E_YvSs1bFBoMANQRDPI"
     },
     {
-      "query": "airport",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "9NrFGnica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGxaW-lxal5i0KDYbyM7dNQ-ErfuhC4e_11EbhL7lriMxX2BpbhiI_T5INhT_95FsU_p4rDSh8y6IbKPz1c0VQ-FtbJFHds3M6Ml_-ptpSFPc8EJqMor44pgWFP4czGIW_Y44zCn-RZCWq_awfIXwAFzB7HQ"
-    },
-    {
-      "query": "new kindle paperwhite",
+      "query": "samsung galaxy z fold 9",
       "search_volume": 1000,
       "increase": 200,
       "categories": [
         "technology"
       ],
-      "news_token": "9ax-sXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkW31_aLUvMWhQZD-Xwa_1D4swOOIPPlrz37BeEDAMOQHtc"
+      "news_token": "jMcOQXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsVNVdaLUvMWhQZD-THznVD4FfXfUPgiz_qQ-TLXe_ZA-ADRKSRH"
     },
     {
-      "query": "nasa spacex crew 13 launch",
+      "query": "apple tv",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "entertainment",
+        "technology"
+      ],
+      "news_token": "rAu2lXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRsWzr_4tSs1bFBoM5XevNUfhH2jXQeHn9PxC4YtIi6Lw22omoPBrZl1C5iv8vXQVRX4ucwEK_9wefhT1i3cooch7aZ1C4c-zP47Ml2_jXwDhAwBuhFic"
+    },
+    {
+      "query": "renaissance festival",
       "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "aNHaCXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvnNtkmLUvMWhQYDAM-ODFQ"
-    },
-    {
-      "query": "jaime pressly",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "QW8I0Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVbat8XpeYtCg0GANRSDPo"
-    },
-    {
-      "query": "digger reviews",
-      "search_volume": 500,
       "increase": 100,
       "categories": [
-        "entertainment"
+        "entertainment",
+        "hobbies_and_leisure"
       ],
-      "news_token": "OY-6Mnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoUQbatFqXmLQoMhfMU5apEQPgCwqhEb"
-    },
-    {
-      "query": "cargo aircraft",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "XWGU33ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRoWtsWWLUvMWhQZD-Ip27InIfIXfpzJQ5Bdoo8jLVzcqoPBF_BZD-AAIOSf6"
+      "news_token": "LglEAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUD79sWpeYtCg0GANajDTk"
     }
   ]
 }
