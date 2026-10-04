@@ -10,66 +10,47 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 13,
+      "keywords_count": 8,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-04 06:30:57"
+      "last_updated_hkt": "2026-10-04 21:30:57"
     }
   },
   "trending_seeds": [
     {
-      "query": "$90 medicare payment",
-      "search_volume": 20000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance",
-        "law_and_government"
-      ],
-      "news_token": "1nM6dXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsWD16IWpeYtCg2G8ttuJKDw8069R-Erx7Yg8xWmdzCiyOf2_kLmy9Z9Y0Lh74mfAeEDAHwFNe4"
-    },
-    {
-      "query": "social security administration 2027 announcement",
-      "search_volume": 10000,
+      "query": "bill gates",
+      "search_volume": 5000,
       "increase": 400,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "TrQHcHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsU88Z2LUvMWhQYDAM5mDEI"
-    },
-    {
-      "query": "federal bureau of investigation",
-      "search_volume": 10000,
-      "increase": 400,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "zhqprnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsVtMp6LUvMWhQZD-Xu7-FD4OzmVUPgHRL6i8BeFH0LhL46URubLBm-fisxX2NnMgqLe9UgahA8AHxU5XA"
+      "news_token": "uflXeHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsUH8W8WpeYtCg2G8BV-SvEg82X_yreh8K85dUL4AOGFHlQ"
     },
     {
       "query": "medicare advantage",
-      "search_volume": 5000,
+      "search_volume": 10000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "XpFDAnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkV_u6RFqXmLQoOh_A2XYlD4DZPNUPgXhGRR-Ps9nyDzZV1lElH4P62eQ_gAuJcucQ"
+      "news_token": "V7JC53ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsUNl2IWpeYtCg2G8v3tklD4DZ-_ovAPXouC8AHdhR72"
     },
     {
-      "query": "first friday las vegas",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "U_XwsXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUj4rMXpeYtCg2G8g99k4fwAcjLEpU"
-    },
-    {
-      "query": "karen khachanov",
-      "search_volume": 200,
+      "query": "malaysia",
+      "search_volume": 500,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "2WnMRHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsVVPLmLUvMWhQZD-TbpH1D40zYro_DjZT6i8HX33Ebmy5uxxKHIn5IwhvABwb8tmQ"
+      "news_token": "-lKjBnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsXLH2IWpeYtCg2G8kUZ3yLzFZIiq1DkdR8VoPAf_K-A8AHcYSRA"
+    },
+    {
+      "query": "xrp news",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "QNSZp3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRgW3z0cXpeYtCg2G8hcqHUPmKzYdEYHwASrqGGs"
     },
     {
       "query": "solar system unstable",
@@ -82,60 +63,33 @@
       "news_token": "e6rq-3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWGF48WpeYtCg0GANavDU4"
     },
     {
-      "query": "xrp news",
+      "query": "federal judge flock camera",
       "search_volume": 1000,
-      "increase": 200,
+      "increase": 100,
       "categories": [
-        "business_and_finance"
+        "law_and_government"
       ],
-      "news_token": "Yt5KeXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWmIyKLUvMWhQZD-Apun48i8xVtdctQ5H-zuKLIN21UQeHrzN4J4QMAHVwoqQ"
+      "news_token": "TJ_2rXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsW9ZayLUvMWhQYDAM85DDw"
     },
     {
-      "query": "stock market difficulty jim cramer",
+      "query": "mehmet oz",
       "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "919wOHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkWp99yLUvMWhQYDAM1wDBg"
-    },
-    {
-      "query": "t.j. maxx",
-      "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "shopping",
+        "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "RdFALXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsWyf88XpeYtCg2G8i_2C6LyN75E4Z8QYkThz29QReHvk7VF4cfcYEfmy7oaPYTwAXllNN0"
+      "news_token": "5tX_Snica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsW5x4oXpeYtCg2G8v3tkpD5soeeNSHz5Zz7zCB8AM5QHb8"
     },
     {
-      "query": "kalshi",
-      "search_volume": 1000,
+      "query": "e85",
+      "search_volume": 200,
       "increase": 100,
       "categories": [
+        "autos_and_vehicles",
         "business_and_finance"
       ],
-      "news_token": "kRg-VHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsXj3pcWpeYtCg2G8tcnG6Dwz393QuFfbDVE4bfkdqDwT34xh_ABbFoqeg"
-    },
-    {
-      "query": "polymarket",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "tQJvJ3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkXuU7aLUvMWhQZD-Apzpt5E5iueUbRA4S_4Eo3Cn6SRh8I3fHoAhd8ZdhfF_O0pwRA-AB1ONTY"
-    },
-    {
-      "query": "gasoline",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "autos_and_vehicles"
-      ],
-      "news_token": "7ySa7Hica1xTlFpYmlpcEp-SWJI4f_J5BgYGRsVJ6zIXpeYtCg2G8jOk3qLwZ3zaicIvvVyHwo-_ex6Fv_eiOAp_iQobMl9hSSwTinwey24U-ZPmS1DkF3ZFoPCbulDNm32oBEW-s8oSRZ4jdAWEDwCfUFzS"
+      "news_token": "8MWzWXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsVjcusXpRUtCg2G8nM9r0P4AMiOEnI"
     }
   ]
 }

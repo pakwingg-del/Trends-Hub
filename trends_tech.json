@@ -10,153 +10,103 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 15,
+      "keywords_count": 10,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-03 21:31:00"
+      "last_updated_hkt": "2026-10-04 21:30:59"
     }
   },
   "trending_seeds": [
     {
-      "query": "taylor swift new curly hairstyle",
-      "search_volume": 20000,
-      "increase": 900,
-      "categories": [
-        "entertainment",
-        "beauty_and_fashion"
-      ],
-      "news_token": "mg5EYnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkW2dO5FqXmLQoMByHwLfA"
-    },
-    {
-      "query": "spain",
-      "search_volume": 5000,
+      "query": "ukraine news",
+      "search_volume": 10000,
       "increase": 700,
       "categories": [
-        "other"
+        "politics"
       ],
-      "news_token": "0Aw9J3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWDfPsWpeYtCg0GANEiDJA"
+      "news_token": "UMfF_Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsW4SIdFqXmLQoOh_Ivb81D4U_qcUPjX9q1B4auc2ofCP6uLKq_2vwSFH5DzAsIHAEjBNgA"
     },
     {
-      "query": "the widower netflix reviews",
-      "search_volume": 10000,
-      "increase": 600,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "13_ymnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVP-jaLUvMWhQYDANBVDGA"
-    },
-    {
-      "query": "cybersecurity tips",
-      "search_volume": 1000,
-      "increase": 400,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "kzNG_Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoWVk20XpeYtCg0GANDrDHw"
-    },
-    {
-      "query": "eden prairie shooting",
-      "search_volume": 10000,
-      "increase": 300,
-      "categories": [
-        "other"
-      ],
-      "news_token": "9D9Gn3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWDfk8XpeYtCg2G8VdXofIf70Php73YgMLXfncbhZ_JUgvhAwDGYytw"
-    },
-    {
-      "query": "capcom re engine ai plans",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "games",
-        "science"
-      ],
-      "news_token": "RaVNynica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUdm74tSs1bFBoMANeDDWQ"
-    },
-    {
-      "query": "kate middleton new hair scotland",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "beauty_and_fashion",
-        "law_and_government",
-        "entertainment"
-      ],
-      "news_token": "axUS33ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsVtBxYuSs1bFBoM4cves5GC8AHSsBKP"
-    },
-    {
-      "query": "doj minnesota judges misconduct complaint",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "mxUD_3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUNl-5FqXmLQoMBzBYL-w"
-    },
-    {
-      "query": "artificial intelligence news",
+      "query": "appletv",
       "search_volume": 500,
-      "increase": 300,
-      "categories": [
-        "other"
-      ],
-      "news_token": "c3qmi3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkWFrX8WpeYtCg2G8u2nvUPht-X_R-H7PdyFzFf4kLsGRf5U9VMUfhdzFAp_i_hnFH6vYA6EDwBm7zx2"
-    },
-    {
-      "query": "sling day pass",
-      "search_volume": 2000,
-      "increase": 200,
+      "increase": 500,
       "categories": [
         "entertainment",
         "technology"
       ],
-      "news_token": "uI3LTXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXdr9kWpeYtCg0GANLWDLA"
+      "news_token": "3KkBe3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsWaWZcWpeYtCg2G8rvUZqDwbycHIfMVkiKrUOSlT_ug8NtqJqCoL29JQeHv4EyF8AEQDTQb"
     },
     {
-      "query": "apple iphone duo",
+      "query": "hailee steinfeld",
       "search_volume": 2000,
-      "increase": 200,
+      "increase": 300,
       "categories": [
-        "technology"
+        "entertainment"
       ],
-      "news_token": "jqj17Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkXj-fsXpeYtCg2G8ndv10DhG72zQOHvWnobhR82mROFvz_RB8IHAEuTKXM"
-    },
-    {
-      "query": "anthropic claude frontier academy training",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "science"
-      ],
-      "news_token": "LUks13ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsX5E_YvSs1bFBoMANQRDPI"
-    },
-    {
-      "query": "samsung galaxy z fold 9",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "jMcOQXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsVNVdaLUvMWhQZD-THznVD4FfXfUPgiz_qQ-TLXe_ZA-ADRKSRH"
+      "news_token": "ebgbsnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkUJnlWLUvMWhQZD-Q-NrqPwjTluoPAfnHaE8AGoXB2H"
     },
     {
       "query": "apple tv",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "g8PK4Hica1xTlFpYmlpcEp-SWJI4f_J5BgYGRsX-dNZFqXmLQoOhfOnTPij8A-06yHyF8pYUFPnbyUEo_BsTZ6Lwu9RmoPDTWvlQ-HOZC1D495QWI_Pl7YQfo9g_u-wPinoRaVEUfnTQahT1x7f9h_AB5_9blQ"
+    },
+    {
+      "query": "ai games",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "games"
+      ],
+      "news_token": "zyJrunica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsWzr_UXpeYtCg2G8GVnXLBG5sukuP6F8AEsZBiz"
+    },
+    {
+      "query": "selma blair",
       "search_volume": 500,
       "increase": 200,
       "categories": [
-        "entertainment",
-        "technology"
+        "entertainment"
       ],
-      "news_token": "rAu2lXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRsWzr_4tSs1bFBoM5XevNUfhH2jXQeHn9PxC4YtIi6Lw22omoPBrZl1C5iv8vXQVRX4ucwEK_9wefhT1i3cooch7aZ1C4c-zP47Ml2_jXwDhAwBuhFic"
+      "news_token": "b-zIsXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsW9074vSs1bFBoMANbXDU4"
     },
     {
-      "query": "renaissance festival",
+      "query": "xbox game pass",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
-        "entertainment",
-        "hobbies_and_leisure"
+        "games",
+        "technology"
       ],
-      "news_token": "LglEAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUD79sWpeYtCg0GANajDTk"
+      "news_token": "OGHZP3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsXQzohFqXmLQoOh_Bt5Bij8-hn-KPyLT1ei8JMP3EXmy5oeyEHmK3CFlqPIM6XJQvgAJ0U0BA"
+    },
+    {
+      "query": "noah schnapp",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "kbiIjHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXzVUWLUvMWhQZD-DJXk99D-ADRCBMl"
+    },
+    {
+      "query": "prime day",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "Qa5BNHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsUZn38sSs1bFBoM4St8lvJG5ivaRH5Gkb93_zWK_EyWhSj8bVvKUfjpBy-i8KsevEUx77XMIxT5GeEo5snbJ_VD-AAkb0m6"
+    },
+    {
+      "query": "strait of hormuz oil shipping",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "-AGmenica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoWgBZ8XpeYtCg2G8BWbuthQ-M4nV6LwJ_w6g8IPqF-BzJflnn8LhZ_64SuEDwA9TzDa"
     }
   ]
 }
