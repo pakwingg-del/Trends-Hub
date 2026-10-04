@@ -10,26 +10,26 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 12,
+      "keywords_count": 11,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-04 00:31:05"
+      "last_updated_hkt": "2026-10-04 03:31:01"
     }
   },
   "trending_seeds": [
     {
       "query": "$90 medicare payment",
       "search_volume": 20000,
-      "increase": 900,
+      "increase": 600,
       "categories": [
         "business_and_finance",
         "law_and_government"
       ],
-      "news_token": "rq5qTnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGxYPXohal5i0KDYbyCw7PR-Gf1V2Dwt-75CgK_9A6PWS-wvQORhT5E7ESKPyDna0ofEP7Xyj8vFPvUcy7cHQSinxuL6r6bL4nKPzpJ-6j8NtuJKC6f9o1FPMDs19C-AD-TG25"
+      "news_token": "TFHVyHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWD16IWpeYtCg2G8ttuJKDw8069R-YrTO9gROEHZr9EUT_9xH0IHwCOISsv"
     },
     {
       "query": "getty",
       "search_volume": 20000,
-      "increase": 600,
+      "increase": 500,
       "categories": [
         "business_and_finance"
       ],
@@ -37,30 +37,30 @@
     },
     {
       "query": "social security administration 2027 announcement",
-      "search_volume": 5000,
-      "increase": 500,
+      "search_volume": 10000,
+      "increase": 400,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "rGn1cHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsU88Z2LUvMWhQZD-DKFfG-Q-fLygYsgfAAGdRdA"
+      "news_token": "TrQHcHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsU88Z2LUvMWhQYDAM5mDEI"
     },
     {
       "query": "federal bureau of investigation",
-      "search_volume": 5000,
-      "increase": 500,
+      "search_volume": 10000,
+      "increase": 400,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "FIM2n3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWdnEqLUvMWhQZD-dtkPFH4e7v4UPiLI6VR-IvCD6HwU27cgvAB12EolA"
+      "news_token": "Q2dgAXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsVtMp6LUvMWhQZD-Xu7-FD4B0S-ovAXhR9C4e_kVELhL46URuGn3LiFwnc9kobMlw3ePhWZr7CzmQXCBwAigj-2"
     },
     {
       "query": "seabed",
-      "search_volume": 2000,
-      "increase": 500,
+      "search_volume": 5000,
+      "increase": 400,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Mp0mh3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkVXY-tFqXmLQoMhfIW3sbHIfMW-7hhkvsw_TlsU_olpDBA-AJh2Ino"
+      "news_token": "TSyPEXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoW3sbGLUvMWhQZD-IquxtYo_L7uGGS-zD9OWxT-iWkMED4Ap6Yieg"
     },
     {
       "query": "medicare advantage",
@@ -69,7 +69,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "AMmU6Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkV_u6RFqXmLQoOh_A2XYlD4DZPNkPkKW0rqkfmyrjKJKPyfVs8hfAANDyjo"
+      "news_token": "ESGULnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkV_u6RFqXmLQoOh_A2XYlD4F4RkUfgNk82Q-bKuMoko_J9Wz5H5CoXrb0L4AKPSLn0"
     },
     {
       "query": "solar system unstable",
@@ -88,7 +88,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "1oQtJHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgW3z0cXpeYtCg2G8BVtdctQ-Dqzd6LwmzaqoPBLPR6g8NOf2CHz5QL-qkL4APEiLuU"
+      "news_token": "bSWTp3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgW3z0cXpeYtCg2G8n-zuCLzFW11y1D4TRtVUPg6s3dC-ADJWiML"
     },
     {
       "query": "stock market difficulty jim cramer",
@@ -107,25 +107,17 @@
         "shopping",
         "business_and_finance"
       ],
-      "news_token": "HrkEtXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsWyf88XpeYtCg2G8k8IMaLwY26wo_DnN6ii8A_MjEDh75O1RebLuho9hPAB-Coubg"
+      "news_token": "LzP4v3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsWyf88XpeYtCg2G8uc3qKLwL258icI_IcSIwt8na4vCj7nBjsyXdTV6COEDAEW5Lyg"
     },
     {
       "query": "gasoline",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
-        "business_and_finance"
+        "business_and_finance",
+        "autos_and_vehicles"
       ],
-      "news_token": "QTXHXnica1xTlFpYmlpcEp-SWJI4f_J5BgYGRsW9F8UXpeYtCg2G8BWWxDIh8xWXqLCh8Gd82onCL71ch8KPv3sehd_UhaJf4aT5EhT5PJbdKPyFXREo_I60hyj8DKm3KObNPlSCIt9ZZYkizxG6AsIHABM-XPg"
-    },
-    {
-      "query": "polymarket",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "SpSeyHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUlF70XpeYtCg2G8s8oWkD4AMpMEi0"
+      "news_token": "DzWP3nica1xTlFpYmlpcEp-SWJI4f_J5BgYGRsUMqbeLUvMWhQZD-TM-7UThl16uQ-HH3z2Pwt97URyFv0SFDZmvsCSWCUU-j2U3Cn9hVwSK-pPmS1Dkm7pQzFPstViOon72oRIU-c4qSxR5jtAVED4AcVVclQ"
     }
   ]
 }
