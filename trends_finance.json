@@ -10,30 +10,21 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 11,
+      "keywords_count": 13,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-04 03:31:01"
+      "last_updated_hkt": "2026-10-04 06:30:57"
     }
   },
   "trending_seeds": [
     {
       "query": "$90 medicare payment",
       "search_volume": 20000,
-      "increase": 600,
+      "increase": 500,
       "categories": [
         "business_and_finance",
         "law_and_government"
       ],
-      "news_token": "TFHVyHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWD16IWpeYtCg2G8ttuJKDw8069R-YrTO9gROEHZr9EUT_9xH0IHwCOISsv"
-    },
-    {
-      "query": "getty",
-      "search_volume": 20000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "hRGd43ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUB-_2LUvMWhQYDAMyCDBI"
+      "news_token": "1nM6dXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsWD16IWpeYtCg2G8ttuJKDw8069R-Erx7Yg8xWmdzCiyOf2_kLmy9Z9Y0Lh74mfAeEDAHwFNe4"
     },
     {
       "query": "social security administration 2027 announcement",
@@ -51,16 +42,7 @@
       "categories": [
         "law_and_government"
       ],
-      "news_token": "Q2dgAXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsVtMp6LUvMWhQZD-Xu7-FD4B0S-ovAXhR9C4e_kVELhL46URuGn3LiFwnc9kobMlw3ePhWZr7CzmQXCBwAigj-2"
-    },
-    {
-      "query": "seabed",
-      "search_volume": 5000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "TSyPEXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoW3sbGLUvMWhQZD-IquxtYo_L7uGGS-zD9OWxT-iWkMED4Ap6Yieg"
+      "news_token": "zhqprnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsVtMp6LUvMWhQZD-Xu7-FD4OzmVUPgHRL6i8BeFH0LhL46URubLBm-fisxX2NnMgqLe9UgahA8AHxU5XA"
     },
     {
       "query": "medicare advantage",
@@ -69,7 +51,25 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ESGULnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkV_u6RFqXmLQoOh_A2XYlD4F4RkUfgNk82Q-bKuMoko_J9Wz5H5CoXrb0L4AKPSLn0"
+      "news_token": "XpFDAnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkV_u6RFqXmLQoOh_A2XYlD4DZPNUPgXhGRR-Ps9nyDzZV1lElH4P62eQ_gAuJcucQ"
+    },
+    {
+      "query": "first friday las vegas",
+      "search_volume": 1000,
+      "increase": 300,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "U_XwsXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUj4rMXpeYtCg2G8g99k4fwAcjLEpU"
+    },
+    {
+      "query": "karen khachanov",
+      "search_volume": 200,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "2WnMRHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsVVPLmLUvMWhQZD-TbpH1D40zYro_DjZT6i8HX33Ebmy5uxxKHIn5IwhvABwb8tmQ"
     },
     {
       "query": "solar system unstable",
@@ -88,7 +88,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "bSWTp3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgW3z0cXpeYtCg2G8n-zuCLzFW11y1D4TRtVUPg6s3dC-ADJWiML"
+      "news_token": "Yt5KeXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWmIyKLUvMWhQZD-Apun48i8xVtdctQ5H-zuKLIN21UQeHrzN4J4QMAHVwoqQ"
     },
     {
       "query": "stock market difficulty jim cramer",
@@ -107,7 +107,25 @@
         "shopping",
         "business_and_finance"
       ],
-      "news_token": "LzP4v3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsWyf88XpeYtCg2G8uc3qKLwL258icI_IcSIwt8na4vCj7nBjsyXdTV6COEDAEW5Lyg"
+      "news_token": "RdFALXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsWyf88XpeYtCg2G8i_2C6LyN75E4Z8QYkThz29QReHvk7VF4cfcYEfmy7oaPYTwAXllNN0"
+    },
+    {
+      "query": "kalshi",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "kRg-VHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsXj3pcWpeYtCg2G8tcnG6Dwz393QuFfbDVE4bfkdqDwT34xh_ABbFoqeg"
+    },
+    {
+      "query": "polymarket",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "tQJvJ3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkXuU7aLUvMWhQZD-Apzpt5E5iueUbRA4S_4Eo3Cn6SRh8I3fHoAhd8ZdhfF_O0pwRA-AB1ONTY"
     },
     {
       "query": "gasoline",
@@ -117,7 +135,7 @@
         "business_and_finance",
         "autos_and_vehicles"
       ],
-      "news_token": "DzWP3nica1xTlFpYmlpcEp-SWJI4f_J5BgYGRsUMqbeLUvMWhQZD-TM-7UThl16uQ-HH3z2Pwt97URyFv0SFDZmvsCSWCUU-j2U3Cn9hVwSK-pPmS1Dkm7pQzFPstViOon72oRIU-c4qSxR5jtAVED4AcVVclQ"
+      "news_token": "7ySa7Hica1xTlFpYmlpcEp-SWJI4f_J5BgYGRsVJ6zIXpeYtCg2G8jOk3qLwZ3zaicIvvVyHwo-_ex6Fv_eiOAp_iQobMl9hSSwTinwey24U-ZPmS1DkF3ZFoPCbulDNm32oBEW-s8oSRZ4jdAWEDwCfUFzS"
     }
   ]
 }
