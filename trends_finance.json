@@ -10,48 +10,57 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 10,
+      "keywords_count": 12,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-03 21:30:58"
+      "last_updated_hkt": "2026-10-04 00:31:05"
     }
   },
   "trending_seeds": [
     {
-      "query": "donald trump medicare payment",
+      "query": "$90 medicare payment",
       "search_volume": 20000,
       "increase": 900,
       "categories": [
         "business_and_finance",
         "law_and_government"
       ],
-      "news_token": "EmBovXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRsWD16IWpeYtCg2G8s_qrkHhr2J-gsJfMeEfMl9hegcjivzBzlYU_t4lR1H4h9bpofALDs9H4e9j-oNifru-Kor8tLflKPyjpn8hfABlBlSd"
+      "news_token": "rq5qTnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGxYPXohal5i0KDYbyCw7PR-Gf1V2Dwt-75CgK_9A6PWS-wvQORhT5E7ESKPyDna0ofEP7Xyj8vFPvUcy7cHQSinxuL6r6bL4nKPzpJ-6j8NtuJKC6f9o1FPMDs19C-AD-TG25"
     },
     {
       "query": "getty",
       "search_volume": 20000,
-      "increase": 700,
+      "increase": 600,
       "categories": [
         "business_and_finance"
       ],
       "news_token": "hRGd43ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkUB-_2LUvMWhQYDAMyCDBI"
     },
     {
-      "query": "the widower netflix reviews",
-      "search_volume": 10000,
-      "increase": 600,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "13_ymnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoVP-jaLUvMWhQYDANBVDGA"
-    },
-    {
       "query": "social security administration 2027 announcement",
-      "search_volume": 2000,
-      "increase": 400,
+      "search_volume": 5000,
+      "increase": 500,
       "categories": [
         "business_and_finance"
       ],
       "news_token": "rGn1cHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsU88Z2LUvMWhQZD-DKFfG-Q-fLygYsgfAAGdRdA"
+    },
+    {
+      "query": "federal bureau of investigation",
+      "search_volume": 5000,
+      "increase": 500,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "FIM2n3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWdnEqLUvMWhQZD-dtkPFH4e7v4UPiLI6VR-IvCD6HwU27cgvAB12EolA"
+    },
+    {
+      "query": "seabed",
+      "search_volume": 2000,
+      "increase": 500,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Mp0mh3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkVXY-tFqXmLQoMhfIW3sbHIfMW-7hhkvsw_TlsU_olpDBA-AJh2Ino"
     },
     {
       "query": "medicare advantage",
@@ -60,17 +69,17 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "T24usHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkV_u6RFqXmLQoOh_A2XYlD4DZPNkPkKW0rqUeTPeKgj82VdZRJR-D-tnqPoL1x_E8IHANk7NKM"
+      "news_token": "AMmU6Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkV_u6RFqXmLQoOh_A2XYlD4DZPNkPkKW0rqkfmyrjKJKPyfVs8hfAANDyjo"
     },
     {
-      "query": "federal bureau of investigation",
-      "search_volume": 2000,
-      "increase": 300,
+      "query": "solar system unstable",
+      "search_volume": 1000,
+      "increase": 200,
       "categories": [
-        "law_and_government",
-        "politics"
+        "science",
+        "business_and_finance"
       ],
-      "news_token": "j1uduHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsWdnEqLUvMWhQZD-dtkPFH4e7v4UPiLI6VR-IvCD6Hws_nSUPgpN25B-AB10i23"
+      "news_token": "e6rq-3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWGF48WpeYtCg0GANavDU4"
     },
     {
       "query": "xrp news",
@@ -79,7 +88,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "mZv2KHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgW3z0cXpeYtCg2G8BVtdctQ-DqzdyLzFRYqHUORL_V4gCL_8vdKFPn0J3YQPgAUlTAz"
+      "news_token": "1oQtJHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRgW3z0cXpeYtCg2G8BVtdctQ-Dqzd6LwmzaqoPBLPR6g8NOf2CHz5QL-qkL4APEiLuU"
     },
     {
       "query": "stock market difficulty jim cramer",
@@ -92,7 +101,7 @@
     },
     {
       "query": "t.j. maxx",
-      "search_volume": 1000,
+      "search_volume": 2000,
       "increase": 100,
       "categories": [
         "shopping",
@@ -107,7 +116,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "zjYkh3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGxb0XxRel5i0KDYbyl6iwIfMVlsQyochnSL1F4c_4tBOFX3q5DoUff_c8Cr-pC8V8xYVdESj2nTRfgiKfx7Ibhd-R9hCFHzrzC4r-2YdKUOQ7qyxR5DlCV0D4AGp0Y2o"
+      "news_token": "QTXHXnica1xTlFpYmlpcEp-SWJI4f_J5BgYGRsW9F8UXpeYtCg2G8BWWxDIh8xWXqLCh8Gd82onCL71ch8KPv3sehd_UhaJf4aT5EhT5PJbdKPyFXREo_I60hyj8DKm3KObNPlSCIt9ZZYkizxG6AsIHABM-XPg"
+    },
+    {
+      "query": "polymarket",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "SpSeyHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUlF70XpeYtCg2G8s8oWkD4AMpMEi0"
     }
   ]
 }
