@@ -10,56 +10,67 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 15,
+      "keywords_count": 19,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-05 06:30:54"
+      "last_updated_hkt": "2026-10-05 21:30:56"
     }
   },
   "trending_seeds": [
     {
-      "query": "medicare advantage",
+      "query": "mcdonald's menu",
+      "search_volume": 5000,
+      "increase": 1000,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "I6vLJnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoUZDYWLUvMWhQZD-Irz86JR-MtDzyPzFT5svoPMl5_68xuEDwD5HSXP"
+    },
+    {
+      "query": "moving services",
+      "search_volume": 2000,
+      "increase": 500,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "QHEZ8Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVXnQ6LUvMWhQYDANMDDLc"
+    },
+    {
+      "query": "medicare",
       "search_volume": 10000,
       "increase": 300,
       "categories": [
+        "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "lkkXC3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsUNl2IWpeYtCg2G8v3tklD4B69FofAbPn-F8AHWFR72"
+      "news_token": "TW3FoHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsWD16IWpeYtCg2G8v3tklD4DZPNUPgbLsWg8COfFKDwf1xuQOELrJdC5styGiSj8F1lEiF8AJu6OVI"
     },
     {
-      "query": "strait of hormuz oil shipping",
+      "query": "social security 2027 cola increase",
       "search_volume": 5000,
-      "increase": 300,
+      "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "1MLmG3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWmLrZFqXmLQoMhfIWgBZ-R-YoTfp1B4TufXInMl-WefwuFn_rhK4QPAGjLKx8"
+      "news_token": "C9sHBXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsU88Z2LUvMWhQZD-PLygYuQ-Qpcb78j82UK-d5A-ACtVB1x"
     },
     {
-      "query": "bill gates",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "cwfat3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsUH8W8WpeYtCg2G8p8bL0XmK_yU4kHmy_6Vb4PwAe6yHnY"
-    },
-    {
-      "query": "malaysia",
-      "search_volume": 500,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "WqpX03ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsXLH2IWpeYtCg2G8nUfFaDwr8xYhsJ_8L8ChS_K-BbCBwAkKCUe"
-    },
-    {
-      "query": "xrp news",
+      "query": "rxo",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Nc3ec3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsWmIyKLUvMWhQZD-Apun4-i8BcqHUPmKzZtVIHwAdD2HgY"
+      "news_token": "ZaNDQnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsV32X6LUvMWhQYDANKZDKs"
+    },
+    {
+      "query": "department of treasury",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "qbGLHHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsU36xYtSs1bFBoM5U_b_AqFbxqVjsJf4jUdhf_xgjgK3-nOWWS-TEhbGQr_vF0-Ml-2-MA-CB8AQa08gA"
     },
     {
       "query": "chris wright",
@@ -69,91 +80,117 @@
         "politics",
         "business_and_finance"
       ],
-      "news_token": "KoMYd3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsXHOgyLUvMWhQZD-Z1Vlij8_K5aFP7jo8tR-JMN36Dw18uvQ-bLd-VEQPgA5mcvJA"
+      "news_token": "ECQ2Cnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXHOgyLUvMWhQZD-Z1Vlij8yYZvIHwAAl4Xhw"
     },
     {
-      "query": "estados unidos",
-      "search_volume": 200,
-      "increase": 200,
+      "query": "student loans",
+      "search_volume": 10000,
+      "increase": 100,
       "categories": [
         "business_and_finance",
-        "travel_and_transportation"
+        "jobs_and_education"
       ],
-      "news_token": "1kKgEXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsU73ZqLUosXhQZD-Ap3dv9D4TcGdCLzFZ8vW4TCf7qsAYXfriuPwt-WwALhAwCG9DBj"
+      "news_token": "Re_q63ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsUFn6cuSs1bFBoM5b9lMULhc8a2IfMVEpXtUeQ_PahC5kvNnduPoj5j8jwU9cnGM1D40xxYIHwAhbU5yw"
     },
     {
-      "query": "social security 2027 cola increase",
+      "query": "peter thiel",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "C9sHBXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsU88Z2LUvMWhQZD-PLygYuQ-Qpcb78j82UK-d5A-ACtVB1x"
+      "news_token": "j6NNBnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsU9IssWpeYtCg2G8nlazVD4VjdNUfhFD4JR-EoV3Sj82xYKyHyFb0mJED4AnHUt1g"
     },
     {
-      "query": "polymarket",
+      "query": "msft stock",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "UVNpk3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsXupOpFqXmLQoOhfO6p91H4IqEJKPzPvaoo_NOntCB8ALLWIyg"
+    },
+    {
+      "query": "xrp ledger",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "dX5BA3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkXuU7aLUvMWhQZD-Rl3XFH4ZxQtUPidYXeR-QrbU4KR-bKaNzci82WuH7uJon7_F1kU-T16vRA-AIGDO24"
+      "news_token": "3sAegXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsVnExwWpeYtCg2G8BXcPh9F5ive2KCPyj9wC8IHAPL-H6w"
     },
     {
-      "query": "federal judge flock camera",
+      "query": "dolar hoje",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
-        "law_and_government"
+        "business_and_finance"
       ],
-      "news_token": "TJ_2rXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsW9ZayLUvMWhQYDAM85DDw"
+      "news_token": "n3iR5Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUzotyLCkoWhQYDAM0nDAA"
     },
     {
-      "query": "mehmet oz",
+      "query": "new york city police department",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "yo0gmXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkX-Fd2LUvMWhQYDAM5VDEY"
+    },
+    {
+      "query": "spcx stock price",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "O3iNUXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsV81pBFqXmLQoMhfIVauxnIfMXty9ohfAD6OxeK"
+    },
+    {
+      "query": "dave ramsey",
       "search_volume": 500,
       "increase": 100,
       "categories": [
-        "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "5tX_Snica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsW5x4oXpeYtCg2G8v3tkpD5soeeNSHz5Zz7zCB8AM5QHb8"
+      "news_token": "RlAs0Xica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsVHW9UXpeYtCg2G8p9XTEfh33DhRuG_y65F4QeI_0HhX-xnQ-YrfNprhSJ_xyILhb_H2x_CBwDsVDta"
+    },
+    {
+      "query": "ptc",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "QpXXfHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUHixwXpeYtCg2G8nek3IDwAdCeEv8"
     },
     {
       "query": "debt crisis",
-      "search_volume": 200,
+      "search_volume": 500,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "2otSO3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsWFmvqLUvMWhQZD-YIyOSj8k56HUPh9t3RR-DWrDqDwV53PRebL-85PQpHfvzoSwgcAw9k0tg"
+      "news_token": "Ik-gsnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkVBmZxFqXmLQoOhfEWOMyj8k56HUPjv-46i8NN17VH4eYnSKPy-W7oQPgCGhy2S"
     },
     {
-      "query": "e85",
-      "search_volume": 200,
+      "query": "gasoline",
+      "search_volume": 500,
       "increase": 100,
       "categories": [
-        "autos_and_vehicles",
-        "business_and_finance"
+        "politics"
       ],
-      "news_token": "8MWzWXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsVjcusXpRUtCg2G8nM9r0P4AMiOEnI"
+      "news_token": "_XJ3GHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsWsvthFqXmLQoOh_Jr97ij8_XyFKPxSTxYU_nzljyj8OJZoFH6aFjMyX2H2oRJkvsx1nesQPgDtsDij"
     },
     {
-      "query": "united airlines",
-      "search_volume": 20000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "oBDbtnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsU5-TqLUvMWhQZD-ZdDqlH4d3d5oPDv3N2Iwg9ddg2F7_VgBgp_EeNsCB8ASAcwjw"
-    },
-    {
-      "query": "kalshi",
+      "query": "tradingview",
       "search_volume": 2000,
-      "increase": 75,
+      "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "3hu-gXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXj3pcWpeYtCg2G8u_5_kThn9dQhvABNGIYrg"
+      "news_token": "6yKbhXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWPq64sSs1bFBoM4Stc2ysG4QMA3roTXw"
     }
   ]
 }
