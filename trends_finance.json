@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 8,
+      "keywords_count": 13,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-05 00:30:52"
+      "last_updated_hkt": "2026-10-05 03:31:28"
     }
   },
   "trending_seeds": [
@@ -23,7 +23,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "i_epAXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkV_u6RFqXmLQoOh_A2XYlD4B69FofAbPn9F5U82Q-aLfPn6Apkv6yqTiML_afUcwgcAfcA25w"
+      "news_token": "jbTiTnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkV_u6RFqXmLQoOh_A2XYlD4DZ-_ovAPXotClZ9shswX-fL1BYQPAGnSK4s"
+    },
+    {
+      "query": "strait of hormuz oil shipping",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "lUrMWHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsWmLrZFqXmLQoMhfIWgBZ-R-YoTfp1B4TufXInCD6hfgcyX5Z5_C4Wf-uErhA8AOj8w2g"
     },
     {
       "query": "bill gates",
@@ -35,14 +44,13 @@
       "news_token": "uflXeHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsUH8W8WpeYtCg2G8BV-SvEg82X_yreh8K85dUL4AOGFHlQ"
     },
     {
-      "query": "chris wright",
-      "search_volume": 1000,
+      "query": "malaysia",
+      "search_volume": 500,
       "increase": 300,
       "categories": [
-        "politics",
         "business_and_finance"
       ],
-      "news_token": "8f2k1Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsXHOgyLUvMWhQZD-Z1Vlij8yYZvUPjr5deh8O8LVED4AKmJIvI"
+      "news_token": "WqpX03ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsXLH2IWpeYtCg2G8nUfFaDwr8xYhsJ_8L8ChS_K-BbCBwAkKCUe"
     },
     {
       "query": "xrp news",
@@ -51,7 +59,35 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "LPbER3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRgW3z0cXpeYtCg2G8BWbjogg8xUWKh1Dld-ogsI_Ux6Fov43iyuK_ELL-Sj89Cd2ED4AOkg0-A"
+      "news_token": "QfX3EXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsWmIyKLUvMWhQZD-AoLlY6h8N0-H0XmK_b1-KDwmzaqoPDPlEdB-ABByymR"
+    },
+    {
+      "query": "chris wright",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "politics",
+        "business_and_finance"
+      ],
+      "news_token": "rqE6GHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsXHOgyLUvMWhQbD-EeXo_A7qyxR-PldtSj8yYZvUPjr5ddB-AA_xCmU"
+    },
+    {
+      "query": "social security 2027 cola increase",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "b-Kxv3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsU88Z2LUvMWhQZD-PLygYuQ-TKFfG-Q-Qpcb79D-ACk5B1x"
+    },
+    {
+      "query": "polymarket",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "0JaXd3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRkXuU7aLUvMWhQZD-Apzpt5E5itm3HFF4Z9RtEDhGz49gMLvDLuLYt72lGBkvsz1Y1DzASlENhk"
     },
     {
       "query": "federal judge flock camera",
@@ -90,6 +126,15 @@
         "business_and_finance"
       ],
       "news_token": "oBDbtnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsU5-TqLUvMWhQZD-ZdDqlH4d3d5oPDv3N2Iwg9ddg2F7_VgBgp_EeNsCB8ASAcwjw"
+    },
+    {
+      "query": "kalshi",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "maFFg3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsXj3pcWpeYtCg2G8s9rKKPw7_n-ROEnvS-B8AHeDh63"
     }
   ]
 }
