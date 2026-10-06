@@ -10,21 +10,21 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 19,
+      "keywords_count": 22,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-05 21:30:56"
+      "last_updated_hkt": "2026-10-06 00:30:53"
     }
   },
   "trending_seeds": [
     {
       "query": "mcdonald's menu",
-      "search_volume": 5000,
+      "search_volume": 10000,
       "increase": 1000,
       "categories": [
         "food_and_drink",
         "business_and_finance"
       ],
-      "news_token": "I6vLJnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoUZDYWLUvMWhQZD-Irz86JR-MtDzyPzFT5svoPMl5_68xuEDwD5HSXP"
+      "news_token": "VoOiCHica1xTlFpYmlpcEp-SWJI4d_J5BgYGRoUZDYWLUvMWhQZD-Iorlx9E4d9T2oLCfyN6C4X_UbUehf97-gcU_ruJ5ij8qo9HUfhmh5aj8OfnRaPwl4eeR-YrfNh8B5kvP_XnNwgfAO0iVys"
     },
     {
       "query": "moving services",
@@ -36,14 +36,24 @@
       "news_token": "QHEZ8Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVXnQ6LUvMWhQYDANMDDLc"
     },
     {
+      "query": "arthur blank",
+      "search_volume": 1000,
+      "increase": 400,
+      "categories": [
+        "jobs_and_education",
+        "business_and_finance"
+      ],
+      "news_token": "K_x7GHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXPn60XpeYtCg0GANaBDSU"
+    },
+    {
       "query": "medicare",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 300,
       "categories": [
         "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "TW3FoHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsWD16IWpeYtCg2G8v3tklD4DZPNUPgbLsWg8COfFKDwf1xuQOELrJdC5styGiSj8F1lEiF8AJu6OVI"
+      "news_token": "iPYVWHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsWD16IWpeYtCg2G8BW2lNQj8xUjnxSg8Bs-f0Xh-9slofAF1kuhmMdiGoDCv9jsimreZDMIHwDSljoB"
     },
     {
       "query": "social security 2027 cola increase",
@@ -61,7 +71,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ZaNDQnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsV32X6LUvMWhQYDANKZDKs"
+      "news_token": "sX4WWXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsV32X6LUvMWhQZD-XvjqyF8AMt5EoY"
     },
     {
       "query": "department of treasury",
@@ -70,17 +80,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "qbGLHHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsU36xYtSs1bFBoM5U_b_AqFbxqVjsJf4jUdhf_xgjgK3-nOWWS-TEhbGQr_vF0-Ml-2-MA-CB8AQa08gA"
-    },
-    {
-      "query": "chris wright",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "politics",
-        "business_and_finance"
-      ],
-      "news_token": "ECQ2Cnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXHOgyLUvMWhQZD-Z1Vlij8yYZvIHwAAl4Xhw"
+      "news_token": "Nidf0Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsX9qyMXpeYtCg2G8pd4TUfhv1m3CJkvW3xgH4q8052zED4AD2UlcA"
     },
     {
       "query": "student loans",
@@ -90,16 +90,16 @@
         "business_and_finance",
         "jobs_and_education"
       ],
-      "news_token": "Re_q63ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsUFn6cuSs1bFBoM5b9lMULhc8a2IfMVEpXtUeQ_PahC5kvNnduPoj5j8jwU9cnGM1D40xxYIHwAhbU5yw"
+      "news_token": "UoHf53ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsUFn6cuSs1bFBoM5b9lMULhc8a2ofA_PahC5kvNnduPzFfImDwPRX3NqhMQPgAyFDBn"
     },
     {
-      "query": "peter thiel",
+      "query": "dave ramsey",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "j6NNBnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsU9IssWpeYtCg2G8nlazVD4VjdNUfhFD4JR-EoV3Sj82xYKyHyFb0mJED4AnHUt1g"
+      "news_token": "jveUe3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsVHW9UXpeYtCg2G8p9XTEfh33DhRuEHiP9B4V_sZ0Ph37HIQuYrfNprhSK_x9sfwgcARj81QA"
     },
     {
       "query": "msft stock",
@@ -108,7 +108,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "UVNpk3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsXupOpFqXmLQoOhfO6p91H4IqEJKPzPvaoo_NOntCB8ALLWIyg"
+      "news_token": "i9P1nHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsXupOpFqXmLQoOhfJHQBBT-515VFP7pU1oo_GOMUPUArFAi0A"
     },
     {
       "query": "xrp ledger",
@@ -117,16 +117,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "3sAegXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsVnExwWpeYtCg2G8BXcPh9F5ive2KCPyj9wC8IHAPL-H6w"
-    },
-    {
-      "query": "dolar hoje",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "n3iR5Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUzotyLCkoWhQYDAM0nDAA"
+      "news_token": "02D2Unica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsVnExwWpeYtCg2G8n_dWoDMV3D7fBRF_ktTEAr_xgZ9FH7TRhUU_rsJ7yF8AKWWMgY"
     },
     {
       "query": "new york city police department",
@@ -139,31 +130,41 @@
       "news_token": "yo0gmXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkX-Fd2LUvMWhQYDAM5VDEY"
     },
     {
+      "query": "dolar hoje",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "n3iR5Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUzotyLCkoWhQYDAM0nDAA"
+    },
+    {
       "query": "spcx stock price",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "O3iNUXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsV81pBFqXmLQoMhfIVauxnIfMXty9ohfAD6OxeK"
+      "news_token": "qqbS8Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsV81pBFqXmLQoMhfIVauxnIfEUH1V4IHwDyLhaY"
     },
     {
-      "query": "dave ramsey",
+      "query": "trump accounts",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "-c_8yHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsW4JacXpeYtCg2G8r3fL0bh38hLRubLLmA0R-FvjmuF8AHxpiPN"
+    },
+    {
+      "query": "gasoline",
       "search_volume": 500,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "RlAs0Xica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsVHW9UXpeYtCg2G8p9XTEfh33DhRuG_y65F4QeI_0HhX-xnQ-YrfNprhSJ_xyILhb_H2x_CBwDsVDta"
-    },
-    {
-      "query": "ptc",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "QpXXfHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUHixwXpeYtCg2G8nek3IDwAdCeEv8"
+      "news_token": "oGN_Lnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsU4luhFqXmLQoOh_Ky-WBR-qScLCn--8kcU_qR1mRA-AHkPIkQ"
     },
     {
       "query": "debt crisis",
@@ -175,13 +176,40 @@
       "news_token": "Ik-gsnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkVBmZxFqXmLQoOhfEWOMyj8k56HUPjv-46i8NN17VH4eYnSKPy-W7oQPgCGhy2S"
     },
     {
-      "query": "gasoline",
+      "query": "ptc",
       "search_volume": 500,
       "increase": 100,
       "categories": [
-        "politics"
+        "business_and_finance"
       ],
-      "news_token": "_XJ3GHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsWsvthFqXmLQoOh_Jr97ij8_XyFKPxSTxYU_nzljyj8OJZoFH6aFjMyX2H2oRJkvsx1nesQPgDtsDij"
+      "news_token": "YA_Hinica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsUHixwXpeYtCg2G8kv6wyB8AMwEEmQ"
+    },
+    {
+      "query": "djia today",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "43TQnHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRoXfNwUXpeYtCg2G8BWZC69C-ADN9RJ1"
+    },
+    {
+      "query": "elon musk",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "7jmPhnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRkUH1d5FqXmLQoOh_HfCs1H4D-LfIPMVXpz5hiK_7XkaCv_Nuk0o_DtrzFD43cd-ofAjf_xD4W-QYkfhn_Q8hMK_9qAIhb_TAOpeAByHVo4"
+    },
+    {
+      "query": "s&p 500",
+      "search_volume": 5000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "mlI4dXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRkW265WLUvMWhQZD-TNW7kXhH-u7j8L_fL4Jhf_beyYK_6aXFzJfQe7bRxT5c_6BKPw9IstQ-PdmT0fh67DOR7U_YBYK__L5WhT7zOenQfgAKaJajg"
     },
     {
       "query": "tradingview",
@@ -190,7 +218,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "6yKbhXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWPq64sSs1bFBoM4Stc2ysG4QMA3roTXw"
+      "news_token": "PQAao3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsWPq64sSs1bFBoM5U9744zCz2pMgfABQsoZDw"
     }
   ]
 }
