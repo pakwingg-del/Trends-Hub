@@ -10,105 +10,166 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 10,
+      "keywords_count": 16,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-05 21:30:58"
+      "last_updated_hkt": "2026-10-06 21:31:01"
     }
   },
   "trending_seeds": [
     {
-      "query": "british airways",
+      "query": "united airlines dulles rome flight canceled",
       "search_volume": 50000,
       "increase": 1000,
       "categories": [
         "other"
       ],
-      "news_token": "RLhJtXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRsX3734tSs1bFBoM5Z84ORuFLyG3AoUvHOOBwhfoCEfhr9fnQOEXHJ6Pwv9WlI_C_9nxD4X_wVwNmS_ruy8CRd7yZSSEDwCu9kys"
+      "news_token": "8YO28Xica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRsXLIdWLUvMWhQZD-Xd3eSDzFT5LeaPI37m7EYXfEC6Gwp9_1Q-Zr8SfEI3CZ9W9iaLe6e4DFPt26f5FkZ-Tr4PMl73v-w3CBwCPIkzv"
     },
     {
-      "query": "isaiah washington",
-      "search_volume": 50000,
-      "increase": 1000,
+      "query": "british airways london chicago flight",
+      "search_volume": 5000,
+      "increase": 400,
+      "categories": [
+        "other"
+      ],
+      "news_token": "dgG1xHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsX3734tSs1bFBoM5f8SF0ThFxyej8L_drYWhd8hz4zMV-LM70WRf3DkIgrfYHcSMl-2490XCB8AVbI9Bw"
+    },
+    {
+      "query": "ghost computer ai",
+      "search_volume": 2000,
+      "increase": 400,
+      "categories": [
+        "science",
+        "technology"
+      ],
+      "news_token": "6sE83nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXvcVKLUvMWhQYDANEWDHM"
+    },
+    {
+      "query": "best tv prices",
+      "search_volume": 200,
+      "increase": 300,
+      "categories": [
+        "technology",
+        "shopping"
+      ],
+      "news_token": "cw3z7Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsUZn38sSs1bFBoM4St8lvJG5iuuMhGA8AE4_BhU"
+    },
+    {
+      "query": "ps5 pro",
+      "search_volume": 10000,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "yBB8vnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsW_91IWpeYtCg2G8BW-FhYi85UETK4j8xUZZjCgyHM-O4jC55H5h8zn2WThjcyXCziRg2Jf-sTNED4AlmQ6EA"
+    },
+    {
+      "query": "youtube tv",
+      "search_volume": 10000,
+      "increase": 100,
+      "categories": [
+        "technology",
+        "entertainment"
+      ],
+      "news_token": "hk9jBXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiXerMJFqXmLQoMhfMVviwKQ-Ursp_tR5J-vX4wizzhnJYQPAMcbI8c"
+    },
+    {
+      "query": "planet labs",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "science",
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "YTkpIXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsWbXkGLUvMWhQZD-UfCLFH4k54_QuHvZzaH8AHOTB3s"
+    },
+    {
+      "query": "nicole kidman new hairstyle",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "entertainment",
+        "beauty_and_fashion"
+      ],
+      "news_token": "u4Eihnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXTxhcXpeYtCg2G8JVYJd9A-ADJDBIi"
+    },
+    {
+      "query": "asha sharma xbox town hall",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "technology",
+        "games",
+        "science"
+      ],
+      "news_token": "w_4ziXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUGRbtFqXmLQoMBy_sL4w"
+    },
+    {
+      "query": "sonic the hedgehog",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "-e5GiHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiW2fK1FqXmLQoOhfGFGeWS-Ygr7RxR5_t_TUOR_zUblz7FuQeZLdyn-h_ABQZUtlw"
+    },
+    {
+      "query": "isaiah washington wife",
+      "search_volume": 1000,
+      "increase": 100,
       "categories": [
         "entertainment"
       ],
       "news_token": "nVxm_Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWLJf8XpeYtCg0GANazDUg"
     },
     {
-      "query": "s27 ultra",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "anSf7nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkWz2sRFqXmLQoOh_NWHQiB8AL5LEh0"
-    },
-    {
-      "query": "artificial intelligence",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "eZMU4Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkX1u18WpeYtCg2G8kN-66HwV96yReFH_viHwn88IReFL6MxH4W_p7MFhf88_jCq-SxQ_QBCuTxX"
-    },
-    {
-      "query": "xbox game pass",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "RqASuXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsV39daLUvMWhQZD-aGdESj8-hn-KPwbeQYQPgDCGh2K"
-    },
-    {
-      "query": "trailer",
-      "search_volume": 2000,
+      "query": "apple tv imperfect women season 2",
+      "search_volume": 500,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "XN_UQHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRkW316sXpeYtCg2G8ls3X0XmK-zlzUGRf-x-CYX_wfwiCv9T8zcU_orLvyF8AIZaMo8"
+      "news_token": "vYCBUnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXvJjsWpeYtCg0GANQYDOc"
     },
     {
-      "query": "ronaldo caiado",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "jbDvcHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsUCxbWLCkoWhQZD-SWqxsh8hWUbk1Hkn0zfDOEDAK5sHgU"
-    },
-    {
-      "query": "playstation plus essential",
+      "query": "data center",
       "search_volume": 200,
       "increase": 100,
       "categories": [
-        "games",
         "technology"
       ],
-      "news_token": "U6PTwXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsX6f6GLUvMWhQYDANN7DNY"
+      "news_token": "NL_3E3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkXHxEuLUvMWhQZD-TZRXSj83_u1kflKwg5nUPhCPkEofO4nO1HV-6egmNdffAuFv6DQHcIHACG2ORI"
     },
     {
-      "query": "google fitbit edge",
-      "search_volume": 100,
-      "increase": 100,
+      "query": "ai data center",
+      "search_volume": 500,
+      "increase": 75,
       "categories": [
         "technology",
-        "shopping",
-        "beauty_and_fashion"
+        "science"
       ],
-      "news_token": "q2H13nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXbX9YvSs1bFBoMANjdDYI"
+      "news_token": "FTgHK3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRiWBgC2LUvMWhQZD-dxPdqLwhf1TUPgcE94h8xX7i2-h8EMlG1DUM268h8Ln-3sWma_wZdYhCB8ALnA6sw"
     },
     {
-      "query": "chatgpt login",
-      "search_volume": 1000,
+      "query": "eva marie saint",
+      "search_volume": 200,
       "increase": 50,
       "categories": [
-        "technology"
+        "entertainment"
       ],
-      "news_token": "k1bW4Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoU5UycvSs1bFBoMANLgDMc"
+      "news_token": "qe1QMnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXhjZsXpeYtCg0GAM_jDHw"
+    },
+    {
+      "query": "laila ali",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "other"
+      ],
+      "news_token": "mpXgy3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsVzR7kXpeYtCg2G8n_P_w3hAwDSchN7"
     }
   ]
 }
