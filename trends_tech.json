@@ -10,166 +10,213 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 16,
+      "keywords_count": 22,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-06 21:31:01"
+      "last_updated_hkt": "2026-10-07 21:31:09"
     }
   },
   "trending_seeds": [
     {
-      "query": "united airlines dulles rome flight canceled",
-      "search_volume": 50000,
-      "increase": 1000,
-      "categories": [
-        "other"
-      ],
-      "news_token": "8YO28Xica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRsXLIdWLUvMWhQZD-Xd3eSDzFT5LeaPI37m7EYXfEC6Gwp9_1Q-Zr8SfEI3CZ9W9iaLe6e4DFPt26f5FkZ-Tr4PMl73v-w3CBwCPIkzv"
-    },
-    {
-      "query": "british airways london chicago flight",
+      "query": "chris lacivita james blair outside work",
       "search_volume": 5000,
       "increase": 400,
       "categories": [
-        "other"
+        "politics",
+        "law_and_government"
       ],
-      "news_token": "dgG1xHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsX3734tSs1bFBoM5f8SF0ThFxyej8L_drYWhd8hz4zMV-LM70WRf3DkIgrfYHcSMl-2490XCB8AVbI9Bw"
+      "news_token": "yQNVOXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiWRGr5FqXmLQoMBycELow"
     },
     {
-      "query": "ghost computer ai",
+      "query": "aircraft",
       "search_volume": 2000,
       "increase": 400,
       "categories": [
-        "science",
-        "technology"
+        "law_and_government"
       ],
-      "news_token": "6sE83nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXvcVKLUvMWhQYDANEWDHM"
+      "news_token": "fDvp3Hica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiVhhwWLUvMWhQZD-YJTlFD4ymkmyHzFyz8OofCjUkVQ-NdiYlD40TzBKOaprDyAqn_lNBR-s10aCj9I8jOqe2ReQPgA1ZRI5g"
     },
     {
-      "query": "best tv prices",
-      "search_volume": 200,
+      "query": "openai mathematics",
+      "search_volume": 10000,
       "increase": 300,
       "categories": [
-        "technology",
-        "shopping"
-      ],
-      "news_token": "cw3z7Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsUZn38sSs1bFBoM4St8lvJG5iuuMhGA8AE4_BhU"
-    },
-    {
-      "query": "ps5 pro",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "yBB8vnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsW_91IWpeYtCg2G8BW-FhYi85UETK4j8xUZZjCgyHM-O4jC55H5h8zn2WThjcyXCziRg2Jf-sTNED4AlmQ6EA"
-    },
-    {
-      "query": "youtube tv",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "technology",
-        "entertainment"
-      ],
-      "news_token": "hk9jBXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiXerMJFqXmLQoMhfMVviwKQ-Ursp_tR5J-vX4wizzhnJYQPAMcbI8c"
-    },
-    {
-      "query": "planet labs",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "science",
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "YTkpIXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsWbXkGLUvMWhQZD-UfCLFH4k54_QuHvZzaH8AHOTB3s"
-    },
-    {
-      "query": "nicole kidman new hairstyle",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "entertainment",
-        "beauty_and_fashion"
-      ],
-      "news_token": "u4Eihnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXTxhcXpeYtCg2G8JVYJd9A-ADJDBIi"
-    },
-    {
-      "query": "asha sharma xbox town hall",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "technology",
-        "games",
         "science"
       ],
-      "news_token": "w_4ziXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUGRbtFqXmLQoMBy_sL4w"
+      "news_token": "t38e2nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiWBgJWLUvMWhQZD-PKWZ7ci8xXcnO1Q5KdOF0PmK3bo5yPzpfe8QjFPZlrfeQgfAKNXLsI"
     },
     {
-      "query": "sonic the hedgehog",
-      "search_volume": 1000,
+      "query": "delta passenger steals airport tug",
+      "search_volume": 10000,
+      "increase": 300,
+      "categories": [
+        "travel_and_transportation"
+      ],
+      "news_token": "w7gMHHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXJggWLUvMWhQYDAM2MDC4"
+    },
+    {
+      "query": "airport",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "other"
+      ],
+      "news_token": "50gwbnica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGBSXe5EWpeYtCgyF8JcEpSsh8xflX_VDkJQsWoPCV5y5GUb_l808UebH_k1H4_NJpKHyVPZtQ9H-WeInCv2HwBEW91FsnFHm-udNQ5BUfm6DwRUP7kPkKf7ZA1QMAP6FiRA"
+    },
+    {
+      "query": "xbox gta 6 streaming rights",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "_U7m_Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiWRfZqLUvMWhQYDAMyODAA"
+    },
+    {
+      "query": "surface laptop ultra",
+      "search_volume": 20000,
+      "increase": 100,
+      "categories": [
+        "technology",
+        "science"
+      ],
+      "news_token": "7I7J5nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsUq7eRFqXmLQoOhfNm-MGS-khxzPYr8hF8HIXwAiMgcxQ"
+    },
+    {
+      "query": "eva marie saint passing",
+      "search_volume": 10000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "JP0Zonica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiXhjZsXpeYtCg2efG7vw998UDZETl00DJkvfyD2CjJfRm2RLIQPALEwI3I"
+    },
+    {
+      "query": "official sonic the hedgehog discord",
+      "search_volume": 5000,
       "increase": 100,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "-e5GiHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiW2fK1FqXmLQoOhfGFGeWS-Ygr7RxR5_t_TUOR_zUblz7FuQeZLdyn-h_ABQZUtlw"
+      "news_token": "SPMG6nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiW2fK1FqXmLQoMByZ8LpA"
     },
     {
-      "query": "isaiah washington wife",
+      "query": "black sea commercial vessel drone strike",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "qT53V3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUP_6UWpeYtCg0GANXfDQ0"
+    },
+    {
+      "query": "los angeles international airport",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "1P8S0Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiXBKUqLUvMWhQZD-IqPFvFC-AC2RRGh"
+    },
+    {
+      "query": "haiku 5.5",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "za-5f3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWlJ0oWpeYtCg0GANP6DOU"
+    },
+    {
+      "query": "faith hedgepeth",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
-        "entertainment"
+        "law_and_government"
       ],
-      "news_token": "nVxm_Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWLJf8XpeYtCg0GANazDUg"
+      "news_token": "8GMzXnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXpHY2LUvMWhQYDAM8FDFk"
     },
     {
-      "query": "apple tv imperfect women season 2",
+      "query": "aion 2 maintenance",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "games"
+      ],
+      "news_token": "dNhaNnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkWJlfMWpeYtCg0GAM8zDGM"
+    },
+    {
+      "query": "ainsley earhardt",
       "search_volume": 500,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "vYCBUnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXvJjsWpeYtCg0GANQYDOc"
+      "news_token": "N5ZTVXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWfe5UWpeYtCg0GANRYDNw"
     },
     {
-      "query": "data center",
-      "search_volume": 200,
-      "increase": 100,
+      "query": "reese pumpkin candy carving disclaimer",
+      "search_volume": 5000,
+      "increase": 75,
       "categories": [
-        "technology"
+        "food_and_drink"
       ],
-      "news_token": "NL_3E3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkXHxEuLUvMWhQZD-TZRXSj83_u1kflKwg5nUPhCPkEofO4nO1HV-6egmNdffAuFv6DQHcIHACG2ORI"
+      "news_token": "rZTSFnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUU9pOLUvMWhQYDAM38DDg"
     },
     {
-      "query": "ai data center",
+      "query": "apple tv small prophets comedy show",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "O9s8xHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXZZX8WpeYtCg0GANS-DRA"
+    },
+    {
+      "query": "daisy edgar jones",
       "search_volume": 500,
       "increase": 75,
       "categories": [
-        "technology",
-        "science"
+        "entertainment"
       ],
-      "news_token": "FTgHK3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRiWBgC2LUvMWhQZD-dxPdqLwhf1TUPgcE94h8xX7i2-h8EMlG1DUM268h8Ln-3sWma_wZdYhCB8ALnA6sw"
+      "news_token": "CswOi3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiXBj-6LUvMWhQZD-IrbY94g8-Wrtx2H8AEeexjL"
     },
     {
-      "query": "eva marie saint",
+      "query": "british airways flight returns to heathrow",
       "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "AS2Xpnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsX3734tSs1bFBoMANtuDds"
+    },
+    {
+      "query": "arc raiders update",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "games"
+      ],
+      "news_token": "E0RMzXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXVh5cuSs1bFBoM5d8TuY3Ml5035QOEDwA62xmK"
+    },
+    {
+      "query": "what time does dwts air",
+      "search_volume": 500,
       "increase": 50,
       "categories": [
         "entertainment"
       ],
-      "news_token": "qe1QMnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXhjZsXpeYtCg0GAM_jDHw"
+      "news_token": "O7IkO3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXaII9FqXmLQoOh_PkTv0H4AMFtEoU"
     },
     {
-      "query": "laila ali",
+      "query": "abc fcc license review brendan carr",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "other"
       ],
-      "news_token": "mpXgy3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsVzR7kXpeYtCg2G8n_P_w3hAwDSchN7"
+      "news_token": "r58jeXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkW5lpmLUvMWhQYDAM4eDD8"
     }
   ]
 }
