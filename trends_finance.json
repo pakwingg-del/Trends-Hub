@@ -10,22 +10,12 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 29,
+      "keywords_count": 26,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-07 03:30:53"
+      "last_updated_hkt": "2026-10-07 06:31:03"
     }
   },
   "trending_seeds": [
-    {
-      "query": "world space week 2026",
-      "search_volume": 200000,
-      "increase": 1000,
-      "categories": [
-        "science",
-        "business_and_finance"
-      ],
-      "news_token": "7zPhN3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRsW55vMXpeYtCg2G8rMtHFH4Ds-mIfMVQv6xoch_W6SJwq9kNkPmK3Hln0LR_zFiJYr6XAMrFPUCMb0o6t98U0JRv9F7Fwr_mPcWCB8AVYlQlQ"
-    },
     {
       "query": "why did i get $90 from social security",
       "search_volume": 200000,
@@ -37,6 +27,16 @@
       "news_token": "Zql-BXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWD16IWpeYtCg0GANSwDPU"
     },
     {
+      "query": "world space week 2026",
+      "search_volume": 200000,
+      "increase": 1000,
+      "categories": [
+        "science",
+        "business_and_finance"
+      ],
+      "news_token": "9TFsZnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsW55vMXpeYtCg2G8h2eTUPmK4T8Y4PwARpQGBI"
+    },
+    {
       "query": "semana mundial del espacio 2026",
       "search_volume": 100000,
       "increase": 1000,
@@ -45,15 +45,6 @@
         "business_and_finance"
       ],
       "news_token": "Hg6FzXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXy8GeLUosXhQYDANIGDL0"
-    },
-    {
-      "query": "goldman",
-      "search_volume": 50000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "JAKR4nica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGxXzWkEWpeYtCg6H8D7ksyHwlhkMSKPKV87-iyLMufIAi_-a9NYo827woFD6TaQQyX0Hu20cU_XfuPkbhp2kxo_D_VaGYr_jqpxoK_39CGop9jBvvofpHqwfF_p22X1D0LxZMRuEfnQMNDwDN6HO2"
     },
     {
       "query": "united airlines dulles rome flight canceled",
@@ -80,16 +71,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "AQX8Mnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiXRRMtFqXmLQoMhfMXPAT9Q-NPl-pD5MiFFSijy8xcbQvgAps8imA"
-    },
-    {
-      "query": "citi",
-      "search_volume": 50000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "A0ySLXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRkW22eyLUvMWhQZD-bEl_sh8JYZDEsh8hSssr1DUH2NMQFEv4DIZla-ZgaK-eXEVijy7ux2K_Id1qch8-fjliyF8APmEQpg"
+      "news_token": "h0Gy2Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiXRRMtFqXmLQoMhfMXpcn0o_M8BP5D5MiFFSijy8xcbQvgAl08imA"
     },
     {
       "query": "warren buffett investing advice s&p 500",
@@ -109,16 +91,6 @@
         "jobs_and_education"
       ],
       "news_token": "RWzoE3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsW3LEaLUvMWhQYDAM6UDCc"
-    },
-    {
-      "query": "best tv prices",
-      "search_volume": 200,
-      "increase": 300,
-      "categories": [
-        "technology",
-        "shopping"
-      ],
-      "news_token": "cw3z7Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsUZn38sSs1bFBoM4St8lvJG5iuuMhGA8AE4_BhU"
     },
     {
       "query": "dólar estadounidense",
@@ -148,6 +120,25 @@
       "news_token": "TrQHcHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsU88Z2LUvMWhQYDAM5mDEI"
     },
     {
+      "query": "warren buffett stock market downturn guidance",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "VhQ0oHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiUpyTuLUvMWhQYDAMyBDBQ"
+    },
+    {
+      "query": "warren buffett",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "entertainment"
+      ],
+      "news_token": "4Mw_5nica1xTlFpYmlpcEp-SWJI4d_J5BgYGRiXWm3qLUvMWhQZD-IrWyZXIfCUpyTso8m-dolH4P09aoPCtMvlR-EslHVH4W3fLI_PlHTawo_B95ych8xUUj8xC4fudFkfmyx1wjYDwAa5OTnQ"
+    },
+    {
       "query": "gma deals and steals",
       "search_volume": 1000,
       "increase": 200,
@@ -157,13 +148,22 @@
       "news_token": "vV8U93ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiWem_aLUvMWhQZD-IqfWgIgfADAUBIz"
     },
     {
+      "query": "best prime day deals",
+      "search_volume": 200000,
+      "increase": 100,
+      "categories": [
+        "shopping"
+      ],
+      "news_token": "eKCPYHica1xTlFpYmlpcEp-SWJJ4h0Fn8nkGBgZGhc9S3otS8xaFBkP5r2UeIfOVWBJzUeQvRM9B5isa792HzJe3T-pH0c829wqK-qUHIlH4HooFKPxJc2VR-DM-_0Dh20R-RuGfN0tBsU9ymjyKvOuL6yj8rjpPFPWsUitR5BMCn6LISxVfReELVUij8AUOJaPo3zXtEqp75h5D4Yvn70QJzzlCGSjywrctUcybmpiOIi9Yj6JesXFDLAr_ie0_FL5p0SQU_fwzzFDiq7yoBkW97qVqZL7s1lZnFL7KBxZU80LNUfT7SLeg8H_YMqDwF_Two_CPX9mAwr891xqFn_H0PQr_r3w3hA8AteEAiA"
+    },
+    {
       "query": "david ellison",
-      "search_volume": 20000,
+      "search_volume": 10000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "72s3MXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGxbi8xkWpeYtCg6H8xb2SyHwl4Y2bUeS_bOdDlT_SgyL_Ye0SFP5ZaUUU_v4tmij8Kr8yFL7yksco_K_vD6PwvztFovD3Vb5D4WfmWKDwUytaUdwrcGgRMl9mwzVlFL6UfQmEDwAWC297"
+      "news_token": "RZuzYHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsW4vMZFqXmLQoOh_P1bNFH4VX5lKHzlJY-R-Upc-eUo8h4Rk1H4mTkWKPzUilYU_bzdpch8mQ3XlFHkJWbNhvAB9UxEEA"
     },
     {
       "query": "trump administration federal student loans",
@@ -181,16 +181,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "y2Tic3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsVQyYZFqXmLQoOh_F7BHGS-bLKUPTJfbv38nSh8oew-CB8Adpch0A"
-    },
-    {
-      "query": "warren buffett stock market downturn guidance",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "00jAnnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXUldyLUvMWhQYDAM3ZDBw"
+      "news_token": "Iukk3Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsVQyYZFqXmLQoMhfNlkKXtkvmKvYA4yX279_J0ofKHsPggfAHF3IdA"
     },
     {
       "query": "petróleo",
@@ -199,18 +190,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "i9DIyHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiX2MNZFqcWLQoMhfMXGwu0o_PsJfSh8psgpyHwlgbw8FD7Hr3gU9c1SlSj8OxqtED4AcNEyvg"
-    },
-    {
-      "query": "planet labs",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "science",
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "YTkpIXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsWbXkGLUvMWhQZD-UfCLFH4k54_QuHvZzaH8AHOTB3s"
+      "news_token": "5nNv7Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsU7Gq2LUosXhQZD-T4T2lH4jYXbkflKAnl5KPL3E_pQ-EyRU1DUc_yKR5FvlqpEkZeO2QbhAwBaMDk1"
     },
     {
       "query": "oil",
@@ -219,7 +199,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Td4bgHica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGJdabVYtS8xaFBkP4CkELPiPzlfge7ETmK069-xGFn_qND4V_1PQvCn_ZchUU_oRfZ1D4kedzUezj4H6I4p7TEaEo6luVUO1fH6yGwn-wVQLFPDb_3SjyrzfGQfgA2zplNA"
+      "news_token": "DurYB3ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRiWpy1GLUvMWhQZD-aw3q1D4fA92IvMVp979iMIv9exB4ad-40PhR57PRTWvzBSZr3A6IhRFfasSivkKQQs-o-jnfH4Thc_mvxtF_-uNcRA-AHYlV-4"
     },
     {
       "query": "hubspot",
@@ -228,7 +208,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "eNTnBHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiXOzcmLUvMWhQZD-Ir9NsLIfIVZXhshfAD6eBce"
+      "news_token": "dV1KXnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiXOzcmLUvMWhQZD-Ir9NsLIfCUu24Uo8j9sXiDzFWZ5bYTwAYlVIqs"
     },
     {
       "query": "ezcater",
@@ -247,7 +227,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "YjAXPnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsVFJ7gWpeYtCg2G8r0-daLw3X-fQuEvKHRH4fcK5qDw-4tvIfOVBAK2oPC5n-xEUc_9_A6EDwDBRTsz"
+      "news_token": "GRLze3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsVFJ7gWpeYtCg2G8r0-daLw4ySVkflKUm9lUPjcT3aiqO8vvoUiLxCwBUV-QaE7ijzjxnsQPgA84Dme"
     },
     {
       "query": "spikedade",
@@ -275,17 +255,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ZlK9NXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRkW265WLUvMWhQZD-TfO1KPwv8zehMxXkPv2EUX-rVM0Cv-o9ARkvhJj9E8U_ebz01DUrzFPhvABN2o7sw"
-    },
-    {
-      "query": "warren buffett retirement youtube viewing",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "entertainment"
-      ],
-      "news_token": "zLksw3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiXWm3qLUvMWhQZD-IpvnaJR-EslHZH5CqkruZH5Svxqfijqt-6WR-bLO2xgh_ABa5UsUg"
+      "news_token": "DGA-iXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkW265WLUvMWhQZD-TfO1KPw3zpFo_CPSk9A5ivIffuIIr9U6QCEDwBi2CpW"
     }
   ]
 }
