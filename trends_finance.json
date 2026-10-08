@@ -10,30 +10,20 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 32,
+      "keywords_count": 35,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-08 00:30:55"
+      "last_updated_hkt": "2026-10-08 03:30:55"
     }
   },
   "trending_seeds": [
     {
-      "query": "susan dell",
-      "search_volume": 50000,
+      "query": "costco lemon cream caramelized croissant",
+      "search_volume": 20000,
       "increase": 1000,
       "categories": [
-        "business_and_finance"
+        "food_and_drink"
       ],
-      "news_token": "mRkHU3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRiX99zcXpeYtCg2G8nl_NSLzFeOWnEaR13_vg8LXyk1G4bM9-oWi_4_ba2S-HH_fehT5WzlZKPp1l2-F8AHiPEGv"
-    },
-    {
-      "query": "trump accounts",
-      "search_volume": 50000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance",
-        "law_and_government"
-      ],
-      "news_token": "Ed5nfXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsW4JacXpeYtCg2G8hc_1Ubmy_H3rUfmyy5gNEfhFx_Yh8xX0n9_E8W82d1nkfnMVS0yyHwZ8bco8oqxOx1QzN8c1wrhAwDlE0bR"
+      "news_token": "Ldoylnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXtz_8XpeYtCg0GANTfDSI"
     },
     {
       "query": "retirement age",
@@ -43,7 +33,7 @@
         "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "24twnHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsUzhs6LUvMWhQbD-DY5yHwlZd27KHzGGDNkvoKPfimK_sxwLxT5a6HNED4AcaMsuA"
+      "news_token": "uyBsD3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsUzhs6LUvMWhQZD-ErKundR-IwxZsh8xTM2Och8BR_9UhT5zHAvFPlroc0QPgBfQyy4"
     },
     {
       "query": "stock market today",
@@ -52,7 +42,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "2Uc713ica1xTlFpYmlpcEp-SWJJ4h0Fu8nkGBgZGJT77pkWpeYtCgyF8xbmSFch8Jen6_yh8jU_pKOrZrlei8MNO2CPz5V8zVKPIMxdeReHf5NdAMV9dPhGFL8Ikh8Lnz16Fwld1S0Hh68_lQzH_-_kYFL6tbhkyXy7why2K_OMLhsh8hVuxX1DM57O_gMLX2fkNzT3uKHzexFMo5jexHkLhy6sIoKhXbrVE4QsuO4iivm2TDIr7xY8uQ1EvJXkHwgcAhd6rjg"
+      "news_token": "FDQMR3ica1xTlFpYmlpcEp-SWJJ4h0Fx8nkGBgZGJT77pkWpeYtCgyF8xbmSFch8Jen6_yh8jU_pKOrZrlei8MNO2CPz5V8zVKPIMxdeReHf5NdAMV9dPhGFL8Ikh8IXCutG0f9m3SIUeQPLRyjyz9d7opr_jgVFvjjfAoXverkHRT3vr0YU-fVPb6PIKz7KReYr3Ir9giLPZ38Bha-z8xsK3-jEUhTzm1gPocgrt1qi8AWXHURR37ZJBpkvu7H4Ewo_WfIZCj_GTQnFPCnJOxA-AAFWwM8"
     },
     {
       "query": "arby's",
@@ -65,32 +55,70 @@
       "news_token": "iJZKqXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiXZh6cWpeYtCg2G8rWf3kTmK549yoEiryG4EUU--cUbCB8A9n0kgw"
     },
     {
-      "query": "jeff bezos",
-      "search_volume": 2000,
-      "increase": 800,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "4QmvWHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiV55ReLUvMWhQZD-Iqn2uNR-N-03JH5SvovfqPwhVNKUNS_NXyAIs9_WhSFr278HMIHAAjANFE"
-    },
-    {
       "query": "publix sales slump store closures",
-      "search_volume": 2000,
-      "increase": 500,
+      "search_volume": 10000,
+      "increase": 800,
       "categories": [
         "business_and_finance"
       ],
       "news_token": "WiuAPnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkX3C0qLUvMWhQYDAM6uDD0"
     },
     {
+      "query": "jeff bezos",
+      "search_volume": 2000,
+      "increase": 800,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "OePddHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRiV55ReLUvMWhQZD-Iqn2uOR-Ur6L36j8IVTSlD4_KdFUfRX-e6A8AEhbCih"
+    },
+    {
+      "query": "margaret hamilton",
+      "search_volume": 5000,
+      "increase": 500,
+      "categories": [
+        "science",
+        "business_and_finance"
+      ],
+      "news_token": "t4-t33ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXdZZsWpeYtCg0GANBuDIo"
+    },
+    {
+      "query": "state farm settlement",
+      "search_volume": 1000,
+      "increase": 500,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "6u8g0nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiWtW2cXpeYtCg2G8GUmhzJA-ADI5xH9"
+    },
+    {
+      "query": "social security 90 dollar payment",
+      "search_volume": 10000,
+      "increase": 300,
+      "categories": [
+        "law_and_government",
+        "business_and_finance"
+      ],
+      "news_token": "Zql-BXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWD16IWpeYtCg0GANSwDPU"
+    },
+    {
       "query": "elon musk",
       "search_volume": 5000,
       "increase": 300,
       "categories": [
-        "business_and_finance",
-        "science"
+        "business_and_finance"
       ],
-      "news_token": "cnobVXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRiXeX42LUvMWhQZD-IrP13ui8PfG5yHzlaT5F6LwRd4WIvMVXpz5hqI_XHs7inqdy0oo6mvtZqCo7z8ojsLvPvYLmS-_wSsYRf7EzWgU_rbnaRA-ALh1WPs"
+      "news_token": "m8Wsj3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRsXn6z0XpeYtCg2G8JV4fzWi8KX5FyLzFffG56HwQ37roagXeVuIzFd4ceYbirzOZSUU_eHa21H4_QfFUfjdx36hmFdrNwOZL7_BKxhF_Ymb0Sj8bc_TIHwAYURevA"
+    },
+    {
+      "query": "peso mexicano",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "hBI_ynica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiX91upFqcWLQoNh_En7kPmKOYplyHw5lgeXIXwAqwQdSw"
     },
     {
       "query": "protect borrowers student loan report",
@@ -102,13 +130,14 @@
       "news_token": "DvB90Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXV08yLUvMWhQYDAMyFC_g"
     },
     {
-      "query": "peso mexicano",
+      "query": "student loan",
       "search_volume": 5000,
       "increase": 300,
       "categories": [
-        "business_and_finance"
+        "business_and_finance",
+        "jobs_and_education"
       ],
-      "news_token": "I00BnHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiX91upFqcWLQoMBzgsMOQ"
+      "news_token": "0fs6u3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoWbHDmLUvMWhQZD-Ir_TfNQ-DWrTiDzleRPbkXhq55mRuErGk5D4Wtu7EPhiyZeQuEbLX0J4QMAb_E57g"
     },
     {
       "query": "dave ramsey",
@@ -120,33 +149,22 @@
       "news_token": "JsvRzXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiUtTatFqXmLQoOhfKV-dxS-BG8aMl8xM6cIhb_H2x-FHyD-B4V_w4UbwgcADKgr1g"
     },
     {
-      "query": "student loan",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance",
-        "jobs_and_education"
-      ],
-      "news_token": "ibtKsHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoWbHDmLUvMWhQZD-EryJ7ei8FVPM6PwFQ2nofA1N_Yh8xVrVp1AkZfruoTCF02E8gG6kDPC"
-    },
-    {
       "query": "2027",
       "search_volume": 5000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "pvzpuHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsU88Z2LUvMWhQZD-DKFfG-Q-QodUTuQ-fLygYuQ-bITe4SR-UpsAb3IfMXJH66hmPfZ-zOKenW56yh8_bJ8FP0q2W0QPgAsKkTZ"
+      "news_token": "6vN_Nnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsU88Z2LUvMWhQZD-EpsAb3IfMWK6AIUfspkJxT1PDIRKPI_jG6hyKvLXUfhC6XKQPgAXVwxtA"
     },
     {
-      "query": "trump administration medicare 90 dollar payment",
-      "search_volume": 10000,
+      "query": "webull",
+      "search_volume": 5000,
       "increase": 100,
       "categories": [
-        "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "Zql-BXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWD16IWpeYtCg0GANSwDPU"
+      "news_token": "-i6GyXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiXFR7mLUvMWhQZD-XLM9Sh8BmseCB8A9koV5g"
     },
     {
       "query": "apld stock",
@@ -155,28 +173,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "BeXFyXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoWH3Q8XpRUtCg1G4qfmwflKusXJKHydqWeR-XKOr2ZB-AAm3SUG"
-    },
-    {
-      "query": "webull",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "5i5LV3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiXFR7mLUvMWhQZD-Xz2TSh8meNzUPjq71iQ-YrF-RYo8ry_GlHkXS_3oPDXP70N4QMAou00cQ"
-    },
-    {
-      "query": "sadie sink",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "beauty_and_fashion",
-        "shopping",
-        "entertainment"
-      ],
-      "news_token": "Nm5_bnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiX9kh-LUvMWhQZD-epb1JH50snJG5D5Msorj0P4ALXeHW0"
+      "news_token": "oFy8iXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRoWH3Q8XpRUtCg2G8JWMku-j8OWY65H5YPWpeajqkfk6U8-i8EH6kfhyjq9mQfgAUcQ1BA"
     },
     {
       "query": "fed minutes",
@@ -185,11 +182,21 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Rxgv2Hica1xTlFpYmlpcEp-SWJJ4h0F68nkGBgZGxeJ8i0VZiYtCg6H8axa-KPy5khXIfCXRxE4UvobsXxT1H1etRZHns29CkS8ST0XhXzrrgqJeOzMdha9j1YrMVxCR24jMl7mf7IjMl-0ttkIxH-S_1DxU9yDz9ey7kfmK6br2KHxQeCCr12dsR-bLhhzegMyXeVvvicyXM9ojgKJfXT4RhS93zB9FP8g_yOaD_APmAwA7vJnc"
+      "news_token": "WoG6jnica1xTlFpYmlpcEp-SWJJ4h0F68nkGBgZGxeJ8i0VZiYtCgyF8JR2rVhS-2Bd1FD4fcyQKn23NDRS-dmY6qnr7JlT-3xPIfMVLZ11Q5FXdUlDki8RTkfkKInIbUeRB7k_NQ7UPma8esBaZr7D0izuKvGhiJzJfMV3XHoV_zcIXmS8bcngDMl_mbb0nMl_OaI8Aivlyx_xR-KDwRObLZB5HMe9-siOKfb3FVhA-ANqimho"
+    },
+    {
+      "query": "donald trump jos a bank suit",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "politics",
+        "law_and_government"
+      ],
+      "news_token": "7NZEPHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRiVBjQeLUvMWhQZD-eqHbZD5Cu-e3ULmK365pIfMl_ly0ROZL-vfWAvhAwBaziqM"
     },
     {
       "query": "southwest notification vacation",
-      "search_volume": 1000,
+      "search_volume": 500,
       "increase": 100,
       "categories": [
         "business_and_finance"
@@ -221,7 +228,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "LKlH7Hica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRsVQyYZFqXmLQoOh_M4LFsh8Jc3Db1HkewVzUOTlTFOR-bLJUvbIfDmh7D4IHwCNyix4"
+      "news_token": "AYuy5Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsVQyYZFqXmLQoMhfCU501QUvrHRPxS-5uG3yHzFzgsWyHzZZCl7ZL6cUHYfivpewRwIHwBn9TIg"
     },
     {
       "query": "american customer satisfaction index convenience stores",
@@ -249,7 +256,25 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "OBQuHHica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGJeVWg0WpeYtCg6F8-R17kPmKcXmNKPL6qQ9R5Pdxo6hXYrmpiiJ_4H0CirzaEmEU-cnOYSjyrDerUOQjz-eiyGtvf4Qi_yL5DYo8v8xOFPm7D6RR5PUcxFHkfxjdQuH__GuPwtd9-ABFv_C548h8hQtS05H5si0anhA-AMFNhSM"
+      "news_token": "RhrkBnica1xTlFpYmlpcEp-SWJJ4h0F88nkGBgZGJeVWg0WpeYtCg6F8-R17kPmKcXmNKPL6qQ9R5Pdxo6hXUlsijMJnuamKov7A-wQU_mTnMBT1rDerUOQjz-eiyGtvf4Qi_yL5DYo8v8xOFL7BKkZkvsLjbzNR5NXj2lD4eg7iKOb__GuPwv9hdAuFr_vwAYr5F6SmI_NlWzQ8IXwA1niKPw"
+    },
+    {
+      "query": "spcx stock price",
+      "search_volume": 100,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "KoPhV3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsX5UjGLUvMWhQZD-Q6qvch8JZG3hRA-APkoFwY"
+    },
+    {
+      "query": "samsung stock",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "cbJF9Hica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRoVf1t2LUvMWhQZD-EqyTHtR-Hr2Z1H4_NmrUPh89k3IfMXMn4nIfNnJ6vchfACeCy3A"
     },
     {
       "query": "cnbc",
@@ -258,16 +283,25 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "KLVW2nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoVf1t2LUvMWhQZD-Ir3FB8i85X0Y9pR-DLH56Dw1d-xoPB5fzWimNf9ZCGKvOKjXBS-4E1_CB8ArtQ6tA"
+      "news_token": "iq89FHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsV7ig8XpeYtCg2G8JVYb1ah8NXfsaDwZY7PQeYrdj9ZiCKv-CgXhS940x9FfWblCRT-16BXED4ArxA7jQ"
     },
     {
-      "query": "samsung stock",
-      "search_volume": 200,
+      "query": "a different world season 2",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "MAnI2nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWOvDeLUvMWhQYDANNtDOY"
+    },
+    {
+      "query": "10 year treasury",
+      "search_volume": 500,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "CWVkinica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsU3760XpeYtCg2G8BV-WXcj85X47JuQ-YqZPxNR5GWZ9qLov-rwFkX9kkW3UdTrT2FC4fNnr4LwAcUiOnY"
+      "news_token": "TwnTVXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiWhsO5FqXmLQoMhfMW5khUo_OJ8C2S-Ep99EwpfgCMawgcAbaUglA"
     },
     {
       "query": "wolf stock",
@@ -276,16 +310,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "6grf7Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiWdnVcXpeYtCg2G8xMgfADJFhJJ"
-    },
-    {
-      "query": "30 year treasury yield",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "IwLZEnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsW5khWLUvMWhQZD-EpCYd0ofD77JggfAPfJFn4"
+      "news_token": "RWwKR3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiWdnVcXpeYtCg2G8rU13qHwdXYmQPgAGAoXzw"
     },
     {
       "query": "elon musk net worth",
@@ -294,7 +319,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "CvbSUnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkUH1d5FqXmLQoOh_PlSMch8JZG3hch8uTZePxT1D-LfQPgAhSAilw"
+      "news_token": "rpmd7Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRkUH1d5FqXmLQoMhfLk2Xj9kvuKD-DcQPgD3zheH"
     },
     {
       "query": "iren stock",
@@ -303,7 +328,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "1O8lrHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsV3R4oXpeYtCg2G8BUedj9E5itpLDmIzFdMmbcFmS9z8vIbCB8AOmsmTA"
+      "news_token": "EiFCaHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsV3R4oXpeYtCg2G8BUedj9E5itpLDmIzFdMmbcFRZ4_ZCUyX-bk5TcQPgCxICud"
     },
     {
       "query": "nifty 50",
@@ -312,7 +337,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "A9zI8nica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoWZsg6LUvMWhQZD-Eryp4yQ-YpPuNqR-Qq_JIpQ1Mul34DwAZGQIns"
+      "news_token": "jY8SWnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRiUFjm-LUvMWhQZD-IpdtX3IfCX5U0bIfIWZsg4o8nLpN1D0P-Fqh_AB698n8A"
     }
   ]
 }
