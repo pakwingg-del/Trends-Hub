@@ -10,213 +10,237 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 22,
+      "keywords_count": 24,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-07 21:31:09"
+      "last_updated_hkt": "2026-10-08 21:31:07"
     }
   },
   "trending_seeds": [
     {
-      "query": "chris lacivita james blair outside work",
+      "query": "cash app 15 million security settlement",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "A7p5A3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiUd8QeLUvMWhQYDAM0vDCg"
+    },
+    {
+      "query": "airport",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "other"
+      ],
+      "news_token": "W4JPInica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGBSXe5EWpeYtCgyF8Jbuttsh8xcjzuch8BcWPO1DkVxh1o_ArU7ajmCeh24Ui_6DOAIVvWaSGwu-sskSxr--UFgo_Ya4civqCw_NR7JMsWIDCt89hQ-HzX_VA0X_Ddy4K37f4Iqq8wRMU_a5Gt1HD6_RiFL6pPIp7lQw3-KGY99DuPoQPAM9njVI"
+    },
+    {
+      "query": "congressional report us aircraft damage",
+      "search_volume": 20000,
+      "increase": 900,
+      "categories": [
+        "other"
+      ],
+      "news_token": "vDcMzXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiVhhwWLUvMWhQYDAMvWC_g"
+    },
+    {
+      "query": "bladen county military aircraft fire",
       "search_volume": 5000,
-      "increase": 400,
+      "increase": 900,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "JwgQ0Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXnF88WpeYtCg0GANSwDRY"
+    },
+    {
+      "query": "james talarico campaign absence texas senate",
+      "search_volume": 10000,
+      "increase": 500,
       "categories": [
         "politics",
         "law_and_government"
       ],
-      "news_token": "yQNVOXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiWRGr5FqXmLQoMBycELow"
+      "news_token": "eZm4R3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRiXBLsNFqXmLQoMhfMXrSpUo_NidDsh8JV0dJhS-bWIxivqPC1DUKy7T0EXh39OTQObLaWRNgvABjt43OA"
     },
     {
-      "query": "aircraft",
-      "search_volume": 2000,
-      "increase": 400,
+      "query": "microsoft h1b visa program suspension",
+      "search_volume": 20000,
+      "increase": 200,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "fDvp3Hica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiVhhwWLUvMWhQZD-YJTlFD4ymkmyHzFyz8OofCjUkVQ-NdiYlD40TzBKOaprDyAqn_lNBR-s10aCj9I8jOqe2ReQPgA1ZRI5g"
+      "news_token": "TtM9r3ica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGJafVvItS8xaFBkP5AoGnkPmKzoJbkPmywSEzUfgxbQfR9Bcj80U0V0aiyLtGS6LwPRfdRuE7rdqGYv9Pvh2o-qNOo8hXaSejyGtNlEORTzizF0XebpkaMl9hzyE_FPUp9sdR5H0aL6L498dZfQgfAOd7dz8"
     },
     {
-      "query": "openai mathematics",
+      "query": "top us convenience store chains",
       "search_volume": 10000,
-      "increase": 300,
+      "increase": 200,
       "categories": [
-        "science"
+        "food_and_drink",
+        "business_and_finance"
       ],
-      "news_token": "t38e2nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiWBgJWLUvMWhQZD-PKWZ7ci8xXcnO1Q5KdOF0PmK3bo5yPzpfe8QjFPZlrfeQgfAKNXLsI"
+      "news_token": "HBa7C3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiX2h-6LUvMWhQZD-bZ_U5H5it9nh6HI64v5I_MV3j27haL--uQXaPz3ED4AGG8xQQ"
     },
     {
-      "query": "delta passenger steals airport tug",
-      "search_volume": 10000,
-      "increase": 300,
-      "categories": [
-        "travel_and_transportation"
-      ],
-      "news_token": "w7gMHHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXJggWLUvMWhQYDAM2MDC4"
-    },
-    {
-      "query": "airport",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "other"
-      ],
-      "news_token": "50gwbnica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGBSXe5EWpeYtCgyF8JcEpSsh8xflX_VDkJQsWoPCV5y5GUb_l808UebH_k1H4_NJpKHyVPZtQ9H-WeInCv2HwBEW91FsnFHm-udNQ5BUfm6DwRUP7kPkKf7ZA1QMAP6FiRA"
-    },
-    {
-      "query": "xbox gta 6 streaming rights",
+      "query": "pokemon ruby sapphire",
       "search_volume": 5000,
       "increase": 200,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "_U7m_Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiWRfZqLUvMWhQYDAMyODAA"
+      "news_token": "8WNPYXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXcooRFqXmLQoMhfPl5Ds0QPgC_OxHm"
     },
     {
-      "query": "surface laptop ultra",
-      "search_volume": 20000,
+      "query": "xbox game pass",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "C-kDk3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsUbeQaLUvMWhQZD-VJP76Hwf7_6jsIP7YxA4Tco2qHwN5-bgcxXEtmnicyXK910GJkvy5Qmi6I_-cBdZL78zVdOED4ANe1HcA"
+    },
+    {
+      "query": "open ai",
+      "search_volume": 10000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Eewx_3ica1xTlFpYmlpcEp-SWJJ4h0F18nkGBgZGxYQzexel5i0KDYbwlfjsm1D4uh4pqPLLj6PwnW-GI_MV_2TMRubLOWZ-R-bL1AT_RuZLn01WQ9H_rn8Civmi-sko8tOOZqLIWyw9iSI_b9N0FHmbYhT9Sp4mOih8gYCVKPpT59xHkXewj0CRX1LxCZkv-2sdSnjIW57diqI-5LceanjqHEWRj_zxD0Veu88DRX7CRhYUvs_376j-qb-Eyk8qQeG7trKj8J0iM1DMi1EuQuYrmN_ajsLfMdUR1fxZfCh8Bc5gCB8A-pvZfw"
+    },
+    {
+      "query": "msft",
+      "search_volume": 5000,
       "increase": 100,
       "categories": [
         "technology",
         "science"
       ],
-      "news_token": "7I7J5nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsUq7eRFqXmLQoOhfNm-MGS-khxzPYr8hF8HIXwAiMgcxQ"
+      "news_token": "2z9RT3ica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGxSrt5EWpeYtCgyF8Ja2Jcih8eeX7KHz9XaeR-Yoti8NR5F3TZqHI_63nRZHnat6PzFdQqS5H4f_1WIFq3utjqPrzDVD4_Ns3otiXahKHIu_42wSF77QaxT2KIqEJKPIi-zRR5BPO7EU1_18hCn_iJVUU_QzWPBA-AAawgQY"
     },
     {
-      "query": "eva marie saint passing",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "JP0Zonica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiXhjZsXpeYtCg2efG7vw998UDZETl00DJkvfyD2CjJfRm2RLIQPALEwI3I"
-    },
-    {
-      "query": "official sonic the hedgehog discord",
+      "query": "hellraiser revival",
       "search_volume": 5000,
       "increase": 100,
+      "categories": [
+        "games"
+      ],
+      "news_token": "aum7Znica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRiXZzS8XpeYtCg2G8BVvenki85Xsb8Yj8-U--d1A5svI3JiNov9d-HYIHwBffSqR"
+    },
+    {
+      "query": "arc raiders",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "games"
+      ],
+      "news_token": "aYs-e3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsXVh5cuSs1bFBoM5Sd0taHwpZ7eQ-Yr2QUsQ-G7qNSg8K3_maPwnSpnoerfJoti_pf3PSjyzjf1kPkKbnK2ED4At85FWQ"
+    },
+    {
+      "query": "microsoft stock",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "f7ZYkHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiXH3yaLUvMWhQZD-cYdh5D5iuvMWlD4VdrJKOqdVvOi8K1TPqPwufINIHwAuCgtMw"
+    },
+    {
+      "query": "best tv deals",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "technology",
+        "shopping"
+      ],
+      "news_token": "GQSp83ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsVVJgKLUvMWhQZD-Sff7kbh31qeicxX-CzlDeEDANZBHnA"
+    },
+    {
+      "query": "samsung galaxy",
+      "search_volume": 100,
+      "increase": 100,
+      "categories": [
+        "technology",
+        "shopping"
+      ],
+      "news_token": "ZGKnHXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRiXB-oxFqXmLQoOhfAP3tSh8IYdUFL408yUUvnh-LQrfcNYBFL7z81fIfMVqZT0Uebuvb1Dk07K9UeQ5zbqQ-fIlpktR1M9OjIPwAVAMThg"
+    },
+    {
+      "query": "starbucks chipotle",
+      "search_volume": 10000,
+      "increase": 75,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "Qye1AHica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGJb7lxxel5i0KDYbyjQXfI_MV3x05jyKvW6yEym_jQ-HrXNZE0b9U8jWKvNsmdRQ-h90eZL5skpYtMl-ucKY1innXdz9C0e8etBmFr9GG4n4lz5k5qPydkSjmteeLoMi78t5F4Xu850BRf5DzCwo_XjYbhV9nV47ifrWv91DkP_-LRuG_OZWCwj-WtBHCBwBjbps4"
+    },
+    {
+      "query": "gemini down",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "76CJq3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiVez9-LUvMWhQYDAM5lDFY"
+    },
+    {
+      "query": "turkish airlines",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Pp8gdHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkWL_NmLUvMWhQZD-EoOT75B-ADEKBKl"
+    },
+    {
+      "query": "shawn layden",
+      "search_volume": 200,
+      "increase": 75,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "SPMG6nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiW2fK1FqXmLQoMByZ8LpA"
+      "news_token": "Hqj-2Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsUHLX2LUvMWhQZD-EoirVuR-Yr1M_whfAAkVxgz"
     },
     {
-      "query": "black sea commercial vessel drone strike",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "qT53V3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUP_6UWpeYtCg0GANXfDQ0"
-    },
-    {
-      "query": "los angeles international airport",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "1P8S0Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiXBKUqLUvMWhQZD-IqPFvFC-AC2RRGh"
-    },
-    {
-      "query": "haiku 5.5",
+      "query": "samsung stock",
       "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "za-5f3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWlJ0oWpeYtCg0GANP6DOU"
-    },
-    {
-      "query": "faith hedgepeth",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "8GMzXnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXpHY2LUvMWhQYDAM8FDFk"
-    },
-    {
-      "query": "aion 2 maintenance",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "games"
-      ],
-      "news_token": "dNhaNnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkWJlfMWpeYtCg0GAM8zDGM"
-    },
-    {
-      "query": "ainsley earhardt",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "N5ZTVXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWfe5UWpeYtCg0GANRYDNw"
-    },
-    {
-      "query": "reese pumpkin candy carving disclaimer",
-      "search_volume": 5000,
-      "increase": 75,
-      "categories": [
-        "food_and_drink"
-      ],
-      "news_token": "rZTSFnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUU9pOLUvMWhQYDAM38DDg"
-    },
-    {
-      "query": "apple tv small prophets comedy show",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "O9s8xHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoXZZX8WpeYtCg0GANS-DRA"
-    },
-    {
-      "query": "daisy edgar jones",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "CswOi3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiXBj-6LUvMWhQZD-IrbY94g8-Wrtx2H8AEeexjL"
-    },
-    {
-      "query": "british airways flight returns to heathrow",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "AS2Xpnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsX3734tSs1bFBoMANtuDds"
-    },
-    {
-      "query": "arc raiders update",
-      "search_volume": 500,
       "increase": 50,
       "categories": [
-        "games"
+        "business_and_finance"
       ],
-      "news_token": "E0RMzXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXVh5cuSs1bFBoM5d8TuY3Ml5035QOEDwA62xmK"
+      "news_token": "Z6hGVHica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGhV_W3YtS8xaFBkP4SiqrBZD5im9XPEaRZ5mcjsIXrM9A4Vue-YXC5101EYUvHrMYxXzRgnMofNYnOSjq-bNXofDdquRQ-Hz2TSh8x1-nUPgmhXOQ-bKT1e9D-ACQBGEU"
     },
     {
-      "query": "what time does dwts air",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "O7IkO3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXaII9FqXmLQoOh_PkTv0H4AMFtEoU"
-    },
-    {
-      "query": "abc fcc license review brendan carr",
+      "query": "airpods pro 3",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "other"
+        "technology",
+        "shopping"
       ],
-      "news_token": "r58jeXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRkW5lpmLUvMWhQYDAM4eDD8"
+      "news_token": "dzRcMXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsUZn38sSs1bFBoM4SuZXa5G4RsbLUbhq8ouQubL1ivVIfPln3i8h_ABWUkpgg"
+    },
+    {
+      "query": "mac",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "_-ulsHica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGJY3o64tS8xaFBkP5DvbiyHzFGZ9_oPA73DtR-CLSoij6df_9Q5HfFCqNIi8sW4fC5xZbjsJnP70DRf8LbxT7FGY0FKLIvz_hjsyXn73_Por87afdKHyfrqMofHOeGAgfAH1jZ-4"
+    },
+    {
+      "query": "google play",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "7sEe-3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRiUHbelFqXmLQoMhfMU_V3yQ-Uou0cdR5Be-mInMly39vApFPlmpFpkvF3R2JYr6jTp_kPkK88KNUOTnTctG4e_wd0Bxj-2-SyjyV4TWQfgAUhhSbA"
     }
   ]
 }
