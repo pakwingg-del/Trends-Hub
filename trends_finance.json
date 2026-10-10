@@ -10,15 +10,15 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 32,
+      "keywords_count": 31,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-10 00:30:57"
+      "last_updated_hkt": "2026-10-10 03:30:55"
     }
   },
   "trending_seeds": [
     {
-      "query": "conagra brands discontinues celeste pizza",
-      "search_volume": 10000,
+      "query": "celeste frozen pizza production stop",
+      "search_volume": 20000,
       "increase": 1000,
       "categories": [
         "food_and_drink",
@@ -33,12 +33,12 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "LYTnE3ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRiXWm1WLUvMWhQZD-IrOJ1ei8LtOqCLzlRySU1HkJ_w6g8JftlwFRb3are8ofPmZn5D5CkELPqPIJ836i2LeUVMUvlL41K8o-tv1UdynmPqND8IHADkIWWo"
+      "news_token": "Ubmcsnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRiXWm1WLUvMWhQZD-IrOJ1ei8LtOqCLzlRySU1HkJ_w6g8JftlwFRb3are8ofPmZn5D5CkELPqPoP-qhgco3_YuiP3zqVxT97foo7lNM_cYH4QMAAtZYpQ"
     },
     {
       "query": "jeff bezos three day workweek view",
       "search_volume": 10000,
-      "increase": 600,
+      "increase": 400,
       "categories": [
         "business_and_finance",
         "science",
@@ -82,7 +82,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "0TJfJ3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiWjeuNFqXmLQoMhfEW265Uo_ORbJ5H5sh3KAsh8JWn-hRA-AJdbIdg"
+      "news_token": "KZfKBHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiWjeuNFqXmLQoMhfMXkWyeR-bIdygIQPgAGJxcu"
     },
     {
       "query": "gma deals and steals",
@@ -94,13 +94,13 @@
       "news_token": "QQMgSXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiWem_aLUvMWhQYDAM24DCk"
     },
     {
-      "query": "hawaii news now",
-      "search_volume": 1000,
+      "query": "john wayne turned down movie",
+      "search_volume": 500,
       "increase": 100,
       "categories": [
-        "business_and_finance"
+        "entertainment"
       ],
-      "news_token": "jD2_YXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiWrE86LUvMWhQZD-IoHw88i85V8eO5A-AAVexfs"
+      "news_token": "CPJS3Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqXEw6cXpeYtCg2G8BU3rX0O4QMA1koTfg"
     },
     {
       "query": "bankruptcy",
@@ -109,7 +109,7 @@
       "categories": [
         "other"
       ],
-      "news_token": "71rszHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiV-w-xFqXmLQoOhfA_2z8h8xR93uFDk3a-8ROGnq81GUb-ncwUyX2GfRD6q_nh2FPXPDlai8K_7lKCoNxFDcZ_ixjgxCB8AtsJKXA"
+      "news_token": "DcvtUHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiV-w-xFqXmLQoOhfA_2z8h8xR93uFDk3a-8RJHf07kCma-wTyIfVX08O4r6ZwcrUfjXfUpQ1JuIobhHcWOcGDJfrqJcAsIHAMtGSjc"
     },
     {
       "query": "yannick hanfmann",
@@ -121,13 +121,13 @@
       "news_token": "7XdD2Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsVVPLmLUvMWhQZD-Eq2r6yQ-YpvPFhQ5N3CA1H4MWdsIXwAl3kiJg"
     },
     {
-      "query": "dow jones industrial average",
-      "search_volume": 2000,
+      "query": "starlink mobile",
+      "search_volume": 5000,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "710R6nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqXU3rZFqXmLQoMhfEW265Uo_PfLLiDzlfjsm1D4NlefQfnnsrTfqkDYALROKdc"
+      "news_token": "KCNAInica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiVp_oWLUvMWhQZD-IrfJhsg85USrtxC4UdMN0Tmy_7_ch9F_yxRFmS-zG_p7xA-AP47L9o"
     },
     {
       "query": "warren buffett recommended vanguard fund",
@@ -139,13 +139,22 @@
       "news_token": "TvhF-nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiU9DaZFqXmLQoMBx7cLXQ"
     },
     {
+      "query": "dow jones industrial average",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "ydiVdnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqXU3rZFqXmLQoMhfEW265Uo_PfLLiDzlWyuPkPmy24s_oTCr1PPg_ABdtcqpQ"
+    },
+    {
       "query": "pltr",
       "search_volume": 2000,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "8gLS2Xica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsWij2yLUvMWhQZD-EqeO4tR-CkabSh8TtMQZL5iyrwtKPJRtitQ-UdSkPmymxpqUOT1z_Mj8-WaTapR1Oc5L4bwAdKiQ-E"
+      "news_token": "ZLjLr3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsWij2yLUvMWhQZD-EopGm0o_KgjKah82xUofLc2FWS-7KaGGmS-XLNJNYp8nvNiFP2eO4tR-ImR_yF8AM9OPvE"
     },
     {
       "query": "jim farley",
@@ -173,25 +182,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "BS1iHXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWuE6qLUvMWhQZD-EqsN6sgfADEGRIY"
-    },
-    {
-      "query": "the guy she was interested in wasn't a guy at all",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "WIdHRnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiWPHemLUvMWhQZD-YoP_0H4AMcHErE"
-    },
-    {
-      "query": "starlink mobile",
-      "search_volume": 10000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Ev76iHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRiVp_oWLUvMWhQZD-IrfJhsg85Uiphui8BOu3ELmy_7_ch9Ff56rFYp6zQubUPgOU1-i8N0qm1DMiz2PIq84S5QFwgcAyk5GjQ"
+      "news_token": "ccYzN3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsWuE6qLUvMWhQZD-EqsN6uQ-Qo7bb-gyOuIn0Dmy6Z--ArhAwDPwiQf"
     },
     {
       "query": "mrna stock",
@@ -200,7 +191,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "g9HMKXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsVlRqcXpeYtCg2G8JW0Jh5E4ScEWUD4ABgEF5c"
+      "news_token": "56zg7nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsVlRqcXZZYsCg2G8JU0G68j8xUrlv9GkdeaeBCZL_O85zwyX_aP4yEU_SDzU_MQ-jPaFqDwQeYh8-VMUyF8AEhjQgA"
     },
     {
       "query": "federal reserve consumer survey debt",
@@ -220,6 +211,15 @@
         "business_and_finance"
       ],
       "news_token": "kVJ3LXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiVz0RWLUvMWhQYDAMv6C_k"
+    },
+    {
+      "query": "is the stock market open on columbus day",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "sytJOHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiVfzsBFqXmLQoMhfMWlCQIQPgCvMhEF"
     },
     {
       "query": "southwest airlines computer system failure",
@@ -246,7 +246,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "47vrTHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRkXmM48XpeYtCg2G8ufk66Dwp_ZeQOYrpUSko_DdHneg8CP-34bwAUd-Kjw"
+      "news_token": "My05b3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkXmM48XpeYtCg2G8ufk66Dwp_ZeQOYruT3uQOGnRKRD-ADhYyPF"
     },
     {
       "query": "judy shelton",
@@ -274,15 +274,6 @@
         "business_and_finance"
       ],
       "news_token": "svTpnnica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGJYsTBotS8xaFBkP5JoVBKHy_8tkofAe-Ryh85_B0FL5vhQsKX6r7JQo_XArVPq-GSSh8fpmdyHzFn3_tUeQT9ApR-NL8C1H48aF1KPy4S_IofO2jUih8_V2nUezLObkYma9wQWo6hA8AGHtv7g"
-    },
-    {
-      "query": "unh stock",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "OcgLx3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiWR1jeLUvMWhQZD-TF3WVH4JhFhKHzdzGYIHwCqcRyS"
     },
     {
       "query": "nifty 50",
