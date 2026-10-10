@@ -10,16 +10,35 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 27,
+      "keywords_count": 20,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-10 06:30:55"
+      "last_updated_hkt": "2026-10-10 21:30:59"
     }
   },
   "trending_seeds": [
     {
-      "query": "celeste frozen pizza production stop",
+      "query": "social security extra deposit 90",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "Zql-BXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWD16IWpeYtCg0GANSwDPU"
+    },
+    {
+      "query": "mrbeast",
       "search_volume": 20000,
       "increase": 1000,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "86K8M3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqWU8NWLUvMWhQZD-SxyzCh8TcVryHzFiBhnFHn3zl4IHwBgAyEX"
+    },
+    {
+      "query": "celeste frozen pizzas",
+      "search_volume": 10000,
+      "increase": 700,
       "categories": [
         "food_and_drink",
         "business_and_finance"
@@ -27,70 +46,104 @@
       "news_token": "QnZsRnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXGGv9FqXmLQoMBz1MMUA"
     },
     {
-      "query": "strait of hormuz",
-      "search_volume": 20000,
+      "query": "5g",
+      "search_volume": 1000,
       "increase": 600,
       "categories": [
-        "business_and_finance"
+        "business_and_finance",
+        "technology",
+        "science"
       ],
-      "news_token": "aQO6mnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRiXWm1WLUvMWhQZD-IpdJ1RR-DdWnEfmKzkkp6Lw1W59R1HvfHIlMl8haMFnFPkJv86g8K81FaDwj5r-RTE_fOpXFPlly1VQzNd4b4oin_qND8IHALeKWk0"
+      "news_token": "dGWhpHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqUKx8hFqXmLQoOh_LLHn1D49jP0kfmKL-zFkPkK51nMUNQ7rPyOwi-2foXC53NYj8KPCdiJzJfjWr4HwgcAI_g_Ww"
     },
     {
-      "query": "jeff bezos three day workweek view",
+      "query": "diesel prices impact on trucking",
       "search_volume": 10000,
-      "increase": 400,
+      "increase": 500,
+      "categories": [
+        "business_and_finance",
+        "autos_and_vehicles"
+      ],
+      "news_token": "SrgvWXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiUP9s-LUvMWhQYDAM4wDEc"
+    },
+    {
+      "query": "ari emanuel",
+      "search_volume": 1000,
+      "increase": 300,
       "categories": [
         "business_and_finance",
         "science",
         "technology"
       ],
-      "news_token": "myv993ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiWz_W8XpeYtCg2G8BW_ablD-ADOsRKS"
+      "news_token": "HEMwxnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqWCgn-LUvMWhQZD-ZaTvqPwPXbuQOFz5Zej8LWC5iLzFSOWLoPwAVXrKWI"
     },
     {
-      "query": "trevor noah",
-      "search_volume": 1000,
+      "query": "spacex launch",
+      "search_volume": 500,
       "increase": 300,
       "categories": [
-        "entertainment",
-        "business_and_finance"
+        "business_and_finance",
+        "science"
       ],
-      "news_token": "-cfv-Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiWduIpFqXmLQoOhfEttExR-dGMAhA8A6_8WVQ"
+      "news_token": "Fnzkw3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRqVIgaBFqXmLQoMhfMUn3zSQ-bL1xq3IfDnDuyHIfCWH5CXIfPnNtkko8kZPlZD5Crfm8KLIS_MvROErNF9AMc_-9iEU99RIvUTmy9xyXwXhAwAoSFAz"
     },
     {
-      "query": "asts stock",
-      "search_volume": 5000,
+      "query": "spacex launch today",
+      "search_volume": 500,
+      "increase": 300,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "Xv8WLHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRsUn3zQWpeYtCg2G8JUiBYJQ-NL8C1H4Rk-VUPiWgctQ-JIpHch8xbnm81H4u8-XIfNlvwbyIPPlN9smofDtbx9C5ivcmsOLYl9BkAsyX26bniOEDwA1-VUJ"
+    },
+    {
+      "query": "nvidia",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "science",
+        "technology"
+      ],
+      "news_token": "7hQSUHica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGxWNHtyxKzVsUGgzhK-XmN6Lw2R_UoPCd0i-i8DW7TVD4GoGKyHzFW5f6UeRNboSi8HUuHUNRv6BnJoq8Q48wCr9ARR6Fb3HCAEV_47cQFL7u-lhkvuzbSz9R-D5-UP8AAGulaJs"
+    },
+    {
+      "query": "alani bankhead",
+      "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "business_and_finance"
+        "politics"
       ],
-      "news_token": "C7Cfi3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiWjeuNFqXmLQoOhfGn-hch82Q5lAQgfAOiKFfQ"
+      "news_token": "hEUxp3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUCg-mLUvMWhQYDAM5cDDw"
     },
     {
-      "query": "gma deals and steals",
+      "query": "john wayne turned down movie",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "QQMgSXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiWem_aLUvMWhQYDAM24DCk"
+      "news_token": "CPJS3Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqXEw6cXpeYtCg2G8BU3rX0O4QMA1koTfg"
     },
     {
-      "query": "bankruptcy",
-      "search_volume": 500,
+      "query": "fraud",
+      "search_volume": 1000,
       "increase": 100,
       "categories": [
-        "other"
+        "business_and_finance",
+        "law_and_government"
       ],
-      "news_token": "DcvtUHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiV-w-xFqXmLQoOhfA_2z8h8xR93uFDk3a-8RJHf07kCma-wTyIfVX08O4r6ZwcrUfjXfUpQ1JuIobhHcWOcGDJfrqJcAsIHAMtGSjc"
+      "news_token": "qU-4DHica1xTlFpYmlpcEp-SWJJ4h0F88nkGBgZGJX-_T4tS8xaFBkP4ip2hvch8JctJS1DkP5w-gcLfvf0QCn-aYz6K_mKdfhR-5cyDKHxp_vco-j8ucEDhv1M9iqJeSGExCl_g7goUfqkKin-UnFZtQzGPIXgGCn_ulGMo_C_3UNQrOaSoo_ATmtRQw6ewHtW-1bwofL-zjRA-ABxKi_I"
     },
     {
-      "query": "yannick hanfmann",
-      "search_volume": 200,
+      "query": "delta flight status",
+      "search_volume": 500,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "7XdD2Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRsVVPLmLUvMWhQZD-Eq2r6yQ-YpvPFhQ5N3CA1H4MWdsIXwAl3kiJg"
+      "news_token": "JGoEYnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsU5-TqLUvMWhQZD-EoR_28j8xWZzzxGkXd73AHhAwDXMR6e"
     },
     {
       "query": "verizon",
@@ -99,172 +152,64 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "x91uiXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiVp_oWLUvMWhQZD-SoT36PwdQ-9RuYr8mWbovC3GvQi82WN-u1R5DuemaPwZ4myoPC_TTZAsS_hyi0UfsR0QxTz_3-5D-EDAEsRS2c"
+      "news_token": "MRcK-Hica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGJWn-hYtS8xaFBkP4ik--aSDzlSIFglD40kmHUdSvM2tBkRe4q4LC937OjqJ-9_kyZL68_e1DKOoLglxQ-EZPlVD0O6j2ovDZReJR1Ot45KDI7xCahSKvMvE9Ct896z-Ker5sU2S-rFG_PYr8VgNU-zuemUP4AJKMewI"
     },
     {
-      "query": "warren buffett recommended vanguard fund",
-      "search_volume": 2000,
+      "query": "f22",
+      "search_volume": 200,
       "increase": 75,
       "categories": [
+        "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "TvhF-nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiU9DaZFqXmLQoMBx7cLXQ"
+      "news_token": "N3Kr8nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsV_SZKLUvMWhQZD-Er8qyIgfADCvRHT"
     },
     {
-      "query": "dow jones industrial average",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "y34df3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqXU3rZFqXmLQoMhfMX3yy6g8NmuVyLzlWyuPkPmS7-efxWZL7ux-BOEDwCWiSvv"
-    },
-    {
-      "query": "pltr",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "_qECs3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsWij2yLUvMWhQZD-Uv6NZH5SpnHRFD4UbYrUPlHUlD4bm0qyHzZTQ01yHy5ZpNqFPk858UQPgAqWDkK"
-    },
-    {
-      "query": "morgan freeman",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance",
-        "law_and_government"
-      ],
-      "news_token": "1SiywXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiX51_2LUvMWhQZD-Zkaxch8mW0BjhA-AA6ZF20"
-    },
-    {
-      "query": "jim farley",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance",
-        "autos_and_vehicles"
-      ],
-      "news_token": "7kTrqnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqUESZ1FqXmLQoOhfNGDYSj8RONbKHyF7MnIfMV7zgdR-CLbFqDwOwQrkPkKzx-qQPgAe00ziQ"
-    },
-    {
-      "query": "public service loan forgiveness delays",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "RWzoE3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsW3LEaLUvMWhQYDAM6UDCc"
-    },
-    {
-      "query": "strait of hormuz fuel prices",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "iRpfeXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsWuE6qLUvMWhQZD-EqsN6tQ-DriJ5D5sqkfvkL4ALgiHfI"
-    },
-    {
-      "query": "john wayne turned down movie",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "CPJS3Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqXEw6cXpeYtCg2G8BU3rX0O4QMA1koTfg"
-    },
-    {
-      "query": "mrna stock",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "dfqUhnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsVlRqcXpeYtCg2G8JUiVxai8DPaFqDwtSYehPABzDQd8w"
-    },
-    {
-      "query": "haynes furniture going out of business",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "hobbies_and_leisure",
-        "business_and_finance"
-      ],
-      "news_token": "kVJ3LXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiVz0RWLUvMWhQYDAMv6C_k"
-    },
-    {
-      "query": "federal reserve consumer survey debt",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "k0qTM3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsX5fm6LUvMWhQYDAM6yDDc"
-    },
-    {
-      "query": "is the stock market open on columbus day",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "sytJOHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiVfzsBFqXmLQoMhfMWlCQIQPgCvMhEF"
-    },
-    {
-      "query": "southwest airlines computer system failure",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "travel_and_transportation"
-      ],
-      "news_token": "1WpjI3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiXGcxcWpeYtCg2G8r0mZUH4AMaEEi8"
-    },
-    {
-      "query": "gme",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "JxwwE3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiWt_xaLUvMWhQZD-e7TUlD42nnPkfmKf-9B5QG7qh40"
-    },
-    {
-      "query": "dal stock",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "My05b3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRkXmM48XpeYtCg2G8ufk66Dwp_ZeQOYruT3uQOGnRKRD-ADhYyPF"
-    },
-    {
-      "query": "judy shelton",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "9kqV73ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXI88KLUvMWhQYDAM7pDEA"
-    },
-    {
-      "query": "travis price west virginia mining",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "other"
-      ],
-      "news_token": "mD4OP3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiUB0_-LUvMWhQYDAM38DEk"
-    },
-    {
-      "query": "flow",
+      "query": "f35",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "svTpnnica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGJYsTBotS8xaFBkP5JoVBKHy_8tkofAe-Ryh85_B0FL5vhQsKX6r7JQo_XArVPq-GSSh8fpmdyHzFn3_tUeQT9ApR-NL8C1H48aF1KPy4S_IofO2jUih8_V2nUezLObkYma9wQWo6hA8AGHtv7g"
+      "news_token": "qY0Lrnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRiUd28JFqXmLQoOh_PCtJ1H4cbGOyHzFpy-YUeQ1pgai8IO2uaGod142F4Vf0fAAma8QfuIuMl_G0-cChA8AAAw__Q"
+    },
+    {
+      "query": "vivek ramaswamy",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "nTI1vXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiWPHc6LUvMWhQZD-YKH65H5ij737VHko6S4UfgmEcoofK5mSxS-wxcrFPMu7_gI4QMAWA0yxA"
+    },
+    {
+      "query": "buc ee's",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "PqKVj3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiX2h-6LUvMWhQZD-VrLLFH4jmWnUPj5R-yR-Qrvnt1C5suurbZB5st13HSE8AHcRC93"
+    },
+    {
+      "query": "split",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "uYa8aXica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGpeTCnkWpeYtCg6F8xZlSyHzFxAu-KPx9h8-i8B9IX0bRX66mjMKPnuaDyv9jh8K3np2CYt5Pvh0o8k6reVH5Leko6puirqLIl664jcLXvh6Eon7bAUkUebcDT1H4hTlfUfhek5lQ9KfM24LMV3Dx2I3CD9G2gvABObOETQ"
+    },
+    {
+      "query": "southwest airlines computer system failure",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "travel_and_transportation"
+      ],
+      "news_token": "6Gwgvnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXGcxcWpeYtCg0GAND0DKQ"
     }
   ]
 }
