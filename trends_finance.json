@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 20,
+      "keywords_count": 24,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-10 21:30:59"
+      "last_updated_hkt": "2026-10-11 00:30:54"
     }
   },
   "trending_seeds": [
@@ -33,7 +33,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "86K8M3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqWU8NWLUvMWhQZD-SxyzCh8TcVryHzFiBhnFHn3zl4IHwBgAyEX"
+      "news_token": "9K3RjHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqWU8NWLUvMWhQZD-WV7VqDwWeSYUfiaiteQ-YoRMc4o8u6dvRA-AN6gJzY"
     },
     {
       "query": "celeste frozen pizzas",
@@ -59,7 +59,7 @@
     {
       "query": "diesel prices impact on trucking",
       "search_volume": 10000,
-      "increase": 500,
+      "increase": 400,
       "categories": [
         "business_and_finance",
         "autos_and_vehicles"
@@ -67,15 +67,13 @@
       "news_token": "SrgvWXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiUP9s-LUvMWhQYDAM4wDEc"
     },
     {
-      "query": "ari emanuel",
-      "search_volume": 1000,
+      "query": "gwaneum-dong supermarket roof collapse",
+      "search_volume": 5000,
       "increase": 300,
       "categories": [
-        "business_and_finance",
-        "science",
-        "technology"
+        "other"
       ],
-      "news_token": "HEMwxnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqWCgn-LUvMWhQZD-ZaTvqPwPXbuQOFz5Zej8LWC5iLzFSOWLoPwAVXrKWI"
+      "news_token": "VDC6WHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqVM5uhFqXmLQoMByxELzA"
     },
     {
       "query": "spacex launch",
@@ -85,7 +83,7 @@
         "business_and_finance",
         "science"
       ],
-      "news_token": "Fnzkw3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRqVIgaBFqXmLQoMhfMUn3zSQ-bL1xq3IfDnDuyHIfCWH5CXIfPnNtkko8kZPlZD5Crfm8KLIS_MvROErNF9AMc_-9iEU99RIvUTmy9xyXwXhAwAoSFAz"
+      "news_token": "1lo9lXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqVIgaBFqXmLQoMhfMUn3zSQ-UrS_AuR-fKbbZNQ5I2eKqHwFZovoPAdkpeg6Le_fQiZL1sj9RKZL3PLfRWEDwC9fT9T"
     },
     {
       "query": "spacex launch today",
@@ -95,18 +93,46 @@
         "business_and_finance",
         "science"
       ],
-      "news_token": "Xv8WLHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRsUn3zQWpeYtCg2G8JUiBYJQ-NL8C1H4Rk-VUPiWgctQ-JIpHch8xbnm81H4u8-XIfNlvwbyIPPlN9smofDtbx9C5ivcmsOLYl9BkAsyX26bniOEDwA1-VUJ"
+      "news_token": "9GmkYXica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGxSffNBal5i0KDYbwlSIFglD40vwLUfhGT5WQ-YrLlqugyFsGLkORn2s-H4W_-3wZMl_2ayAPMl9-s20Siny9cSsyX87wbgiKevvbh5D5Crfm8KK4pyDIBUX_Nj1HCB8AIP9g2g"
     },
     {
       "query": "nvidia",
-      "search_volume": 1000,
+      "search_volume": 5000,
       "increase": 200,
       "categories": [
         "business_and_finance",
         "science",
         "technology"
       ],
-      "news_token": "7hQSUHica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGxWNHtyxKzVsUGgzhK-XmN6Lw2R_UoPCd0i-i8DW7TVD4GoGKyHzFW5f6UeRNboSi8HUuHUNRv6BnJoq8Q48wCr9ARR6Fb3HCAEV_47cQFL7u-lhkvuzbSz9R-D5-UP8AAGulaJs"
+      "news_token": "AKA4qnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGxWNHtyxKzVsUGgzhK-XmN6LwndIvovDZH9Sg8DW7TVD4GoGKyHzFW5f6UeRNboSiyK9coY3CP7fuAAp_Qc9MFP0OPcIofIsTBih8s_gkFP2N30JQ-LrrY1H4VdrJED4ArcRnvw"
+    },
+    {
+      "query": "naruto shadow rising",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "QohYo3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRiWHr_qLUvMWhQZD-VUqn1H4mUYHkfmyrSI3UeT1ngsg8xVd5itC-AAbmChE"
+    },
+    {
+      "query": "strait of hormuz tanker crew pay",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "kzwICHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVly1UWpeYtCg0GANDLDHU"
+    },
+    {
+      "query": "fraud",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "3fQgOHica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGJX-_T4tS8xaFBkP4ih9On0DmK9meFUThV848iKJ-9_ZDKPxpjvko6mOk76Pwi3X6UdTPnXIMRT5BPxZF_uHvRBT-vyAlFPWlKijuV3JatQ2FX2X-GYWf016AYh5D8AxU-5vUUOS_3EM1z2k1LwrfIUUdhR_b7gnhAwDUzoYj"
     },
     {
       "query": "alani bankhead",
@@ -127,23 +153,31 @@
       "news_token": "CPJS3Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqXEw6cXpeYtCg2G8BU3rX0O4QMA1koTfg"
     },
     {
-      "query": "fraud",
+      "query": "vivek ramaswamy",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
-        "business_and_finance",
-        "law_and_government"
+        "business_and_finance"
       ],
-      "news_token": "qU-4DHica1xTlFpYmlpcEp-SWJJ4h0F88nkGBgZGJX-_T4tS8xaFBkP4ip2hvch8JctJS1DkP5w-gcLfvf0QCn-aYz6K_mKdfhR-5cyDKHxp_vco-j8ucEDhv1M9iqJeSGExCl_g7goUfqkKin-UnFZtQzGPIXgGCn_ulGMo_C_3UNQrOaSoo_ATmtRQw6ewHtW-1bwofL-zjRA-ABxKi_I"
+      "news_token": "-RjC_Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiWPHc6LUvMWhQZD-YKH65H5ij737VHkTSKUUfhczZYofIcvVij8KCluFH6IggmEDwBgFTDx"
     },
     {
-      "query": "delta flight status",
+      "query": "f35",
       "search_volume": 500,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "JGoEYnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsU5-TqLUvMWhQZD-EoR_28j8xWZzzxGkXd73AHhAwDXMR6e"
+      "news_token": "ivVuXXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRiUd28JFqXmLQoOh_PCtJ1H4GlMDUfhxsY7IfMWnL5hR5IO2uaHIOy-bi8yX8fS5gMxXCD9xF8IHABfROeE"
+    },
+    {
+      "query": "space x",
+      "search_volume": 100,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Usvq7nica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiXv5-yLUvMWhQZD-dL8C5H5ig6qvSjy_kWHUOTXmbWg8HefL0Pmy9vfRlGvVBDkgsI3eqqEon-j9y4U_m2XDhQ-u0g8hA8AUd5Jxg"
     },
     {
       "query": "verizon",
@@ -152,7 +186,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "MRcK-Hica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGJWn-hYtS8xaFBkP4ik--aSDzlSIFglD40kmHUdSvM2tBkRe4q4LC937OjqJ-9_kyZL68_e1DKOoLglxQ-EZPlVD0O6j2ovDZReJR1Ot45KDI7xCahSKvMvE9Ct896z-Ker5sU2S-rFG_PYr8VgNU-zuemUP4AJKMewI"
+      "news_token": "jH9srXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRiVp_oWLUvMWhQZD-ToeOch8xR1Cs1DkVSa-R-G7Z_1HUc-XbYrMlzXqt0eR32rQi8LveGYO4QMAthI4TA"
     },
     {
       "query": "f22",
@@ -162,25 +196,34 @@
         "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "N3Kr8nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsV_SZKLUvMWhQZD-Er8qyIgfADCvRHT"
+      "news_token": "CQUliXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsV_SZKLUvMWhQZD-Er8qyJQ-KURzyB8AA5zF8s"
     },
     {
-      "query": "f35",
-      "search_volume": 200,
+      "query": "delta air lines",
+      "search_volume": 1000,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "qY0Lrnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRiUd28JFqXmLQoOh_PCtJ1H4cbGOyHzFpy-YUeQ1pgai8IO2uaGod142F4Vf0fAAma8QfuIuMl_G0-cChA8AAAw__Q"
+      "news_token": "8QGZwnica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRkXmM48XpeYtCg2G8JUi_t9G4fsXHULhV376g8xXTDizF0Xe7XEHCl9wihIK325pNjJfTvjYA2S-bE3HWxTz5-TroNpf_ALCBwBW-04i"
     },
     {
-      "query": "vivek ramaswamy",
-      "search_volume": 200,
+      "query": "florida power outages",
+      "search_volume": 500,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "nTI1vXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiWPHc6LUvMWhQZD-YKH65H5ij737VHko6S4UfgmEcoofK5mSxS-wxcrFPMu7_gI4QMAWA0yxA"
+      "news_token": "YKSrNXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRqXSjuuLUvMWhQZD-Iq7GH2Q-UpFqsYo_OI7CRA-ALa-HSc"
+    },
+    {
+      "query": "barry manilow concert cancelled las vegas",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "tit973ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqV4zbhFqXmLQoMBy_wL6w"
     },
     {
       "query": "buc ee's",
@@ -201,15 +244,6 @@
         "science"
       ],
       "news_token": "uYa8aXica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGpeTCnkWpeYtCg6F8xZlSyHzFxAu-KPx9h8-i8B9IX0bRX66mjMKPnuaDyv9jh8K3np2CYt5Pvh0o8k6reVH5Leko6puirqLIl664jcLXvh6Eon7bAUkUebcDT1H4hTlfUfhek5lQ9KfM24LMV3Dx2I3CD9G2gvABObOETQ"
-    },
-    {
-      "query": "southwest airlines computer system failure",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "travel_and_transportation"
-      ],
-      "news_token": "6Gwgvnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXGcxcWpeYtCg0GAND0DKQ"
     }
   ]
 }
