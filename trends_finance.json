@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 24,
+      "keywords_count": 18,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-11 03:30:56"
+      "last_updated_hkt": "2026-10-11 06:30:55"
     }
   },
   "trending_seeds": [
@@ -28,42 +28,12 @@
     },
     {
       "query": "medicare",
-      "search_volume": 5000,
+      "search_volume": 10000,
       "increase": 1000,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "LLH0nHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiXjGstFqXmLQoOhfO6EAyh812uGyHzFH5cbUPgXhGRR1MdI30fh231NR-FHW6qj6D94LQpVXlwDhW8YYYWiPk98J4QPAEOySNg"
-    },
-    {
-      "query": "mrbeast",
-      "search_volume": 20000,
-      "increase": 800,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "kSwDMnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqWU8NWLUvMWhQZD-WV7VqDwWeSYUfiaiteQ-YoRMc4o_C2nr0L4AOZzKCw"
-    },
-    {
-      "query": "celeste frozen pizzas",
-      "search_volume": 10000,
-      "increase": 700,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "QnZsRnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXGGv9FqXmLQoMBz1MMUA"
-    },
-    {
-      "query": "5g",
-      "search_volume": 1000,
-      "increase": 600,
-      "categories": [
-        "business_and_finance",
-        "technology",
-        "science"
-      ],
-      "news_token": "dGWhpHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqUKx8hFqXmLQoOh_LLHn1D49jP0kfmKL-zFkPkK51nMUNQ7rPyOwi-2foXC53NYj8KPCdiJzJfjWr4HwgcAI_g_Ww"
+      "news_token": "MSa_Cnica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiXjGstFqXmLQoOhfO6EAyh812uGyHzFH5cbUPgXhGRR1Me9uYvCj5G-j6L-4LUoFHnDCCsUfl2bOKr-gEpkvsLFZlcIHwC21Eqq"
     },
     {
       "query": "diesel prices impact on trucking",
@@ -83,6 +53,17 @@
         "business_and_finance"
       ],
       "news_token": "fiBwr3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiXpNb6LUvMWhQZD-IqpJgbIfKXqFcoQPgD0tBax"
+    },
+    {
+      "query": "simon cowell",
+      "search_volume": 1000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance",
+        "hobbies_and_leisure",
+        "pets_and_animals"
+      ],
+      "news_token": "Dd2DjHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiVbmxOLUvMWhQZD-RqfEpD5sieZ9kH4AA1QF84"
     },
     {
       "query": "spacex launch",
@@ -111,7 +92,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "CDH6J3ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGJYev-otS8xaFBkP5VSqfkfkK-VLSyHzZVpGbKOr1ngsg8xVd5iuiyIsXyKHwo3WjUcwPWoBin5IhrzqKeS2Lw1Hk81y1UfhckoYofMl5E1H4fjd0UPgRckbIfPlH7AtR5PnKTFHsv7vSBMIHAEs1bRE"
+      "news_token": "pYE8Xnica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGJYev-otS8xaFBkP5VSqfUfjB_5lR-LVnvJH5sq0iN1Hk9Z4LIPMVXeYrosiLF8ih8KN1o5H5CkELUO035FVHMa9lcTiKfJ6rNgqfS9IQhS85byIK3--GDgo_Qs4ImS__iH0hijxfmSmK_XdXmkD4AI64c50"
     },
     {
       "query": "gwaneum-dong supermarket roof collapse",
@@ -123,20 +104,9 @@
       "news_token": "VDC6WHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqVM5uhFqXmLQoMByxELzA"
     },
     {
-      "query": "nvidia",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance",
-        "science",
-        "technology"
-      ],
-      "news_token": "_aTQCXica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGxWNHtyxKzVsUGgzhK-XmN6Lw2R_UoPA1u02Q-Yq3LvWjyGsEKqLwTW6Eoqg_t-4ACn9Bz0wU9U7pF1H4Dj3CKHyLEwYo-g-8T0DhN34LQeHrro9F4VdpJ0P4AKyHYxY"
-    },
-    {
       "query": "strait of hormuz tanker crew pay",
       "search_volume": 2000,
-      "increase": 200,
+      "increase": 100,
       "categories": [
         "business_and_finance"
       ],
@@ -152,15 +122,6 @@
       "news_token": "1EzA6Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiUjzmmLUvMWhQZD-SY3QlH4Ea9UUPh8LbuR-YrrzFpQ-AelilDU8_5qhPABjlktww"
     },
     {
-      "query": "power outage near me",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "vgOL_Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqXq-GOLUvMWhQZD-UW9mih80dXLUfiZH_2Q-Yq7GH0gfADDJCL2"
-    },
-    {
       "query": "alani bankhead",
       "search_volume": 2000,
       "increase": 100,
@@ -170,13 +131,13 @@
       "news_token": "hEUxp3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUCg-mLUvMWhQYDAM5cDDw"
     },
     {
-      "query": "vivek ramaswamy",
-      "search_volume": 1000,
+      "query": "delta flight status",
+      "search_volume": 500,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "vo35XXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiWPHc6LUvMWhQZD-Io-9-2R-UqCh-tR-CYRyih8rmZLFL7DFysUfpQUNwo_RMEEwgcAYXUw8Q"
+      "news_token": "A6HBenica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRkXmM48XpeYtCg2G8ufk6yDzlSL-30bhuz3ugPAB1tEeng"
     },
     {
       "query": "f35",
@@ -185,7 +146,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "1Ecjo3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiUd28JFqXmLQoOh_PCtJ1H4NWIdKHyNqYEo_LhYRxR-0DY3FH5ybRGEDwCErC0W"
+      "news_token": "uCROunica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRiUd28JFqXmLQoOh_PCtJ1H4NWIdKPy4WEcUvsbUQBR-0DY3CB8A320nfw"
     },
     {
       "query": "space x",
@@ -195,15 +156,6 @@
         "business_and_finance"
       ],
       "news_token": "Usvq7nica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiXv5-yLUvMWhQZD-dL8C5H5ig6qvSjy_kWHUOTXmbWg8HefL0Pmy9vfRlGvVBDkgsI3eqqEon-j9y4U_m2XDhQ-u0g8hA8AUd5Jxg"
-    },
-    {
-      "query": "verizon",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "jH9srXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRiVp_oWLUvMWhQZD-ToeOch8xR1Cs1DkVSa-R-G7Z_1HUc-XbYrMlzXqt0eR32rQi8LveGYO4QMAthI4TA"
     },
     {
       "query": "f22",
@@ -217,22 +169,12 @@
     },
     {
       "query": "delta air lines",
-      "search_volume": 1000,
+      "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "TFT063ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRkXmM48XpeYtCg2G8JX8iw4h8xUTzuxFkXd16EThFzP0o_Br5juh8GM3vkThSxYsQObz6s66hCIvOEUJmS8nfOwBMl-2puMtivqI_7dR3DsnXwdF3u1xB4QPAO1nXXk"
-    },
-    {
-      "query": "split",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "uYa8aXica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGpeTCnkWpeYtCg6F8xZlSyHzFxAu-KPx9h8-i8B9IX0bRX66mjMKPnuaDyv9jh8K3np2CYt5Pvh0o8k6reVH5Leko6puirqLIl664jcLXvh6Eon7bAUkUebcDT1H4hTlfUfhek5lQ9KfM24LMV3Dx2I3CD9G2gvABObOETQ"
+      "news_token": "N3clXnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRiX_okOLUvMWhQZD-Ipz8nVQ-JcP7kPmK5V8WI3Cr73KgaKe-cxjFH7Cmb0o6mvmO6Hw3R53IPN5dWddgvAB_JJCEA"
     },
     {
       "query": "buc ee's",
