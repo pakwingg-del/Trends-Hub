@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 19,
+      "keywords_count": 20,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-12 00:30:52"
+      "last_updated_hkt": "2026-10-12 03:30:54"
     }
   },
   "trending_seeds": [
@@ -27,7 +27,7 @@
     },
     {
       "query": "peso mexicano",
-      "search_volume": 20000,
+      "search_volume": 50000,
       "increase": 1000,
       "categories": [
         "business_and_finance"
@@ -41,34 +41,35 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Sp_vZ3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiVJl_mLUvMWhQZD-SnhK5H5ir_ZNqLwD2QIIfNli20bIXwApJoijw"
+      "news_token": "-FvYd3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiVJl_mLUvMWhQZD-SnhK5H5igcyhJD5ssW2jRA-AJvrHJk"
     },
     {
-      "query": "medicare",
-      "search_volume": 10000,
+      "query": "stock market today",
+      "search_volume": 20000,
       "increase": 1000,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "RQbG8Hica1xTlFpYmlpcEp-SWJI4f_J5BgYGRiXjGstFqXmLQoMhfMWD16KQ-Uqu1wxR-K0aP1HU_7jcgCJf1yaOwjeQUEfht3TcQ-EXqTij8JtDO1D43AkHUPhtqjdQ-I2M3sh8kS9fX6C4L_JJAYQPAGSuXHY"
-    },
-    {
-      "query": "stock",
-      "search_volume": 50000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "8WUlCnica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGpdTetkWpeYtCg6H83El9KHw1_4kofE7XxSh89pjTyHzFRz1NKPLibNNR-L6cgSh8eZUbKHzjx1ko_Oj9N1H4bfu9UOx7v-wCinxH418UebbrlSjyUpJ3UPjS_AtR1Cec2YvCZy68isJvTp2Nop_PHupfANwMfWA"
+      "news_token": "f00qKHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqXo_TcXpeYtCg2G8nMn9SHzFd-yXkSRb9vvhcL35QxE4UtJ3kHhS3zdjcJP7W2D8AE1uDSv"
     },
     {
       "query": "stock market crash",
-      "search_volume": 5000,
+      "search_volume": 10000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "-ioqh3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqXmRfMXpeYtCg2G8BX7re4i85VSPvSi8J1W86Lw5dJLUPhSkndQ-Mq6Qij8ICc5CB8A9PEySA"
+      "news_token": "R1nWU3ica1xTlFpYmlpcEp-SWJJ4h0Fp8nkGBgZGpeZF8xel5i0KDYbwFfut7iLzlaItJVH4cuklKHwpyTso_JQPvSh8p9W8KPwgJzkU-9zOGSLz5UQEmJD5sg-me6K6Z_9NFL4vZyCKee-XXUDhn5mN6t7U3jYU-QeiWSjybHMjUfjVt1D5Sf99UfTPafRDkW_Rb0bhZ9_5jsKXsOFC4fNe9kHh507qQzF_U5Ujinzbfi8Uvo1SGIr6s9KrUPiPeppQ1AemooSHghJvMor6hDN7IXwAJt_Fzg"
+    },
+    {
+      "query": "cupertino",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "P6FU33ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiU1e61FqXmLQoOh_LIpech8mTvTeyB8APXzF48"
     },
     {
       "query": "simon cowell",
@@ -83,12 +84,12 @@
     },
     {
       "query": "is the stock market open on columbus day",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 200,
       "categories": [
-        "hobbies_and_leisure"
+        "business_and_finance"
       ],
-      "news_token": "9ozKSXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRsWlCQKLUvMWhQZD-EpWYWko_PKdbij8Xr0KZL7ivUppFPlkqxoU-f1e5Sj8zzpTUNT7cgai8NMYTqDwo9n3QvgAmaxDGQ"
+      "news_token": "sytJOHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiVfzsBFqXmLQoMhfMWlCQIQPgCvMhEF"
     },
     {
       "query": "ai games",
@@ -109,22 +110,13 @@
       "news_token": "D0palHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRiX_okOLUvMWhQZD-RUOv1H4Ef9vo_AlCxag8CuLX6Dwa69yIPMVmc88RuEnnNmLor5m_zcUebavZ1DkBacoQfgATcxHzQ"
     },
     {
-      "query": "is stock market open on columbus day",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "sytJOHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiVfzsBFqXmLQoMhfMWlCQIQPgCvMhEF"
-    },
-    {
       "query": "cryptocurrency",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "2eDgy3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsU_OmGLUvMWhQZD-EoG7mtR-NGNGih8icM7Ufg95aEo_O7Hvch8xU-XbqDIJ6-LRuE7zm1H4cfEzoTwAVepQLw"
+      "news_token": "Idbd2nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsU_OmGLUvMWhQZD-Eo5IjNR-LmP76Pwe8pDkfmKny7dQJFPXheNwu9-3IvCd5zbjqI_NeceinxMLNR-AO76QfY"
     },
     {
       "query": "martha stewart",
@@ -134,7 +126,16 @@
         "business_and_finance",
         "entertainment"
       ],
-      "news_token": "acUNqHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiWuZt1FqXmLQoOh_Cqdach8xZyeRyjy3evZUfjuskoo_Lytx1DNy_ZHMc81SAXCBwB8wDJV"
+      "news_token": "soFcIXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiWuZt1FqXmLQoOh_CqdaSh88fn2KPzu9ezIfMWcnkco8u6ySij8vK3HUM3P9ofwAVWRMpA"
+    },
+    {
+      "query": "polymarket",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "x7hRmXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRsUlF70XpeYtCg2G8JWMawyQ-YpfDftR-H2r16PwT7CcQ9HPfuY-ivzLVRwo_E_NhSjquf8kI_Pl9v5agMyX1by5EUX_JI08ZL78lw1XIXwAw3pUTA"
     },
     {
       "query": "spacex",
@@ -143,16 +144,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "NxnYDHica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGJe_n7ItS8xaFBkP4itPeeiPzFV6c-YbMV2o9dhVF_fP1nijy6ZJyKPIfV_1DkU8u7EGRd1DtRZGXTOlA4TswbkfhG1mi6Fcq1UZxv5LE192o_rmegyIvzb8QhW-jdBeFbxm4DIUvcFcFha9ucgXCBwCimHhU"
+      "news_token": "gu8y8Xica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGRQfV3kWpeYtCgyF8Je_n7Mh8xY-r_qHIS6Z0oPAtA5eh8BOnVKDwHRi3o_BLtVHMV2o9dhXFvmlvvVHkpfkXIvMVXpz5hqL-2oMiFPW9dz6g8EXeFqLw0yXlUPg2SndR-AJ3VVD46iZXUOzbfb4MwgcAegF53Q"
     },
     {
-      "query": "las vegas flooding",
-      "search_volume": 20000,
+      "query": "天气",
+      "search_volume": 1000,
       "increase": 75,
       "categories": [
-        "climate"
+        "business_and_finance"
       ],
-      "news_token": "xc9g_nica1xTlFpYmlpcEp-SWJJ4h0Fu8nkGBgZGJa2WqEWpeYtCg6H8eM04ZL7ij10cKPKdHCYofMmkBSh80d7FKPr37VZD5suKyosj8-VEJC8i8yUzWa-hmCeha4TCT33ojaJf88EMFPPN2b6g2L_X8yAKfxejD4p5Daa8KPzkM86o_n27GZmvoMSbjCLfvEgKxfy3hiEo_LNdT1HU6144hMLPLI9F4Zfu50Lhi7Eqo5jXMqMYVf1GTxR-Wv1aCB8A4X6sgw"
+      "news_token": "rX1pV3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiW2mouLqjIWhQZD-HJpm3dC-ADE_xKJ"
     },
     {
       "query": "a different world reboot netflix",
@@ -173,13 +174,22 @@
       "news_token": "U75Nnnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXn09cWpeYtCg0GANNYDOk"
     },
     {
+      "query": "iren stock",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "vzCbyHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsV3R4oXpeYtCg2G8JW6BWxR-JHpqch82T-_y1Dk03I_IvMVE87sRZEv7w5H5sucvPwGwgcAanE2-A"
+    },
+    {
       "query": "gold",
       "search_volume": 500,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "3HG6Mnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRoXfdTcWpeYtCg2G8JVEElej8Hued6LwHTd6oPB1areg8KvavqPwyxfUovArBRKQ-YqbZ7yG8AH80TvY"
+      "news_token": "-4qG83ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiXRxM5FqXmLQoOh_Kq278h8xcdHUeQVwwOmoKjXPNKFzFf4XXcDRV6ndgsK35BnAQq_tzsDhW-7jhWFzz_9Aor9TLpxED4AYJRKzg"
     },
     {
       "query": "walmart warehouse robot automation challenges",
