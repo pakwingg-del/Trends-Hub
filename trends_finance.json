@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 20,
+      "keywords_count": 21,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-12 03:30:54"
+      "last_updated_hkt": "2026-10-12 06:30:57"
     }
   },
   "trending_seeds": [
@@ -23,16 +23,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "BMVqhnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqW6NvFFqXmLQoMBzgoMIA"
+      "news_token": "YEKbvnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRqW6NvFFqXmLQoMhfHn5wEXIfNmJPcLIfJlCvjcQPgCV5RyO"
     },
     {
-      "query": "peso mexicano",
+      "query": "stock market today",
       "search_volume": 50000,
       "increase": 1000,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "lrWqvXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiX91upFqcWLQoOhfM9SFhR--1EFZL4cy4PLED4AmLMc-A"
+      "news_token": "MSWUcnica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGpbBKrkWpeYtCg6H8zkM6KPxi_igUfsceGRS-mzk7Ml_x_bILKPL1BUUofF_OQBT1j3qakPkKSrzJKOpTe9tQ-G37vVDd0_gXxTy265Uo8rmT-lD4El93o_Cj999E0Z9wZi8Kn7nwKgq_OXU2in4-e6j7AW9Xfds"
     },
     {
       "query": "mortgage rates today",
@@ -44,13 +44,13 @@
       "news_token": "-FvYd3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiVJl_mLUvMWhQZD-SnhK5H5igcyhJD5ssW2jRA-AJvrHJk"
     },
     {
-      "query": "stock market today",
-      "search_volume": 20000,
-      "increase": 1000,
+      "query": "peso mexicano",
+      "search_volume": 50000,
+      "increase": 900,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "f00qKHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqXo_TcXpeYtCg2G8nMn9SHzFd-yXkSRb9vvhcL35QxE4UtJ3kHhS3zdjcJP7W2D8AE1uDSv"
+      "news_token": "lrWqvXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiX91upFqcWLQoOhfM9SFhR--1EFZL4cy4PLED4AmLMc-A"
     },
     {
       "query": "stock market crash",
@@ -59,7 +59,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "R1nWU3ica1xTlFpYmlpcEp-SWJJ4h0Fp8nkGBgZGpeZF8xel5i0KDYbwFfut7iLzlaItJVH4cuklKHwpyTso_JQPvSh8p9W8KPwgJzkU-9zOGSLz5UQEmJD5sg-me6K6Z_9NFL4vZyCKee-XXUDhn5mN6t7U3jYU-QeiWSjybHMjUfjVt1D5Sf99UfTPafRDkW_Rb0bhZ9_5jsKXsOFC4fNe9kHh507qQzF_U5Ujinzbfi8Uvo1SGIr6s9KrUPiPeppQ1AemooSHghJvMor6hDN7IXwAJt_Fzg"
+      "news_token": "X9T1gnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRqXmRfMXpeYtCg2G8BX7re4i85Xk0ktQ-NGWkih8Kck7KPyUD70ofKfVvCj8ICc5FPvczhki8-VEBJhQ-Lq81yF8AK91QdU"
     },
     {
       "query": "cupertino",
@@ -72,17 +72,6 @@
       "news_token": "P6FU33ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiU1e61FqXmLQoOh_LIpech8mTvTeyB8APXzF48"
     },
     {
-      "query": "simon cowell",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance",
-        "hobbies_and_leisure",
-        "pets_and_animals"
-      ],
-      "news_token": "CB4SRHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiVbmxOLUvMWhQZD-LInmfYh-AaMCjt_PIXwARkIGRg"
-    },
-    {
       "query": "is the stock market open on columbus day",
       "search_volume": 20000,
       "increase": 200,
@@ -90,15 +79,6 @@
         "business_and_finance"
       ],
       "news_token": "sytJOHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiVfzsBFqXmLQoMhfMWlCQIQPgCvMhEF"
-    },
-    {
-      "query": "ai games",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "BwJGYXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqWsefaLUvMWhQZD-LIzLlhD-ADCcRIv"
     },
     {
       "query": "delta air lines",
@@ -116,7 +96,17 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Idbd2nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsU_OmGLUvMWhQZD-Eo5IjNR-LmP76Pwe8pDkfmKny7dQJFPXheNwu9-3IvCd5zbjqI_NeceinxMLNR-AO76QfY"
+      "news_token": "Kfh-nHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsU_OmGLUvMWhQZD-Eo5IjOR-YqqKkUo8j3loSh8A_e1KOo_XbqBIu84tx2F3_24F0V9as49CB8ANFA6og"
+    },
+    {
+      "query": "disney theme park price increases",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "travel_and_transportation",
+        "entertainment"
+      ],
+      "news_token": "3GD_E3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiW2gN5FqXmLQoMBy1wL6A"
     },
     {
       "query": "martha stewart",
@@ -126,7 +116,7 @@
         "business_and_finance",
         "entertainment"
       ],
-      "news_token": "soFcIXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiWuZt1FqXmLQoOh_CqdaSh88fn2KPzu9ezIfMWcnkco8u6ySij8vK3HUM3P9ofwAVWRMpA"
+      "news_token": "YlNJl3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRiWuZt1FqXmLQoOh_CqdaSh88fn2KPzu9ewofHdZJRR-3tZjqOZl-yPzFV2DVJD5MtKtkyF8AHByNuM"
     },
     {
       "query": "polymarket",
@@ -135,7 +125,7 @@
       "categories": [
         "other"
       ],
-      "news_token": "x7hRmXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRsUlF70XpeYtCg2G8JWMawyQ-YpfDftR-H2r16PwT7CcQ9HPfuY-ivzLVRwo_E_NhSjquf8kI_Pl9v5agMyX1by5EUX_JI08ZL78lw1XIXwAw3pUTA"
+      "news_token": "bX_NC3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsUlF70XpeYtCg2G8JWMawyQ-Yp9q9ej8L8a9qPwX67iQOF_ai5E5stq3tyIYj73n2RkvtzeXwtQ9E_SyIPwAcSkQbw"
     },
     {
       "query": "spacex",
@@ -145,15 +135,6 @@
         "business_and_finance"
       ],
       "news_token": "gu8y8Xica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGRQfV3kWpeYtCgyF8Je_n7Mh8xY-r_qHIS6Z0oPAtA5eh8BOnVKDwHRi3o_BLtVHMV2o9dhXFvmlvvVHkpfkXIvMVXpz5hqL-2oMiFPW9dz6g8EXeFqLw0yXlUPg2SndR-AJ3VVD46iZXUOzbfb4MwgcAegF53Q"
-    },
-    {
-      "query": "天气",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "rX1pV3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiW2mouLqjIWhQZD-HJpm3dC-ADE_xKJ"
     },
     {
       "query": "a different world reboot netflix",
@@ -180,7 +161,17 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "vzCbyHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsV3R4oXpeYtCg2G8JW6BWxR-JHpqch82T-_y1Dk03I_IvMVE87sRZEv7w5H5sucvPwGwgcAanE2-A"
+      "news_token": "z3Tm8nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsV3R4oXpeYtCg2G8JW6BWxR-JHpqch82T-_y1Dkjd_1ofDb9ntB-ABYByol"
+    },
+    {
+      "query": "mcdonalds 8.5 billion turnaround plan",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "9F7zznica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiVDryuLUvMWhQYDAM6gDFQ"
     },
     {
       "query": "gold",
@@ -189,7 +180,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "-4qG83ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiXRxM5FqXmLQoOh_Kq278h8xcdHUeQVwwOmoKjXPNKFzFf4XXcDRV6ndgsK35BnAQq_tzsDhW-7jhWFzz_9Aor9TLpxED4AYJRKzg"
+      "news_token": "5JCutnica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRsXwgCmLUvMWhQZD-EqiiZ0ofDOuoyj8STOTUfgT28tQ-FVt31H4-prrUPg6tVtQ-GULLiDzFX7X3UDVH5iIzFdk0o2D8AGPIUpS"
+    },
+    {
+      "query": "allan",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "o5G6enica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqVJdhMWpeYtCg2G8qvuXUDmK-5zCkSRL2-RReG78imh8Bvto1D4bv_7kfmyddYJKPzGm-oQPgBBLzkQ"
     },
     {
       "query": "walmart warehouse robot automation challenges",
@@ -199,6 +199,15 @@
         "business_and_finance"
       ],
       "news_token": "4C8YEHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXfG58XpeYtCg0GANTlDR0"
+    },
+    {
+      "query": "robert downey jr",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "AzrI_Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsWwVy2LUvMWhQZD-Eq9pm4ofJ-JPCj8UpU1KPyKXSh8xTenUpD5slnPfqPI80w6COEDAANTNXw"
     }
   ]
 }
