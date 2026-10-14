@@ -10,343 +10,265 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 35,
+      "keywords_count": 27,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-13 21:31:06"
+      "last_updated_hkt": "2026-10-14 21:31:01"
     }
   },
   "trending_seeds": [
     {
-      "query": "apple homeview",
-      "search_volume": 100000,
+      "query": "russia strikes american brands ukraine",
+      "search_volume": 20000,
       "increase": 1000,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "EOJhknica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZGRRFp0UWpeYtCg6H8ipXNyHyludK1KPydzH0o_EUNU1H4AtMXoZi3Vf4RirycaSoKP_C0L4r6nyctUPj_Ps9A5ss58D9Fkf-WzoFi3tSSryh8YSEpVPOv2aPIp-zVR-Hvl92Pwp-zdDUyX_bHpWfIfPlMIzUU9Up3FiDzFVbN4EThf7Q5jOKe-nZo-AMAIAiWkg"
-    },
-    {
-      "query": "airplane",
-      "search_volume": 50000,
-      "increase": 1000,
-      "categories": [
-        "other"
-      ],
-      "news_token": "lXjCEHica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGpYUqVxel5i0KDYbyV99MReEXM_Sj8KfeOITC3_VXEZmv-OdKNIq8fxGKekXmM49R5MMOzkXhz3L9hsLXXl2Dov-kVwaKvKBmNap7-lHcq3ji5GxkvkKckBAyX362qD8yX7Z63z4U8-xOB0D4AGTIdek"
-    },
-    {
-      "query": "spacex launch",
-      "search_volume": 100000,
-      "increase": 900,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "T5R8HnicXZRdSJNhGIa3Iq1MGrQQnPPnK7A0y2YmJDJDQ7SEZksISV32IUVIui0LIn-yJilTWeVJPzQ1TIY2N5fNciSGhOAoItBtRGGEQQhhKlLWgSff5eHFfT_P-_y879vgqBGrzaLRVHbeYDIEZZU2v0wmkwuab4JdrLKfPrXG8bqOL1IWnu-6DU5s1YGHb34FD17KBFvTU8CGH7NSThjxX8H5-tUwKcduNZ-Ff3ZxD3TP_qPg18YeKau1uW8Q7zzuBYcryxB_v9QNPZDbjPpfnCxG_rq0W-B60z7kOxjSI_7VAPqLc2Wdgz9plP5HH3oxn2DMU9Q37NoB_0ieFpxq-Q7W1KUhfmnwHfRuczvq2zClQn1u_T_4vVvywbUzE9z3jUr2X_IW599tc0hZVTvO_TzMeIz5_j12Afny5V3Qr0fPgT-6LPA3-H-hP21gDOdZojHf-Pmuy9CVqp3I51P7oP95vwxd0WkHv9xoBesmC8GbFzbRf9HJ-c3hPiSUnpnn_czhvI1Vn8E2awDxvZH96PfBPRv2PVSuQfyz1SXE36nJgO5svAq-1nFi3fsJgT3lQezLO4X-hKYA7oP6t24bdNX2J-CI5Aiw8mc12JwcDnZM8P_KruhGf4mhBfB0QRH89cVH-P5EvB8hNl3kfQjtRr7-w01SjpnJ64PfXRTFeSnawIeiON_2AfbjSd0L7is08r9e-cT6exbBB-TYt1Dim-b_Hmdbt_9WcIsia43_A9_hWwI"
-    },
-    {
-      "query": "hailee steinfeld movies",
-      "search_volume": 2000,
-      "increase": 900,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "GDX52Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqWOoF-LUvMWhQYDANL5DNk"
-    },
-    {
-      "query": "trump ukraine",
-      "search_volume": 10000,
-      "increase": 600,
       "categories": [
         "politics",
         "law_and_government"
       ],
-      "news_token": "OPAnJXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqX1yYsXpeYtCg2G8leY7kPhd965g8Lvu8SCwk-a9ReZr7iePwlFXipFGEX-J98OFPldKWshfAD1yTtU"
+      "news_token": "xDq-7Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiWl9XsWpeYtCg0GANCZDJI"
     },
     {
-      "query": "linda blair",
-      "search_volume": 5000,
-      "increase": 600,
+      "query": "uk royal family approval ratings",
+      "search_volume": 20000,
+      "increase": 1000,
       "categories": [
-        "entertainment"
+        "law_and_government",
+        "politics"
       ],
-      "news_token": "Do3shnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqXZj6YsSs1bFBoM4SvGHT6EzJeZ_LEPwgcAPCwZjg"
+      "news_token": "-ZVa0Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqVTZz8sSs1bFBoMANjdDYw"
     },
     {
-      "query": "nato deterrence strategy against russia",
-      "search_volume": 5000,
-      "increase": 400,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "R2PNDXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsUtn_8tSs1bFBoMANmfDak"
-    },
-    {
-      "query": "apple tv 4k",
-      "search_volume": 10000,
-      "increase": 300,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "FrLX83ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsVv6RyLUvMWhQZD-SLSosh8pZ3Mfch8hePb_qPIp-zVR-bL2e9VQlE_u-wPMl_-7ocdED4AvWA1Sg"
-    },
-    {
-      "query": "jack reacher chain reaction excerpt",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "gra5anica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVamaxFqXmLQoMBzOwMBw"
-    },
-    {
-      "query": "apple iphone duo",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "xogUwnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRiWB6YsWpeYtCg2G8me5PEXmK_65-ANFfofqbxR-tEQxCl_zwiZkvuyPS88gfABezjGH"
-    },
-    {
-      "query": "the housemaid hbo max success",
+      "query": "smartphone",
       "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "l9zz6nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsV3OayLUvMWhQYDANCiDGM"
-    },
-    {
-      "query": "space shuttle",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "science",
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "AK-OsXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqXt_00XpeYtCg2G8ts8b0L4ANHSEt0"
-    },
-    {
-      "query": "nvidia stock price",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "nuL-PXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiX_o_2LUvMWhQZD-Qbz7qPyb_ug8KNW70fhL9rHi8L3YstD5iumzNuCIs99oRmZLye16iiK-sZvIch8mS1XDqGqL5kN4QMARGtMXQ"
-    },
-    {
-      "query": "sameer suhail",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "politics",
-        "law_and_government"
-      ],
-      "news_token": "1a9SiHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXlZuWLUvMWhQYDAM-bDFk"
-    },
-    {
-      "query": "breeze airways new international routes",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "travel_and_transportation"
-      ],
-      "news_token": "Zc5Fw3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsVP-1YsSs1bFBoM4SutSbuDwt-5eB6EDwBIRRnO"
-    },
-    {
-      "query": "apple homepod mini",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "Gm-6ZXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqX9svsXpeYtCg2G8BVFpEWR-Uo7mftQ5L-lcyDzFY5v-4-iPmWvPor6Q48qIXwArYovFQ"
-    },
-    {
-      "query": "upcoming slasher movie river trailer",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "xgnCRHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqV0iZZFqXmLQoMBzMYMCA"
-    },
-    {
-      "query": "apple event macbook",
-      "search_volume": 1000,
-      "increase": 100,
+      "increase": 800,
       "categories": [
         "technology",
+        "business_and_finance",
         "science"
       ],
-      "news_token": "Ga9iyXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsX6dtFFqXmLQoOhfBFpKB8As0gQpw"
+      "news_token": "uYy0t3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRiWjPdaLUvMWhQZD-ec_NaHwLzAaofBb_yxE5itOd1VBkXcT3obCv8L8FYW_wUIchb-0vBrCBwCPYjou"
     },
     {
-      "query": "anthropic ai self replication warning",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "science",
-        "technology"
-      ],
-      "news_token": "jkMYVHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiVhIalFqXmLQoMBxrwLRA"
-    },
-    {
-      "query": "grace hopper conference",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "science",
-        "technology"
-      ],
-      "news_token": "2MykOHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXV-8oXpeYtCg0GANP_DOU"
-    },
-    {
-      "query": "gpt",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "L0u2X3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRsX1c2oXpeYtCg2G8JVM_x5C4U_0no_Cn893FoW_8AgnCj_rPiq_fwYzCn-N1hlkvqJVuTeEDwDTkjpk"
-    },
-    {
-      "query": "eurogamer",
-      "search_volume": 1000,
-      "increase": 75,
+      "query": "xbox nano",
+      "search_volume": 10000,
+      "increase": 400,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "bvCNQnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqU1b-4uSkldFBoM43vtROGL7NNE4c9ZuhqZr9igaIciv8QqDIXfspsVhe_wdCMKf-G7ZhS-42Y2CB8AqK9AUQ"
+      "news_token": "V-Qw0Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqWrX3MWpeYtCg0GANbkDTs"
     },
     {
-      "query": "nuremberg airport emergency closure",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "S1YOQ3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUNa94sSs1bFBoMANbPDU0"
-    },
-    {
-      "query": "character ai",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "IfyRTnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqWVS-cvSs1bFBoMANQ9DPI"
-    },
-    {
-      "query": "google fitbit edge fitness tracker",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "technology",
-        "shopping",
-        "beauty_and_fashion"
-      ],
-      "news_token": "q2H13nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXbX9YvSs1bFBoMANjdDYI"
-    },
-    {
-      "query": "airport security",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "travel_and_transportation"
-      ],
-      "news_token": "FH0B7Xica1xTlFpYmlpcEp-SWJI4c_J5BgYGRiU-8eWLUvMWhQZD-Wll11D485jeo_AnOHih8KUeiqPwJ93bgcr_hSovWbAAma-YuW0ahA8ANoc6Dg"
-    },
-    {
-      "query": "burbank airport",
+      "query": "mail carrier",
       "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "travel_and_transportation"
-      ],
-      "news_token": "PdUJwXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsW4-qRFqXmLQoMBzrUMQw"
-    },
-    {
-      "query": "corsair drone maritime security panama",
-      "search_volume": 1000,
-      "increase": 50,
+      "increase": 400,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "rj-WfHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVjBo2LUvMWhQYDANC-DHs"
+      "news_token": "oD61xHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqUj114sSs1bFBoM5ev9PILC197-HcIHAEv0GdU"
     },
     {
-      "query": "taiwan",
+      "query": "american airlines exits entire market",
+      "search_volume": 20000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance",
+        "travel_and_transportation"
+      ],
+      "news_token": "8lWnWHica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGxe9OUxal5i0KDYbwlZR196Pwp944hMLfUueCwlfZK4PCn93rhMI__VQOhb-TaSkKv0VNGIV_064Fhc_DtRWFf8LOCpmv-Hu-MYp8UUU-Cv929DNkvoISbzKK_LmdqPxp1Xoo5n_atwKF77K-EsIHAHZUeaQ"
+    },
+    {
+      "query": "gh drew cain personality shift",
+      "search_volume": 1000,
+      "increase": 300,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "cHpA4nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqX9XfcWpeYtCg0GANXkDSw"
+    },
+    {
+      "query": "iphone duo",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "T3_jSXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRiWB6YsWZSUuCg2G8q8c_ojCt5LxQeGvnHMWhT_L5SkKf4fqbwgfAFWiKk4"
+    },
+    {
+      "query": "playstation plus october game catalog",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "dRvMLXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRqX8KrlFqXmLQoOh_Bs_E5D5cg-22SPzFev_hUL4ANOEHq4"
+    },
+    {
+      "query": "jaime west",
+      "search_volume": 10000,
+      "increase": 100,
+      "categories": [
+        "politics"
+      ],
+      "news_token": "yOsYj3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqWdkvcWpeYtCg0GANImDLU"
+    },
+    {
+      "query": "video game",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "MHjxYHica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGpanJtotS8xaFBkP4imtCTyDzZW_NFETmK00o60Hh79toh8LflvgThb_FsRCF33FRAcW-1Jx7KPKOR5xR-CL7NFH4tyZEoPAvS7ai8K-fLELh51fJofCvPr2Fwl_4rhmFf2XSJBS-2yZOFPfuer8CwgcAJTF9Rg"
+    },
+    {
+      "query": "trump midterm pardons campaign strategy",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "G_ueLHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRqXDbiyLUvMWhQZD-UcWGaLwyw9cReEnfvWF8AHAWh4n"
+    },
+    {
+      "query": "spacex rocket launch jellyfish",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "orUZnXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiWjp0qLUvMWhQYDAM6jDD4"
+    },
+    {
+      "query": "spectrum outage",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "QOyZLHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsW7C7UXpeYtCg0GANK7DK0"
+    },
+    {
+      "query": "tesla roadster",
+      "search_volume": 5000,
+      "increase": 75,
+      "categories": [
+        "autos_and_vehicles"
+      ],
+      "news_token": "t7_waXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsV3OSyLUvMWhQYDANCbDGI"
+    },
+    {
+      "query": "hm",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "lzQ2y3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqU5vs8XpaQuCg2G8td1M6PwPW79QuGvFmhD4YP0F5eh6kfmg_Qj80H6kfknZqlD-ADmOjvO"
+    },
+    {
+      "query": "jailer 2",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "96yZz3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRoUrorcXpeYtCg2G8JXOnTFF4RepBKDwNznXoPCvnvGA8AHghCPq"
+    },
+    {
+      "query": "greta gerwig narnia trailer",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "2VrkyXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXJ23IXpeYtCg0GANKhDLs"
+    },
+    {
+      "query": "google play store",
       "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "G9UxTXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqXivPuLUvMWhQZD-WffFKLwL-12QeHvdtdB4R9rfIDCZ7gfiMJ30JZG5stu1PmDwr8itA7CBwAOJjtW"
+    },
+    {
+      "query": "apple pie sundae",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "food_and_drink"
+      ],
+      "news_token": "qSBHdXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXdQQcXpeYtCg0GANM1DNM"
+    },
+    {
+      "query": "météo demain",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "climate"
+      ],
+      "news_token": "gduRh3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqXKDaGL0ooWhQZD-Ub9eyF8AMYuElA"
+    },
+    {
+      "query": "tareck el aissami",
+      "search_volume": 2000,
       "increase": 50,
       "categories": [
         "law_and_government",
         "politics"
       ],
-      "news_token": "rxxL_Xica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGpcCb3YtS8xaFBkP4iv4fNyDzlepbXqDwS5ZGofCbNKei8K23eqKYt_7pbRT-yhUKKOr5s1eh8FfrpaPw7bMvoPB3cTxB4W9yuo_CX9fZgipfewyFv4L5P4p7Fp47jSIfsO05ivyWrzoQPgA65Xgv"
+      "news_token": "ciHW5Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqWlrtcXpRYvCg0GANK1DMs"
     },
     {
-      "query": "gta v leaving playstation plus november",
+      "query": "grok voice 3.0 speech model",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "games",
         "technology"
       ],
-      "news_token": "1uNrW3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqWthjsWpeYtCg0GANG4DKM"
+      "news_token": "l9dzX3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqVrC28tSs1bFBoMANdPDVY"
     },
     {
-      "query": "c1 ai",
+      "query": "gta 6 leaked footage final missions",
       "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "games"
+      ],
+      "news_token": "xtp32nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXUnHuLUvMWhQYDANHADLM"
+    },
+    {
+      "query": "ipad mini",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "technology",
+        "science"
+      ],
+      "news_token": "Qexq4Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsX6dtFFqXmLQoMhfCW2nmZkvqJN5GcIHwD9vRdF"
+    },
+    {
+      "query": "cornell 7 update",
+      "search_volume": 100,
       "increase": 50,
       "categories": [
         "other"
       ],
-      "news_token": "aHObxHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqWt2fsWpeYtCg0GANOyDOM"
+      "news_token": "5KVHhHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqXd508sSs1bFBoM5W-vs0fhV96ajcxXiDpxB5mv6PbDCkW9bjQrhA8AoFwqEg"
     },
     {
-      "query": "boeing 737 800 replacement aircraft",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "n8NjiXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqWl254vSs1bFBoM5beoCaPwlWXWQfgAH24Xew"
-    },
-    {
-      "query": "philadelphia international airport",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "mXpGPHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqV5lT8WpeYtCg2G8mf3OqHwrY9IQvgAKYMYIA"
-    },
-    {
-      "query": "pluto",
+      "query": "app",
       "search_volume": 100,
       "increase": 50,
       "categories": [
-        "business_and_finance",
-        "technology",
-        "science"
+        "other"
       ],
-      "news_token": "nkMjNHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqVdNrGLUvMWhQZD-T3Nhij8yqVrUPi7jRKR-bJz52RC-AC_kiNh"
-    },
-    {
-      "query": "nancy guthrie update",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "O2FluHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRsU_Tl6LUvMWhQZD-Era-U0o_O4YG2S-LNssBmS-zJMIWWS-otOdZRA-AOWJJ9U"
+      "news_token": "vKotSnica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGpYVH9i9KzVsUGgzhK4pIiyLzlTZuV0HhXz95AoV_q3I7Kl-CDYW_3VkYha95NxFV_YRHKHybnZUo_OK8-yju-3nNHkVeRFIehb98dzoK_-qpKSj8yok-KPyzGUwo_MuSX1H4lwKuopq3qwzCBwDj_nx6"
     }
   ]
 }
