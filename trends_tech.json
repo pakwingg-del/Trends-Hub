@@ -10,194 +10,247 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 20,
+      "keywords_count": 25,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-15 21:31:03"
+      "last_updated_hkt": "2026-10-16 21:30:57"
     }
   },
   "trending_seeds": [
     {
-      "query": "silver rail elementary school",
-      "search_volume": 20000,
+      "query": "tesla flying car",
+      "search_volume": 1000000,
       "increase": 1000,
+      "categories": [
+        "autos_and_vehicles"
+      ],
+      "news_token": "KEIs6Xica1xTlFpYmlpcEp-SWJJ4h8Fv8nkGBgZGxXc5LItS8xaFBkP4Sg6M21H4dzZYIvOVOUxmoMhL8y9E4SeZdaLwD9hloPC9n7Oj8D9_a0bhGz1VQuFf7EJVL2eaisLvsJdBcR_vjQJkvuwt_tco6rm1uVH4a44_QuF_uqWMYh7_VE1U_qXLyHzFe3udUPQnTK1D4V-ybUPhz-aYicL_ybQWhf8xuhKFrypbjML_fy4Uhb_L-iwyX-ZpEQpfYUdkC6r7f69E0a_xGTW8nhSixJ_8Dn6U8Fb4P98ORf3UL_Eo5vHLfEKNjx2vUMIrPvkBijzX238o8qD0WFyGmp6Q-cdXxaDY94EXJb6UpvhNQOFHyAWi8L_fNkaNn8BJKPavCUNJb4rXHhShqF-4_S-K_PP1nqjuMVmCwu8NRw3vibzfUcL3pJY0SvzN64xD5sspzTyHYl_6XHEU87b7z0X1D-ctFP6TUHUU_dMcu1H4e1ZFo6iv8EFJD3JvyiJR5J8zH0bh75i5G4V_cLs2SvwK3RdBsY_7208UeWZO1PBxTkGNT53LSqjxM90bRb7zXweKvEfOFggfALN4yGU"
+    },
+    {
+      "query": "cuban green card approval decline",
+      "search_volume": 5000,
+      "increase": 500,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "lhwj_Hica1xTlFpYmlpcEp-SWJJ4h0Fm8nkGBgZGpe-3Uhel5i0KDYbyVzaHofC_7v6Lwv_iswqF_37PWxT-7cevUfh326pR-PsXzEThL3gag8J_fPYRCv9FuxoKX9phHwr_oxAqv2RpGqp7Plah-ic2H4W_vVYShX9TjhOF_8DpFQq_ddkNVPdde4fMVzxZEI4if9RvIqr5uxpR-Ce825H5Ckq8ySjmTWdGNW_xgi0QPgBJcrHG"
+      "news_token": "wrr82Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXtfccWpeYtCg0GANUUDRA"
     },
     {
       "query": "tesla autopilot",
-      "search_volume": 10000,
-      "increase": 500,
+      "search_volume": 1000,
+      "increase": 400,
       "categories": [
         "autos_and_vehicles"
       ],
-      "news_token": "ayeZpXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqUPJksWpeYtCg2G8nUuK6Hwb4i1IvMVl1Z_QebLvj_ehMyX0_68F8IHAF5gKtc"
+      "news_token": "r1yAsnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqVLtm2LUvMWhQZD-R9MliDzlZk5V6LI63o2ovB1Lish82XfH29C5svVPL2Nwtf-vBfCBwDxWDVV"
     },
     {
-      "query": "gbu-43/b massive ordnance air blast",
-      "search_volume": 20000,
-      "increase": 300,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "kyfdVHica1xTlFpYmlpcEp-SWJJ4h0Fu8nkGBgZGpYfv3i5KzVsUGgzhKwQt-IzMV3rtdhGFP2frOxT-9ZO3UPjyMz8h8xVvrDiPIq8RU40iXx8Xjmre1T8o_FtH5qDwE6auR-bLdYStQJE_KjsZmS_7VWoBMl9e4Oo0FP1ibioo7tl31xrVfp_fKPwfgaYo_GVC3ij8pFl_Ud3jJ4nCv-8phWLfyYJwNH4CivoFnfdR-N9Wb0Th33Zdh8JvizkO4QMAPiC7lw"
-    },
-    {
-      "query": "jailer movie review",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "eb80-nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRoUrorcXpeYtCg0GANLQDMc"
-    },
-    {
-      "query": "tesla roadster event",
+      "query": "democratic senate fundraising 2026",
       "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "autos_and_vehicles"
-      ],
-      "news_token": "MhU7jXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsV3OSyLUvMWhQZD-UurvyDzlbyPi6HwWzpFUPg_4oRR-J8vWqLwOw_poPA1Pheg2Jc-VxyZL2eRtATCBwBsoD_n"
-    },
-    {
-      "query": "sam altman",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "science",
-        "technology"
-      ],
-      "news_token": "Ki50sXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqXPrfsWpeYtCg2G8h_aX0XhPy0_hcLfwzobhX_8QDIKf2rJVxT-2xU7UPj7ROYh8xUjf_yD8AHFjz7N"
-    },
-    {
-      "query": "cologne airport venomous snakes seized",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "hobbies_and_leisure",
-        "pets_and_animals"
-      ],
-      "news_token": "0HO6oXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqVN-6sWpeYtCg0GANRbDPA"
-    },
-    {
-      "query": "riley gaines",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "h6jS5Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqUrqjWLUvMWhQZD-edqlSB8AMW_Eiw"
-    },
-    {
-      "query": "appletv",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "jhxxIXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsVv6RyLUvMWhQZD-EoPupci8xVFpEVR5E-d84LwAb4GHW0"
-    },
-    {
-      "query": "southwest airlines elite status tiers",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "shopping"
-      ],
-      "news_token": "NREs_nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqWFqvcXpeYtCg0GANG1DKo"
-    },
-    {
-      "query": "pokemon beats pill",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "0f9CNXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqV5F6MWpeYtCg0GANNXDM4"
-    },
-    {
-      "query": "costco apple pie sundae",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "food_and_drink"
-      ],
-      "news_token": "qSBHdXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXdQQcXpeYtCg0GANM1DNM"
-    },
-    {
-      "query": "trump approval rating",
-      "search_volume": 1000,
-      "increase": 75,
+      "increase": 200,
       "categories": [
         "politics"
       ],
-      "news_token": "DyCuT3ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRqUnP_ctSs1bFBoM5X-9k4DCXzfPBIWfy3Edhb-4UQjKP3cz8Ms0FLnCnB3IfPmXi_qQ-Yq5vb-Q-QoeR36j6K-Si0PhC0zbgMLffx_FrYpdPSsgfAAQB1uO"
+      "news_token": "x7qCXHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsWpXv2LUvMWhQZD-EovD9RA-ADKLBLc"
     },
     {
-      "query": "energy united power outage",
+      "query": "apple duo",
+      "search_volume": 100000,
+      "increase": 100,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "DJgjwHica1xTlFpYmlpcEp-SWJJ4h8Fh8nkGBgZGJYHpixal5i0KDYbwFb-lcyDz5TON1JD5ysJxs5D5sj8uPUPRbzx_Pwp_q_wjFL6ItCgyX8lKxgeFP5_vLAq_aflmFPsZ2GJQzNtltQdF_dSSr8h8OZ-Z91Hkl53bimIeT-4BFPn7T46h8Ge5PEWxr2JlMzJfQT5kH4p6UHhmJSLCL9DbAUVe3OgFCr90TjWKe-f_7UUJ35eem1DsZ32Sg6I_WqIYxT8iUedQ-IKR6ih8vkUpKPp3qP5G4Wttv4DCn_3ZGsU9KTemo8ifmumPGh4J01Dca_TOAkX9B543KHyHld9R-PFFD1H4Z_9noPDdF89D8Q9TQAxqfBlyo_Cvv0OJP6VrcddR-HOWrkbh71b6gMJP_7cSNXxdC1Hdc08L1X8FM1H4e46ipF_F-nbU9D_buASFX_hbCzW-2tpR5P-Y6aHIC9jeRYmfsPvNqPEfjhK_8qc_L4HwATm4eRA"
+    },
+    {
+      "query": "assassin's creed destiny",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "tD9JR3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUfOksWpeYtCg0GANNfDM0"
+    },
+    {
+      "query": "tacoma power outage",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "upfFJ3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmWheaaLUvMWhQYDAMvaC-s"
+    },
+    {
+      "query": "expectations ft chappell roan lyrics",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "iP9ksXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqXJ_28tSs1bFBoM5Z-aMROF3_vkCzJfcTlbPoq8qpwVCv_6_OUo_POl21D4zkkbUPhfG11R-KusNCF8AGquQgo"
+    },
+    {
+      "query": "gta vi launch trailer",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "games"
+      ],
+      "news_token": "laen8Xica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqXw6xWLUvMWhQZD-UtyV6DwtyX-ROYr8z1fjcJnY9-IzJf7cJMLwgcAaekp_A"
+    },
+    {
+      "query": "zohran mamdani",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "yULzy3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRiXPMwaLUvMWhQZD-ZcvHEThfz7IgsxXFphXgMIXbuRC5isWrrBD0f_z1lUU_qWHKOqVWbj9UeSvnT6Fqv8bD4QPAN03R1Y"
+    },
+    {
+      "query": "hyundai vehicle fire risk recall",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "autos_and_vehicles"
+      ],
+      "news_token": "6njSxHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqVnIfGLUvMWhQYDANIaDJ4"
+    },
+    {
+      "query": "météo demain",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "climate"
+      ],
+      "news_token": "Y35-3Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqXKDaGL0ooWhQZD-R9Dv0P4AMyrEw8"
+    },
+    {
+      "query": "okc",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "science",
+        "technology",
+        "business_and_finance"
+      ],
+      "news_token": "8m0ThHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmWBuSqLUvMWhQZD-EoV0goo_N_89sh8Zb6w0yjye2Nno_B3cWxD4b8KUkLhF2__icJ_f7EGwgcAyBQ6FQ"
+    },
+    {
+      "query": "xbox cloud gaming",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "l5g2iXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqXrKTcXpeYtCg2G8n8Hb0bmKzOtMkCRv_o1B4XfytyKwr9fNAPCBwCB0Sp8"
+    },
+    {
+      "query": "what are the details of the new social security cost of living adjustment",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "BMVqhnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqW6NvFFqXmLQoMBzgoMIA"
+    },
+    {
+      "query": "artificial intelligence news",
       "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "f6fgunica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmUW5fpFqXmLQoOhfO4nP5H5SgqcwSj8K1cyUPhvVcxR-MdXxaCYxyVig8xXXM6Wj6L-C_9yFP7KfkkIHwCedz4U"
+    },
+    {
+      "query": "konami ai market impact stance",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "fCLXRHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmXu-KpFqXmLQoMBy4YL6g"
+    },
+    {
+      "query": "united airlines cleveland airport expansion",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "ZEEIgXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqWvsZ6LUvMWhQZD-bsvhEH4AMz8EsY"
+    },
+    {
+      "query": "ps6",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "technology",
+        "games"
+      ],
+      "news_token": "p1kxE3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqXzn1IXpeYtCg2G8BUcuBcg85XiEyogfAAhxxfV"
+    },
+    {
+      "query": "iphone duo cases",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "3wpf4nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqVoieJFqXmLQoOhfIHpi5D5sj8uPYPwAQPYGGk"
+    },
+    {
+      "query": "kate middleton cornwall portraits",
+      "search_volume": 1000,
       "increase": 75,
       "categories": [
         "other"
       ],
-      "news_token": "AJKIFXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqX6vopFqXmLQoMB0PoMig"
+      "news_token": "aqP2pHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRmUukcpFqXmLQoOhfM5mfmS-Upu9IQr_OUszCr_lNIp-xb23-5D5cqfPMyPzFV49k4PwAU9sM_I"
     },
     {
-      "query": "remain calm",
-      "search_volume": 2000,
-      "increase": 50,
+      "query": "playstation plus",
+      "search_volume": 500,
+      "increase": 75,
       "categories": [
-        "entertainment"
+        "games",
+        "technology"
       ],
-      "news_token": "QqvcB3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqV5sXKLUvMWhQZD-ApKvMnIfMV3ah4QPgDxahaT"
+      "news_token": "Amziu3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRqX8KrlFqXmLQoOh_K2GO1D4by3MUfjfTX6h8D8zvUDmK4u0pSPzFev_hSLz5R5ss0fmSy3t1ETmy077-AaZL1MccB3CBwDWM0ev"
     },
     {
-      "query": "expectations ft chappell roan",
+      "query": "tesla x",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "autos_and_vehicles"
+      ],
+      "news_token": "vYqKV3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiX76fMXpeYtCg2G8uMeLIDwAcehEp0"
+    },
+    {
+      "query": "satya nadella",
       "search_volume": 500,
       "increase": 50,
       "categories": [
-        "entertainment"
+        "technology",
+        "business_and_finance",
+        "science"
       ],
-      "news_token": "P_1hLHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXJ_28tSs1bFBoMANfkDXE"
+      "news_token": "b6e4MXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqX8IxmLUvMWhQZD-afuT0ThO63mReGX7e1G4f_Zq4LCn_3wEIQPAHJIKwY"
     },
     {
-      "query": "grand theft auto 6 leak response",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "games"
-      ],
-      "news_token": "xtp32nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXUnHuLUvMWhQYDANHADLM"
-    },
-    {
-      "query": "ranabaali review",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "QVyAXXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXHNy0XpeYtCg0GANUTDPk"
-    },
-    {
-      "query": "qatar airways",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "WiUxjHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRqXz1haLUvMWhQZD-Rect6Lwze-Io_DPnfGG8AHAxx3t"
-    },
-    {
-      "query": "google pay",
+      "query": "ipad mini 8",
       "search_volume": 100,
       "increase": 50,
       "categories": [
-        "other"
+        "technology"
       ],
-      "news_token": "aQglNnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqWdU5kWpeYtCg2G8BU_z7KH8AHFnBJl"
+      "news_token": "25CrX3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiW2nuZFqXmLQoMhfMX6dlFkvsLxbf-R-XKXDj-B8AG9_x7y"
     }
   ]
 }
