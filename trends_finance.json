@@ -10,21 +10,12 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 15,
+      "keywords_count": 17,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-18 03:30:56"
+      "last_updated_hkt": "2026-10-18 06:30:58"
     }
   },
   "trending_seeds": [
-    {
-      "query": "united airlines flight ua941 emergency",
-      "search_volume": 20000,
-      "increase": 700,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "lrYLbXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUvTcmLUvMWhQYDANQkDN4"
-    },
     {
       "query": "medicare part b premium increase 2027",
       "search_volume": 20000,
@@ -45,12 +36,12 @@
     },
     {
       "query": "wind farm",
-      "search_volume": 2000,
+      "search_volume": 5000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "-vC-1Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRmX1Dr9FqXmLQoMhfKXbC-1R-Je0YpD5ytJnbFH4cgvWofCVfr5A0f_qwxwU_lLjTggfAPYpNWY"
+      "news_token": "CGMO83ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmX1Dr9FqXmLQoMhfKWlxp3IfGWlny9Q-KxLzFDU315oj8K_pBWDol5uwToUvvQZW2S-4m5lbWS-nE-BKIQPAPY8Pi8"
     },
     {
       "query": "hoover dam turbine cavitation damage",
@@ -78,7 +69,25 @@
       "categories": [
         "climate"
       ],
-      "news_token": "1uhOUnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRqWmr0mLUosXhQZD-X8m7EXhV8xWR-Yrun7kQ5GvvjITma-sqpuFIn9W5xSKvFpZN4p8ldpuFPPPVE9DVZ_oAeEDAAxtRiQ"
+      "news_token": "PAND63ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqWmr0mLUosXhQZD-RWz1VH4f2Y_ReYrun7kQ5GvvjIThV-lthuFf1bnFKp5E_aimHemehoyX1mtrBvCBwA6vkLJ"
+    },
+    {
+      "query": "ai bubble",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "IxMJP3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqVLH_0WpeYtCg2G8JV1xDVR-CISWSh80eBmZL5S_pEMZL7ipo8vUOTvneRDkU84sxeF_3qBIDJf3i_vGYQPAP9qQG8"
+    },
+    {
+      "query": "dario amodei",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "4oFwpnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRqU5mzIWpeYtCg2G8m8_FUfhC9b1ofBPzZiJzFdmNNuIIj_LxQuF_9D-KjJf8bnxUmS-zFvbt8h8edlVUch8OcE9xRA-AOB8Ros"
     },
     {
       "query": "5g",
@@ -87,7 +96,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "r3YM8Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqWZ93IXpeYtCg2G8k919yLzldXvr0eRX_jHC0WeXWkOCl8l3xVFvYX6OhR56cXSKPJXS2ZB-AC80Dn5"
+      "news_token": "v8LAqHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqWZ93IXpeYtCg2G8JXV769H5ist_OOFIs-uNAeFr5LvisKXXiyNov9iWhAKf6qxHoQPAA4-M2E"
+    },
+    {
+      "query": "mark cuban",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "aw2DYXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmWlEx8XpeYtCg2G8JXeihSj8D-b_EbmK369roDMV1Y9qYjMl9PImoTMl94hisKXi7nNhmJ-SvhqVPOMSiF8ALtDP8M"
     },
     {
       "query": "stocks",
@@ -114,7 +132,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "sQ4zknica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqV5H6csSs1bFBoM5V8KnITC3_VcG5mvLMdbjyJ_O-YCCn9ntS8K_7PQNAgfAE6zMBU"
+      "news_token": "zw3M_Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqVLgZMWpeYtCg2G8nc910bhz_s4BZmvrL3hMApfjrceRf1noWko_J3Vvij82zEXIHwAbzM1-Q"
     },
     {
       "query": "tenderloin night shift game shutdown",
@@ -132,7 +150,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "VKlEmHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqUtu3sXpeYtCg2G8JW1xc8j85W8n7Oj8I8sakHhP40NQuF_bcxF4Tcvmo_CLzG5gsxX_JMxG0X-gd9bCB8AzLBCcw"
+      "news_token": "YtHjrXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmVt8fOLUvMWhQZD-Epbdvei8I8sakHhp3z4gcI_mDELhf-1MReFX2JyBYX_NDYIhd-8aD4yX_FPxmwIHwA2E0Mu"
     },
     {
       "query": "walter isaacson",
