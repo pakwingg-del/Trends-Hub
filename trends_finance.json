@@ -10,21 +10,12 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 16,
+      "keywords_count": 15,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-17 21:30:55"
+      "last_updated_hkt": "2026-10-18 00:30:57"
     }
   },
   "trending_seeds": [
-    {
-      "query": "sherrod brown",
-      "search_volume": 2000,
-      "increase": 900,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "8dS1XHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqVX89gWpeYtCg2G8j2OS6Dwj03qRuHPX48qv4-hDIV_b88hCB8AN_Ep7A"
-    },
     {
       "query": "united airlines flight ua941 emergency",
       "search_volume": 20000,
@@ -45,32 +36,31 @@
     },
     {
       "query": "us national debt $40 trillion",
-      "search_volume": 1000,
-      "increase": 400,
+      "search_volume": 2000,
+      "increase": 300,
       "categories": [
         "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "y4f_cnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRmVJFd1FqXmLQoMhfKX1Kf7IfGVBtXQU-Wf6d1D4yrr_kPlyAY55ED4Ap3snBA"
+      "news_token": "b0kLlHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRmVJFd1FqXmLQoOhfEG1dGS-0jP9Oyh8Zd1_KPz1Kf7IfLkAxzwIHwCi-ycE"
     },
     {
-      "query": "survey of consumer finances age split",
-      "search_volume": 10000,
+      "query": "wind farm",
+      "search_volume": 2000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Y5U4pHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRsX5fm6LUvMWhQZD-Er7Pheh8G_H9CLzlcXMfqPIf5j8BIW_0FAbhW-_QwWF_6s9CMU8lbwDKPJ38tdC-ADEZkFw"
+      "news_token": "xcykdHica1xTlFpYmlpcEp-SWJI4d_J5BgYGRmX1Dr9FqXmLQoOhfKWfL1D40mdskflKj44uQ5FnXWKGIn97oT0K_5JWDIp6uQXrUORTJhqhyHOrVKPw5VdeR-Yr7lbWRubL-RSIQvgAuK9PXA"
     },
     {
-      "query": "pl",
-      "search_volume": 500,
+      "query": "frente frío",
+      "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "business_and_finance",
-        "science"
+        "climate"
       ],
-      "news_token": "nVh24Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqUz7dKLCnIWhQZD-cZbhZD5ytKf5qDI-3kuQOH_X3gUhR9y_iIK_6z0DBTzeFS_I_MVJTqCIHwAqdY6ug"
+      "news_token": "psYHSXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqWzOqcWpRYvCg2G8itmq6PwpzjsReYrq65nRZH_MwFFXtH1Ix-KehEDVRT1TV-TUPhVartR1Cv_iYXwAUjnP7M"
     },
     {
       "query": "pepsi north american snacks beverage business",
@@ -83,13 +73,22 @@
       "news_token": "51gtWnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkU5kfpFqXmLQoMhfKVvq_0gfAC2mBHp"
     },
     {
+      "query": "mark cuban",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "oSvFq3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmWlEx8XpeYtCg2G8JXeihSj8D-b_EbmK369roDMV1Y9qYjCF2d0R9F_ZfIcZL70DtFJyHy5mNtsKHyNLKg8AK6CP_M"
+    },
+    {
       "query": "stocks",
       "search_volume": 200,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "7Nce5nica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqUdM3cvSs1bFBoM5eunbUDhH8yYhcJfNGEJCv_r3DwIHwACoCUD"
+      "news_token": "alHaV3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqUdM3cvSs1bFBoM5WcLp6DwTSsaUPiOfIYo_A_cgij8q6XzUfi3Yy4g8xUvtgSiyNv0TIfwAS3lOcg"
     },
     {
       "query": "石油",
@@ -98,7 +97,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "QQWTDXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqXyxcqLqjIWhQZD-QfKFyHzFXZ8M0GR_3_kLTJfmWnJdBT5d7x6KPJKp5pQ5Be37kXhK2VB7QcALhE7xA"
+      "news_token": "WXJ0m3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqXyxcqLqjIWhQZD-QfKFyHzFXZ8M0GR_3_kLTJfmWnJdBT5d7x6KPzFrXtR1CudakKRV8qC2g8ANXE7xA"
     },
     {
       "query": "cathie wood",
@@ -107,7 +106,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "WUwXsnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqVLgZMWpeYtCg2G8nc910bhz_s4BZmvLMdbjyJ_O-YCCv-z0DQU9Ux6-yB8AD5NL4M"
+      "news_token": "Nup8mXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqV5H6csSs1bFBoM5V8KnITC3_VcG5mvLMdbjyJ_O-YCCv-z0DQU9Ux6-yB8AEqdL4M"
     },
     {
       "query": "tenderloin night shift game shutdown",
@@ -125,16 +124,17 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "GebSq3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqXmRfMXpeYtCg2G8BX_ZMxG5isdzJiFwl80YQkyX1nqpymK_NfGXBT-rcpXKPxOoeMo_BKTKyj2V6xshvABTUFCtw"
+      "news_token": "8K96enica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqXmRfMXpeYtCg2G8s_UfkDhP_B7i8K_FDgJhW9a0YDC_9qYi8LfsrsXhV9icgWFv2jCEhR-3hceCB8Ae6xDCw"
     },
     {
-      "query": "oracle",
-      "search_volume": 500,
+      "query": "vivek ramaswamy",
+      "search_volume": 200,
       "increase": 50,
       "categories": [
-        "business_and_finance"
+        "business_and_finance",
+        "law_and_government"
       ],
-      "news_token": "1mewl3ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRsU_GbMXpeYtCg2G8JW-rjmMwr8UOAmF_6BqOQp_p7k2Ml9Zlp8ZRf5N4lUUfnV8CTJfMeHMXhT52ZdnofBF3hYi82VWsa5C5ssGr_VAMW9xwS0IHwCOyVk9"
+      "news_token": "8qpqlHica1xTlFpYmlpcEp-SWJI4d_J5BgYGRmWRqG-LUvMWhQZD-Ir7rssi85W2ciui8E8_CUPh72FjR-Yrc6ucROFrbX6Col7wcD0K_-oudRT-77cGKHyPHc4o7vO5b4_Ml7s5IRPCBwCt-FFc"
     },
     {
       "query": "walter isaacson",
@@ -146,17 +146,6 @@
       "news_token": "W0AdBXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqX1Kf6LUvMWhQYDANA7DGc"
     },
     {
-      "query": "mikie sherrill",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "politics",
-        "law_and_government"
-      ],
-      "news_token": "gFeJjXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRmV-n0OLUvMWhQZD-EoP-BJR-M7J3Sj8HwEo6hXr48IhfACpMyL0"
-    },
-    {
       "query": "metro",
       "search_volume": 100,
       "increase": 50,
@@ -164,7 +153,7 @@
         "business_and_finance",
         "travel_and_transportation"
       ],
-      "news_token": "9qPhoHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmXZy22LUvMWhQZD-eL305D5Sq_n8KPIq_oUovCV53Mg8xUCJz5EkVdJqUTlH-5AMf9LOdR8ABuwOPI"
+      "news_token": "AePIdnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRmXZy22LUvMWhQZD-eL301D4qj6FyHylR0kXUPjP_-ahqFdJqUTlH-5AUf-lnB_CBwAVmDTx"
     }
   ]
 }
