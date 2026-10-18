@@ -10,29 +10,29 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 17,
+      "keywords_count": 18,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-18 06:30:58"
+      "last_updated_hkt": "2026-10-18 21:30:58"
     }
   },
   "trending_seeds": [
     {
-      "query": "medicare part b premium increase 2027",
+      "query": "companies reducing artificial intelligence spending",
       "search_volume": 20000,
-      "increase": 300,
+      "increase": 800,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "jl8XfHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRiXjGstFqXmLQoOh_GVJjSj8K09zkPmK_nZJKPIfuNNQ-I9bD6HwF23mROHXtYmj8ANE-ZH5cvselkP4ACmrP4A"
+      "news_token": "z8ZFwXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqUbB0UWpeYtCg2G8JWlfgVD-ADKYBJf"
     },
     {
-      "query": "us national debt $40 trillion",
-      "search_volume": 5000,
-      "increase": 200,
+      "query": "debt",
+      "search_volume": 2000,
+      "increase": 300,
       "categories": [
-        "business_and_finance"
+        "other"
       ],
-      "news_token": "bSESl3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqVn-ncWpeYtCg2G8JUlVXSR-UpXPXOR-Ypz65WR-XIBjnnIfNlFmuUQPgD70ye7"
+      "news_token": "-OHuMHica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGpQcFSYtS8xaFBkP5yrr_kPmKP8p_osjfdUVVf-8kHzJf2eqjO4r8wzWBKPz3Vfko_Gf6d1D0a5ZfQbH_F68NirzSVTYUvpGLOYp5-zdcROVHFKLw6xmcUP2j0I5inrAUAwqf8_A9FPVC66VQ5Lm756DwmfKaUNQLTF-EwjfkVUfx31EZfWS-jKfPBQgfAM2gmS4"
     },
     {
       "query": "wind farm",
@@ -41,11 +41,30 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "CGMO83ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmX1Dr9FqXmLQoMhfKWlxp3IfGWlny9Q-KxLzFDU315oj8K_pBWDol5uwToUvvQZW2S-4m5lbWS-nE-BKIQPAPY8Pi8"
+      "news_token": "siW3AHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRmX1Dr9FqXmLQoMhfKXbC-1R-HYNWsh8ZZ1Jx1Dk5zaboMhLn7FFkV9q3InCv6QVA-EDAKkCM0A"
+    },
+    {
+      "query": "what is the federal report about the white house eisenhower building makeover plan",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "vrFpSnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmXhT-WLUvMWhQYDANBRDII"
+    },
+    {
+      "query": "supermarket news",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "lrbc4Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqXPKvcXpeYtCg2G8JU1JqRB-ADOOxJf"
     },
     {
       "query": "hoover dam turbine cavitation damage",
-      "search_volume": 2000,
+      "search_volume": 5000,
       "increase": 100,
       "categories": [
         "business_and_finance"
@@ -53,32 +72,23 @@
       "news_token": "YXtAYHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmW58xsXpeYtCg0GANEyDKQ"
     },
     {
-      "query": "pepsi north american snacks beverage business",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "food_and_drink"
-      ],
-      "news_token": "51gtWnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRkU5kfpFqXmLQoMhfKVvq_0gfAC2mBHp"
-    },
-    {
-      "query": "frente frío",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "PAND63ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqWmr0mLUosXhQZD-RWz1VH4f2Y_ReYrun7kQ5GvvjIThV-lthuFf1bnFKp5E_aimHemehoyX1mtrBvCBwA6vkLJ"
-    },
-    {
       "query": "ai bubble",
-      "search_volume": 500,
+      "search_volume": 5000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "IxMJP3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqVLH_0WpeYtCg2G8JV1xDVR-CISWSh80eBmZL5S_pEMZL7ipo8vUOTvneRDkU84sxeF_3qBIDJf3i_vGYQPAP9qQG8"
+      "news_token": "urjLB3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqVLH_0WpeYtCg2G8qNW70fhO9pfRuYrm9Z6oPB1xDVR-PoGFsh8xU0fX0D4AOt4LlU"
+    },
+    {
+      "query": "nintendo zelda 40th anniversary restocks",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "DSuvyXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqU3iRsXpeYtCg2G8qcm2yLzZW_NFITwASZMGEE"
     },
     {
       "query": "dario amodei",
@@ -87,7 +97,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "4oFwpnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRqU5mzIWpeYtCg2G8m8_FUfhC9b1ofBPzZiJzFdmNNuIIj_LxQuF_9D-KjJf8bnxUmS-zFvbt8h8edlVUch8OcE9xRA-AOB8Ros"
+      "news_token": "nuHl4Hica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqU5mzIWpeYtCg2G8m8_FUfhC9b1IfOVGc02ovBF0k6jqJ_l4oXCf2h_FYV_asZMZL7MW9u3yHx52VVRED4AXaRAkg"
     },
     {
       "query": "5g",
@@ -96,16 +106,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "v8LAqHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqWZ93IXpeYtCg2G8JXV769H5ist_OOFIs-uNAeFr5LvisKXXiyNov9iWhAKf6qxHoQPAA4-M2E"
-    },
-    {
-      "query": "mark cuban",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "aw2DYXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmWlEx8XpeYtCg2G8JXeihSj8D-b_EbmK369roDMV1Y9qYjMl9PImoTMl94hisKXi7nNhmJ-SvhqVPOMSiF8ALtDP8M"
+      "news_token": "d1WJbHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqWZ93IXpeYtCg2G8BW7FT4j85V2LaxB4S_844XC3_8ZRb2y_taDKPJTjfVQ-NmXPCF8AMr_Nu4"
     },
     {
       "query": "stocks",
@@ -114,62 +115,71 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "AVw4m3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqUdM3cvSs1bFBoM5WcLp6Dwz3-SQeE_jQ1C4Z-KrUbhXy2dj8L_2pCGwrfpmQ7hAwBkdjYM"
+      "news_token": "q5vrbHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqUdM3cvSs1bFBoM4SvzZsxA5itd_x-Fwn9pfgCFv3dlAIp-o7kdyHxFnZ9aKOovccxD4Z-KrUbhPy-aBuEDAAQMQgE"
     },
     {
-      "query": "石油",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "WXJ0m3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqXyxcqLqjIWhQZD-QfKFyHzFXZ8M0GR_3_kLTJfmWnJdBT5d7x6KPzFrXtR1CudakKRV8qC2g8ANXE7xA"
-    },
-    {
-      "query": "cathie wood",
+      "query": "robotaxi",
       "search_volume": 500,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "zw3M_Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqVLgZMWpeYtCg2G8nc910bhz_s4BZmvrL3hMApfjrceRf1noWko_J3Vvij82zEXIHwAbzM1-Q"
+      "news_token": "V-4ouHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGZfac-YtS8xaFBkP4iulzxZH5St7HxVDk3-WwIPOVpW51oPBVw7ah6O_ZlobCTy6SQVGvGbcRmS-_q9Qaxb7D0ltQ9C9fFYrC_zb3IAr_3lNfFP4Grk8o_JvJ5Sj8p2WHUfjXdh-A8AE9Hm_p"
     },
     {
-      "query": "tenderloin night shift game shutdown",
-      "search_volume": 200,
+      "query": "exchange-traded fund",
+      "search_volume": 500,
       "increase": 75,
       "categories": [
-        "other"
-      ],
-      "news_token": "ODsDyHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqVb87kWpeYtCg0GANGzDIg"
-    },
-    {
-      "query": "the motley fool",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
         "business_and_finance"
       ],
-      "news_token": "YtHjrXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmVt8fOLUvMWhQZD-Epbdvei8I8sakHhp3z4gcI_mDELhf-1MReFX2JyBYX_NDYIhd-8aD4yX_FPxmwIHwA2E0Mu"
+      "news_token": "T-Voqnica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGpeyUmYtS8xaFBkP4yhyMwih8K5OdyHylx6_sUfh5X3hQ-A9kvqHwv87NQzFPOzcaRX7HzN3IfMWj0hNQ5H_0JKHwv3zyQuH_dTiIwv-wYjuq_bd_o_DfrlyL4h4hDjZkvtz8iWdR-NXqyRA-AEIDdz8"
     },
     {
-      "query": "walter isaacson",
+      "query": "holiday touchdown a bears love story cast",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "vAY22Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsX3Wx4tSs1bFBoMANj2DYk"
+    },
+    {
+      "query": "ai growth stocks sell off",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "W0AdBXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqX1Kf6LUvMWhQYDANA7DGc"
+      "news_token": "iZp72Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmXLngeLUvMWhQZD-WLOeRA-AMMwEbg"
     },
     {
-      "query": "metro",
-      "search_volume": 100,
+      "query": "scott kirby",
+      "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance",
         "travel_and_transportation"
       ],
-      "news_token": "UxMv3Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRmXZy22LUvMWhQbD-NN5UPiqPoUofHnD_Sh85fkcyHyl--s0UfjP_-ahqFdJqYTwAWURMug"
+      "news_token": "QIqJvXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmXDPP5FqXmLQoMBymcLtA"
+    },
+    {
+      "query": "dividend investing",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "HRhJT3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRmWVSYGLUvMWhQZD-EoSNlwo_Bb9ZhS-lslzFP6u7ZXIfGWOBzwofMVFuch8uVzVPyjyau93IPPls-wfoKiP4kHVr-b9FEV9sX4HhA8Ab0lOWA"
+    },
+    {
+      "query": "why",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "T6PBAHica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGZYb8sEWpeYtCgyF8pUsc81D4BzNmofAvfpuPzFe2LBRDkV8y5QgK_533LxT-xpgnKPzf31ej8Av2eKOYr_oFxT4lp5OTUe0vWITCZ5h1DEX9PqvbyHzFzxK6KOqtPtxAUb9_w0UU_iJhLhT-8wO-KPzG1RtQzJPxvoUibz3LFcX-Jb_OQfgAiWOVhw"
     }
   ]
 }

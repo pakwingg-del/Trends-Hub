@@ -10,203 +10,185 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 21,
+      "keywords_count": 19,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-17 21:30:57"
+      "last_updated_hkt": "2026-10-18 21:30:59"
     }
   },
   "trending_seeds": [
     {
-      "query": "united airlines flight ua941 emergency",
+      "query": "airman falls",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "other"
+      ],
+      "news_token": "_WIoY3ica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGZW39eYtS8xaFBkP4Sj8ZJ6Pwn5a1IvOVNS2VUOS3TniBwj_2JgCZr7i3dBqKPLtpJgr_2vONyHw5T65lKPJfGGag8OckTUXhL35Qj-I-s_-HUeTf3D2C4p6UiJko8kvfdkD4ACDha58"
+    },
+    {
+      "query": "companies reducing artificial intelligence spending",
       "search_volume": 20000,
       "increase": 800,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "lrYLbXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUvTcmLUvMWhQYDANQkDN4"
+      "news_token": "z8ZFwXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqUbB0UWpeYtCg2G8JWlfgVD-ADKYBJf"
     },
     {
-      "query": "alliance arts steam demo cancellation",
-      "search_volume": 10000,
-      "increase": 600,
+      "query": "cfb wainwright",
+      "search_volume": 20000,
+      "increase": 400,
       "categories": [
-        "games"
+        "law_and_government"
       ],
-      "news_token": "s6yZ4Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsVr-8MXpeYtCg0GANSgDPA"
+      "news_token": "ZJaIfXica1xTlFpYmlpcEp-SWJJ4h0F68nkGBgZGZa2Co4tS8xaFBkP4SmWSQSj82b1_kflya0LmIvMV7uRlIfMVl52ZgMyX8fS5gMxX5nu2GcU8vsSHKPy_koko9nuFVaKY_3XGAmS-rALzfxT3VLGzo9inm2WJov-F7nQU89uOL0ZRb820FEV-l60kCv9FQQoK__gqOxT-XdckFP6iYhT3KxtNE0Thi6rzIPPlV67zRNGvlXsMwgcAc1CfrA"
     },
     {
-      "query": "verizon iphone handoff",
+      "query": "captain marvel",
+      "search_volume": 10000,
+      "increase": 400,
+      "categories": [
+        "entertainment",
+        "shopping"
+      ],
+      "news_token": "swKkcHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqXrKV8XpeYtCg2G8n8pRKHwk2v3o_ANW7aj8C18FqHw_dcyo_C7VX8h85XV53aj8FU-K6DwjYLKIXwAi7I_dA"
+    },
+    {
+      "query": "zohran mamdani nyc horse carriage ban",
+      "search_volume": 10000,
+      "increase": 400,
+      "categories": [
+        "other"
+      ],
+      "news_token": "VAK5oHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXCFXaLUvMWhQYDAM-sDFs"
+    },
+    {
+      "query": "ukraine drone strikes",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "other"
+      ],
+      "news_token": "KwysnHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqUVT2cuSs1bFBoM5U9Im43MVzY7_Q9F_q7CExS-kWUjCr9tvxcKf2_eDxT-Rz89ZL5sl0Y9ivwdI1EIHwAn4UFk"
+    },
+    {
+      "query": "ai bubble",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "urjLB3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqVLH_0WpeYtCg2G8qNW70fhO9pfRuYrm9Z6oPB1xDVR-PoGFsh8xU0fX0D4AOt4LlU"
+    },
+    {
+      "query": "ashley st clair",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "I7Z5vXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRmUrkc2LUvMWhQZD-EoRcoFQ_rmbfxq3IcvJO5faofA3eAVD-ABmjSMH"
+    },
+    {
+      "query": "nintendo zelda 40th anniversary restocks",
       "search_volume": 1000,
-      "increase": 500,
+      "increase": 100,
       "categories": [
+        "games",
         "technology"
       ],
-      "news_token": "URwUM3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmXet_cXpeYtCg0GANLLDN8"
+      "news_token": "DSuvyXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqU3iRsXpeYtCg2G8qcm2yLzZW_NFITwASZMGEE"
     },
     {
-      "query": "remain calm movie",
-      "search_volume": 5000,
-      "increase": 400,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "q63r_nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqV5sXKLUvMWhQYDAM4TDB4"
-    },
-    {
-      "query": "tesla roadster flying cars",
-      "search_volume": 2000,
-      "increase": 400,
-      "categories": [
-        "autos_and_vehicles"
-      ],
-      "news_token": "t7_waXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsV3OSyLUvMWhQYDANCbDGI"
-    },
-    {
-      "query": "verizon iphone handoff monthly fee",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "EEFstXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiWB6YsWpeYtCg2G8JV5396H8AHCoRJt"
-    },
-    {
-      "query": "remain calm",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "other"
-      ],
-      "news_token": "5gMfIHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRgUl3uRFqXmLQoMhfKV5sXIQPgCs3hDz"
-    },
-    {
-      "query": "strait of hormuz news",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "ab7yeHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRoWgBZ8XpeYtCg2G8JV-_TmFwncWeIDCP7hdG4X_8N1bFH7-Kw0U_q27cSj8_Qy8yHzFGyvOo8gflZ2Mwr952hJF_bdbPsh8-ZlbjiLz5bL_VKPo3yw_B8IHANMbYng"
-    },
-    {
-      "query": "tyler perry studios expansion atlanta",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "MndZ33ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqWLkdcWpeYtCg0GANTGDQU"
-    },
-    {
-      "query": "caiman",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "myy2Knica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmWJ7IuLUosXhQYDAM7QDF8"
-    },
-    {
-      "query": "waterfall bob hair trend autumn",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "beauty_and_fashion",
-        "entertainment"
-      ],
-      "news_token": "n_vq7Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXPnf6LUvMWhQYDAM9NDFY"
-    },
-    {
-      "query": "erik prince haiti security operation",
-      "search_volume": 2000,
+      "query": "tps ukraine",
+      "search_volume": 1000,
       "increase": 100,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "wNoFYHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmXJJzKLUvMWhQYDAM2aDB8"
+      "news_token": "-isUvXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqXbC-0WpeYtCg2G8OXYDjog85Xss2sgfAATABdy"
     },
     {
-      "query": "usgs burmese python drone tracking",
-      "search_volume": 2000,
+      "query": "the legend of zelda",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "rJ2DUnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqWpybaLUvMWhQZD-W8SN6Lwj3etQuYrm51xQZFfdOsGiryKaRWK_KpN7Mh82VszBSF8AFiXNWc"
+    },
+    {
+      "query": "training day",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "ggfSq3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmWmvRyLUvMWhQZD-HJzPmyD8AG65RJQ"
+    },
+    {
+      "query": "warren sapp",
+      "search_volume": 500,
       "increase": 100,
       "categories": [
         "other"
       ],
-      "news_token": "9hkkLXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUT29oWpeYtCg0GANUtDQk"
+      "news_token": "_zP5S3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqVd1t8XpeYtCg2G8q-fvADhAwDXxROm"
     },
     {
-      "query": "hailey bieber",
-      "search_volume": 1000,
-      "increase": 100,
+      "query": "jaime pressly comments mom cast",
+      "search_volume": 2000,
+      "increase": 75,
       "categories": [
-        "entertainment",
-        "beauty_and_fashion"
+        "entertainment"
       ],
-      "news_token": "oVq-N3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRmWO6YsXpeYtCg2G8JV2rFuKzFdW87VFkb-3JwBFXqm2FIUvWBiPzFc86RUE4QMAz3Et5w"
+      "news_token": "YqCILXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUdav8WpeYtCg0GANNlDOE"
     },
     {
-      "query": "saildrone",
+      "query": "mark gurman",
       "search_volume": 1000,
       "increase": 75,
       "categories": [
-        "other"
+        "technology"
       ],
-      "news_token": "gFQYVXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqXZl24tSs1bFBoM4StL7z6GzFfcxegD4QMANd4YeQ"
+      "news_token": "JvNApnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiWB6YsWpeYtCg2G8BVFpEWR-crCcbNQ5OvbUeTl5v_tRebLai5NQOYrpezVR-bLd_RD-QBMmzJ7"
     },
     {
-      "query": "artificial intelligence",
+      "query": "kia hyundai vehicle thefts nashville",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "autos_and_vehicles"
+      ],
+      "news_token": "7lZH23ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiWBwh2LUvMWhQZD-TpqDRA-ALlHEVU"
+    },
+    {
+      "query": "robotaxi",
       "search_volume": 500,
       "increase": 75,
       "categories": [
-        "science"
+        "business_and_finance"
       ],
-      "news_token": "33KDxHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRqXTTyQXpeYtCg2G8mUWW6Lw76n5ofBPx-xA4Z8654jCX-SwHJmvzKJcjyJ_gu8KCn8P62wU_pd5qObPcvFCMY_17AZU_jJFFD73k58QPgBRHFcx"
+      "news_token": "V-4ouHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGZfac-YtS8xaFBkP4iulzxZH5St7HxVDk3-WwIPOVpW51oPBVw7ah6O_ZlobCTy6SQVGvGbcRmS-_q9Qaxb7D0ltQ9C9fFYrC_zb3IAr_3lNfFP4Grk8o_JvJ5Sj8p2WHUfjXdh-A8AE9Hm_p"
     },
     {
-      "query": "one ui 9",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "r1Gt1Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqWlRnMWpeYtCg2G8JWFM1xR-HKZEch8pUuc_CjyzLqeyHz593UZKHzx_a8hfABHzSyr"
-    },
-    {
-      "query": "rtx spark",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "HJao2nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRiXNbpNFqXmLQoOh_I-fzVH4bz3_o_DL2HYh8xWrtJOR-XK9635C-ABGGSoD"
-    },
-    {
-      "query": "taika waititi",
+      "query": "nc state fair",
       "search_volume": 2000,
       "increase": 50,
       "categories": [
         "entertainment"
       ],
-      "news_token": "ZEIP1Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiWXGPtFqXmLQoMBy8gL5A"
+      "news_token": "GRbKrnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsWvzuqLUvMWhQZD-MqGNV3IfCWz_U0o_Otc2RA-ALIXHS0"
     },
     {
-      "query": "ps6",
-      "search_volume": 1000,
+      "query": "ai growth stocks sell off",
+      "search_volume": 200,
       "increase": 50,
       "categories": [
-        "technology",
-        "games"
+        "business_and_finance"
       ],
-      "news_token": "jsgxq3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRqXzn1IXpeYtCg2G8BUcuBcg85XiEypQ-E7_5CF8AMuSHXk"
-    },
-    {
-      "query": "blue ivy rumi carter appearance",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "other"
-      ],
-      "news_token": "QGxmzHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXd08MXpeYtCg0GANJ3DK4"
+      "news_token": "iZp72Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmXLngeLUvMWhQZD-WLOeRA-AMMwEbg"
     }
   ]
 }
