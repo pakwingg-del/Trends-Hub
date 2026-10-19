@@ -10,16 +10,35 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 18,
+      "keywords_count": 21,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-18 21:30:58"
+      "last_updated_hkt": "2026-10-19 00:30:55"
     }
   },
   "trending_seeds": [
     {
+      "query": "gas",
+      "search_volume": 2000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "CGOygXica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGZZtkmUWpeYtCg2H8TVtQ-PxMi1H4xq1JKHyr_TEofBGfvch8xY8PPiHzlfZvuIjCr7XmRNFv6iiGwhf3D0RRP-WtOYr573JYUOQdjhai6FdRyECRPzQvCIUvtF4KwgcAvc5lEQ"
+    },
+    {
+      "query": "wendy's",
+      "search_volume": 5000,
+      "increase": 700,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "t6CMXXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqVpn14tSs1bFBoM4Svbmv5G4RsrLUPmK-3iEkLmy_ocyUbmyxxccA-ZL7_tcjiKfsaayRA-AEePNTY"
+    },
+    {
       "query": "companies reducing artificial intelligence spending",
       "search_volume": 20000,
-      "increase": 800,
+      "increase": 600,
       "categories": [
         "business_and_finance"
       ],
@@ -27,21 +46,12 @@
     },
     {
       "query": "debt",
-      "search_volume": 2000,
+      "search_volume": 5000,
       "increase": 300,
       "categories": [
         "other"
       ],
-      "news_token": "-OHuMHica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGpQcFSYtS8xaFBkP5yrr_kPmKP8p_osjfdUVVf-8kHzJf2eqjO4r8wzWBKPz3Vfko_Gf6d1D0a5ZfQbH_F68NirzSVTYUvpGLOYp5-zdcROVHFKLw6xmcUP2j0I5inrAUAwqf8_A9FPVC66VQ5Lm756DwmfKaUNQLTF-EwjfkVUfx31EZfWS-jKfPBQgfAM2gmS4"
-    },
-    {
-      "query": "wind farm",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "siW3AHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRmX1Dr9FqXmLQoMhfKXbC-1R-HYNWsh8ZZ1Jx1Dk5zaboMhLn7FFkV9q3InCv6QVA-EDAKkCM0A"
+      "news_token": "XKO--Xica1xTlFpYmlpcEp-SWJJ4h0Fu8nkGBgZGpQcFSYtS8xaFBkP4ij_KfyLzlU7MZEHmKwud4UPhC_-9jKJ-fmUXirzq7SoU-buuKPYpJb-fhsK_dxLFfCVl3X8o_Gf6d1DM1yy_gsK3-uiOwpdU0UXxn6BMDop577obUPj7N1xE5UcUovDrGZxQ_aPQjhoeUgwofM7D91DUC62XQpHn7p6DwmfKa0JRLzB9EQrfkFcdxT9HZfSR-TKePhcgfACpZa_V"
     },
     {
       "query": "what is the federal report about the white house eisenhower building makeover plan",
@@ -63,22 +73,13 @@
       "news_token": "lrbc4Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqXPKvcXpeYtCg2G8JU1JqRB-ADOOxJf"
     },
     {
-      "query": "hoover dam turbine cavitation damage",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "YXtAYHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmW58xsXpeYtCg0GANEyDKQ"
-    },
-    {
       "query": "ai bubble",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "urjLB3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqVLH_0WpeYtCg2G8qNW70fhO9pfRuYrm9Z6oPB1xDVR-PoGFsh8xU0fX0D4AOt4LlU"
+      "news_token": "qIJXHnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqVLH_0WpeYtCg2G8qNW70fhO9pfRuEv4FuBzFfc9PEFivy9k3wQPgCH3Csb"
     },
     {
       "query": "nintendo zelda 40th anniversary restocks",
@@ -115,16 +116,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "q5vrbHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqUdM3cvSs1bFBoM4SvzZsxA5itd_x-Fwn9pfgCFv3dlAIp-o7kdyHxFnZ9aKOovccxD4Z-KrUbhPy-aBuEDAAQMQgE"
+      "news_token": "KA8pSnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqUdM3cvSs1bFBoM4SvzZsxA5iu1ly9EkReXXIrCt3Q5jaL-UuAkFL5EfTgKP7W3DYUvnWwN4QMAW8842Q"
     },
     {
-      "query": "robotaxi",
-      "search_volume": 500,
+      "query": "nasdaq futures",
+      "search_volume": 2000,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "V-4ouHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGZfac-YtS8xaFBkP4iulzxZH5St7HxVDk3-WwIPOVpW51oPBVw7ah6O_ZlobCTy6SQVGvGbcRmS-_q9Qaxb7D0ltQ9C9fFYrC_zb3IAr_3lNfFP4Grk8o_JvJ5Sj8p2WHUfjXdh-A8AE9Hm_p"
+      "news_token": "Vcydj3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRqXU3rZFqXmLQoOh_Ed_65H5yrw7XqHIf72TjsyX3Vh8EkV-x8zdKPy50rWo-hvSUPkv-VH4pRFn0Mz_hMyXM9p9G8IHANcAUBk"
     },
     {
       "query": "exchange-traded fund",
@@ -133,7 +134,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "T-Voqnica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGpeyUmYtS8xaFBkP4yhyMwih8K5OdyHylx6_sUfh5X3hQ-A9kvqHwv87NQzFPOzcaRX7HzN3IfMWj0hNQ5H_0JKHwv3zyQuH_dTiIwv-wYjuq_bd_o_DfrlyL4h4hDjZkvtz8iWdR-NXqyRA-AEIDdz8"
+      "news_token": "pQq-Snica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqWvL_kXpeYtCg2G8h-_skfmK3MwCqPwrUx2oqjfdtkfhf_lkxcK_0dPEgo_7wsPCj87ZSaEDwC1EDsv"
     },
     {
       "query": "holiday touchdown a bears love story cast",
@@ -143,6 +144,33 @@
         "entertainment"
       ],
       "news_token": "vAY22Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsX3Wx4tSs1bFBoMANj2DYk"
+    },
+    {
+      "query": "waymo",
+      "search_volume": 100,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Ws-L53ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRmX2nPmLUvMWhQZD-Erf5h5E5ivb5KiiyN976ovC38D1CYV_M7kchf-07DAKP7lIBsIHAEctNZs"
+    },
+    {
+      "query": "downtown",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "other"
+      ],
+      "news_token": "2UhotHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRmUj57BFqXmLQoOhfPOFych8pTM8M1D4T2OeoKi3-dqAwjdlmI3C18yeisqvUEfhqzo-QjH_wIwEFH74tZMo_PZePggfAFqRSig"
+    },
+    {
+      "query": "60 minutes",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "eOPWfXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRmXBvy8XpeYtCg2G8o0KfiLzlW4ebkORt42ciSL_qT8WRd5yvQ2K_GqbpxA-AFnVMFg"
     },
     {
       "query": "ai growth stocks sell off",
@@ -170,16 +198,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "HRhJT3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRmWVSYGLUvMWhQZD-EoSNlwo_Bb9ZhS-lslzFP6u7ZXIfGWOBzwofMVFuch8uVzVPyjyau93IPPls-wfoKiP4kHVr-b9FEV9sX4HhA8Ab0lOWA"
+      "news_token": "0UsW_3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRmWVSYGLUvMWhQZD-Eot-s0ofAkbLhS-lslzFP6u7ZXIfGXFRbkofLX3O1D4ZvtFkflyuap_kPnyWfYPUOQ1biqhyBfrd0D4AOWSSSc"
     },
     {
-      "query": "why",
+      "query": "times of india",
       "search_volume": 100,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "T6PBAHica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGZYb8sEWpeYtCgyF8pUsc81D4BzNmofAvfpuPzFe2LBRDkV8y5QgK_533LxT-xpgnKPzf31ej8Av2eKOYr_oFxT4lp5OTUe0vWITCZ5h1DEX9PqvbyHzFzxK6KOqtPtxAUb9_w0UU_iJhLhT-8wO-KPzG1RtQzJPxvoUibz3LFcX-Jb_OQfgAiWOVhw"
+      "news_token": "iSQrDXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmXrT-cWpeYtCg2G8JVmfxFG5ivrlp5H4RvcaEFR_0PHDkVebxkvirx6wBYU_mnhxyj8K2HTUPRb2WRA-ACMnT_e"
     }
   ]
 }
