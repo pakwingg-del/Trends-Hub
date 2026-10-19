@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 20,
+      "keywords_count": 21,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-19 03:30:55"
+      "last_updated_hkt": "2026-10-19 06:30:59"
     }
   },
   "trending_seeds": [
@@ -24,6 +24,15 @@
         "business_and_finance"
       ],
       "news_token": "CGOygXica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGZZtkmUWpeYtCg2H8TVtQ-PxMi1H4xq1JKHyr_TEofBGfvch8xY8PPiHzlfZvuIjCr7XmRNFv6iiGwhf3D0RRP-WtOYr573JYUOQdjhai6FdRyECRPzQvCIUvtF4KwgcAvc5lEQ"
+    },
+    {
+      "query": "fuel",
+      "search_volume": 1000,
+      "increase": 800,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "T8cMfnica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGZcc2tkWpeYtCg6F8Y3s1ZL7Sq0w3FH7SrL8o_IPbtVH0O8xbiiJfVumOal4lLwr_ylEpFP4F_VMo5tlPM0HhC0sxoPBN85-g8C17XZD58j6r96HIM1iXQPgA7fFfzA"
     },
     {
       "query": "wendy's",
@@ -38,7 +47,7 @@
     {
       "query": "companies reducing artificial intelligence spending",
       "search_volume": 20000,
-      "increase": 600,
+      "increase": 500,
       "categories": [
         "business_and_finance"
       ],
@@ -51,7 +60,7 @@
       "categories": [
         "other"
       ],
-      "news_token": "Dw42tHica1xTlFpYmlpcEp-SWJJ4h0F28nkGBgZGpQcFSYtS8xaFBkP5907yIfOVNZSXocjvmLkbRV5SRRdFPvn9NBT-pcBJKPy7rij2KQtv34bCt_rojqJeWfcfirxm-RUU-Wf6d1D4J2ayIPMVBWVykPnytuxWKOr3b7iIyo8oROHXMzihul-hHdX9UgwofM7D91DUC62XQpHn7p6DwmfKa0JRLzB9EQrfkFcdxT9HZfSR-TKePhcgfACooqfx"
+      "news_token": "0jDg83ica1xTlFpYmlpcEp-SWJJ4h0F28nkGBgZGpQcFSYtS8xaFBkP5907yIfOVNZSXofAlVXRR1F8KnITCT34_DYV_1xXFfGUnRSsUeWXdf8h8xcLoByjqHeYdQVH_TP8OirzVR3cU_b94bVDU75i5G0VeUCYHRX7_houo_IhCFH49gxOqfxTaUewXlmJA4XMevoeiXmi9FIo8d_ccFD5TXhOKeoHpi1D4hrzqKO4_KqOPzJfx9LkA4QMAQk6oSQ"
     },
     {
       "query": "what is the federal report about the white house eisenhower building makeover plan",
@@ -69,7 +78,26 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "4HoKs3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmX2nPmLUvMWhQZD-Erf5h5E4d976ovMV7bJUUWR38D1CYV_M7kchX9t9wEU_tOywyj85CIZCB8AAqg8MQ"
+      "news_token": "WtGMTnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmX2nPmLUvMWhQZD-Erf5h5E4d976ovMV7bJUUWR38D1CYV_bfcBFP7N5HIU_tOywyj85CIZCB8ADIg8MQ"
+    },
+    {
+      "query": "fume",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "aMLek3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRmUrk5eL0ooWhQZD-Eqpto9R-K8y3ZD5ykb80ch8OTs7aQgfALFvIdg"
+    },
+    {
+      "query": "spacex launch jellyfish",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "orUZnXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiWjp0qLUvMWhQYDAM6jDD4"
     },
     {
       "query": "supermarket news",
@@ -82,15 +110,6 @@
       "news_token": "lrbc4Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqXPKvcXpeYtCg2G8JU1JqRB-ADOOxJf"
     },
     {
-      "query": "ai bubble",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "S6kpjXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqVLH_0WpeYtCg2G8nfM3I3Cv3eSD4W_3Z8DhR-1ej8K_3_nfWS-4qaPL1D4CWf2QvgA2184ZQ"
-    },
-    {
       "query": "nintendo zelda 40th anniversary restocks",
       "search_volume": 1000,
       "increase": 100,
@@ -98,16 +117,7 @@
         "games",
         "technology"
       ],
-      "news_token": "DSuvyXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqU3iRsXpeYtCg2G8qcm2yLzZW_NFITwASZMGEE"
-    },
-    {
-      "query": "dario amodei",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "nuHl4Hica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqU5mzIWpeYtCg2G8m8_FUfhC9b1IfOVGc02ovBF0k6jqJ_l4oXCf2h_FYV_asZMZL7MW9u3yHx52VVRED4AXaRAkg"
+      "news_token": "5rBNSXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqU3iRsXpeYtCg2G8GVvzRSE8AHTHRLH"
     },
     {
       "query": "stocks",
@@ -116,7 +126,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "gJ5banica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqUdM3cvSs1bFBoM5V9qd0ThxxvfROYrK573RpG_a8SPIm80twOFz5sxA0X97xBjFHlhVTsIHwCRTTj3"
+      "news_token": "zaXqEXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqW7RvyLUvMWhQZD-ZfaHVH4wgteI_OV7ZeUoKr_6IfCf3Z9FYp6o7kdKPIS9eEo8rwZMyB8ALK5Oqc"
     },
     {
       "query": "nasdaq futures",
@@ -125,16 +135,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "igUJ8Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqXU3rZFqXmLQoMhfGX7hEhkvtJdI34U_qO_9ch82Y3FJ1Hkv95JR-HvmLkbmS9ntPs2hA8AQas2xQ"
-    },
-    {
-      "query": "vaccine",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "yho_i3ica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGZZuiP4tS8xaFBkP4SpvmGSDzFZcZnUbmK-vw1qCoj62RReFf7DJG4beGFaHoNzybjsI3CqpC4dt5z0bhazilofCZnlWimL9vxjEU9854sB9FvXHkchT1Pyw8UORZsgUhfABjsWYx"
+      "news_token": "qtavAXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRmX7hMhFqXmLQoMhfKXU3jYU_l0jfhT-6y3XkfmyG4tPosh_vZOOwt8xczcKf650LTJf2elwD4r8o7_1KPK8O14h8-UqpTZA-ADZ0k5B"
     },
     {
       "query": "myer kripke warren buffett investment",
@@ -152,7 +153,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "qP3m5Xica1xTlFpYmlpcEp-SWJI4b_J5BgYGRqXHr-wXpeYtCg2G8JU5GIVR-FYmO5H5SnlfeFD4Xz55ofC_zs1D5b_kR-HvmLkbhb_xvT4KX2-5Nwr_R08Sqnm3f6O4T4iDDZkvf0CVEcIHAMbfWBI"
+      "news_token": "188RBXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRqXHr-wXpeYtCg2G8vO-8KDwv3zyQuYrW5nsRJH_OjcPlf-SH4W_Y-ZuFP7G9_oo5nEwCqPI_-hJQuHrLfdG4W-77I9q3-3fKOYJcbAh8-UPqDJC-ABykF4v"
     },
     {
       "query": "department of veterans affairs payment adjustment",
@@ -171,7 +172,7 @@
       "categories": [
         "other"
       ],
-      "news_token": "MBA6sXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmUj57BFqXmLQoOhfPOFySh8--xwZL7SgRkJKPKmDLNR-JrZU1H4qo6PUPiW-6tQzAu_dhLCBwCsfjic"
+      "news_token": "TrlAuXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRmUj57BFqXmLQoMhfKUDMxKQ-cr2LRtR-OYLk1H4mtlTUfimDLNR-KqOj1DMD792EoXf3suHzJd9NaMZmS-3bdo3CB8A2EtFhg"
     },
     {
       "query": "ai growth stocks sell off",
@@ -199,7 +200,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "6JDmf3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRmWVSYGLUvMWhQZD-Eot-s0ofAkbLhS-lslzFP6u7ZXIfGXFRbkofLP9oijqHx7cicyXz7J_gMyX07iphCJfrN8B4QMAiIxD5Q"
+      "news_token": "cnTrtXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRmWVSYGLUvMWhQZD-Eot-s0ofAkbLhS-lslzFP6u7ZXIfGXFRbkofLP9osh8uVzVPyj6Hx7cicyXz7J_gKJe46YShA8AhQhESA"
+    },
+    {
+      "query": "como",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "fDcYm3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsXXTdcWpRYvCg2G8JU1Txei8MU8dyHzlVo_caDIO6x-jCKfJNmPIq89sRWFb_TxOoQPAE06NWc"
     }
   ]
 }
