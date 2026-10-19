@@ -10,176 +10,270 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 19,
+      "keywords_count": 29,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-18 21:30:59"
+      "last_updated_hkt": "2026-10-19 21:30:57"
     }
   },
   "trending_seeds": [
     {
-      "query": "airman falls",
+      "query": "strait of hormuz news",
       "search_volume": 50000,
       "increase": 1000,
       "categories": [
-        "other"
+        "politics"
       ],
-      "news_token": "_WIoY3ica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGZW39eYtS8xaFBkP4Sj8ZJ6Pwn5a1IvOVNS2VUOS3TniBwj_2JgCZr7i3dBqKPLtpJgr_2vONyHw5T65lKPJfGGag8OckTUXhL35Qj-I-s_-HUeTf3D2C4p6UiJko8kvfdkD4ACDha58"
+      "news_token": "BHHuw3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRmWWG9KLUvMWhQZD-ApBCz4j85V1L0si85WOyk5GkTfaYoXCD3lXCuEDAAXoKKE"
     },
     {
-      "query": "companies reducing artificial intelligence spending",
+      "query": "gluten free ritz cracker launch",
       "search_volume": 20000,
-      "increase": 800,
+      "increase": 1000,
       "categories": [
-        "business_and_finance"
+        "food_and_drink"
       ],
-      "news_token": "z8ZFwXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqUbB0UWpeYtCg2G8JWlfgVD-ADKYBJf"
+      "news_token": "9QlaPHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmVfIc5FqXmLQoMByFkLbg"
     },
     {
-      "query": "cfb wainwright",
+      "query": "pentagon plea deal appeals denied",
       "search_volume": 20000,
-      "increase": 400,
+      "increase": 1000,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "ZJaIfXica1xTlFpYmlpcEp-SWJJ4h0F68nkGBgZGZa2Co4tS8xaFBkP4SmWSQSj82b1_kflya0LmIvMV7uRlIfMVl52ZgMyX8fS5gMxX5nu2GcU8vsSHKPy_koko9nuFVaKY_3XGAmS-rALzfxT3VLGzo9inm2WJov-F7nQU89uOL0ZRb820FEV-l60kCv9FQQoK__gqOxT-XdckFP6iYhT3KxtNE0Thi6rzIPPlV67zRNGvlXsMwgcAc1CfrA"
+      "news_token": "AWwHq3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmVflhOLUvMWhQYDAM0iDB8"
     },
     {
-      "query": "captain marvel",
-      "search_volume": 10000,
-      "increase": 400,
-      "categories": [
-        "entertainment",
-        "shopping"
-      ],
-      "news_token": "swKkcHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqXrKV8XpeYtCg2G8n8pRKHwk2v3o_ANW7aj8C18FqHw_dcyo_C7VX8h85XV53aj8FU-K6DwjYLKIXwAi7I_dA"
-    },
-    {
-      "query": "zohran mamdani nyc horse carriage ban",
-      "search_volume": 10000,
-      "increase": 400,
-      "categories": [
-        "other"
-      ],
-      "news_token": "VAK5oHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsXCFXaLUvMWhQYDAM-sDFs"
-    },
-    {
-      "query": "ukraine drone strikes",
+      "query": "strait of hormuz",
       "search_volume": 5000,
+      "increase": 1000,
+      "categories": [
+        "politics",
+        "law_and_government"
+      ],
+      "news_token": "uWt243ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqWjspMXpeYtCg2G8JVZbkgj85WWm9Uh8xWCFnxG5iseuTIVRf2vP6dQzNO9LInCN9pihcIPeVcK4QMAxQA7tw"
+    },
+    {
+      "query": "launch today",
+      "search_volume": 1000,
+      "increase": 900,
+      "categories": [
+        "science",
+        "business_and_finance"
+      ],
+      "news_token": "tzih13ica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGJT5770WpeYtCg6F8o6dKKPxH05KR-coBTM4o_EABcxS-zJI-FP1Ll99E4d_orkPmyzaU6KDol0hzROHz-wag8L32oap3ZdyCYv4efz0U_vLpsij8b49R_eNR1YMif7SoBUXeyPkFirzusk0o_CssbyB8AO6qfB4"
+    },
+    {
+      "query": "launch schedule",
+      "search_volume": 200,
+      "increase": 500,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "v_6E6nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsUn3zQWpeYtCg2G8JUu6yei8I2eKkH4ACjOGCw"
+    },
+    {
+      "query": "lay's new holiday potato chips",
+      "search_volume": 10000,
+      "increase": 400,
+      "categories": [
+        "food_and_drink"
+      ],
+      "news_token": "_2mTXXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiVbf5ZFqXmLQoMByYQLlQ"
+    },
+    {
+      "query": "launch",
+      "search_volume": 500,
       "increase": 300,
       "categories": [
-        "other"
+        "technology",
+        "science"
       ],
-      "news_token": "KwysnHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqUVT2cuSs1bFBoM5U9Im43MVzY7_Q9F_q7CExS-kWUjCr9tvxcKf2_eDxT-Rz89ZL5sl0Y9ivwdI1EIHwAn4UFk"
+      "news_token": "cFAFlXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRmXtd08WpeYtCg2G8JVE9mmi8MOvV6DwF_b2ovD57L1R-EZPlZD5yqGLP6HIX9L6iCLv9dwdhW8TfBqF7xnihaJ_82cbCB8AFn9LnQ"
     },
     {
-      "query": "ai bubble",
-      "search_volume": 5000,
-      "increase": 100,
+      "query": "nasa launch today",
+      "search_volume": 200,
+      "increase": 300,
       "categories": [
-        "business_and_finance"
+        "business_and_finance",
+        "science"
       ],
-      "news_token": "urjLB3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqVLH_0WpeYtCg2G8qNW70fhO9pfRuYrm9Z6oPB1xDVR-PoGFsh8xU0fX0D4AOt4LlU"
+      "news_token": "6wab0Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqWc1LhFqXmLQoOhfKOnSsh82YYSHQgfAAJKFxI"
     },
     {
-      "query": "ashley st clair",
-      "search_volume": 2000,
-      "increase": 100,
+      "query": "apple iphone duo sold out",
+      "search_volume": 10000,
+      "increase": 200,
       "categories": [
-        "entertainment"
+        "technology"
       ],
-      "news_token": "I7Z5vXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRmUrkc2LUvMWhQZD-EoRcoFQ_rmbfxq3IcvJO5faofA3eAVD-ABmjSMH"
+      "news_token": "55KzLHica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGJYHpixal5i0KDYbwlXnf3kfhs_eyo_A9brCi8Bn-MaLwDRZvRuH75z1C5iu9Ou6BIh96YxcK39dXAJW_JhGFHxJlisp_sA6FH8h_CoUvvEIHhe915QWKe2bJvEPmKzxfoYeiXilkEjJfUURaFMIHAE7Kdu8"
     },
     {
-      "query": "nintendo zelda 40th anniversary restocks",
-      "search_volume": 1000,
-      "increase": 100,
+      "query": "ocarina of time remake switch 2",
+      "search_volume": 10000,
+      "increase": 200,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "DSuvyXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqU3iRsXpeYtCg2G8qcm2yLzZW_NFITwASZMGEE"
+      "news_token": "XcTdQHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqWpybaLUvMWhQZD-W8SNyLzZW_NFITwARm8GEE"
     },
     {
-      "query": "tps ukraine",
-      "search_volume": 1000,
+      "query": "ps5 games running on xbox hardware",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "EkFx_nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXrKTcXpeYtCg0GANVpDRk"
+    },
+    {
+      "query": "anok yai",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "beauty_and_fashion",
+        "entertainment"
+      ],
+      "news_token": "9vnr23ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmVb7VOLUvMWhQZD-Eq79OIgfAC9JBHD"
+    },
+    {
+      "query": "brandon stirrup xbox ai comments",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "0EZcgXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmVPh45FqXmLQoMBzR4MFw"
+    },
+    {
+      "query": "il fornaio",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "v9pn7Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXdKuyLUvMWhQYDAMyvC-s"
+    },
+    {
+      "query": "spacex falcon 9 rocket launch",
+      "search_volume": 50000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "QBG8DHica1xTlFpYmlpcEp-SWJJ4h0F28nkGBgZGJaOnSotS8xaFBkP4ymqaZch8xY3eu5D58va3D6HIP_mmgcyX26bniGKei-wSZL5sQ4kOCr_euBVFfciVBSh8du-lyHyF94sLkPlKH_erovBvdIej8C8YzkExz7bzHIr7u97OQlHPZ--Nwn91QgzF_4Lqy1Dc_zWQB8W8dzksKPI1Ui9R5G96BaGYP-_SChT3uT9jRJHf2FSBov-2SwdKeMcJMEP4AANqrEk"
+    },
+    {
+      "query": "helen haines",
+      "search_volume": 2000,
       "increase": 100,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "-isUvXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqXbC-0WpeYtCg2G8OXYDjog85Xss2sgfAATABdy"
+      "news_token": "x8F6eHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmXnax8XpeYtCg0GANR3DRA"
     },
     {
-      "query": "the legend of zelda",
+      "query": "united airlines new nonstop routes",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "travel_and_transportation"
+      ],
+      "news_token": "h6krFXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmWB7qxFqXmLQoMBzKMMCw"
+    },
+    {
+      "query": "a i news",
       "search_volume": 500,
       "increase": 100,
       "categories": [
-        "games",
         "technology"
       ],
-      "news_token": "rJ2DUnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqWpybaLUvMWhQZD-W8SN6Lwj3etQuYrm51xQZFfdOsGiryKaRWK_KpN7Mh82VszBSF8AFiXNWc"
+      "news_token": "oWH-sXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmWLjaqLUvMWhQZD-ZYup1H4oXU2qPz9n5H5Srs3h6HwT25IQFEfomyIIn9a-DEK_3WzFIQPAE_ZOiw"
     },
     {
-      "query": "training day",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "ggfSq3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmWmvRyLUvMWhQZD-HJzPmyD8AG65RJQ"
-    },
-    {
-      "query": "warren sapp",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "_zP5S3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqVd1t8XpeYtCg2G8q-fvADhAwDXxROm"
-    },
-    {
-      "query": "jaime pressly comments mom cast",
+      "query": "ashley st. clair",
       "search_volume": 2000,
       "increase": 75,
       "categories": [
         "entertainment"
       ],
-      "news_token": "YqCILXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUdav8WpeYtCg0GANNlDOE"
+      "news_token": "mL2q2Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRmUrkc2LUvMWhQZPPnfzT-M2KBsspxQhF4jMl3cutUPhb_AKhvABnMkjBw"
     },
     {
-      "query": "mark gurman",
-      "search_volume": 1000,
+      "query": "oled tv",
+      "search_volume": 200,
       "increase": 75,
       "categories": [
+        "technology",
+        "shopping"
+      ],
+      "news_token": "_lUov3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRmUfg2-LUvMWhQZD-ErfuPSQ-crBSzKR-XIOrzxQ-Bp_xZD58lOdPSF8AAnbKCM"
+    },
+    {
+      "query": "robot",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "science",
         "technology"
       ],
-      "news_token": "JvNApnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRiWB6YsWpeYtCg2G8BVFpEWR-crCcbNQ5OvbUeTl5v_tRebLai5NQOYrpezVR-bLd_RD-QBMmzJ7"
+      "news_token": "6BXjpnica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGZa11cotS8xaFBkP4Sj_5L6Lw000kUPiv3-1H4av5T0Thf1g5BYXf3oRq3pMSf2S-ssQMVPlZi86h8Fu-C6Ko19UvRJG_2l6KIh9QMQdF_hLHKRS-d-E2ZL6iiLQoivzX_hco5slN3oTq_-zPKPxFjtEQPgC1f4FQ"
     },
     {
-      "query": "kia hyundai vehicle thefts nashville",
+      "query": "donald trump campaign visit kansas",
       "search_volume": 1000,
-      "increase": 75,
+      "increase": 50,
       "categories": [
-        "autos_and_vehicles"
+        "politics"
       ],
-      "news_token": "7lZH23ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRiWBwh2LUvMWhQZD-TpqDRA-ALlHEVU"
+      "news_token": "t-NnVHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXFjUKLUvMWhQYDAM8MDDs"
     },
     {
-      "query": "robotaxi",
-      "search_volume": 500,
-      "increase": 75,
+      "query": "intel stock price",
+      "search_volume": 1000,
+      "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "V-4ouHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGZfac-YtS8xaFBkP4iulzxZH5St7HxVDk3-WwIPOVpW51oPBVw7ah6O_ZlobCTy6SQVGvGbcRmS-_q9Qaxb7D0ltQ9C9fFYrC_zb3IAr_3lNfFP4Grk8o_JvJ5Sj8p2WHUfjXdh-A8AE9Hm_p"
+      "news_token": "MNC-mHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqXb2QKLUvMWhQZD-f5dH5D5yiLvXqLwhWxtUfjs7EtQ9N_YoociH3DXFcIHANGgLhs"
     },
     {
-      "query": "nc state fair",
-      "search_volume": 2000,
+      "query": "you can see everything review",
+      "search_volume": 1000,
       "increase": 50,
       "categories": [
         "entertainment"
       ],
-      "news_token": "GRbKrnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRsWvzuqLUvMWhQZD-MqGNV3IfCWz_U0o_Otc2RA-ALIXHS0"
+      "news_token": "CZfrfXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqXbtxwXpeYtCg2G8kuV_yPz5QWOT0HmKx7_3YzCn-p1DJmvLDXlCoQPAINUKr4"
+    },
+    {
+      "query": "minior pokemon go",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "science",
+        "games",
+        "technology"
+      ],
+      "news_token": "h37Eunica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmWjeXqLUvMWhQYDAMzJDAQ"
+    },
+    {
+      "query": "microsoft pc game pass game removals",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "D966b3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXX2UcWpeYtCg0GANXCDR8"
     },
     {
       "query": "ai growth stocks sell off",
@@ -188,7 +282,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "iZp72Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmXLngeLUvMWhQZD-WLOeRA-AMMwEbg"
+      "news_token": "7ahjhXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqUdM3cvSs1bFBoM5V8KnITMV3aduhhFPrW3DVX9Rz8U_vbrO1D4Ab92ofAfGdxD4Z-5MRfCBwBxZD5w"
+    },
+    {
+      "query": "google play",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "B0y5qnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmWT_wWLUvMWhQZD-QHWB1H4Rs4fkflKxXn3UeR96gVQ5J-Wc6HwP9n_R-bLln5ehSLf_jYYwgcAlcA7iw"
     }
   ]
 }
