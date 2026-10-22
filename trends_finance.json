@@ -10,22 +10,12 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 43,
+      "keywords_count": 36,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-22 00:30:57"
+      "last_updated_hkt": "2026-10-22 03:31:01"
     }
   },
   "trending_seeds": [
-    {
-      "query": "student loan",
-      "search_volume": 20000,
-      "increase": 1000,
-      "categories": [
-        "law_and_government",
-        "business_and_finance"
-      ],
-      "news_token": "Y8Xhs3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG5d6q1YtS8xaFBkP5ga-zkPlKN5MjUORrTxeg8G0r3qGon8WLKi_vq4TCr9hsgaL-u9h7FPneJ1dR5N91NyDz5SYs3Y4i_4L_E4r8oWRU_efPf0SVr-yH8AFUPmcJ"
-    },
     {
       "query": "kfc",
       "search_volume": 1000,
@@ -37,15 +27,24 @@
       "news_token": "92HzOnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqVvq_0WpeYtCg2G8JU7ncSQ-UrzvyejyPO5TkPh58cvQ-HbZy1E5sudqeCA8AHsoC5f"
     },
     {
-      "query": "smartphone",
-      "search_volume": 2000,
+      "query": "student loan",
+      "search_volume": 20000,
       "increase": 900,
       "categories": [
-        "technology",
-        "business_and_finance",
-        "science"
+        "law_and_government",
+        "business_and_finance"
       ],
-      "news_token": "hWsVQHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG5Zq-P4tS8xaFBkP4SgLTF6HwjfZYI_OVC6I3oshbH9mKIt96hBGFrx1yFpmv2K3wGUX_4x9pKOrrcsRQ-FV881D4sQ-yUfglH_agmHfgEyeKvOL0fSj8ht9zUNR7TI5CkVfZcRHCBwD5eHAl"
+      "news_token": "g8FoOnica1xTlFpYmlpcEp-SWJI4f_J5BgYGRuXeqtWLUvMWhQZD-YGvs1D4thXvkPlKN5MjUOTlfZVQ5L-LvUeRrz1dgMLvfXIVhV-x2QLN_s8o5r3rbkDmy01Yuh1F_gX_JxT5Q8ko5itpbuyD8AE612Ck"
+    },
+    {
+      "query": "air canada",
+      "search_volume": 10000,
+      "increase": 700,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "WfEQWnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuUkncmLUvMWhQZD-ErxHvrIfOVi0xoUfs5KTxR-kyAjiv4rR5hR-PUVXSjqBbqzIHwAUHwyGw"
     },
     {
       "query": "brad gerstner",
@@ -60,15 +59,15 @@
     {
       "query": "meta stock",
       "search_volume": 50000,
-      "increase": 600,
+      "increase": 500,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "xk3XVnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRqWd1b6LUvMWhQZD-UcvfkXmK_emPEaR377hKYo8ey87ivylj34o8tVmxih8fls-FL7M6QQUfqTPEmS-3NYEIwgfACyPRaY"
+      "news_token": "BLVtqnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRqWd1b6LUvMWhQZD-ds3PEXhH734FZmvzG_Lh8IvOPQfRX1LpwiKPHsvO4r8pY9-KPLVZsYo_N6Uxyh8mdMJyHx5RZYMZL7c1gQjCB8Ahz9Qww"
     },
     {
       "query": "arbys loaded sandwiches",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 400,
       "categories": [
         "food_and_drink",
@@ -77,13 +76,13 @@
       "news_token": "JDek9Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqVXLDmLUvMWhQZD-MoB0u0QPgC-rBGX"
     },
     {
-      "query": "ibm stock",
-      "search_volume": 10000,
+      "query": "wikipedia down",
+      "search_volume": 1000,
       "increase": 400,
       "categories": [
-        "business_and_finance"
+        "other"
       ],
-      "news_token": "PhQxPnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqUn7tyLUvMWhQZD-MrVZsYo_Ky258h8-RobPWS-3NaEaGS-0t-1Aij62cSfo_LZWlH0ZzDOQtG_Sx8qDwCZvT1y"
+      "news_token": "Fwtys3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuX2S3sXpeYtCg0GANVPDRw"
     },
     {
       "query": "tsla stock",
@@ -93,7 +92,7 @@
         "autos_and_vehicles",
         "business_and_finance"
       ],
-      "news_token": "QIhqqXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRqWWTpFFqXmLQoOh_CSzTmS-cueffBQ-7-y9yHzFdzksKPL8tnwo_KzN3Sj8CQ6WKPY9v-6PIs_ey44i3xu-EoWf2tuGah6HFAq_2swYwgcAJ0tT1A"
+      "news_token": "4Cobi3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRqWWTpFFqXmLQoOh_CSzTmS-skfVFRR-waH_KHx-Wz4UftTfPyj8fj5tFH637AoU_mTdVhR-B3MECr_azBiF37eGF8W9qb1tKPxLH_1Q1FfWWkD4AM35Wq4"
     },
     {
       "query": "kroger",
@@ -105,23 +104,22 @@
       "news_token": "K-F5pHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRuXco3MWpeYtCg2G8ssqGFH4nWGPUPjy0vtR5S_9QOYr3TGWRJFX9T6Awi8S_IjCd1o4GUX_4qMnkfmKX-61IPPllslqQvgAO1pMfg"
     },
     {
-      "query": "dólar estadounidense",
-      "search_volume": 20000,
+      "query": "ibm stock",
+      "search_volume": 10000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "RBngCHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWqin-LUosXhQZD-EqXMiKQ-Yo_PKejyP_3K4bwAe9tHwI"
+      "news_token": "a61_lHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqUn7tyLUvMWhQZD-MrVZsYo_Ky258h8-RobPWS-3NaEaGS-0t-1Aij62cSfo_LZWlHUt3SKoMhPyJoP4QMAnrU9wA"
     },
     {
-      "query": "multa",
-      "search_volume": 1000,
+      "query": "meta",
+      "search_volume": 10000,
       "increase": 200,
       "categories": [
-        "business_and_finance",
-        "law_and_government"
+        "business_and_finance"
       ],
-      "news_token": "5FwpC3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuW06bKLCkoWhQZD-Eq3FPlR-FvlpFH4i8rYkfnKWdZOyHzFV-EnUNSXLY5AUd_zcRkKX7bkOQo_beUcFH5rEtR9APKCRVM"
+      "news_token": "Wi8iQHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuXelMeLUvMWhQZD-TKnE5D5SjurfVHkVQ_2ovDDUhhR-Ln_VqLo19R9hML_VvodwgcAFa41ZQ"
     },
     {
       "query": "warren buffett stock market warning strategy",
@@ -130,17 +128,17 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "2Kmc_nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRmVjhnmLUvMWhQZD-X3GSsh8pUPhh1Hka_o2QfgAkpIdIw"
+      "news_token": "z-SUfnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmVjhnmLUvMWhQYDAMryC9c"
     },
     {
-      "query": "live nation",
-      "search_volume": 5000,
+      "query": "cathie wood tesla valuation 2031",
+      "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "entertainment",
+        "autos_and_vehicles",
         "business_and_finance"
       ],
-      "news_token": "I09fI3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWG5B-LUvMWhQZD-Eq2a98j85UD_GxR5P9PewzhAwDgGx7d"
+      "news_token": "lo30Mnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWIMKZFqXmLQoMByqsLtg"
     },
     {
       "query": "lrcx stock",
@@ -149,16 +147,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "-mkwL3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqXTuT8WpeYtCg2G8JV7uRhQ-BMcLCF8ABslF2E"
-    },
-    {
-      "query": "michael bradley dow",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "LXkJnnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG5YCzLotS8xaFBkP5YdOVUPhmD88h85UWL9iCIu-6PQdFvr2XD0Ve4501Cj9rswcKP3yhGDJf8dK5GhR5B-enKHzHKdko_LwfoSj2X32yFEWeV7kdma9wW8EdmS_75cR3CB8Anhppxw"
+      "news_token": "GrtQAHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqXTuT8WpeYtCg2G8JWrzYyR-Uo7q31R5Cf2tqHwe7kYIHwA3oYi7A"
     },
     {
       "query": "southwest airlines q3 2026 earnings",
@@ -168,6 +157,16 @@
         "business_and_finance"
       ],
       "news_token": "CQduMHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUO55eLUvMWhQYDANIUDLo"
+    },
+    {
+      "query": "livenation",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "entertainment",
+        "business_and_finance"
+      ],
+      "news_token": "xGcq-3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuWG5B-LUvMWhQZD-Eq2a99D-ADQmxL_"
     },
     {
       "query": "downdetector",
@@ -203,46 +202,16 @@
       "categories": [
         "other"
       ],
-      "news_token": "sBaehnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpktVw4tSs1bFBoM4Su93nIdma9cGbQOhe8t_xOFz97LDuEDADLVJE0"
-    },
-    {
-      "query": "pokémon trading card game",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "VRWvy3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmXzhYsWpeYtCg2G8judVJH5Svd2P0aRL6kyReFruz1HUf_P7Q8Kf_NnGxT1ZcEo6hUXeHyD8AHOejxC"
-    },
-    {
-      "query": "federal emergency management agency",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "politics",
-        "law_and_government"
-      ],
-      "news_token": "abevpXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRmWOaYWLUvMWhQZD-coH1yLzla4VXkXh_xRgRlGfE_EJRf5H1ncU-dhvR5H5sl810iB8AD-_Nlk"
-    },
-    {
-      "query": "david muir",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "Tfg7VHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiWjp0qLUvMWhQZD-MqWSjNQ-JUzlkL4AAFjF3M"
+      "news_token": "v0sG5Hica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpktVw4tSs1bFBoM4Su93nIdma_sLf8Thc_eyw7hAwANmR6O"
     },
     {
       "query": "truck driver",
       "search_volume": 200,
       "increase": 75,
       "categories": [
-        "business_and_finance",
-        "entertainment"
+        "business_and_finance"
       ],
-      "news_token": "nqJwO3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuX-xG-LUvMWhQZD-bInZqLw-1Z3ofA75xWi8P3F5FH4LQ-aUPjmCxeh8LsP70Xhh7k0IPOVpmsGQ_gApVhAVg"
+      "news_token": "dBCCLHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqXpmsGLUvMWhQZD-Mr9id-Q-Urvk16jyPuLyaPwO-cVovD7Vneh8GVPzEThtzxoQuGbL1yEwg9zaYDwAYBsQIY"
     },
     {
       "query": "loans",
@@ -278,7 +247,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "R8fAyXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqXU3rZFqXmLQoMhfGX2XnYUfsPReGS-0ust11HkW99ehPABwA8kjA"
+      "news_token": "NNcAPnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqXU3rZFqXmLQoOh_NdbriPzlQsO_Ufhs_eyo_Abjsaj8FvfXoTwAYcwKwM"
     },
     {
       "query": "target",
@@ -297,7 +266,7 @@
         "travel_and_transportation",
         "business_and_finance"
       ],
-      "news_token": "S-L653ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXWI5mLUvMWhQZD-ey7DCF8AMaxEfA"
+      "news_token": "YIGHDXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXWI5mLUvMWhQYDANKBDLg"
     },
     {
       "query": "vanguard total international stock etf",
@@ -306,35 +275,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "9U9eU3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXc962LUvMWhQYDANPFDOc"
-    },
-    {
-      "query": "redlynx studio shut down by ubisoft",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "games"
-      ],
-      "news_token": "7Se3QHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqXTW20WpeYtCg0GANM6DME"
-    },
-    {
-      "query": "stockton rush",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "other"
-      ],
-      "news_token": "ALVKHnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXUqv5FqXmLQoMB0BsMdA"
-    },
-    {
-      "query": "cathie wood tesla valuation 2031",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "autos_and_vehicles",
-        "business_and_finance"
-      ],
-      "news_token": "lo30Mnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWIMKZFqXmLQoMByqsLtg"
+      "news_token": "MjgRMnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXc962LUvMWhQZD-WEGFyB8AM21EoM"
     },
     {
       "query": "tsla stock price",
@@ -352,7 +293,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "KMbCqnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuU6tReLUvMWhQZD-RmbeFH4TYdLUfilc46i8Ft-rkDh-6oXQ_gASQ8psw"
+      "news_token": "lOVG7nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuU6tReLUvMWhQZD-fGFQij8jE28KPymw6UofLnmSBR-y88VKHxf9WIIHwC1ai3_"
     },
     {
       "query": "abbott nutrition",
@@ -398,15 +339,6 @@
         "business_and_finance"
       ],
       "news_token": "izLZU3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqXbvx4tSs1bFBoM5b-7xI3Cvz6xBsIHAFRRGfU"
-    },
-    {
-      "query": "larry ellison borrowing strategy wealth",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "2a7EiXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXiyAeLUvMWhQYDANHIDLI"
     },
     {
       "query": "philippine airlines",
