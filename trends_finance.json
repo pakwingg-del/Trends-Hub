@@ -10,38 +10,21 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 39,
+      "keywords_count": 43,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-21 21:30:57"
+      "last_updated_hkt": "2026-10-22 00:30:57"
     }
   },
   "trending_seeds": [
-    {
-      "query": "credit",
-      "search_volume": 200000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "zpR3-nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuWWXxMXpeYtCg2G8jucniPzlZ7t-4Qi38e1CoXfy3kDhd8yLRRV_v8eVP6SBSh89l52FH73o5UQPgBnj0K6"
-    },
-    {
-      "query": "medicare advantage",
-      "search_volume": 50000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "nnPQi3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqUrT3MWpeYtCg2G8JVbHsxG4ee_W4jMV5rm8gmFb1xjiaK-S44VRX7L6q8ofNdrhsh8jnnyZhA-ADh3Oyw"
-    },
     {
       "query": "student loan",
       "search_volume": 20000,
       "increase": 1000,
       "categories": [
+        "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "a3-HwHica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG5cDXWYtS8xaFBkP5xZEPUPglhl0ofGcLTmS-UlxTOgr_oAYjCn9m-HQU_Tm261Hks6RjUPgfL6ih8OfHfEfRL--rhCJ__vxHVPdX_EHhZzMaofArNlug8Isu_0Ix7wX_JxT-nQ8JKOpD5Zei8JNvGqCof9fdgCLPfvsVCt-tuRHCBwD5_5FO"
+      "news_token": "Y8Xhs3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG5d6q1YtS8xaFBkP5ga-zkPlKN5MjUORrTxeg8G0r3qGon8WLKi_vq4TCr9hsgaL-u9h7FPneJ1dR5N91NyDz5SYs3Y4i_4L_E4r8oWRU_efPf0SVr-yH8AFUPmcJ"
     },
     {
       "query": "kfc",
@@ -51,7 +34,7 @@
         "food_and_drink",
         "business_and_finance"
       ],
-      "news_token": "HwvJq3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRqVvq_0WpeYtCg2G8JVDnNej8DudxJD5SvO_J6PI87lOQ-Hnxy9D4fOXHEDmy52p4IDwAfsGM-Q"
+      "news_token": "92HzOnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqVvq_0WpeYtCg2G8JU7ncSQ-UrzvyejyPO5TkPh58cvQ-HbZy1E5sudqeCA8AHsoC5f"
     },
     {
       "query": "smartphone",
@@ -75,32 +58,13 @@
       "news_token": "QjCqOXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRmVXieBFqXmLQoMhfKUks05kvnKhpxOEDwDq8RZe"
     },
     {
-      "query": "ibm stock",
-      "search_volume": 5000,
+      "query": "meta stock",
+      "search_volume": 50000,
       "increase": 600,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "mPVLnnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRqUn7tyLUvMWhQZD-IoTH99A5itntT1H4be-vYjCL_q2B5kvX2Ojh8xX-rtWAJkvtzUhGkU_mziq-WxsrSj6d-lD-QBnrUaH"
-    },
-    {
-      "query": "meta stock",
-      "search_volume": 20000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "IcKrDHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRqWd1b6LUvMWhQZD-Mr8tnwo_F5PZhQ-ey87qnzKZmS-0qWPfijy1WbGKHyZ0wko6o9e_Ipm3mMU-S_8y1H4mrqPUPjfSr-j8Lfs6UHmy21NMILwAbBjXOM"
-    },
-    {
-      "query": "kayem bacon and deli recall",
-      "search_volume": 20000,
-      "increase": 400,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "DjlH4Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmXN85cXpeYtCg0GANKDDNE"
+      "news_token": "xk3XVnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRqWd1b6LUvMWhQZD-UcvfkXmK_emPEaR377hKYo8ey87ivylj34o8tVmxih8fls-FL7M6QQUfqTPEmS-3NYEIwgfACyPRaY"
     },
     {
       "query": "arbys loaded sandwiches",
@@ -113,24 +77,23 @@
       "news_token": "JDek9Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqVXLDmLUvMWhQZD-MoB0u0QPgC-rBGX"
     },
     {
-      "query": "tsla stock",
+      "query": "ibm stock",
       "search_volume": 10000,
+      "increase": 400,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "PhQxPnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRqUn7tyLUvMWhQZD-MrVZsYo_Ky258h8-RobPWS-3NaEaGS-0t-1Aij62cSfo_LZWlH0ZzDOQtG_Sx8qDwCZvT1y"
+    },
+    {
+      "query": "tsla stock",
+      "search_volume": 20000,
       "increase": 300,
       "categories": [
         "autos_and_vehicles",
         "business_and_finance"
       ],
-      "news_token": "l5Ykw3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGpZZOkUWpeYtCg6H8JLNOZL5yr74QCt-j6gqqfFUjCp939l5kvuK7HBYUeX5bPhR-1N8_KHz2XnZU81M2o_CrzYxR3Pv8uj8Kf2e1Lwo_tbcNRX9lrQWEDwCIYGBa"
-    },
-    {
-      "query": "cost of living adjustment timing problems",
-      "search_volume": 10000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance",
-        "law_and_government"
-      ],
-      "news_token": "B1OAnXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqW6NvFFqXmLQoOh_Pt3WyF8AMOsEqY"
+      "news_token": "QIhqqXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRqWWTpFFqXmLQoOh_CSzTmS-cueffBQ-7-y9yHzFdzksKPL8tnwo_KzN3Sj8CQ6WKPY9v-6PIs_ey44i3xu-EoWf2tuGah6HFAq_2swYwgcAJ0tT1A"
     },
     {
       "query": "kroger",
@@ -139,7 +102,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "-AeDinica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuXco3MWpeYtCg2G8ssqGFH48tL7UfidYY9Q-KreB1DlL_1A4XcEa6LwiwQ_IvMVv9xrQZF3WjgZma-0-OhJCB8AhD9HLg"
+      "news_token": "K-F5pHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRuXco3MWpeYtCg2G8ssqGFH4nWGPUPjy0vtR5S_9QOYr3TGWRJFX9T6Awi8S_IjCd1o4GUX_4qMnkfmKX-61IPPllslqQvgAO1pMfg"
     },
     {
       "query": "dólar estadounidense",
@@ -151,22 +114,23 @@
       "news_token": "RBngCHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWqin-LUosXhQZD-EqXMiKQ-Yo_PKejyP_3K4bwAe9tHwI"
     },
     {
-      "query": "warren buffett stock market warning strategy",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "z-SUfnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmVjhnmLUvMWhQYDAMryC9c"
-    },
-    {
-      "query": "real estate",
+      "query": "multa",
       "search_volume": 1000,
       "increase": 200,
       "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "5FwpC3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuW06bKLCkoWhQZD-Eq3FPlR-FvlpFH4i8rYkfnKWdZOyHzFV-EnUNSXLY5AUd_zcRkKX7bkOQo_beUcFH5rEtR9APKCRVM"
+    },
+    {
+      "query": "warren buffett stock market warning strategy",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
         "business_and_finance"
       ],
-      "news_token": "SNHKdHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG5ca3zxal5i0KDYbyq14zo_BT2mVQ-MX_q1D4zpLrUPh6L7JR-BVMU1H4IWsqkPlKt-bJo8gnz-9D4TeGFqHyS8xR-Oxm31D4SU_iUMzfHoCqv0FqKwrfJZcTRf33fTchfABa_W44"
+      "news_token": "2Kmc_nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRmVjhnmLUvMWhQZD-X3GSsh8pUPhh1Hka_o2QfgAkpIdIw"
     },
     {
       "query": "live nation",
@@ -176,7 +140,7 @@
         "entertainment",
         "business_and_finance"
       ],
-      "news_token": "OOTR8Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuWG5B-LUvMWhQZD-Eq2a98j85W1_G6j8PPOW6PwA_xsUfT_n_YYmS93vOIlivyVrw8gfAB0JDeL"
+      "news_token": "I09fI3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWG5B-LUvMWhQZD-Eq2a98j85UD_GxR5P9PewzhAwDgGx7d"
     },
     {
       "query": "lrcx stock",
@@ -185,16 +149,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "TJPiL3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRqXTuT8WpeYtCg2G8JWrzYxR-L1cDKj8lM0QPgDA4h0m"
-    },
-    {
-      "query": "scott kirby wealth tax comments",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "QIqJvXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmXDPP5FqXmLQoMBymcLtA"
+      "news_token": "-mkwL3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqXTuT8WpeYtCg2G8JV7uRhQ-BMcLCF8ABslF2E"
     },
     {
       "query": "michael bradley dow",
@@ -206,14 +161,31 @@
       "news_token": "LXkJnnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG5YCzLotS8xaFBkP5YdOVUPhmD88h85UWL9iCIu-6PQdFvr2XD0Ve4501Cj9rswcKP3yhGDJf8dK5GhR5B-enKHzHKdko_LwfoSj2X32yFEWeV7kdma9wW8EdmS_75cR3CB8Anhppxw"
     },
     {
+      "query": "southwest airlines q3 2026 earnings",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "CQduMHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUO55eLUvMWhQYDANIUDLo"
+    },
+    {
       "query": "downdetector",
       "search_volume": 2000,
       "increase": 75,
       "categories": [
-        "technology",
-        "entertainment"
+        "other"
       ],
-      "news_token": "XmMkbnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqVb8v2LUvMWhQZD-MrxhUIQPgDCzRG1"
+      "news_token": "QMmwInica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuX4QqFFqXmLQoOh_KQ5uRA-ALdJEZk"
+    },
+    {
+      "query": "artificial intelligence",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "GyyCeHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuW-qS8XpeYtCg2G8fNDUfgZ81hR-L1Tr6DwUw_uRuEXnD-Ewm-aVozCZ1GuR-YrzV5WBOEDAO44O1o"
     },
     {
       "query": "txn stock",
@@ -225,13 +197,22 @@
       "news_token": "8bYNzHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVsJ9ZFqXmLQoMByssLuA"
     },
     {
+      "query": "nasdaq composite",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "sBaehnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpktVw4tSs1bFBoM4Su93nIdma9cGbQOhe8t_xOFz97LDuEDADLVJE0"
+    },
+    {
       "query": "pokémon trading card game",
       "search_volume": 500,
       "increase": 75,
       "categories": [
         "other"
       ],
-      "news_token": "Ln45Z3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmXzhYsWpeYtCg2G8judVFH4JVWmyHylf25_UOS13Z6jyP8JNEDh39v9GEV9WTCKeuVik7vIfMUFHt8gfAB4FEGn"
+      "news_token": "VRWvy3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmXzhYsWpeYtCg2G8judVJH5Svd2P0aRL6kyReFruz1HUf_P7Q8Kf_NnGxT1ZcEo6hUXeHyD8AHOejxC"
     },
     {
       "query": "federal emergency management agency",
@@ -244,13 +225,33 @@
       "news_token": "abevpXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRmWOaYWLUvMWhQZD-coH1yLzla4VXkXh_xRgRlGfE_EJRf5H1ncU-dhvR5H5sl810iB8AD-_Nlk"
     },
     {
-      "query": "sara bejlek",
+      "query": "david muir",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "Tfg7VHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiWjp0qLUvMWhQZD-MqWSjNQ-JUzlkL4AAFjF3M"
+    },
+    {
+      "query": "truck driver",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "entertainment"
+      ],
+      "news_token": "nqJwO3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuX-xG-LUvMWhQZD-bInZqLw-1Z3ofA75xWi8P3F5FH4LQ-aUPjmCxeh8LsP70Xhh7k0IPOVpmsGQ_gApVhAVg"
+    },
+    {
+      "query": "loans",
       "search_volume": 200,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "P_mTM3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXcpOWLUvMWhQZD-cY6TyF8AMLDEgY"
+      "news_token": "a3-HwHica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG5cDXWYtS8xaFBkP5xZEPUPglhl0ofGcLTmS-UlxTOgr_oAYjCn9m-HQU_Tm261Hks6RjUPgfL6ih8OfHfEfRL--rhCJ__vxHVPdX_EHhZzMaofArNlug8Isu_0Ix7wX_JxT-nQ8JKOpD5Zei8JNvGqCof9fdgCLPfvsVCt-tuRHCBwD5_5FO"
     },
     {
       "query": "mortgage",
@@ -268,26 +269,35 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "kM9qDHica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGpcnnPyxKzVsUGgzhKxddPofCr5zRj8K3yxdC4fc840TmK-1SNkPhHzrahqK-k80KRf7eiR8o_I9r16Pwd5xLQ9GvYpKKat7BCSj8LnlWFP189t4o8k6NnSh8KeEGCB8A-atogA"
+      "news_token": "qpcMdnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRqXJ5z8sSs1bFBoM4SsXXT6HzFfapWyGIt-7fhMKv-cZJwq_a80SFH7ljH4U8-6d-IHC_7h2PQp_x7k0VPO3OaLIHzrahsLns_dGUe_U2AnhAwCl-Vsz"
+    },
+    {
+      "query": "dow jones industrial average",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "R8fAyXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqXU3rZFqXmLQoMhfGX2XnYUfsPReGS-0ust11HkW99ehPABwA8kjA"
     },
     {
       "query": "target",
       "search_volume": 2000,
       "increase": 50,
       "categories": [
-        "shopping",
         "business_and_finance"
       ],
-      "news_token": "C4Ncw3ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGZaMa30WpeYtCg6F8m9afKPyCu7NQ-LkzhJD5St_3rUDhp5XLoahXfuyMIl82JRBF3uuHD4r8w3fNKPINR_-h8JPsn6PwDec_RuG7Spah8NtNJ6OYf-bfSRT5TmEGFPmz19Yj8xWd76VA-ABjHXZs"
+      "news_token": "ZMzVmnica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZG5Yaj_xal5i0KDYbyjWp8UfjsvezIfKUz_06iyBfNnIsiH7V6P4p8WmEdCr_htwKK-rv5-SjyXj98UPiFVg4o_CT75yh8V8kyFL5JLyuK-Qvd9VHkDec_RnXf3PMo6r_vW4HMV3S-l4IiX7oxGcIHAGSAeqE"
     },
     {
-      "query": "tesla earnings call",
+      "query": "air india ultra long haul route",
       "search_volume": 1000,
       "increase": 50,
       "categories": [
+        "travel_and_transportation",
         "business_and_finance"
       ],
-      "news_token": "GOuiaXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRqUks85FqXmLQoOh_JZOEWS-ckQYEwqfvZcdwgcAiSUbYw"
+      "news_token": "S-L653ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXWI5mLUvMWhQZD-ey7DCF8AMaxEfA"
     },
     {
       "query": "vanguard total international stock etf",
@@ -296,7 +306,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "MjgRMnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXc962LUvMWhQZD-WEGFyB8AM21EoM"
+      "news_token": "9U9eU3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXc962LUvMWhQYDANPFDOc"
     },
     {
       "query": "redlynx studio shut down by ubisoft",
@@ -317,13 +327,32 @@
       "news_token": "ALVKHnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXUqv5FqXmLQoMB0BsMdA"
     },
     {
+      "query": "cathie wood tesla valuation 2031",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "autos_and_vehicles",
+        "business_and_finance"
+      ],
+      "news_token": "lo30Mnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWIMKZFqXmLQoMByqsLtg"
+    },
+    {
+      "query": "tsla stock price",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "wr_TdXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRqUks85FqXmLQoMhfOWIMCZkvlJLpwiKPHsvO4QPAIIlG2M"
+    },
+    {
       "query": "googl stock",
       "search_volume": 500,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "wmlbCnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuU6tReLUvMWhQZD-RmbeFH4TYdLUfgBd41Q-L7qxSj80jlHUfgVfJwQPgDVwS3C"
+      "news_token": "KMbCqnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuU6tReLUvMWhQZD-RmbeFH4TYdLUfilc46i8Ft-rkDh-6oXQ_gASQ8psw"
     },
     {
       "query": "abbott nutrition",
@@ -333,6 +362,15 @@
         "business_and_finance"
       ],
       "news_token": "Vsu3oXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXGBxmLUvMWhQYDANM2DM8"
+    },
+    {
+      "query": "earnings calendar",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "-fNLb3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmXX9leLUvMWhQYDANHgDLw"
     },
     {
       "query": "t stock",
@@ -350,7 +388,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "1ig-Wnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRmWefXmLqjIWhQZD-Ql7NiHzlc4KzUXh627thvAByIgeAQ"
+      "news_token": "gQl__Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRmWefXmLqjIWhQZD-b3pM1D4CXs2IfOVzgrNReHrbu2G8AHVtyPi"
     },
     {
       "query": "wix",
@@ -379,7 +417,7 @@
         "business_and_finance",
         "shopping"
       ],
-      "news_token": "r_uMMHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuVGpxuLUvMWhQZD-fms25D5SvGfD0H4ABhlGGo"
+      "news_token": "aeqqrnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuVGpxuLUvMWhQZD-TWeJ5D5SvGfD0H4ACGoGM0"
     }
   ]
 }
