@@ -10,153 +10,88 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 38,
+      "keywords_count": 26,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-22 21:30:58"
+      "last_updated_hkt": "2026-10-23 21:30:58"
     }
   },
   "trending_seeds": [
     {
-      "query": "lainey wilson",
+      "query": "netflix mosquito bowl movie reviews",
       "search_volume": 5000,
-      "increase": 1000,
+      "increase": 800,
       "categories": [
         "entertainment"
       ],
-      "news_token": "K_sx8Hica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuXQze8WpeYtCg2G8JVesXCj8O-lP0LmyzfwKkD4ANUwHZU"
+      "news_token": "QF39eXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuXZcW8WpeYtCg2G8gO91iHzlb7I7kHhu9_ZCOEDAN2GHqU"
     },
     {
-      "query": "craig melvin",
-      "search_volume": 5000,
-      "increase": 900,
+      "query": "faith hedgepeth",
+      "search_volume": 2000,
+      "increase": 300,
       "categories": [
-        "entertainment"
+        "law_and_government"
       ],
-      "news_token": "8wOE_Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuWFjlmLUvMWhQZD-QvOz4bwAcYrEqI"
+      "news_token": "e7pv3nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUJU8MWpRYvCg1G5ucB-QDGtxJH"
     },
     {
-      "query": "mobile",
-      "search_volume": 20000,
-      "increase": 600,
+      "query": "power outage near me",
+      "search_volume": 200,
+      "increase": 300,
+      "categories": [
+        "other"
+      ],
+      "news_token": "ZxJScnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuV2M_dFqXmLQoOhfHnD_RA-ALb3EV8"
+    },
+    {
+      "query": "iphone duo internal display break",
+      "search_volume": 2000,
+      "increase": 200,
       "categories": [
         "technology",
-        "games"
+        "shopping"
       ],
-      "news_token": "Hpe8V3ica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZG5QWr7Bal5i0KDYbyWzTLUfi9-vtQ-DOjpyDzlbyffUCR76tQQ-EXnD-Ewp90bgkKf-LaXhR-Z8N3VPdoF6DwCz2TUfjzNdhQ-G1mqO5deFALTX0GCr_hdwwKv7i5EoXfz_cRma_o4B2N6t7G-Sj8DuYWCB8AwrGFiA"
+      "news_token": "E62Blnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUrhz8uSs1bFBoMANjuDY0"
     },
     {
-      "query": "claude duet app",
+      "query": "ray",
       "search_volume": 2000,
-      "increase": 400,
+      "increase": 200,
       "categories": [
         "technology"
       ],
-      "news_token": "HgeFTHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWetpuLUvMWhQYDANPgDPE"
+      "news_token": "Ba_jN3ica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG5fkaXotS8xaFBkP5x_ako_Cnci5C4R8SaUbmKy1-3YjC_zk3FNW8y7qo_ORiVP7uUyj8o-05KPzD4Voo_J4P11D4K5Z4ovBXysej8JeXmqDwfTbXoNo_RwaFH5PXg8Kvs3RF4R80u4vCD1Geh8LfN1cUJTw-fVBG4T9s_g3hAwCzLZQ0"
     },
     {
-      "query": "armstrong outage",
-      "search_volume": 10000,
-      "increase": 300,
+      "query": "fortinet palo alto firewall breach",
+      "search_volume": 2000,
+      "increase": 100,
       "categories": [
-        "other"
+        "technology"
       ],
-      "news_token": "KBZzKnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUJorqLUvMWhQYDAMvIC9g"
+      "news_token": "YrgQAHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuVdDacWpeYtCg2G8gvOH0LmK9WJXYHwATfeGP4"
     },
     {
-      "query": "julie andrews public appearance",
-      "search_volume": 5000,
-      "increase": 300,
+      "query": "billie eilish auburn bob haircut",
+      "search_volume": 2000,
+      "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "lHJRdXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVlRy8vSs1bFBoMANaYDUQ"
+      "news_token": "ktQmKnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXFB10XpeYtCg0GANJ7DK8"
     },
     {
-      "query": "openai impact on mathematics field",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "science"
-      ],
-      "news_token": "WK6PdHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVesUOLUvMWhQYDAM_IDGs"
-    },
-    {
-      "query": "walmart fruit cocktail lead recall",
+      "query": "taika waititi",
       "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "food_and_drink"
-      ],
-      "news_token": "WbDn43ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXuR4WLUvMWhQYDANPfDOQ"
-    },
-    {
-      "query": "playstation plus",
-      "search_volume": 10000,
-      "increase": 200,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "e7t8Xnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqWthjsWpeYtCg2G8JUX28xF5ivlV8mhyAecCUPhzz-wCcIHAMniI8A"
-    },
-    {
-      "query": "russian satellite approaches us spacecraft",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Vq-jgXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUl_iGLUvMWhQYDAM9TDEw"
-    },
-    {
-      "query": "emma laird",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "orHJsnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWVNk8XpeYtCg0GANLpDNA"
-    },
-    {
-      "query": "php issue",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "6joqXnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWC84cWpeYtCg2G8JV-XMxB5it39AYg8-WzFXdD-AD7Mh61"
-    },
-    {
-      "query": "strait of hormuz oil tankers",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "HX88MXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRuXkjoOLUvMWhQZD-c0NT1H4MlkMKHy5dxLIfNkdfVOR-QpBCz6j8KNb1iPz5RNnnEUxr_9ONjJf6eZpSxT55cqTUPmvbqHwU9pDIXwAbTRTSQ"
-    },
-    {
-      "query": "cathie wood tesla valuation 2031",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "autos_and_vehicles",
-        "business_and_finance"
-      ],
-      "news_token": "lo30Mnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWIMKZFqXmLQoMByqsLtg"
-    },
-    {
-      "query": "tell me about priscilla presley's recent appearance in germany with her son navarone garcia",
-      "search_volume": 5000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "b7Mn4Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWi3f8XpeYtCg0GANWoDTI"
+      "news_token": "R7Z_z3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiWXGPtFqXmLQoMhfGXjHyoo_CPLRCF8APtqFz4"
     },
     {
       "query": "el salvador haiti",
-      "search_volume": 5000,
+      "search_volume": 500,
       "increase": 100,
       "categories": [
         "law_and_government"
@@ -164,205 +99,164 @@
       "news_token": "0l1B1Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmW7A7GLUosXhQZD-TaFTyB8AMNAEkI"
     },
     {
-      "query": "nvidia rtx",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "VzcXCXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRmW_ysOLUvMWhQZD-fpblqLwY8qmovD5mU6h8OfNfIXCX2H9DoUvU1qHyl_Sh8Jf8uQ2Cn-RMS8K3zxYHcIHAJiqRVs"
-    },
-    {
-      "query": "sonicfox nexcon ai poster cancellation",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "games",
-        "entertainment"
-      ],
-      "news_token": "O0u2BXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUezx-LUvMWhQYDANLRDNM"
-    },
-    {
-      "query": "chic short haircuts silver hair",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "beauty_and_fashion"
-      ],
-      "news_token": "ZiOxfXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmWpFz8WpeYtCg0GANPHDQA"
-    },
-    {
-      "query": "attack on dammam airport",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "M-xoTXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuV-1X-LUvMWhQZD-XM1gpD5Sl_6zyPzFZR4kyF8AM2CHYE"
-    },
-    {
-      "query": "airbnb cleaning",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "a6T07nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXml6qLUvMWhQYDANG7DJc"
-    },
-    {
-      "query": "david arai found by dog",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "JKMOwXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUoJ5VFqXmLQoMBywsLxg"
-    },
-    {
-      "query": "southwest airlines q3 2026 earnings",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "CQduMHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUO55eLUvMWhQYDANIUDLo"
-    },
-    {
-      "query": "air canada flights",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "1wGqg3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuUkncmLUvMWhQZD-ErxHvrIfOWF15agyNdXdKHIC3RnQfgApg4itA"
-    },
-    {
-      "query": "taika waititi",
+      "query": "caitlyn jenner",
       "search_volume": 500,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "EFVNd3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiWXGPtFqXmLQoMhfGWRxXkofOMfKhA-APTxFuQ"
+      "news_token": "6T6Bunica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuW5_AWLUvMWhQYDAM3iDCI"
     },
     {
-      "query": "kimberly williams-paisley",
-      "search_volume": 500,
+      "query": "microsoft xbox cloud pricing update",
+      "search_volume": 200,
       "increase": 100,
       "categories": [
-        "entertainment"
-      ],
-      "news_token": "Uo7UG3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmUFoz-LUvMWhQZD-EqvWLghfAC9kBGS"
-    },
-    {
-      "query": "tv",
-      "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "trwteHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuUVpwsWpeYtCg2G8lev34XCD16SiSovWo_Cj4-Zjypv9wGFz1phhcLv9YxA4S9jbUfhF_cdh_ABofdAJA"
-    },
-    {
-      "query": "ohio chemical leak",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "YNSORnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuWyGNlFqXmLQoMhfCXXN7rIfOXw30tR-EvmnUDhL-IRQ-Hn-05AMW_TUy0U-cp9s1D4vV8skfmKh6seQ_gAUj9BQg"
-    },
-    {
-      "query": "what happened to cruz on chicago fire",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "WhU2bHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVuTZtFqXmLQoMBzKQL9g"
-    },
-    {
-      "query": "inteligencia artificial",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "o59htHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG5TJD5kWpxYtCg6F8rvPpKPxJiyei8OcdVUfmK10UvYQi7y39BEX-Y9kdFPkm_0ko_MbWbBS-kp0YCn-l5VMU8257T0GRD_u_FUXecPptFHn1V6jqVyazoai_-d0dRX550RsIHwBV-HAX"
-    },
-    {
-      "query": "dell alienware ryzen 9 locked cpu",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "x08yyHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXZk50WpeYtCg0GANCuDHY"
-    },
-    {
-      "query": "star wars galactic racer update",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
+        "technology",
         "games"
       ],
-      "news_token": "faxMg3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUV-1MXpeYtCg0GANN4DNI"
+      "news_token": "tyMFWnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmWmVQaLUvMWhQYDAMuHC-I"
     },
     {
-      "query": "southern california healthcare fraud raids",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "T_WoT3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXyu9qLUvMWhQYDANEZDIU"
-    },
-    {
-      "query": "megyn kelly christina applegate",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "entertainment",
-        "health"
-      ],
-      "news_token": "XxksVXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuXU9XsWpeYtCg2G8kML7yPzlQ7MmAXhAwAraxj4"
-    },
-    {
-      "query": "ios 27.2",
+      "query": "flapping airplanes",
       "search_volume": 200,
-      "increase": 50,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "cTuVV3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXOdd8WpeYtCg0GANXQDTM"
+    },
+    {
+      "query": "new iphone",
+      "search_volume": 10000,
+      "increase": 75,
       "categories": [
         "technology"
       ],
-      "news_token": "eVcYfHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRqUHq58vSs1bFBoM4St3OC9D4ectUUfhV3lehPAB81Mehw"
+      "news_token": "6U-Yf3ica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGJYHpixZlJS4KDYbwlZ30GlD4LUWnUfhZbYnIfKUrhz-iyCvMiUPmy_649AxF_SyXpyh8kP2peUj6CztR-UDzkPkg-5H5guG_Ufh5S9SR-WD7kPhg9yCrXz75JQp_j8EpFP0g_yHL8769j8LnLj-HzJe7ZJQC4QMAJhaI6A"
     },
     {
-      "query": "amd ryzen 7 5800x3d",
-      "search_volume": 200,
-      "increase": 50,
+      "query": "bambu h3c",
+      "search_volume": 2000,
+      "increase": 75,
       "categories": [
+        "business_and_finance",
         "technology"
       ],
-      "news_token": "enNzonica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuU53n6LUvMWhQYDAM7LDDs"
+      "news_token": "SwrjG3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUVm7YtSs1bFBoMANVHDRY"
     },
     {
-      "query": "cathie wood bargain stocks bought",
+      "query": "ipad mini",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "technology",
+        "science"
+      ],
+      "news_token": "MJShd3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRmXtd08WpeYtCg2G8v0P8iLzldh6mpH5sj8uPUPmK9a3i0L4AOcJJA8"
+    },
+    {
+      "query": "appellate court",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "law_and_government",
+        "hobbies_and_leisure"
+      ],
+      "news_token": "bpw9Qnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuUNuXcWpeYtCg2G8udtWoDMV_qwYgqK_IE9s1H4q0UFUPiCnroo_N3FOij8tQXtKPwVi91R-MsnC0H4AAKMQNo"
+    },
+    {
+      "query": "kalorik maxx air fryer burn risk",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "JUtcDHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqV3y6IWpeYtCg0GANTPDPM"
+    },
+    {
+      "query": "openai",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "NV2YCnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuWjzHsXpeYtCg2G8JX2sM5G5itLn21E4TsobUJRnyDhgyKf_JwRhb9VswGFvzTwOQp_XSaqekuX0xA-ANh0PoI"
+    },
+    {
+      "query": "pure xbox",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "kijLbnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuV8X7ZFqXmLQoOh_EOLrFH4R1yEUfj7Wtah8JdFu6Hwm66lo_C3v5FD4e9fJ4rC7zxoC-EDAE4WOnI"
+    },
+    {
+      "query": "parents concerns artificial intelligence classrooms",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "other"
+      ],
+      "news_token": "0rb043ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuW82JuLUvMWhQZD-UdfzkLhtysvQuELeW1A4S_mvY7C72SLQ-H3S5eh8Nfa3IXwATBqNI4"
+    },
+    {
+      "query": "premios billboard 2026",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "R_50unica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqVvPT8WpRYvCg2G8JUD9BpQ-MUKaRA-ADAtGBE"
+    },
+    {
+      "query": "airbnb new rules",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "travel_and_transportation"
+      ],
+      "news_token": "kJkPCnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXml6qLUvMWhQZD-ZterkDhawiuQ-HvXaKLwu_j0kbh5_lvQ-GvTONG4a8xdkLmy2V7z0HmK5qKX4HwATMRPqE"
+    },
+    {
+      "query": "fixer upper chip bought a mansion",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "zXh54Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXF6l6LUvMWhQYDAM3ODBo"
+    },
+    {
+      "query": "laika",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "ixttxXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuXCH76LUvMWhQZD-IqneK4h8-WUZx1E5ivnnzoF4QMA3BMetA"
+    },
+    {
+      "query": "universal studios orlando",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "travel_and_transportation",
+        "entertainment"
+      ],
+      "news_token": "qzXtrHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuVFznKLUvMWhQZD-ctf5SDzld7tzUCRbw-WQuF3qpRC-ADS7yNG"
+    },
+    {
+      "query": "prince william earthshot prize appearance",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "business_and_finance"
+        "entertainment"
       ],
-      "news_token": "oDXU6nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXVF_UXpeYtCg2G8OVbLQogfADIWBIg"
-    },
-    {
-      "query": "faith hedgepeth",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "qTkhwXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUJU8MWpeYtCg2G8JWkdzRC-ADEcRIa"
+      "news_token": "p_Zw9nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXVR2wXpeYtCg0GANKjDLI"
     }
   ]
 }
