@@ -10,21 +10,39 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 28,
+      "keywords_count": 30,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-23 21:30:57"
+      "last_updated_hkt": "2026-10-24 00:30:54"
     }
   },
   "trending_seeds": [
     {
       "query": "education department drops pslf challenge",
       "search_volume": 20000,
-      "increase": 900,
+      "increase": 1000,
       "categories": [
         "law_and_government",
         "business_and_finance"
       ],
       "news_token": "qqR2GHica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZG5d6q1YtS8xaFBkP5-yX2o_B3_n-Hwq_YbIHCD3ydhcJf76SMat669Sj8qtfMKPyY34dR-H73MlD4-1oCUPh70i1R-JUJH1H4Ry6g2rf8ZhKqe-a6oPDXvD-JzFeas0wV1f63b1HNP6CB6t87Pij6v8Y-g_ABGESM5g"
+    },
+    {
+      "query": "donald trump mortgage executive order",
+      "search_volume": 10000,
+      "increase": 800,
+      "categories": [
+        "other"
+      ],
+      "news_token": "evfIP3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmW_exmLUvMWhQYDANFbDJo"
+    },
+    {
+      "query": "humana unitedhealthcare medicare advantage cancellations",
+      "search_volume": 5000,
+      "increase": 500,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "8WR-zXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqUrT3MWpeYtCg2G8qedvQPhAwDb7ROu"
     },
     {
       "query": "dólar estadounidense",
@@ -36,22 +54,31 @@
       "news_token": "3n0b7Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuWqin-LUosXhQZD-f2n16PwXacyQfgAMqsYdg"
     },
     {
+      "query": "gas prices",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "politics"
+      ],
+      "news_token": "8g5EvHica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG5UnL_y9KzVsUGgzlT9_2HYU_a8E1FP7-N0dQ-AXO8ij8DpF9KHzBNbNR-CvcUPUnOP5A5iudTM1BkT8QswCFX7RuOQq_b7UsCt_NuA2Ff2TZZRTzW8P8IXwAr-pmDQ"
+    },
+    {
       "query": "beats",
       "search_volume": 5000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "DNswp3ica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGZR9GpUWpeYtCg6H8VcmsKPyDswpR-PrtPij8LZs-oPD3_1iDzFe62NmIIj-5eBEKfxOrGAp_w2dHFP01KyehyJe_OYHCn6J7G4U_oX4fiv6WThEU_oddKSj8J-7cKPrDXDRQ5Huat6PIt25ogfABlfd7qw"
+      "news_token": "uPUiEXica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGZR9GpUWpeYtCg6F8AVU5FP6-ua7IfKW5my1R5JeJsaHIX-xsRJFf7-OIwl_x-iCK-pqVk1DkW37xoPBXJbOi8Gf0H0XhT6jfh2JeS6cICv_DrhQU9WEuGijyPc3bIXwA6lVnhw"
     },
     {
-      "query": "gas prices",
-      "search_volume": 5000,
+      "query": "michael selig cftc oil probe",
+      "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "politics"
+        "business_and_finance"
       ],
-      "news_token": "WPy5M3ica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG5UnL_y9KzVsUGgzhKz27borMV3YzbkPhz1pwDYW__80RFH6HyD4Ufl3YShS-4JrZKPwVbij6lU6m5qDIFzjLo_CPLLuMov6HeSsKvzXMH0V9yZ3FKPx5jQwo6s_wskP4ALgiaq8"
+      "news_token": "S3Tgd3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuV9J70XpeYtCg0GANPYDNg"
     },
     {
       "query": "katie price",
@@ -60,17 +87,26 @@
       "categories": [
         "law_and_government"
       ],
-      "news_token": "_uMQZHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuXJzpsWpeYtCg2G8udW3ELhzzphgsxXeuK2HJmvOC9kHzJfbtnJdAgfAHQ5KsA"
+      "news_token": "9DS-6nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuXJzpsWpeYtCg2G8medMEHhz624hcJfPV8TwgcA1u4eWA"
     },
     {
-      "query": "radiation",
+      "query": "boeing 737",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
-        "science",
         "business_and_finance"
       ],
-      "news_token": "GhDFmXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuUZS54tSs1bFBoM5Tdp-qDwuzv1kflKe49ooMgfTT2Lwl8bcheFv-mOCwq_peUjCn-Byj0IHwD1bTx8"
+      "news_token": "yInmm3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuVjp9IXpeYtCg2G8JXiPx9C5itvurMThZ96iBOFf5RlEgp_ZSorCv_4JUYUvn_fL1T1RUzIfLmmu7kQPgAotEHA"
+    },
+    {
+      "query": "moon",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "ysaCF3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRqVXHxcvSs1bFBoM4StLpDki85WusLxBkV-zrgSF3664GoW_KMMdRf_xVTIofD57bxT12xZZofAzwyei8BUKfyDz5VsuXYHwAWHOTC4"
     },
     {
       "query": "blackout",
@@ -79,7 +115,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ErAt5Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmVOh9hFqXmLQoOh_OkGqch8pfkVaSjy3cwbUPg5VbUo_Di-SBT9CWXTUORlkgyR-bLR809A-ACgejfA"
+      "news_token": "1tDoB3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuWcqtpFqXmLQoOhfE6HWBR-y4-NKHy7GVtQ-N3MG5D5SvMr0lDk4_giUfjTDVJR1CeUTUPmy0bPPwHhAwD1Az8O"
     },
     {
       "query": "executor",
@@ -91,22 +127,13 @@
       "news_token": "Y7JZWHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqWnZe8WpeYtCg2G8JV3atih8NuXF6HwY5frIPPlU070QPgA9OkkCQ"
     },
     {
-      "query": "system of a down rose bowl",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "A3fKO3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXb2c8WpeYtCg2G8JUW_GtE5ivvr2yA8AFEFRmS"
-    },
-    {
       "query": "ionq",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "DXhwEnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuWsR9aLUvMWhQZD-ErHVx5A5iu3HypHkT-U8AtFfpIME4r8W2EXFPl9UjIo8q3H0pH5cgeSpkP4AOqhOxM"
+      "news_token": "DNIom3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuWsR9aLUvMWhQZD-ErHVx5A4R9K-IXMV54kw4Qi_1bYBUV-n5QMhA8AZoYpHA"
     },
     {
       "query": "mercado cambiario",
@@ -115,7 +142,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "TI3AE3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXdk0QXpRYvCg2G8tVOF0D4AMOLEhk"
+      "news_token": "ZHwKQ3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmW10wWLUosXhQYDAM-nDGw"
     },
     {
       "query": "flapping airplanes",
@@ -128,23 +155,23 @@
       "news_token": "cTuVV3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXOdd8WpeYtCg0GANXQDTM"
     },
     {
-      "query": "bambu h3c",
+      "query": "system of a down rose bowl",
       "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "A3fKO3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXb2c8WpeYtCg2G8JUW_GtE5ivvr2yA8AFEFRmS"
+    },
+    {
+      "query": "bambu h3c",
+      "search_volume": 1000,
       "increase": 75,
       "categories": [
         "business_and_finance",
         "technology"
       ],
       "news_token": "SwrjG3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUVm7YtSs1bFBoMANVHDRY"
-    },
-    {
-      "query": "chicago",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "c4ZUBXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuVDHG6LUvMWhQZD-V6OIij8PUYPUPiHrdRR-LtuTEfhH007jcp_JYDC3yh8BIW_8vhdFP5y5jsQPgA4skFW"
     },
     {
       "query": "military.com",
@@ -173,7 +200,7 @@
         "autos_and_vehicles",
         "business_and_finance"
       ],
-      "news_token": "kQQmAHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuXNXJyLUvMWhQbD-D9qUfgrtZJQ-Lu4X6PwZ3C1oPB7atah8C087ZH5Sl_mnUfhS4cwQvgAWwc5dA"
+      "news_token": "tZJY3Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuXNXJyLUvMWhQZD-bu4X6PwV2olofBncLWg8Htq1iHzlb7MO4_Clw5hRObLHXJrg_ABveszzw"
     },
     {
       "query": "丁向群",
@@ -191,7 +218,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "GU2-d3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVWcbtFqXmLQoMBy-wL4A"
+      "news_token": "bUvl3Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuVWcbtFqXmLQoOh_C5-URT-DqtECB8A6qQWbQ"
+    },
+    {
+      "query": "dow jones industrial average",
+      "search_volume": 5000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "QdSVm3ica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGpR0zdy9KzVsUGgzhK88XuYbCPy46CYV_wmobMl_e_OoqZL7S1zvpyHy5tMfuKPxKqQ0o6t-LlKOYP2n5fxT-sui7KPxdbuwo_NUizij8zQE3UMx_veU6ivxOTlT9x-bkoPAtvkWh8Nl7UdQrpfa2ocgX1a5GCY_46fsgfAB09off"
     },
     {
       "query": "brent crude oil price",
@@ -200,7 +236,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "60sTmHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuXmhqeLUvMWhQZD-f3P7ZD5Sjtm7kbmy-_e6I8if3C7Nop8_PR9ED4AmE4rFA"
+      "news_token": "1QxniHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuXmhqeLUvMWhQZD-XLvJFD4_c_tkPlKO2buhvAB2Loeow"
     },
     {
       "query": "parents concerns artificial intelligence classrooms",
@@ -209,7 +245,7 @@
       "categories": [
         "other"
       ],
-      "news_token": "0rb043ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuW82JuLUvMWhQZD-UdfzkLhtysvQuELeW1A4S_mvY7C72SLQ-H3S5eh8Nfa3IXwATBqNI4"
+      "news_token": "ioGlaXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuW82JuLUvMWhQZD-e3Ki1D4JxmrUfiLea-j8IW8NqDwO9niUPj90mUo_KMvZ6Hw19rchfABRIg6GQ"
     },
     {
       "query": "marketwatch",
@@ -221,31 +257,22 @@
       "news_token": "mCCeNXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuX4NzqLUvMWhQZD-Eo7Zu6G8AHKLRLO"
     },
     {
-      "query": "nasdaq futures",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Oefmc3ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRqUdM3cvSs1bFBoM5b8XKUfmK09a_h-Ff3TVTBT-sui7yHy5tMfuKPKbA26gmP96y3UU-Z2c7Ch89l5UvsW3KBS-2M7pKOal9rah8L_eSYfwARM0WhE"
-    },
-    {
-      "query": "market correction",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "1iE09Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuWafsNFqXmLQoMhfMX__deR-coembYofOXHGch8pUsf_VD0b_r4AsIHAFXAKvg"
-    },
-    {
-      "query": "citi brent crude market outlook",
+      "query": "gold and silver price decline",
       "search_volume": 500,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "H9jLdXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmW5dxKLUvMWhQYDAM37DCo"
+      "news_token": "uiov_nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuUK3uxFqXmLQoOh_EIrB2S-YvE0TWS-0ksGFQgfAIaRG-8"
+    },
+    {
+      "query": "cart stock",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "P8X1k3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWGLvdFqXmLQoMBz5YMVw"
     },
     {
       "query": "agi",
@@ -257,23 +284,13 @@
       "news_token": "hqeinHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqWvps8WlRQtCg2G8JWbphWj8A-evoXCX_3iPTJfbqXDGxR-zcVuZL7Ss32TIXwA6cozig"
     },
     {
-      "query": "donald trump mortgage executive order",
+      "query": "mgb layoffs",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "other"
       ],
-      "news_token": "evfIP3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmW_exmLUvMWhQYDANFbDJo"
-    },
-    {
-      "query": "easement",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "law_and_government",
-        "business_and_finance"
-      ],
-      "news_token": "dMCsHnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuWwfU6LUvMWhQZD-SGV7Sj8TctYUPjb_6Wj8JcGsqLw13PEo_CXHEmA8AHbFy6l"
+      "news_token": "p3IIHnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuU1RvmLUvMWhQYDAM96DFM"
     }
   ]
 }
