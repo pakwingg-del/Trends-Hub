@@ -10,253 +10,233 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 26,
+      "keywords_count": 24,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-23 21:30:58"
+      "last_updated_hkt": "2026-10-24 21:31:00"
     }
   },
   "trending_seeds": [
     {
-      "query": "netflix mosquito bowl movie reviews",
+      "query": "ainsley earhardt",
+      "search_volume": 20000,
+      "increase": 900,
+      "categories": [
+        "hobbies_and_leisure",
+        "politics",
+        "entertainment"
+      ],
+      "news_token": "l-bDF3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVTrrWLUvMWhQYDANGCDJI"
+    },
+    {
+      "query": "apple iphone duo",
+      "search_volume": 2000,
+      "increase": 400,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "JZc9wnica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGJYHpixal5i0KDYbwlRXmxCHzla4c_ogif5LRFoWf1ZaIwt9jcApF_yyXpyj8DwUzUfgg-7MSEfqd9BqQ-WD7keX3RExC4YPsR-aD3IesP1qiGEW-_5w0Ct8r0BOFfzmhH4XvuVwImS_749IzCB8ALGV6QQ"
+    },
+    {
+      "query": "marvel avengers doomsday trailer",
       "search_volume": 5000,
-      "increase": 800,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "QF39eXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuXZcW8WpeYtCg2G8gO91iHzlb7I7kHhu9_ZCOEDAN2GHqU"
-    },
-    {
-      "query": "faith hedgepeth",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "e7pv3nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUJU8MWpRYvCg1G5ucB-QDGtxJH"
-    },
-    {
-      "query": "power outage near me",
-      "search_volume": 200,
-      "increase": 300,
-      "categories": [
-        "other"
-      ],
-      "news_token": "ZxJScnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuV2M_dFqXmLQoOhfHnD_RA-ALb3EV8"
-    },
-    {
-      "query": "iphone duo internal display break",
-      "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "technology",
-        "shopping"
+        "entertainment"
       ],
-      "news_token": "E62Blnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUrhz8uSs1bFBoMANjuDY0"
+      "news_token": "WiHD4Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsW1gWsWpeYtCg2G8JW3KZSh8F3tbqPwjys4o_BPzs5E4affPYrCr1VDkVfkmXQQwgcAEbM0qw"
     },
     {
-      "query": "ray",
+      "query": "helen chiang xbox coo departure",
       "search_volume": 2000,
       "increase": 200,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "Ba_jN3ica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG5fkaXotS8xaFBkP5x_ako_Cnci5C4R8SaUbmKy1-3YjC_zk3FNW8y7qo_ORiVP7uUyj8o-05KPzD4Voo_J4P11D4K5Z4ovBXysej8JeXmqDwfTbXoNo_RwaFH5PXg8Kvs3RF4R80u4vCD1Geh8LfN1cUJTw-fVBG4T9s_g3hAwCzLZQ0"
-    },
-    {
-      "query": "fortinet palo alto firewall breach",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "YrgQAHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuVdDacWpeYtCg2G8gvOH0LmK9WJXYHwATfeGP4"
-    },
-    {
-      "query": "billie eilish auburn bob haircut",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "ktQmKnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXFB10XpeYtCg0GANJ7DK8"
-    },
-    {
-      "query": "taika waititi",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "R7Z_z3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRiWXGPtFqXmLQoMhfGXjHyoo_CPLRCF8APtqFz4"
-    },
-    {
-      "query": "el salvador haiti",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "0l1B1Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmW7A7GLUosXhQZD-TaFTyB8AMNAEkI"
-    },
-    {
-      "query": "caitlyn jenner",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "6T6Bunica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuW5_AWLUvMWhQYDAM3iDCI"
-    },
-    {
-      "query": "microsoft xbox cloud pricing update",
-      "search_volume": 200,
-      "increase": 100,
       "categories": [
         "technology",
         "games"
       ],
-      "news_token": "tyMFWnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmWmVQaLUvMWhQYDAMuHC-I"
+      "news_token": "RQcvEXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXjdlMWpeYtCg0GANHQDJ8"
     },
     {
-      "query": "flapping airplanes",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "cTuVV3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXOdd8WpeYtCg0GANXQDTM"
-    },
-    {
-      "query": "new iphone",
-      "search_volume": 10000,
-      "increase": 75,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "6U-Yf3ica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGJYHpixZlJS4KDYbwlZ30GlD4LUWnUfhZbYnIfKUrhz-iyCvMiUPmy_649AxF_SyXpyh8kP2peUj6CztR-UDzkPkg-5H5guG_Ufh5S9SR-WD7kPhg9yCrXz75JQp_j8EpFP0g_yHL8769j8LnLj-HzJe7ZJQC4QMAJhaI6A"
-    },
-    {
-      "query": "bambu h3c",
+      "query": "nairobi kenya building collapse",
       "search_volume": 2000,
-      "increase": 75,
+      "increase": 200,
       "categories": [
-        "business_and_finance",
-        "technology"
+        "other"
       ],
-      "news_token": "SwrjG3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUVm7YtSs1bFBoMANVHDRY"
+      "news_token": "f-lzcnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmWxac2LUvMWhQYDAM3gDDU"
     },
     {
-      "query": "ipad mini",
-      "search_volume": 1000,
-      "increase": 75,
+      "query": "nvidia rtx 30 gpu unlock mod",
+      "search_volume": 500,
+      "increase": 200,
       "categories": [
         "technology",
         "science"
       ],
-      "news_token": "MJShd3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRmXtd08WpeYtCg2G8v0P8iLzldh6mpH5sj8uPUPmK9a3i0L4AOcJJA8"
+      "news_token": "mdbJdHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUzpiKLUvMWhQYDAM41DBs"
     },
     {
-      "query": "appellate court",
-      "search_volume": 1000,
-      "increase": 75,
+      "query": "android devices showing january 2027 update",
+      "search_volume": 5000,
+      "increase": 100,
       "categories": [
-        "law_and_government",
-        "hobbies_and_leisure"
+        "technology"
       ],
-      "news_token": "bpw9Qnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuUNuXcWpeYtCg2G8udtWoDMV_qwYgqK_IE9s1H4q0UFUPiCnroo_N3FOij8tQXtKPwVi91R-MsnC0H4AAKMQNo"
+      "news_token": "tNZmtXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUuvr2LUvMWhQYDAM9KDFs"
     },
     {
-      "query": "kalorik maxx air fryer burn risk",
-      "search_volume": 1000,
-      "increase": 75,
+      "query": "internet",
+      "search_volume": 2000,
+      "increase": 100,
       "categories": [
-        "other"
+        "technology"
       ],
-      "news_token": "JUtcDHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqV3y6IWpeYtCg0GANTPDPM"
+      "news_token": "ePJJoHica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZG5YLzhxal5i0KDYbyj1haoPBbZyog85V-zr2DIn_42z5U_rRlKPzzZ7lR-PNF_qPwxdrYUPhpro4o_KPMe1H4DWvfoPBvdd5E4fvof0a138Eaxf3LzepQ-FcOf0Tha-o-QtEf478JhT916XYIHwCS632-"
     },
     {
-      "query": "openai",
+      "query": "broken iphone duo",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "E62Blnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUrhz8uSs1bFBoMANjuDY0"
+    },
+    {
+      "query": "yasmeen ali safeguarding review bristol",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "xki5IXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWdyacWpeYtCg0GANP0DOw"
+    },
+    {
+      "query": "appletv",
       "search_volume": 500,
-      "increase": 75,
+      "increase": 100,
       "categories": [
-        "other"
+        "technology"
       ],
-      "news_token": "NV2YCnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuWjzHsXpeYtCg2G8JX2sM5G5itLn21E4TsobUJRnyDhgyKf_JwRhb9VswGFvzTwOQp_XSaqekuX0xA-ANh0PoI"
+      "news_token": "f7RDg3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuUrnxctSs1bFBoM5a8T1UDh72r4isLPiXyMwmetsELmK62viEWRP7_RH4W_3H0amn0GKPyLhscgfADVtUDv"
     },
     {
-      "query": "pure xbox",
-      "search_volume": 200,
-      "increase": 75,
+      "query": "the legend of zelda",
+      "search_volume": 500,
+      "increase": 100,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "kijLbnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuV8X7ZFqXmLQoOh_EOLrFH4R1yEUfj7Wtah8JdFu6Hwm66lo_C3v5FD4e9fJ4rC7zxoC-EDAE4WOnI"
+      "news_token": "Z5yiJnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuUL2pGLUvMWhQZD-EpPuT-i8Kcm2yLzlY9s9EeRf2A2H4X_JnEjCv_ztHZkvuytmYIo5oWXT0dRf7xrFTJf_nzqZQgfADOaSI4"
     },
     {
-      "query": "parents concerns artificial intelligence classrooms",
+      "query": "derailment",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "WvShz3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuUjt_8vSs1bFBoM5Z_cn4_Cv77pFwp_b8NEFH6hVQiEDwBoxyYD"
+    },
+    {
+      "query": "nc state fair",
       "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "Jft3A3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuVFW5kWpeYtCg2G8uuZFqLwGx9MgfABDdMYAg"
+    },
+    {
+      "query": "laika",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "fKiaWnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuXCH76LUvMWhQZD-be6QpD5iqd4riHz5Q9YSkP4AN1pHgA"
+    },
+    {
+      "query": "intelligence",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "Azu_Vnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuV1PNcWpeYtCg2G8vfWL0bhs_eyo_APxVaj8Lvd5VH4R_xiUPjXutQhfADUCC40"
+    },
+    {
+      "query": "elon musk starlink ukraine limits",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "MoCOL3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuXDlsGLUvMWhQZD-de6XFH4xxydUfiH9xqj8PfNtUXhnw3nQOU_9Efmy3Od0EfmyxWoofKLtjAg85VaN2VA-ABs7kTw"
+    },
+    {
+      "query": "ethan klein affair tamara",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "FsNJV3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUt544vSs1bFBoM5V94-w7CBwDifhRA"
+    },
+    {
+      "query": "six flags seat belt updates",
+      "search_volume": 500,
       "increase": 50,
       "categories": [
         "other"
       ],
-      "news_token": "0rb043ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuW82JuLUvMWhQZD-UdfzkLhtysvQuELeW1A4S_mvY7C72SLQ-H3S5eh8Nfa3IXwATBqNI4"
+      "news_token": "RSe6BHica1xTlFpYmlpcEp-SWJI4d_J5BgYGRuUVm24sSs1bFBoM5bdwzkHhC890Q-GfEHqIwr_S4YTCvzpRCJmvtCikHkV-kbMcivyPHm4U-T3uDij8IxsVUfhyLUoo-pf4Q_UDAAIgUAs"
     },
     {
-      "query": "premios billboard 2026",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "R_50unica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqVvPT8WpRYvCg2G8JUD9BpQ-MUKaRA-ADAtGBE"
-    },
-    {
-      "query": "airbnb new rules",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "travel_and_transportation"
-      ],
-      "news_token": "kJkPCnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXml6qLUvMWhQZD-ZterkDhawiuQ-HvXaKLwu_j0kbh5_lvQ-GvTONG4a8xdkLmy2V7z0HmK5qKX4HwATMRPqE"
-    },
-    {
-      "query": "fixer upper chip bought a mansion",
+      "query": "joanna gaines",
       "search_volume": 500,
       "increase": 50,
       "categories": [
         "entertainment"
       ],
-      "news_token": "zXh54Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXF6l6LUvMWhQYDAM3ODBo"
+      "news_token": "KSUwq3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuXF6l6LUvMWhQZD-fscylH413M4UPgdp3ZA-ACucR22"
     },
     {
-      "query": "laika",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "ixttxXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuXCH76LUvMWhQZD-IqneK4h8-WUZx1E5ivnnzoF4QMA3BMetA"
-    },
-    {
-      "query": "universal studios orlando",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "travel_and_transportation",
-        "entertainment"
-      ],
-      "news_token": "qzXtrHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuVFznKLUvMWhQZD-ctf5SDzld7tzUCRbw-WQuF3qpRC-ADS7yNG"
-    },
-    {
-      "query": "prince william earthshot prize appearance",
+      "query": "quem gastou mais no cartão corporativo lula ou bolsonaro",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "entertainment"
+        "politics",
+        "law_and_government"
       ],
-      "news_token": "p_Zw9nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXVR2wXpeYtCg0GANKjDLI"
+      "news_token": "bB53jnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXTJjqLCkoWhQZD-QmfpSB8AMCCEgY"
+    },
+    {
+      "query": "capcom",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "XAj473ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuVZcgsXZSUuCg2G8RmmoPCvb-FC4d-qR1V_PCQFma90vswARf7o9k5kvnwO5wYIHwAOmDTf"
+    },
+    {
+      "query": "google play",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "4imEtXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuVGnV-LUvMWhQZD-ErPWAqQ-cpdfHtR5B20pZH5sjv8HVDUm_xH0a9UnHcfwgcAuDEuJw"
+    },
+    {
+      "query": "daily beast",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "politics"
+      ],
+      "news_token": "4C9kOHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVrWuKLUvMWhQYDAM5MDB0"
     }
   ]
 }
