@@ -10,16 +10,25 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 30,
+      "keywords_count": 36,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-24 03:30:53"
+      "last_updated_hkt": "2026-10-24 06:30:56"
     }
   },
   "trending_seeds": [
     {
+      "query": "investments",
+      "search_volume": 10000,
+      "increase": 1000,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "R9em1Xica1xTlFpYmlpcEp-SWJI4d_J5BgYGRmV_pjeLUvMWhQZD-W2LslH46wV7UPirL6qg8HfuMkDhH1zxBIWf0OCPwi8XjkTmK13ZdRlF3m31S2S-4uzERFT7UsVQ9J_kewjhAwBZbVKM"
+    },
+    {
       "query": "education department drops pslf challenge",
       "search_volume": 20000,
-      "increase": 900,
+      "increase": 800,
       "categories": [
         "law_and_government",
         "business_and_finance"
@@ -36,9 +45,19 @@
       "news_token": "evfIP3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmW_exmLUvMWhQYDANFbDJo"
     },
     {
+      "query": "state farm",
+      "search_volume": 1000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance",
+        "jobs_and_education"
+      ],
+      "news_token": "2Q3hU3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuXjGdcWpeYtCg2G8JWcl75G5itnp31E4U9YUofC5519H4U_aSs_Ct_1tQ6K-YJnNSB8AJTPNXk"
+    },
+    {
       "query": "humana unitedhealthcare medicare advantage cancellations",
       "search_volume": 5000,
-      "increase": 400,
+      "increase": 300,
       "categories": [
         "business_and_finance"
       ],
@@ -60,7 +79,7 @@
       "categories": [
         "politics"
       ],
-      "news_token": "SFWCT3ica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG5UnL_y9KzVsUGgzlT9_2HYU_a8E1FP7-N0dQ-B0i-1D4Bc7yKHzBNbNR-CvcUPQrzdp-E0XezbgNhX9aTxJF_cnUHBT5I8suo_APxCxA4RetW46ivzXMH0W-5M5iCB8AUx9skg"
+      "news_token": "uldi93ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRuVJy_8vSs1bFBoM5U_f9h2FP2vBNRT-_jdHUPgdIvtQ-H2rZVH4UfqzUPgr3FD0Kz2-HYjCP5mag6L-yLLLKPyidctR-AdiFqDwG9t2QPgA3ipcOg"
     },
     {
       "query": "michael selig cftc oil probe",
@@ -81,23 +100,32 @@
       "news_token": "0uap93ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuXJzpsWpeYtCg2G8medMEHhz624hcJfPV8Tma84L2QfMl9u2cl0CB8AYGgqYw"
     },
     {
+      "query": "iphone duo price",
+      "search_volume": 20000,
+      "increase": 100,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "qMda-Xica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGJYHpixal5i0KDYbwlfOWqCPzla4c_ogif5LRFoW_x-AUivoPBTNR-LNcniLzZX9ceoain7v8HIp6kHuyEhHyTnoNKHyQ_Uh8sPuQ5bli3VHkoyWKUeS9Aj1R-C1Fp5H5YPchyyvMiUMxD-QfZPkTgn9Q-FltiSj-Wz75JQqf9-19FP8uO7cVmS8f6O0A4QMABGie5w"
+    },
+    {
+      "query": "moon",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "Cain63ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRqVXHxcvSs1bFBoM4StLpDki85WusLxBkV-zrgSF3664GkX9e7t6FPm1IXdR-NsWWaHwM8Mnoujns_dGkVco_IHMl2-5dAXVfAELCB8AtQtSFQ"
+    },
+    {
       "query": "boeing 737",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "-oPZd3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuVjp9IXpeYtCg2G8JXiPx9C5itvurMThZ96iBOFf5RlEgp_ZSorCt-_7xeqfBETMl-u6W4uirz6km8QPgAnJ0Hn"
-    },
-    {
-      "query": "moon",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "K4xQm3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRqVXHxcvSs1bFBoM4StLpDki85WusLxBkV-zrgSFP0WgGIXfrrgahb8owx3FPD57bxT5bYusUPiZ4RNR-AqFP1D4awUsUMyLe3MdwgcABC5Q7g"
+      "news_token": "aBR47nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuVjp9IXpeYtCg2G8JXiPx9C5itvurMThZ96iBOFf5RlEgp_ZSorCt-_7xeqfBETMl-u6W4uiv28M_QgfAAgW0D4"
     },
     {
       "query": "blackout",
@@ -106,7 +134,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "v7rnSnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuWcqtpFqXmLQoOh_OkGqSj8lh8bUfjdzBtQ-HF8kSh8uxlbUPicDrHIfKX5FWnIfNno-ScgfAA_mzld"
+      "news_token": "EVx_H3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuXpBqmLUvMWhQZD-S0_NqLwZZIMUfjdzBuQ-UrzK9JQ5DkdYlH4uUlLkfmy0fNPIPPlaub9hvABKb853g"
     },
     {
       "query": "executor",
@@ -133,7 +161,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "uhdP53ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuWsR9aLUvMWhQZD-ErHVx5A4R9K-IXCfyvsgsxXniTDhMLfJyWDor71WDoyX-5A0nQIHwBRiTUN"
+      "news_token": "-4cJ93ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuWsR9aLUvMWhQZD-ErHVx5A4R9K-IXCfyvsgsKf8VEAma-8T0oGRb71WDoyX-5A0nQIHwCEPzX1"
     },
     {
       "query": "mercado cambiario",
@@ -151,7 +179,7 @@
       "categories": [
         "other"
       ],
-      "news_token": "1W5NZ3ica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGZVOHaYtS8xaFBkP5MXk9qHxGBhR-vuo5FP6RA9OR-UpH73ahyLft00ThL7ZVQOFXf3BH4U8-m4jCD2YSQeGvvSOFzBc7rsKKIp9Seh2F3xSE4h_FT82FKPKa4Y7IfLkflx5B-AAPUW2J"
+      "news_token": "zvuKkXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRmVTh2mLUvMWhQZD-WvvSKHwY_J6UPmMDMh8paN3u1DkjxyYjsJv26eJzBc7rsKKIh_MJILMV_zUXIgirxnuiMyX-3HpEYp8UxCK--Sa15-A8AGEJFaV"
     },
     {
       "query": "flapping airplanes",
@@ -170,7 +198,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "hv7yanica1xTlFpYmlpcEp-SWJI4afJ5BgYGRsXb2c8WpeYtCg2G8JUW_GuE8AHbbROU"
+      "news_token": "A3fKO3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRsXb2c8WpeYtCg2G8JUW_GtE5ivvr2yA8AFEFRmS"
     },
     {
       "query": "bambu h3c",
@@ -181,6 +209,15 @@
         "technology"
       ],
       "news_token": "SwrjG3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUVm7YtSs1bFBoMANVHDRY"
+    },
+    {
+      "query": "waymo",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "4Fr_wXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGZf6tRotS8xaFBkP5oac3IvOVbiaXo8iz58xH4W9-0YrCP7z0OQo_WMEWhb98sggKv1t2BQrfpY4VhW-To4rCn1FVjcJPWSOBwnd_dhqZL32hSBeZL18muBqZLztF3RGZL-fxghPCBwC0f2xA"
     },
     {
       "query": "volvo",
@@ -217,7 +254,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ZV0l_nica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGpR0zdy9KzVsUGgzhK88XuYbCPy46CZkvb351FTJf6euddGS-XKXUBhT1zdZrUeTTHruj8F_dkEThr7uxE8X89yLlKO6ZtPw_Cv_oqpko_M0BN1D0v95yHUV-Jyc7Ct_iWxQKn70XRV4ptbcNRb6odjWK_-Kn74PwAf3vg6s"
+      "news_token": "vhOhrXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRqUdM3cvSs1bFBoM4SsfF52EzFf6eicdhf9epBxF_XyRayj8Scv_I_Pl0h67o8hvDriBYt7rLddR5HdysqPwLb5FofDZe1HklVJ721Dki2pXI_Pl46fvg_ABsfxfTA"
     },
     {
       "query": "brent crude oil price",
@@ -226,7 +263,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "O1oZynica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuXmhqeLUvMWhQZD-f3P7VD4cu8kkPlKO2buRuEf3K6NzJffvdEfhR8_fR-EDwBK3DB-"
+      "news_token": "zuBDnHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuXmhqeLUvMWhQZD-f3P7VD4cu8kkPlKO2buRuE_2aSGzJffvdEfwgcAdgsqoQ"
     },
     {
       "query": "parents concerns artificial intelligence classrooms",
@@ -235,7 +272,16 @@
       "categories": [
         "other"
       ],
-      "news_token": "WrS8wXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuW82JuLUvMWhQZD-e3Ki1D4JxmrUfiLea-j8IW8NqDwO9niUPj90mUo_LU2dyF8AM9mM4s"
+      "news_token": "sSGlAHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuW82JuLUvMWhQZD-e3Ki1D4JxmrUfiLea-j8DvZ4lD4_dJlKPy1NndR-EJeGyB8ANpWM4s"
+    },
+    {
+      "query": "fox nation",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "oSEOY3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuWEBv9FqXmLQoOh_BUxVij8cqcXKPwJBxlQ-I0XhJD5ipcP7kM1r_othA8A2WUvzA"
     },
     {
       "query": "marketwatch",
@@ -271,7 +317,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "P8X1k3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWGLvdFqXmLQoMBz5YMVw"
+      "news_token": "VLxuwXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuWjq9oXpeYtCg2G8hu63CF8ANCOEpM"
     },
     {
       "query": "dolar a peso",
@@ -281,6 +327,16 @@
         "business_and_finance"
       ],
       "news_token": "b_EdWXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWqin-LUosXhQYDANPlDPs"
+    },
+    {
+      "query": "quem gastou mais no cartão corporativo lula ou bolsonaro",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "politics",
+        "law_and_government"
+      ],
+      "news_token": "3PXa4Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXTJjqLCkoWhQYDAM8bDEI"
     },
     {
       "query": "easement",
