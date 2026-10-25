@@ -10,90 +10,119 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 24,
+      "keywords_count": 20,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-24 21:31:00"
+      "last_updated_hkt": "2026-10-25 21:31:06"
     }
   },
   "trending_seeds": [
     {
-      "query": "ainsley earhardt",
+      "query": "early november mountain snow risk",
       "search_volume": 20000,
-      "increase": 900,
+      "increase": 800,
       "categories": [
-        "hobbies_and_leisure",
-        "politics",
-        "entertainment"
+        "climate"
       ],
-      "news_token": "l-bDF3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVTrrWLUvMWhQYDANGCDJI"
+      "news_token": "KSO_Rnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWFcu6LUvMWhQYDAM1fDAw"
     },
     {
-      "query": "apple iphone duo",
-      "search_volume": 2000,
+      "query": "5g",
+      "search_volume": 1000,
       "increase": 400,
       "categories": [
-        "technology"
+        "technology",
+        "science",
+        "business_and_finance"
       ],
-      "news_token": "JZc9wnica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGJYHpixal5i0KDYbwlRXmxCHzla4c_ogif5LRFoWf1ZaIwt9jcApF_yyXpyj8DwUzUfgg-7MSEfqd9BqQ-WD7keX3RExC4YPsR-aD3IesP1qiGEW-_5w0Ct8r0BOFfzmhH4XvuVwImS_749IzCB8ALGV6QQ"
+      "news_token": "bXisEXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuWtDMmLUvMWhQZD-WsPxCHzlbYqCqPIL7Z5giL_0nwtirwCy2IU_jxTCwgfAMkZLdY"
     },
     {
-      "query": "marvel avengers doomsday trailer",
+      "query": "log4j samsung tv security report",
       "search_volume": 5000,
       "increase": 200,
       "categories": [
-        "entertainment"
+        "technology"
       ],
-      "news_token": "WiHD4Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRsW1gWsWpeYtCg2G8JW3KZSh8F3tbqPwjys4o_BPzs5E4affPYrCr1VDkVfkmXQQwgcAEbM0qw"
+      "news_token": "WbADP3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuU3nYcXpeYtCg0GANa-DT4"
     },
     {
-      "query": "helen chiang xbox coo departure",
+      "query": "brian chesky",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "TF678nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXnmlsWpeYtCg0GANMoDMo"
+    },
+    {
+      "query": "theft",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "njORfHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuUXJhcXpeYtCg2G8h_9PIbCP3y-EYX_Vn4JCv_ZzXMofPOFi1D4l9evR-EfWSaEwr8i-hnCBwASUz8X"
+    },
+    {
+      "query": "apple tv",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "K6FF4Hica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuX78-0XpeYtCg2G8vf3FaLwX1_IR-HvaviKwj-0JwiFX2XQgsIPbatG4bNWWKHw14lqoPDTly-D8AEhUkD6"
+    },
+    {
+      "query": "boost",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "EDZO5Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuUzpiKLUvMWhQZD-Ut3ovL3NsSj8J-wKqPwb3GdR-EXvHmOwr-TsR6FX_JcA8IHAAZANYs"
+    },
+    {
+      "query": "xbox game pass",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "HMVO13ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRmXZdc8WpeYtCg2G8p8dmILMV7yRZ4DMV3qdfQRF_l24IIr-fF82FD7TKhT9yrtWHUPhPyntQeE_ZdVF4Ze9cEHmy5VuOowi7_GfD8IHAMbDUro"
+    },
+    {
+      "query": "appletv",
       "search_volume": 2000,
       "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "hKmXcHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRuVF6esXpeYtCg2G8nc1fEXhB39JQeHnRD5G4b_4nIrCb5xyAJmv9C6hDkU-tK0ahX9_vj0Kf39fIQq_yqAFhb9OVAPCBwCcpE4M"
+    },
+    {
+      "query": "ai agents hidden communication cpu cache",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "science",
+        "technology"
+      ],
+      "news_token": "oxgfKXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWjzHsXpeYtCg0GANEFDIs"
+    },
+    {
+      "query": "playstation",
+      "search_volume": 5000,
+      "increase": 100,
       "categories": [
         "technology",
         "games"
       ],
-      "news_token": "RQcvEXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXjdlMWpeYtCg0GANHQDJ8"
+      "news_token": "OB4QAHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmWluuhFqXmLQoOh_JycKSj8q3vSUPg7Jhej8O3O96LwZzZkofBfWjxF4b_4jCr_yLsFma_0_msthA8Avq1DEQ"
     },
     {
-      "query": "nairobi kenya building collapse",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "f-lzcnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmWxac2LUvMWhQYDAM3gDDU"
-    },
-    {
-      "query": "nvidia rtx 30 gpu unlock mod",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "technology",
-        "science"
-      ],
-      "news_token": "mdbJdHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUzpiKLUvMWhQYDAM41DBs"
-    },
-    {
-      "query": "android devices showing january 2027 update",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "tNZmtXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUuvr2LUvMWhQYDAM9KDFs"
-    },
-    {
-      "query": "internet",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "ePJJoHica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZG5YLzhxal5i0KDYbyj1haoPBbZyog85V-zr2DIn_42z5U_rRlKPzzZ7lR-PNF_qPwxdrYUPhpro4o_KPMe1H4DWvfoPBvdd5E4fvof0a138Eaxf3LzepQ-FcOf0Tha-o-QtEf478JhT916XYIHwCS632-"
-    },
-    {
-      "query": "broken iphone duo",
+      "query": "apple iphone duo cracked screen",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
@@ -102,141 +131,78 @@
       "news_token": "E62Blnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUrhz8uSs1bFBoMANjuDY0"
     },
     {
-      "query": "yasmeen ali safeguarding review bristol",
-      "search_volume": 1000,
+      "query": "alex karp",
+      "search_volume": 2000,
       "increase": 100,
+      "categories": [
+        "science",
+        "technology",
+        "business_and_finance"
+      ],
+      "news_token": "us6KM3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWU1Y2LUvMWhQZD-W_4MpH5cs4fpiHzlRpMJ0D4AMqhHdM"
+    },
+    {
+      "query": "artificial intelligence",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "science"
+      ],
+      "news_token": "cxnmmnica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGpQQJn0WpeYtCgyF85dtdi1D4R5n3ovDP_P6IwmfvZUfhS3BKofDnbfyMwhdL9Ubh57w7h8JXVb2Pwp970xGFf1jIFYW_YtpGFP58UVtkvvxdr3ZkvuK6CBT3KVn-qEaRn1q1FsIHAPVqbgw"
+    },
+    {
+      "query": "101 poker club houston raid",
+      "search_volume": 2000,
+      "increase": 75,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "xki5IXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWdyacWpeYtCg0GANP0DOw"
+      "news_token": "dBFNyHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuX1J40XpeYtCg0GANKpDLE"
     },
     {
-      "query": "appletv",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "f7RDg3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuUrnxctSs1bFBoM5a8T1UDh72r4isLPiXyMwmetsELmK62viEWRP7_RH4W_3H0amn0GKPyLhscgfADVtUDv"
-    },
-    {
-      "query": "the legend of zelda",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "Z5yiJnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuUL2pGLUvMWhQZD-EpPuT-i8Kcm2yLzlY9s9EeRf2A2H4X_JnEjCv_ztHZkvuytmYIo5oWXT0dRf7xrFTJf_nzqZQgfADOaSI4"
-    },
-    {
-      "query": "derailment",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "WvShz3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuUjt_8vSs1bFBoM5Z_cn4_Cv77pFwp_b8NEFH6hVQiEDwBoxyYD"
-    },
-    {
-      "query": "nc state fair",
-      "search_volume": 2000,
+      "query": "nocturne apple tv",
+      "search_volume": 1000,
       "increase": 75,
       "categories": [
         "entertainment"
       ],
-      "news_token": "Jft3A3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuVFW5kWpeYtCg2G8uuZFqLwGx9MgfABDdMYAg"
+      "news_token": "vRW15Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuWu_qeLUvMWhQZD-AqLdyhB-ADSPxLE"
     },
     {
-      "query": "laika",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "fKiaWnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuXCH76LUvMWhQZD-be6QpD5iqd4riHz5Q9YSkP4AN1pHgA"
-    },
-    {
-      "query": "intelligence",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "Azu_Vnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuV1PNcWpeYtCg2G8vfWL0bhs_eyo_APxVaj8Lvd5VH4R_xiUPjXutQhfADUCC40"
-    },
-    {
-      "query": "elon musk starlink ukraine limits",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "MoCOL3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuXDlsGLUvMWhQZD-de6XFH4xxydUfiH9xqj8PfNtUXhnw3nQOU_9Efmy3Od0EfmyxWoofKLtjAg85VaN2VA-ABs7kTw"
-    },
-    {
-      "query": "ethan klein affair tamara",
+      "query": "laika studios",
       "search_volume": 1000,
       "increase": 50,
       "categories": [
         "entertainment"
       ],
-      "news_token": "FsNJV3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUt544vSs1bFBoM5V94-w7CBwDifhRA"
+      "news_token": "wi2aQ3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRuXCH76LUvMWhQZD-beXHEPhL-LZg8JfsZgFhf_w6gYU_twTXCj85xuXoPCP3V6Mwj_TVY3CP3FcA4V__5s2Cv9RwyEU_rXAdRA-AAYdVtg"
     },
     {
-      "query": "six flags seat belt updates",
+      "query": "data breach",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "KLnZvnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuVZcgsXpeYtCg2G8ufNPIvC36ycgsI_vOEUMl_plu5EFPldDSjyyieLbVH4W--UoPBvhmSjmPdeJArCBwAS0EJd"
+    },
+    {
+      "query": "taiwan",
       "search_volume": 500,
       "increase": 50,
       "categories": [
         "other"
       ],
-      "news_token": "RSe6BHica1xTlFpYmlpcEp-SWJI4d_J5BgYGRuUVm24sSs1bFBoM5bdwzkHhC890Q-GfEHqIwr_S4YTCvzpRCJmvtCikHkV-kbMcivyPHm4U-T3uDij8IxsVUfhyLUoo-pf4Q_UDAAIgUAs"
+      "news_token": "EgRl73ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRuWY368WpeYtCg2G8JXqGZyQ-cq9n5eg8KfMqkHhP5IrQtGfWDcXhf9eNAhFffghdhT-Uw13FPVH3m1A5iuc2KaGIs_pOhmZL_uPXRjCBwCaJ1HH"
     },
     {
-      "query": "joanna gaines",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "KSUwq3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuXF6l6LUvMWhQZD-fscylH413M4UPgdp3ZA-ACucR22"
-    },
-    {
-      "query": "quem gastou mais no cartão corporativo lula ou bolsonaro",
+      "query": "haiti el salvador",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "politics",
         "law_and_government"
       ],
-      "news_token": "bB53jnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXTJjqLCkoWhQZD-QmfpSB8AMCCEgY"
-    },
-    {
-      "query": "capcom",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "XAj473ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuVZcgsXZSUuCg2G8RmmoPCvb-FC4d-qR1V_PCQFma90vswARf7o9k5kvnwO5wYIHwAOmDTf"
-    },
-    {
-      "query": "google play",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "4imEtXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuVGnV-LUvMWhQZD-ErPWAqQ-cpdfHtR5B20pZH5sjv8HVDUm_xH0a9UnHcfwgcAuDEuJw"
-    },
-    {
-      "query": "daily beast",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "4C9kOHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVrWuKLUvMWhQYDAM5MDB0"
+      "news_token": "0l1B1Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmW7A7GLUosXhQZD-TaFTyB8AMNAEkI"
     }
   ]
 }

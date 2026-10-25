@@ -10,58 +10,89 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 11,
+      "keywords_count": 18,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-25 06:30:54"
+      "last_updated_hkt": "2026-10-25 21:30:59"
     }
   },
   "trending_seeds": [
     {
-      "query": "student loans",
-      "search_volume": 20000,
-      "increase": 500,
+      "query": "supplemental security income november payout",
+      "search_volume": 5000,
+      "increase": 700,
       "categories": [
-        "law_and_government",
-        "business_and_finance"
+        "business_and_finance",
+        "law_and_government"
       ],
-      "news_token": "ClSBInica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXeqtWLUvMWhQZD-YcyI1H4ga-zUPjrnZRR-Dv_v0PhH5SqQOGfkWhC4S8NOoTCN3IxR7PvM4QPAMe6QWA"
+      "news_token": "SbDwf3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXWm3cWpeYtCg0GANHEDL8"
     },
     {
-      "query": "autonomous ai agents banking risks",
-      "search_volume": 2000,
+      "query": "5g",
+      "search_volume": 1000,
+      "increase": 400,
+      "categories": [
+        "technology",
+        "science",
+        "business_and_finance"
+      ],
+      "news_token": "bXisEXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuWtDMmLUvMWhQZD-WsPxCHzlbYqCqPIL7Z5giL_0nwtirwCy2IU_jxTCwgfAMkZLdY"
+    },
+    {
+      "query": "brian chesky",
+      "search_volume": 5000,
       "increase": 200,
       "categories": [
-        "other"
+        "business_and_finance",
+        "technology"
       ],
-      "news_token": "8kXN6Hica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiUembeLUvMWhQZD-MpTOQtQ-LdkBFH4OznlIXwAjhcb4g"
+      "news_token": "TF678nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXnmlsWpeYtCg0GANMoDMo"
     },
     {
-      "query": "ifc",
+      "query": "f1tv",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Cx-JN3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuWNIq2LUvMWhQZD-ErrK2IhfADCAxIZ"
+    },
+    {
+      "query": "debt",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "bB_2Znica1xTlFpYmlpcEp-SWJI4f_J5BgYGRuWNPGcXpeYtCg2G8nkFZqHwn7dsR-G_0PZB4e-3OIfCt-BLQeYrPShIQpHfFbUX1TwOZRT-pcbrKPxQzkso_IuTD6LwC84fQuE_qm9Hsf_5taMQPgAU9V-J"
+    },
+    {
+      "query": "49",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "WBUn7Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUbN_4sSs1bFBoM5V80nA7hAwDjfROR"
+      "news_token": "9rWAT3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuW3fpMXpeYtCg2G8pdVnEDmK82foo_CP69tjKL-jvgDFP6rS04o6k8LP4bwAUH1MHw"
     },
     {
-      "query": "pl",
+      "query": "shell",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "rSTOZ3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmVB1ueLCnIWhQZD-Ssn8KDwr2_nQ-Ff_rUUhS_0Ww-FX-Xvj8xX2hojiiJ_6OckFP6Z1LkQPgCNRDtq"
+      "news_token": "-FdOanica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuWF1byLUlIXhQZD-Yv60lD4L8LjUPiLmZ4g8-UXyjKiyHMIK0L4AAR1JwQ"
     },
     {
-      "query": "polymarket",
+      "query": "alex karp",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "other"
+        "science",
+        "technology",
+        "business_and_finance"
       ],
-      "news_token": "he8NL3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRmVTh2mLUvMWhQZD-eYMCij8tXekUPgxeT0o_Ft6NSj823MFUPjnz5iiys9pQ-G37dNE4QcziSDzFT81F0L4AMtURLA"
+      "news_token": "us6KM3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWU1Y2LUvMWhQZD-W_4MpH5cs4fpiHzlRpMJ0D4AMqhHdM"
     },
     {
       "query": "waymo",
@@ -70,54 +101,90 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ND5h33ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRmWXOtZFqXmLQoOh_FsyIih8mxxVFD7_ViMU_uYXrSj8btkVKPzlk6HmAQBN-Sz8"
+      "news_token": "PQMZU3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRmWXOtZFqXmLQoOh_FsyIih8mxxVFP7yyajyC38GoPBnVFWj8Nlz5qPwU9ZIoPDdn51G4fNvNYLwAWnlPgc"
     },
     {
-      "query": "f1 tv",
-      "search_volume": 500,
+      "query": "yulia putintseva",
+      "search_volume": 100,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Cx-JN3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuWNIq2LUvMWhQZD-ErrK2IhfADCAxIZ"
+      "news_token": "TqyfCXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqX3waKLUvMWhQYDANBdDFw"
     },
     {
-      "query": "air canada cancels flights to u.s.",
+      "query": "polymarket",
       "search_volume": 2000,
       "increase": 75,
       "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
+        "other"
       ],
-      "news_token": "zNinhHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUkncmLUvMWhQYDAM2sDCc"
+      "news_token": "Ia4oCnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmVTh2mLUvMWhQZD-EozvC4j85WZrz1FkV9Z_gaFf_RuF4r6YCYRZL7ip-ZCFPmU0uvIfLkflx5B-ADNXDyN"
     },
     {
-      "query": "jeff bezos",
-      "search_volume": 2000,
-      "increase": 50,
+      "query": "volvo",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "autos_and_vehicles",
+        "business_and_finance"
+      ],
+      "news_token": "F6t0l3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXNXJyLUvMWhQZD-Y937EHhc1_8j8J_xnwHhb-L-zUKfwZXCzJfSTqEEUX-hfBlZL5c0cQQZL58pbkOhA8AfTI_dg"
+    },
+    {
+      "query": "stock market sell off advice",
+      "search_volume": 500,
+      "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "tXPtTnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuUrSxIWpeYtCg2G8s83aKLwD7-0RuFf_W-IwhdZuxaFf-RWPgpf6cQhFP6OyQuQ-UqvPi5GkS-acRDCBwBiAUQS"
+      "news_token": "dSLqU3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuWafsNFqXmLQoOh_BU1PCj8uc4ayHylHTN3o8hPm7QVRf6roA2EDwAQCikB"
     },
     {
-      "query": "space exploration technologies corp.",
-      "search_volume": 2000,
-      "increase": 50,
+      "query": "bank",
+      "search_volume": 100,
+      "increase": 75,
       "categories": [
-        "business_and_finance"
+        "other"
       ],
-      "news_token": "9Ah_r3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqUks85FqXmLQoMhfGX2XnZkvpID43YU-dIpYij89YI9ED4AZOMhOw"
+      "news_token": "uoJlQnica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG5U1efItS8xaFBkP56cEeKPyXgrko_OXKlSj8V4XVKPyNIs4o_OczDyHzlXhk3qLwZ2U1opq39DUKf07BTBT1Hx7Vosg_q7BFkX-XmIDCz1jxGUU9--04CB8AQ8Bk0g"
     },
     {
-      "query": "spacecraft",
+      "query": "aurélien tchouaméni",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "business_and_finance",
-        "science"
+        "business_and_finance"
       ],
-      "news_token": "r6eWaHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqVXHxcvSs1bFBoM4StnTT6Iwt87QRSZr8Rn743CX-IfgqL-5P6LKPxVix1Q-BXJa1H4h75Mh_ABC488aw"
+      "news_token": "7PmpbXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuWnHqsWpRYvCg2G8oNi41D4W4T6IHwAG5kX2Q"
+    },
+    {
+      "query": "jim cramer",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "ypBO4Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuU1a28uSs1bFBoM5R9bdQCFf0tGEIVvW1GCwr8p8AuFP0n6DAr_RmM-Cr9-9lNkvtJDuWAIHwAtqTw8"
+    },
+    {
+      "query": "giada de laurentiis",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "Os5VHHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUn3msXpeYtCg2G8hcf_A3hAwDV9hOH"
+    },
+    {
+      "query": "pepsico loses kfc partnership",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "ylfDdXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUlm6YtSs1bFBoM4St9W-0H4QMA1MMTJg"
     }
   ]
 }
