@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 10,
+      "keywords_count": 11,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-25 03:30:56"
+      "last_updated_hkt": "2026-10-25 06:30:54"
     }
   },
   "trending_seeds": [
@@ -24,7 +24,7 @@
         "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "6X1yX3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXeqtWLUvMWhQZD-YGvs1D4652UUfiHMiNR-Dv_v0PhXz7OjcI3cjFH4Z-RaELhLw06hGb_ZwgfAL4ZQbI"
+      "news_token": "ClSBInica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXeqtWLUvMWhQZD-YcyI1H4ga-zUPjrnZRR-Dv_v0PhH5SqQOGfkWhC4S8NOoTCN3IxR7PvM4QPAMe6QWA"
     },
     {
       "query": "autonomous ai agents banking risks",
@@ -33,7 +33,7 @@
       "categories": [
         "other"
       ],
-      "news_token": "tQpM4nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiUembeLUvMWhQZD-Mq3ZARR-BcUz6Hwd3LKQ_gAnhwckw"
+      "news_token": "8kXN6Hica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiUembeLUvMWhQZD-MpTOQtQ-LdkBFH4OznlIXwAjhcb4g"
     },
     {
       "query": "ifc",
@@ -43,6 +43,34 @@
         "business_and_finance"
       ],
       "news_token": "WBUn7Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUbN_4sSs1bFBoM5V80nA7hAwDjfROR"
+    },
+    {
+      "query": "pl",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "law_and_government",
+        "business_and_finance"
+      ],
+      "news_token": "rSTOZ3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmVB1ueLCnIWhQZD-Ssn8KDwr2_nQ-Ff_rUUhS_0Ww-FX-Xvj8xX2hojiiJ_6OckFP6Z1LkQPgCNRDtq"
+    },
+    {
+      "query": "polymarket",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "he8NL3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRmVTh2mLUvMWhQZD-eYMCij8tXekUPgxeT0o_Ft6NSj823MFUPjnz5iiys9pQ-G37dNE4QcziSDzFT81F0L4AMtURLA"
+    },
+    {
+      "query": "waymo",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "ND5h33ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRmWXOtZFqXmLQoOh_FsyIih8mxxVFD7_ViMU_uYXrSj8btkVKPzlk6HmAQBN-Sz8"
     },
     {
       "query": "f1 tv",
@@ -64,22 +92,13 @@
       "news_token": "zNinhHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUkncmLUvMWhQYDAM2sDCc"
     },
     {
-      "query": "polymarket",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "4sYjVnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRmVTh2mLUvMWhQZD-WvvSKHwr7YmofBj8npQ-LfnCqDwb-nVoPDPnzFFVT-nDYVfcXUHCt-cQQGFn1J6HcIHALEiRmc"
-    },
-    {
       "query": "jeff bezos",
       "search_volume": 2000,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "eaEUgnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuUrSxIWpeYtCg2G8s83aKLwD7-0RuFf_W-IwhdZuxaFf-RWPgpf6cQhZL7Sq4-LUeR3TF6Awi-acRDCBwBrIUQS"
+      "news_token": "tXPtTnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuUrSxIWpeYtCg2G8s83aKLwD7-0RuFf_W-IwhdZuxaFf-RWPgpf6cQhFP6OyQuQ-UqvPi5GkS-acRDCBwBiAUQS"
     },
     {
       "query": "space exploration technologies corp.",
@@ -88,7 +107,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "F9FM9Xica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRmXdropFqXmLQoOhfPZedmS-UpJZJwrfgXE7ivrSKWIo_PWCPRA-AKfpJrA"
+      "news_token": "9Ah_r3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqUks85FqXmLQoMhfGX2XnZkvpID43YU-dIpYij89YI9ED4AZOMhOw"
     },
     {
       "query": "spacecraft",
@@ -98,17 +117,7 @@
         "business_and_finance",
         "science"
       ],
-      "news_token": "MKbO6nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqVXHxcvSs1bFBoM4StnTT6Iwt87QRSZr7TEPwRF_uT-iyj8HO_DKPxVix1Q-BeerkMxj8_eG8IHAGr0PHM"
-    },
-    {
-      "query": "saw",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "hobbies_and_leisure",
-        "business_and_finance"
-      ],
-      "news_token": "t_mhrXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXjuiqLUvMWhQZD-bNVVyLzlfZvuIgiv2tqLgq_4IIqCv_oq8sofNdT3Mh8xQu9m1HkD9TdQuHXv5kL4QMA7xBDJw"
+      "news_token": "r6eWaHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRqVXHxcvSs1bFBoM4StnTT6Iwt87QRSZr8Rn743CX-IfgqL-5P6LKPxVix1Q-BXJa1H4h75Mh_ABC488aw"
     }
   ]
 }
