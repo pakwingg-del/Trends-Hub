@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 12,
+      "keywords_count": 13,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-24 21:30:58"
+      "last_updated_hkt": "2026-10-25 00:31:01"
     }
   },
   "trending_seeds": [
@@ -33,7 +33,7 @@
         "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "GgfTsHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXeqtWLUvMWhQZD-YGvs1D4652UUfg7_79D4R_KjEThn-maiMK_fJwbhW_kYo7CP3olB83-zxA-AAO3Qn8"
+      "news_token": "dBRyOnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXeqtWLUvMWhQZD-YGvs1D4652UUfiHMiNR-Ge6JqLwLx_nRuHv_P8OhW_kYo7CXxp0CM3-zxA-AM3yQjM"
     },
     {
       "query": "f1 tv",
@@ -54,13 +54,23 @@
       "news_token": "F9ucfnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRqUdM3cvSs1bFBoM4SsfEv6FzFdyaolHkT9aMAtF_mdwDwrfgXE7inr7bG4U_gnnZhR-4LQfKPr3dboh82VnqU1FUc-daIHCN0pFkZf7YdoJ4QMAnMpWrQ"
     },
     {
-      "query": "jeff bezos",
+      "query": "air canada cancels flights to u.s.",
       "search_volume": 2000,
       "increase": 75,
       "categories": [
+        "travel_and_transportation",
         "business_and_finance"
       ],
-      "news_token": "xIeyRnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuUrSxIWpeYtCg2G8s83aKLwD7-0RuFf_W-IwhdZuxaFf-RWPgpf6cQhZL7Sq4-LUeR3TF6Awr_olgXhAwBph0PI"
+      "news_token": "orzIt3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUkncmLUvMWhQZD-cWmNRA-ALp9EZE"
+    },
+    {
+      "query": "dfw airport american airlines disruption",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "travel_and_transportation"
+      ],
+      "news_token": "ujcf1Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUF1k2LUvMWhQYDAM_bDGM"
     },
     {
       "query": "waymo",
@@ -69,7 +79,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "pZgu3Hica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRmX-rUaLUvMWhQZD-ZtftCLzlW4ml6PIu9SxovBvyYig8G1yVFH43bIrUPjLJ6Oqr1mvh8KfUVWNwmfPmY_CT1kjAeEDAE18SSw"
+      "news_token": "EPEWMHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRmWXOtZFqXmLQoOh_FsyIsh8pZvJ5SjyNjmqKHz-rUYo_M0vWlH43bIrUPjLJ0PNBwBtATL0"
+    },
+    {
+      "query": "jeff bezos",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "xIeyRnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuUrSxIWpeYtCg2G8s83aKLwD7-0RuFf_W-IwhdZuxaFf-RWPgpf6cQhZL7Sq4-LUeR3TF6Awr_olgXhAwBph0PI"
     },
     {
       "query": "space exploration technologies corp.",
@@ -78,25 +97,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "onW953ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRmXdropFqXmLQoOhfPZedmS-UpJZJwrfgXE7ivoV066i8NcL9qDwS6eIQfgAY4wtCQ"
-    },
-    {
-      "query": "mgb layoffs",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "other"
-      ],
-      "news_token": "p3IIHnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuU1RvmLUvMWhQYDAM96DFM"
-    },
-    {
-      "query": "gold and silver price decline",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "uiov_nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuUK3uxFqXmLQoOh_EIrB2S-YvE0TWS-0ksGFQgfAIaRG-8"
+      "news_token": "Rcufpnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRmXdropFqXmLQoOhfPZedmS-UpJZJwrfgXE7ivr1gj0o_NIpYhA-AKq5JrA"
     },
     {
       "query": "spacecraft",
@@ -119,6 +120,16 @@
       "news_token": "bB53jnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXTJjqLCkoWhQZD-QmfpSB8AMCCEgY"
     },
     {
+      "query": "eenadu",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "oLj9Enica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuU77LKLUvMWhQZD-aZ3i1H4SVKHkPlKXTdfosjvDIqG8AG3WSOS"
+    },
+    {
       "query": "saw",
       "search_volume": 100,
       "increase": 50,
@@ -126,7 +137,7 @@
         "hobbies_and_leisure",
         "business_and_finance"
       ],
-      "news_token": "pyYOHHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXjuiqLUvMWhQZD-bum5qLwZ6uuROYr7d9wEUW-4IIqCv_oq8sofNdT3Cj8iqs7kPmKF3o3o8gfqLsF4QMA6hZDJA"
+      "news_token": "t_mhrXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXjuiqLUvMWhQZD-bNVVyLzlfZvuIgiv2tqLgq_4IIqCv_oq8sofNdT3Mh8xQu9m1HkD9TdQuHXv5kL4QMA7xBDJw"
     }
   ]
 }
