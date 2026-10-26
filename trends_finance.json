@@ -10,21 +10,31 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 18,
+      "keywords_count": 21,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-25 21:30:59"
+      "last_updated_hkt": "2026-10-26 00:30:54"
     }
   },
   "trending_seeds": [
     {
       "query": "supplemental security income november payout",
-      "search_volume": 5000,
-      "increase": 700,
+      "search_volume": 50000,
+      "increase": 1000,
       "categories": [
         "business_and_finance",
         "law_and_government"
       ],
       "news_token": "SbDwf3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRiXWm3cWpeYtCg0GANHEDL8"
+    },
+    {
+      "query": "submarine",
+      "search_volume": 1000,
+      "increase": 400,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "KHn8iHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuWpn6cvSs1bFBoM4csncsQh85X3z3mAwn_RKYTCd5g8E4Vf7bkIhT996UcUfpzsTxT-cQVTCB8A7x47ZQ"
     },
     {
       "query": "5g",
@@ -63,16 +73,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "bB_2Znica1xTlFpYmlpcEp-SWJI4f_J5BgYGRuWNPGcXpeYtCg2G8nkFZqHwn7dsR-G_0PZB4e-3OIfCt-BLQeYrPShIQpHfFbUX1TwOZRT-pcbrKPxQzkso_IuTD6LwC84fQuE_qm9Hsf_5taMQPgAU9V-J"
+      "news_token": "u196JXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuWNPGcXpeYtCg2G8JUeFCQh85Vvrd2Pwv9gvAaF_145DYV_qfE6Cv8FhzIKv828DIUfynkJhX9x8kEU_q6ovRA-AGrgSCA"
     },
     {
-      "query": "49",
-      "search_volume": 2000,
+      "query": "polymarket",
+      "search_volume": 5000,
       "increase": 100,
       "categories": [
-        "business_and_finance"
+        "other"
       ],
-      "news_token": "9rWAT3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuW3fpMXpeYtCg2G8pdVnEDmK82foo_CP69tjKL-jvgDFP6rS04o6k8LP4bwAUH1MHw"
+      "news_token": "UK5tUHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRmVTh2mLUvMWhQZD-Ervv6ag8MMbVVH4M7wuI_OVma89RZE_ercLRT6YSQSZr_ipuRCZL_fj0iMU9Sml11H4z_zMIXwA839HvA"
     },
     {
       "query": "shell",
@@ -81,7 +91,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "-FdOanica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuWF1byLUlIXhQZD-Yv60lD4L8LjUPiLmZ4g8-UXyjKiyHMIK0L4AAR1JwQ"
+      "news_token": "kHmfXnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuWF1byLUlIXhQZD-Yv60lD4i5meIPOVyoKeIvPl22wNUfgLZRkhfAAN6CfH"
     },
     {
       "query": "alex karp",
@@ -93,6 +103,34 @@
         "business_and_finance"
       ],
       "news_token": "us6KM3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWU1Y2LUvMWhQZD-W_4MpH5cs4fpiHzlRpMJ0D4AMqhHdM"
+    },
+    {
+      "query": "us military 90 day survival strategy",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "IXQGV3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqVXx6sWpeYtCg0GANaTDTA"
+    },
+    {
+      "query": "dolar hoje",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "92D1k3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqUty5gWFZQsCg2G8tOrLZH58rk1f5D5si8XiSLz5faG_YbwAdRTJGw"
+    },
+    {
+      "query": "aurélien tchouaméni",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "shuUlXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWnHqsWpRYvCg2G8t_eb0PhB8XGofC3CPVB-ADxzh52"
     },
     {
       "query": "waymo",
@@ -113,32 +151,23 @@
       "news_token": "TqyfCXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqX3waKLUvMWhQYDANBdDFw"
     },
     {
-      "query": "polymarket",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "Ia4oCnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmVTh2mLUvMWhQZD-EozvC4j85WZrz1FkV9Z_gaFf_RuF4r6YCYRZL7ip-ZCFPmU0uvIfLkflx5B-ADNXDyN"
-    },
-    {
       "query": "volvo",
-      "search_volume": 1000,
+      "search_volume": 2000,
       "increase": 75,
       "categories": [
         "autos_and_vehicles",
         "business_and_finance"
       ],
-      "news_token": "F6t0l3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXNXJyLUvMWhQZD-Y937EHhc1_8j8J_xnwHhb-L-zUKfwZXCzJfSTqEEUX-hfBlZL5c0cQQZL58pbkOhA8AfTI_dg"
+      "news_token": "HiQOWXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuXNXJyLUvMWhQZD-Y937EHhb_5Ri8Lnvvgfhf-M-Q4Kfxf3a2S-knQII4r8C-HLKPwZXC3IfLmiiSHIfPlKcx0IHwANXkXk"
     },
     {
       "query": "stock market sell off advice",
-      "search_volume": 500,
+      "search_volume": 1000,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "dSLqU3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuWafsNFqXmLQoOh_BU1PCj8uc4ayHylHTN3o8hPm7QVRf6roA2EDwAQCikB"
+      "news_token": "v11PQnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRuX3y1oWpeYtCg2G8mv6DVH4HyR2ovB3HbBG4Z_99Q6F_2bCIhS-fTY3Cv_Zjeso_LnOGij8aZO2IvOVvgraoPB3zNyNov5VrCeEDwCwrVT3"
     },
     {
       "query": "bank",
@@ -147,16 +176,18 @@
       "categories": [
         "other"
       ],
-      "news_token": "uoJlQnica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG5U1efItS8xaFBkP56cEeKPyXgrko_OXKlSj8V4XVKPyNIs4o_OczDyHzlXhk3qLwZ2U1opq39DUKf07BTBT1Hx7Vosg_q7BFkX-XmIDCz1jxGUU9--04CB8AQ8Bk0g"
+      "news_token": "kHXsuHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRuVNXnyLUvMWhQZD-S8Fc1H4t8ukUPivCqtR-MuVK5H5Sjwyb1H4s7IaUfUvfY3CP6Q_HYX_zM8chf_8vjiqfIUtCn-jiDMKf07BTAgfAEIYV7M"
     },
     {
-      "query": "aurélien tchouaméni",
-      "search_volume": 200,
+      "query": "nvidia ai software gpu licensing fee",
+      "search_volume": 500,
       "increase": 50,
       "categories": [
+        "technology",
+        "science",
         "business_and_finance"
       ],
-      "news_token": "7PmpbXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuWnHqsWpRYvCg2G8oNi41D4W4T6IHwAG5kX2Q"
+      "news_token": "3C_hwnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXt1xkWpeYtCg0GANH8DJQ"
     },
     {
       "query": "jim cramer",
@@ -165,7 +196,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ypBO4Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuU1a28uSs1bFBoM5R9bdQCFf0tGEIVvW1GCwr8p8AuFP0n6DAr_RmM-Cr9-9lNkvtJDuWAIHwAtqTw8"
+      "news_token": "jpyhRnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuU1a28uSs1bFBoM5d-SEUThv_93HpmvdKUmBkX-RmM-Cv-mwC8U_iTpMyj6H8oFo8iXFhtB-ABzUTxl"
     },
     {
       "query": "giada de laurentiis",
