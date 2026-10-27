@@ -10,216 +10,261 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 22,
+      "keywords_count": 27,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-26 21:31:02"
+      "last_updated_hkt": "2026-10-27 21:30:59"
     }
   },
   "trending_seeds": [
     {
-      "query": "texas roadhouse steak complaint kenneth card",
+      "query": "susan saint james",
       "search_volume": 200000,
+      "increase": 1000,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "8-g-U3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhW5BasXpeYtCg2G8jWznkP4AMMAEjE"
+    },
+    {
+      "query": "troy aikman monday night football emotion",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "other"
+      ],
+      "news_token": "4sOxdXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuUXWd8WpeYtCg2G8v31U5D5KizN91Hkb_3QhfAB25MeaA"
+    },
+    {
+      "query": "walmart great value fruit cocktail recall",
+      "search_volume": 50000,
       "increase": 1000,
       "categories": [
         "food_and_drink"
       ],
-      "news_token": "1yVYinica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXV6yoWpeYtCg0GANOQDNc"
+      "news_token": "h1srWXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXuR4WLUvMWhQZD-CoalXwQPgDJBRHa"
     },
     {
-      "query": "ai bubble",
+      "query": "unruly aircraft passenger",
       "search_volume": 20000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "jZMfrHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRuXO1_yLUvMWhQZD-XNvqiDzVTgLDiDzlVJ721DU74hTReGXq51H4VfwcaLov_TRD8IHAOxrNAQ"
-    },
-    {
-      "query": "troy aikman",
-      "search_volume": 20000,
-      "increase": 1000,
+      "increase": 800,
       "categories": [
         "other"
       ],
-      "news_token": "5n8Fwnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuUXWd8WpeYtCg2G8q9zsqDwbzRtROFf-38Hma_CsJoLRf64jhQK3-f4OwgfAF3EMFY"
+      "news_token": "ksJfu3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuVXl_YsSs1bFBoM4auIfbqAzJd7zlcJ4QMARuIZTA"
     },
     {
-      "query": "anbernic handheld 3ds emulator dispute",
+      "query": "aclu report ai road surveillance",
       "search_volume": 5000,
-      "increase": 400,
+      "increase": 800,
       "categories": [
-        "games",
-        "technology"
+        "law_and_government",
+        "autos_and_vehicles"
       ],
-      "news_token": "v6eZbnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXmeVKLUvMWhQYDAMqgC8I"
+      "news_token": "NIV7IHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhVmX-9FqXmLQoMByW8Log"
     },
     {
-      "query": "from netflix horror series review",
-      "search_volume": 2000,
+      "query": "microsoft buyouts employees",
+      "search_volume": 5000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "LbkbbXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhWmW28WpeYtCg0GANI1DM8"
+    },
+    {
+      "query": "francis lawrence bioshock movie progress",
+      "search_volume": 5000,
       "increase": 300,
       "categories": [
         "entertainment"
       ],
-      "news_token": "gTjpj3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqUta-QXpeYtCg2G8JWX87ei8P3UuSB8AArRFso"
+      "news_token": "x2IzuXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuU_jC8WpeYtCg0GANQRDOs"
     },
     {
-      "query": "microsoft",
-      "search_volume": 50000,
+      "query": "nvidia rtx",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "JweEr3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuUzpiKLUvMWhQZD-Xd59VH4WhrvkPkq_Mn2KPL6W5aiyIvM1YPwAcVqJuw"
+    },
+    {
+      "query": "airport",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "aE4tmnica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGFbae6EWpeYtCgyF85ccZDch8FVUXHxS-RnclivrOuS9Q5JXsfFH4XPNjUfi8u7uQ-UrOS1-jyKv_tUDhK55Edd8GATUUfrrYYhS-n9dnFP7pU4oo_DfWy1D4OZFrUexTePAYhS_xey6K-leX9qC4_0v_eQgfAH6zf9U"
+    },
+    {
+      "query": "aitana bonmatí",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "other"
+      ],
+      "news_token": "ErMtJ3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqW1dj2LUosXhQZD-Cr8BaLIfKUrNrLIfOUfv8RR1HPdOQThAwChgiMg"
+    },
+    {
+      "query": "ps+ plus november 2026",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "vgO7WHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuUzd1YsSs1bFBoM5UuzuKDw44wUkflK-VVyKPythjsgfACkBSIl"
+    },
+    {
+      "query": "american airlines citi rewards fee increase",
+      "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "_DeOLHica1xTlFpYmlpcEp-SWJJ4h0Fx8nkGBgZGFaZbbxal5i0KDYbwlRxffkTmK88XuYbCn_O9GYXveeIwCn9WrxKKeU6reVHkc7c-ReHvMXiGzFfhaFuCIv948U0U866WzkeR39opjsKvU3uBwq_g40Th_7iO4l_lzVdcUPh33dxR7Fse3IDMF7eeaozMl1d7NB2FvyHtNIp_WHf6oPrvxi8U899_TUHzP4p-5QLt8yjqV5ajuj_wdBwKX_OTPQr_6R47FP2CRxRQ-JsF5kH4AMnuyUg"
+      "news_token": "Rf9q2nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhW5hWaLUvMWhQYDAMxvC_w"
     },
     {
-      "query": "tim sweeney",
-      "search_volume": 5000,
+      "query": "ukraine news",
+      "search_volume": 1000,
       "increase": 100,
       "categories": [
-        "games",
+        "politics"
+      ],
+      "news_token": "C23cUHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRqWalZMWpeYtCg2G8FXEfbRR-FpFXsh85XxrKxT-YctgFPVKGXdQ5P-0zEDhV7q9RFHP0rQORX5vfRKKvLTuYQgfAK0YRCc"
+    },
+    {
+      "query": "nocturne apple tv",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "dmKSQXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqVX8_oXpeYtCg0GANXeDRw"
+    },
+    {
+      "query": "at&t american airlines",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "shopping"
+      ],
+      "news_token": "NUPVI3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUC2fhFqXmLQoMBzEYL8g"
+    },
+    {
+      "query": "jonathan bailey",
+      "search_volume": 5000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "GLT0BXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRhUO3_uLUvMWhQZD-PKXhdqR-SqqBXoofP6tvBA-AJtmHAs"
+    },
+    {
+      "query": "apple support number",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "-3CpdHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGpSuHPy5KzVsUGgzhK--JmITCX2abgMxXEpi-CIX_YPVzFPVOeg0o8h8KZiLzZX9ceoaiPqstEZmvInnsPQpfbs9-FPXa756g8IPW-aKoV3r9FEX-r5Elijz_UhS-8vKf4ij88wffQPgAPAhzMw"
+    },
+    {
+      "query": "cyberpunk update",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "games"
+      ],
+      "news_token": "3peLtXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWFP1YuSs1bFBoM4SvdOLQPma-87Do3inx_UiuEDwAUZB9u"
+    },
+    {
+      "query": "haiti news",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "KSQ82Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmW7A7GLUvMWhQZD-atKspD5KvKW0sh8Jb5Lu1HkVXZeRdF_xMUJma_QqjIBhd902R-ZL7dbexOEDwAhMTmO"
+    },
+    {
+      "query": "macbook pro",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
         "technology",
         "science"
       ],
-      "news_token": "_JrjTnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVjqwwWpeYtCg0GANJrDKY"
+      "news_token": "G_mcB3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmXtd08WpeYtCg2G8FVUNf2Q-Yr17aIo8poHw5H5ypW_WlD4M_pfofAf1X9A5iud-xiEwv_42RzCBwCoHDyu"
     },
     {
-      "query": "us mobile",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "af_dKHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuW6HPVFqXmLQoOhfN2uCmS-_PwpuyF8AALwF7w"
-    },
-    {
-      "query": "ios 27.2",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "Q5XfiXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRqUHq58vSs1bFBoM4csHejsg8xUPPapE5ivnLVFH4fd8-IrCXyeqgcoXU4TwAVYBL4g"
-    },
-    {
-      "query": "mouthwashing xbox game pass release",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "Odm0bXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuVCOa5FqXmLQoOhfNl1zyB8ALH9EZY"
-    },
-    {
-      "query": "airbnb new cleaning policy rules",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "a6T07nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXml6qLUvMWhQYDANG7DJc"
-    },
-    {
-      "query": "apple tv sci fi thriller silo",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "4Id7V3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRmWdmF2LUvMWhQZD-ZnXFFH4cxJmo_A3v2RB4YcwV6Dwb3FCzQMAFjEoqQ"
-    },
-    {
-      "query": "jenna ortega marvel movie appearance",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "5_hIo3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUPxg6LUvMWhQZD-EouMfYQPgC_ahGN"
-    },
-    {
-      "query": "xbox fifty new games release",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "O7rljHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmXZdc8WpeYtCg0GANGUDLc"
-    },
-    {
-      "query": "apple new ipad mini",
-      "search_volume": 5000,
-      "increase": 75,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "W3P2N3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuXbUosXpeYtCg2G8rXfPUHmK9a3iyLzldh6mpH5Cse3_YfwAeELJFk"
-    },
-    {
-      "query": "steam stuck on loading user data",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "technology",
-        "games"
-      ],
-      "news_token": "mRwfl3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRmVhho5FqXmLQoMByTgLoQ"
-    },
-    {
-      "query": "sam raimi",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "g5gVdnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWrIv2LUvMWhQZD-W-Z96Lwj_BeReYrWM-1hvABzOkdsw"
-    },
-    {
-      "query": "sail gp",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "9pWYJ3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuW5NxcsSs1bFBoM5d8UdIDwAdJ1Eow"
-    },
-    {
-      "query": "nvidia rtx gpu ai throttle hack",
+      "query": "genie 4",
       "search_volume": 2000,
       "increase": 50,
       "categories": [
+        "science",
         "technology"
       ],
-      "news_token": "mdbJdHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUzpiKLUvMWhQYDAM41DBs"
+      "news_token": "D1pFm3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXl6d6LUvMWhQYDAMzfDAw"
     },
     {
-      "query": "robot",
-      "search_volume": 1000,
+      "query": "southwest airlines new las vegas routes",
+      "search_volume": 2000,
       "increase": 50,
       "categories": [
-        "autos_and_vehicles",
+        "travel_and_transportation",
         "business_and_finance"
       ],
-      "news_token": "XEfzDHica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG5dAbGYtS8xaFBkP5AgFHUfh_2StQ-Iruu5H5Sr3hK1HkN8wQQuHX_2lE4Yek-KHwnyT6oPA_xK5D4f9P7kPhvy3-gypftA-Fn3ZnLwr_4ct6FP7r6J0o7t9fUw7hAwB7ZGzy"
+      "news_token": "BQFji3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXcHp1FqXmLQoMBzj4MKw"
     },
     {
-      "query": "cve-2026-111497",
+      "query": "sony playstation",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "8UBbIXica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG5SxD9kWpeYtCg6H8M3dWIPNVlO8zoMhLs7ig8H192lH4V_ekoehnPd2IIh9wJgyZr7Trjy-KehUXIRS-rEMFiv6O4hQUfk7OFFTzK-1Q9Mst2o0i_8i7BcX-_Co5CB8AozZlPQ"
+    },
+    {
+      "query": "native hawaiians",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "science"
+      ],
+      "news_token": "4AdV83ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRmWzDecXpeYtCg2G8FU03D2Q-XKr9ikh85UvbVkF4QMAuXEd-g"
+    },
+    {
+      "query": "power outage",
       "search_volume": 500,
       "increase": 50,
       "categories": [
-        "technology"
+        "other"
       ],
-      "news_token": "O62Chnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuVJvF6LUvMWhQZD-QXnD0H4ALxVEjY"
+      "news_token": "KVQQ43ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRhXFfsNFqXmLQoMhfOUVi-OQ-Soqk2tR-EqTr6Hw1cyKUeUzdFDlv5uh8JUZmFH4qjdyIXwAuTI27w"
     },
     {
-      "query": "hinge",
-      "search_volume": 200,
+      "query": "save mass effect campaign times square",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "games"
+      ],
+      "news_token": "5XK5xnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuXOg7aLUvMWhQZD-dnKEch8FaVQGRT558mGKPx-w08o6lVd3qLw5VpdUNQv1kDhK25Znw_hAwDajDiC"
+    },
+    {
+      "query": "ipad mini 8",
+      "search_volume": 100,
       "increase": 50,
       "categories": [
         "technology"
       ],
-      "news_token": "1WrRDnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRqUrhz8uSs1bFBoM4StX3fVH5sufD12JIv9lqygyX4VlohKK_FNNVHnm7adR5Kftd0XhT-20RuYrXdvjgSI_W2w6hA8ASgJG6w"
+      "news_token": "CUsyS3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXbUosXpeYtCg2G8t31JCB8AMGOEXE"
     }
   ]
 }
