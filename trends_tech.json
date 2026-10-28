@@ -10,261 +10,241 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 27,
+      "keywords_count": 25,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-27 21:30:59"
+      "last_updated_hkt": "2026-10-28 21:31:00"
     }
   },
   "trending_seeds": [
     {
-      "query": "susan saint james",
-      "search_volume": 200000,
-      "increase": 1000,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "8-g-U3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhW5BasXpeYtCg2G8jWznkP4AMMAEjE"
-    },
-    {
-      "query": "troy aikman monday night football emotion",
-      "search_volume": 50000,
+      "query": "spain train crash",
+      "search_volume": 100000,
       "increase": 1000,
       "categories": [
         "other"
       ],
-      "news_token": "4sOxdXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuUXWd8WpeYtCg2G8v31U5D5KizN91Hkb_3QhfAB25MeaA"
+      "news_token": "sPLG33ica1xTlFpYmlpcEp-SWJJ4h0Fh8nkGBgZGFYv3cxel5i0KDUbipxUh-G5ZK1H47ks1kPnKL0zOIPPlq3TjkPlsUiqVGHwk-5Q60ixR7Pe2OonCd9ZWQuYrt2pvROHf2MSEot5s1XUU-Z6C7yj8xx3PUNRzLDmLwvdyjERR78sijCKvuaAa1X0ri1D4LsV7UPWz6qDwRdJOo_BnT45F5iv-ujkNmS8X9okNRX7p79so-p01z6Hw52W7oag_nfUWJbxzUp5D-ADp2byg"
     },
     {
-      "query": "walmart great value fruit cocktail recall",
-      "search_volume": 50000,
-      "increase": 1000,
-      "categories": [
-        "food_and_drink"
-      ],
-      "news_token": "h1srWXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXuR4WLUvMWhQZD-CoalXwQPgDJBRHa"
-    },
-    {
-      "query": "unruly aircraft passenger",
+      "query": "derailment",
       "search_volume": 20000,
-      "increase": 800,
+      "increase": 1000,
       "categories": [
         "other"
       ],
-      "news_token": "ksJfu3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuVXl_YsSs1bFBoM4auIfbqAzJd7zlcJ4QMARuIZTA"
+      "news_token": "KySOQnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRhWtw5mLUvMWhQZD-Rbv5yLz5ZconoXyz-26rz4BwgYAadQerQ"
     },
     {
-      "query": "aclu report ai road surveillance",
-      "search_volume": 5000,
-      "increase": 800,
-      "categories": [
-        "law_and_government",
-        "autos_and_vehicles"
-      ],
-      "news_token": "NIV7IHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhVmX-9FqXmLQoMByW8Log"
-    },
-    {
-      "query": "microsoft buyouts employees",
-      "search_volume": 5000,
-      "increase": 600,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "LbkbbXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhWmW28WpeYtCg0GANI1DM8"
-    },
-    {
-      "query": "francis lawrence bioshock movie progress",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "x2IzuXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuU_jC8WpeYtCg0GANQRDOs"
-    },
-    {
-      "query": "nvidia rtx",
-      "search_volume": 5000,
-      "increase": 200,
+      "query": "smartphone",
+      "search_volume": 2000,
+      "increase": 1000,
       "categories": [
         "technology"
       ],
-      "news_token": "JweEr3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuUzpiKLUvMWhQZD-Xd59VH4WhrvkPkq_Mn2KPL6W5aiyIvM1YPwAcVqJuw"
+      "news_token": "GjP4vXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRqXz56cuSs1bFBoM4SuXfNiDwj-3yw6Ff-HHeWS-0pXDH1H4AtMXoaifZGeDzFcxLF2OIr9eaiuK_svS3Cjyvyf7oejXm_YCRf3S8moIHwAjiFS7"
     },
     {
-      "query": "airport",
-      "search_volume": 5000,
-      "increase": 200,
+      "query": "google stock",
+      "search_volume": 50000,
+      "increase": 800,
       "categories": [
-        "law_and_government"
+        "business_and_finance"
       ],
-      "news_token": "aE4tmnica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGFbae6EWpeYtCgyF85ccZDch8FVUXHxS-RnclivrOuS9Q5JXsfFH4XPNjUfi8u7uQ-UrOS1-jyKv_tUDhK55Edd8GATUUfrrYYhS-n9dnFP7pU4oo_DfWy1D4OZFrUexTePAYhS_xey6K-leX9qC4_0v_eQgfAH6zf9U"
-    },
-    {
-      "query": "aitana bonmatí",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "ErMtJ3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRqW1dj2LUosXhQZD-Cr8BaLIfKUrNrLIfOUfv8RR1HPdOQThAwChgiMg"
+      "news_token": "tr1MNXica1xTlFpYmlpcEp-SWJJ4h0F88nkGBgZG5Tq1F4tS8xaFBkP4Kl7FH5H5CorPpZD5SldL5yPz5V9sDEDmK4uleqPw54tcQzHP3UodhX91_XIU-9kLFVHsc3yJ4h4VJSETFL79ovco7lFqzkexv3TOURT-7J-BKOan9rahuCcrbBMK3yU_HMU-b75y1PBquoPCtw66iWLf-yp3CB8AjcSJ0A"
     },
     {
       "query": "ps+ plus november 2026",
-      "search_volume": 2000,
-      "increase": 100,
+      "search_volume": 10000,
+      "increase": 600,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "vgO7WHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuUzd1YsSs1bFBoM5UuzuKDw44wUkflK-VVyKPythjsgfACkBSIl"
+      "news_token": "3AbQSXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGFddKhkWpeYtCgyF8Jdabd5D5ynnfD6Lwl1zjRuHrnviFzFcRuSyGYt6P-Uwo6q9Fq6LwZx57gMI_ZbUYhT-ldzeK-R7ap1H4Xq-XoPAtZ4ai6D9zZwWKvCszin-U8qvkUPhbDXdA-ABLF2_2"
     },
     {
-      "query": "american airlines citi rewards fee increase",
+      "query": "allegiant air canceled destinations list",
+      "search_volume": 10000,
+      "increase": 300,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "jdYmMHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXMhbGLUvMWhQYDANAZDG0"
+    },
+    {
+      "query": "twin hurricanes hawaii",
+      "search_volume": 1000,
+      "increase": 300,
+      "categories": [
+        "science",
+        "climate"
+      ],
+      "news_token": "7yGNnnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXZsPWLUvMWhQYDAM1dDCk"
+    },
+    {
+      "query": "novig sydney sweeney",
+      "search_volume": 500,
+      "increase": 300,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "LkeHXHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhWOv28WpeYtCg2G8OUTTHYh8xWyZAshfAAfvxfD"
+    },
+    {
+      "query": "el salvador haiti",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "0l1B1Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmW7A7GLUosXhQZD-TaFTyB8AMNAEkI"
+    },
+    {
+      "query": "hailey bills",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "-zr-4Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhUOVqVFqXmLQoMhfLndOkYQPgCkBhCQ"
+    },
+    {
+      "query": "airport fire",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "other"
+      ],
+      "news_token": "EvIypXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRhWdgs-LUvMWhQZD-YZl7Ch8E-UUZL5ygbMKhA8Akecbqg"
+    },
+    {
+      "query": "macbook",
+      "search_volume": 50000,
+      "increase": 100,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "wLhymHica1xTlFpYmlpcEp-SWJJ4h0F38nkGBgZGZe13Txal5i0KDYbwVbQ25KPwzQ5wIPMV69tFUfn5l5H58pvL3JD5yvPX7UIxz93pJgpfad9JFL6hux4Kn9P5EDJfaT7fWRT7FRXiUeyfvf8-iv3BrhNQzBP-cw5Ffn9fIYq8nmcTin1XDn9E4X8omInCF5i-CMW8W50HUeTZeppR_W_ChsyX_XHpGYr7M43UUMy7F4MaPnJtRijys1xRwltFQYoJ1X-VPijytksNUORllvShuPfjZ3MU_tNyLhT3aaldQ9Hf9Y0Bhf_qMqr5H78LoNjv3HcFRd7kbQYKvzn3DQo_7LUDinv-B6K4V0XjC9R-ADkICVs"
+    },
+    {
+      "query": "90 day power outage",
+      "search_volume": 10000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "XXwHwXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqVXx6sWpeYtCg2G8sskn0D4ANX9Eug"
+    },
+    {
+      "query": "downdetector",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "entertainment",
+        "technology"
+      ],
+      "news_token": "VKNnBHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhWumqBFqXmLQoMhfOX4QiEIHwCx7hEH"
+    },
+    {
+      "query": "steam ai clone problems",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "games"
+      ],
+      "news_token": "ALiL7nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVasdpFqXmLQoMBzVUMFg"
+    },
+    {
+      "query": "vrt stock",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Rf9q2nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhW5hWaLUvMWhQYDAMxvC_w"
+      "news_token": "WSHirnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqW7q1MXpeYtCg2G8FW8I6ohfADN3xJX"
     },
     {
-      "query": "ukraine news",
-      "search_volume": 1000,
+      "query": "samsung galaxy buds on",
+      "search_volume": 100,
       "increase": 100,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "C23cUHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRqWalZMWpeYtCg2G8FXEfbRR-FpFXsh85XxrKxT-YctgFPVKGXdQ5P-0zEDhV7q9RFHP0rQORX5vfRKKvLTuYQgfAK0YRCc"
-    },
-    {
-      "query": "nocturne apple tv",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "dmKSQXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqVX8_oXpeYtCg0GANXeDRw"
-    },
-    {
-      "query": "at&t american airlines",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "shopping"
-      ],
-      "news_token": "NUPVI3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUC2fhFqXmLQoMBzEYL8g"
-    },
-    {
-      "query": "jonathan bailey",
-      "search_volume": 5000,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "GLT0BXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRhUO3_uLUvMWhQZD-PKXhdqR-SqqBXoofP6tvBA-AJtmHAs"
-    },
-    {
-      "query": "apple support number",
-      "search_volume": 2000,
-      "increase": 75,
       "categories": [
         "technology"
       ],
-      "news_token": "-3CpdHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGpSuHPy5KzVsUGgzhK--JmITCX2abgMxXEpi-CIX_YPVzFPVOeg0o8h8KZiLzZX9ceoaiPqstEZmvInnsPQpfbs9-FPXa756g8IPW-aKoV3r9FEX-r5Elijz_UhS-8vKf4ij88wffQPgAPAhzMw"
+      "news_token": "7wU2P3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUVZ9YuSs1bFBoMANXYDSc"
     },
     {
-      "query": "cyberpunk update",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "games"
-      ],
-      "news_token": "3peLtXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWFP1YuSs1bFBoM4SvdOLQPma-87Do3inx_UiuEDwAUZB9u"
-    },
-    {
-      "query": "haiti news",
+      "query": "cait conley",
       "search_volume": 200,
       "increase": 75,
       "categories": [
-        "law_and_government"
+        "politics"
       ],
-      "news_token": "KSQ82Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmW7A7GLUvMWhQZD-atKspD5KvKW0sh8Jb5Lu1HkVXZeRdF_xMUJma_QqjIBhd902R-ZL7dbexOEDwAhMTmO"
+      "news_token": "gnNRZnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuXJ3ywWpeYtCg2G8FVUY64g85XbzVahyCs7tiHzFVTy1iDz5YW57CF8ABY7J2A"
     },
     {
-      "query": "macbook pro",
-      "search_volume": 2000,
+      "query": "michael haight",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "mOVFDHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuW_hhcWpeYtCg0GANTyDQQ"
+    },
+    {
+      "query": "frontier airlines passenger fare increase q3",
+      "search_volume": 1000,
       "increase": 50,
       "categories": [
-        "technology",
-        "science"
+        "business_and_finance"
       ],
-      "news_token": "G_mcB3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmXtd08WpeYtCg2G8FVUNf2Q-Yr17aIo8poHw5H5ypW_WlD4M_pfofAf1X9A5iud-xiEwv_42RzCBwCoHDyu"
+      "news_token": "qn1eGHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuX6Uv1FqXmLQoMBzj0MKQ"
     },
     {
-      "query": "genie 4",
-      "search_volume": 2000,
+      "query": "marissa mayer",
+      "search_volume": 500,
       "increase": 50,
       "categories": [
         "science",
         "technology"
       ],
-      "news_token": "D1pFm3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXl6d6LUvMWhQYDAMzfDAw"
+      "news_token": "Dq7M03ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuWfC3gWpeYtCg2G8FU0Kj4g8xUTJB9D-AAeeBgi"
     },
     {
-      "query": "southwest airlines new las vegas routes",
-      "search_volume": 2000,
+      "query": "apple news",
+      "search_volume": 500,
       "increase": 50,
       "categories": [
-        "travel_and_transportation",
+        "politics"
+      ],
+      "news_token": "AkyEA3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRhU9z6ZFqXmLQoMhfGXtd09Q-LelFiPzVdydbkL4AL1fHco"
+    },
+    {
+      "query": "el pais",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
         "business_and_finance"
       ],
-      "news_token": "BQFji3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXcHp1FqXmLQoMBzj4MKw"
+      "news_token": "e-d4qXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuWJ_1IWpRYvCg2G8JXKJecg85VDhdqR-SqK_KtQ-K65T1D4Lm07UPgW7-eimJdZm4Mi73UgDEX-kzpUPQAgZT_d"
     },
     {
-      "query": "sony playstation",
-      "search_volume": 1000,
+      "query": "sophie turner black hair transformation",
+      "search_volume": 200,
       "increase": 50,
       "categories": [
-        "games",
-        "technology"
+        "entertainment"
       ],
-      "news_token": "8UBbIXica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG5SxD9kWpeYtCg6H8M3dWIPNVlO8zoMhLs7ig8H192lH4V_ekoehnPd2IIh9wJgyZr7Trjy-KehUXIRS-rEMFiv6O4hQUfk7OFFTzK-1Q9Mst2o0i_8i7BcX-_Co5CB8AozZlPQ"
+      "news_token": "G1-sOHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhX-WrNFqXmLQoMBysgLyQ"
     },
     {
-      "query": "native hawaiians",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "science"
-      ],
-      "news_token": "4AdV83ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRmWzDecXpeYtCg2G8FU03D2Q-XKr9ikh85UvbVkF4QMAuXEd-g"
-    },
-    {
-      "query": "power outage",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "other"
-      ],
-      "news_token": "KVQQ43ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRhXFfsNFqXmLQoMhfOUVi-OQ-Soqk2tR-EqTr6Hw1cyKUeUzdFDlv5uh8JUZmFH4qjdyIXwAuTI27w"
-    },
-    {
-      "query": "save mass effect campaign times square",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "games"
-      ],
-      "news_token": "5XK5xnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuXOg7aLUvMWhQZD-dnKEch8FaVQGRT558mGKPx-w08o6lVd3qLw5VpdUNQv1kDhK25Znw_hAwDajDiC"
-    },
-    {
-      "query": "ipad mini 8",
+      "query": "hawaii news now",
       "search_volume": 100,
       "increase": 50,
       "categories": [
-        "technology"
+        "climate"
       ],
-      "news_token": "CUsyS3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXbUosXpeYtCg2G8t31JCB8AMGOEXE"
+      "news_token": "kav1pnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuWczq-LUvMWhQZD-Cq2W86g8A2iZkD4ACqkGF0"
     }
   ]
 }
