@@ -10,98 +10,61 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 28,
+      "keywords_count": 23,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-29 21:31:01"
+      "last_updated_hkt": "2026-10-30 21:31:01"
     }
   },
   "trending_seeds": [
     {
-      "query": "intel stock",
-      "search_volume": 20000,
+      "query": "sam altman pc ram comments",
+      "search_volume": 10000,
       "increase": 900,
       "categories": [
-        "business_and_finance"
+        "technology"
       ],
-      "news_token": "nUQYRXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRmXbipJFqXmLQoMhfIWoFVOQ-Sp5FXmo_KBeFL7n8gcofPPbm1H40VKKKHzvF93IfOV2JU8U-dzFE5D5inESk1H4TEfYIXwArYBJuQ"
+      "news_token": "ASbjUnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpWsW18XpeYtCg2G8JUPJ4Wh8Nd_cEbmq-R61qHIR_w8gcIPm66Ewr9omI7MV7ixnwfCBwCPwDXt"
     },
     {
-      "query": "ai impacts theoretical computer science",
-      "search_volume": 10000,
-      "increase": 700,
-      "categories": [
-        "science"
-      ],
-      "news_token": "38h7hnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRhWu-bGLUvMWhQZD-UlarMh85Qo-ThT5OJ4DED4AbmcbKw"
-    },
-    {
-      "query": "dylan dreyer hair part change",
-      "search_volume": 20000,
-      "increase": 600,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "tQPiWnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhWnIqZFqXmLQoMBys8LvQ"
-    },
-    {
-      "query": "gta delayed",
+      "query": "airport",
       "search_volume": 10000,
       "increase": 500,
       "categories": [
-        "games",
-        "technology"
+        "other"
       ],
-      "news_token": "CUObKXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpUUHZ9FqXmLQoMhfOX7M7WQ-UrbEn9C-AAHYhgg"
+      "news_token": "bMog33ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRpX8ox2LUvMWhQZD-XmL96Hwe322o_D7pa-i8AvexaDwm90CUPhs3HrIfOWH_mtQ5FN_bETmK_1wfIqifvaKV8h8BSXeZAgfAIQhTH8"
     },
     {
-      "query": "steam free games october 2026",
-      "search_volume": 10000,
-      "increase": 400,
-      "categories": [
-        "games"
-      ],
-      "news_token": "nJMWVXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhWWs_8XpeYtCg2G8lmlQyB8AMR5EZI"
-    },
-    {
-      "query": "apple new macbook pro",
-      "search_volume": 2000,
-      "increase": 400,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "mqfA9Xica1xTlFpYmlpcEp-SWJI4c_J5BgYGRmXtd08WpeYtCg2G8FVi9-xG4Ru666HwE560ovDjzpsj8-UPnlJC4c_efx-Zrzyj_xWKfrMDHBA-AOzaO8w"
-    },
-    {
-      "query": "zelda switch 2",
-      "search_volume": 50000,
-      "increase": 200,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "pO0TnXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRhU1ft1FqXmLQoOhfNMEF2S-7K2ZgijyLp_LkPnKS-Y5osgH7tJC5itNTbZF5itwMD5CkX-TuBFFvlesAcIHAFHoPdc"
-    },
-    {
-      "query": "dhs data leak",
+      "query": "wired an ai breakthrough",
       "search_volume": 20000,
-      "increase": 200,
+      "increase": 300,
+      "categories": [
+        "science"
+      ],
+      "news_token": "J1zuV3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhWu-bGLUvMWhQYDAMy8DA0"
+    },
+    {
+      "query": "pokemon mcdonalds happy meal",
+      "search_volume": 10000,
+      "increase": 300,
+      "categories": [
+        "food_and_drink",
+        "entertainment"
+      ],
+      "news_token": "dG1rdXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhXl-reLUvMWhQZD-Ipmh5ZD-ADHqhJ5"
+    },
+    {
+      "query": "uss abraham lincoln sailor overboard",
+      "search_volume": 10000,
+      "increase": 300,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "Wu0bxXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRhUvp-pFqXmLQoOh_NRiJRQ-G_dnZL5ySFUcirxf-wEU-b7VbKjmFdWjyM9yC0GRV9GfhMLP5mtFUT_PbTsyX-ln0X4IHwC2e0lF"
-    },
-    {
-      "query": "google stocks",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Ln1Pynica1xTlFpYmlpcEp-SWJI4b_J5BgYGRuU6tReLUvMWhQZD-CoGH1WQ-Uo7Zu5GkfdZOQWFn-uphsJPT3qPzJd_-2M1Ml9OO8UaTf8pVPPfoLhH6V3Xa2S-8o-CByjqbZdyo8hX8HFC-AAU1Vir"
+      "news_token": "ntgg1Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpX8INVFqXmLQoMhfOUCZxUU_oXJD5H5Kq4bnqDIy2QxoMi3TbyJIt8rboLCfyvYCuEDALoqM54"
     },
     {
       "query": "caitlyn jenner",
-      "search_volume": 5000,
+      "search_volume": 10000,
       "increase": 200,
       "categories": [
         "entertainment"
@@ -109,173 +72,165 @@
       "news_token": "6T6Bunica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuW5_AWLUvMWhQYDAM3iDCI"
     },
     {
-      "query": "kevin bleyer daily show writer",
+      "query": "ukraine hits russian oil refinery",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "entertainment"
-      ],
-      "news_token": "_gdGgnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhWN0I5FqXmLQoMBzKcMDA"
-    },
-    {
-      "query": "airport",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "fMyt73ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRhULoaxFqXmLQoOh_Az3Kch8pR-OT1HkswQTUfgpjeHIfOWH_mtQ5A1f70Dhp3HuQeEnJa9E4af_1EQxT2SqNgp_9opXED4AhxpLDw"
-    },
-    {
-      "query": "t-mobile spacex network deal rejection",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "technology",
-        "science"
-      ],
-      "news_token": "O8QeJXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuWXHd6LUvMWhQZD-WsPxEH4AM9kEtM"
-    },
-    {
-      "query": "elder scrolls 6",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "tDAFfXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuU5Si2LUvMWhQYDAM79DEg"
-    },
-    {
-      "query": "cve 2026 98432",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology",
-        "science"
-      ],
-      "news_token": "4Ik1AXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpV0k-ZFqXmLQoOhfP0lyRA-ALrTEaI"
-    },
-    {
-      "query": "amd stock",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
         "business_and_finance"
       ],
-      "news_token": "D9TfBXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRiX9KZGLUvMWhQZD-MqTOpag8I8ZOSDzVVwdGVH4nssfoPDF1xUh8xUWbVmOwlcRXYXMl5_0_TSEDwAgQzoC"
+      "news_token": "U8Kp2nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpWmVbqLUvMWhQZD-MqfQsSR-QriC5cj85VWPJ2JIh8rchCFz3hFC5kvf_TYRxS-757VKOq__bsM4QMAocY8hQ"
     },
     {
-      "query": "us airport flight delays cancellations",
-      "search_volume": 1000,
+      "query": "myglamper hitch mounted tent trailer",
+      "search_volume": 5000,
       "increase": 100,
       "categories": [
-        "travel_and_transportation"
+        "hobbies_and_leisure",
+        "autos_and_vehicles"
       ],
-      "news_token": "o8_a73ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhV3pUmLUvMWhQYDAMxsDAI"
+      "news_token": "tARQyHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUSX8ZFqXmLQoMBy2ILyQ"
     },
     {
-      "query": "五中全会",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "u00o_Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuXCGItFVRmLQoOh_HWfnyHzFf94m0D4ACJoGMQ"
-    },
-    {
-      "query": "novig sydney sweeney",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "LkeHXHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhWOv28WpeYtCg2G8OUTTHYh8xWyZAshfAAfvxfD"
-    },
-    {
-      "query": "russian pacific fleet bulava launch",
+      "query": "paige cognetti",
       "search_volume": 200,
       "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "law_and_government"
-      ],
-      "news_token": "Tk8_jXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuV3GmyLUvMWhQYDAM6dDCI"
-    },
-    {
-      "query": "ios 27.3 expected release date",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "wYIA63ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRqUHq58vSs1bFBoMANhUDXc"
-    },
-    {
-      "query": "american airlines credit card fee hike",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Rf9q2nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhW5hWaLUvMWhQYDAMxvC_w"
-    },
-    {
-      "query": "nocturne apple tv",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "aL5tpnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRqVX8_oXpeYtCg2G8JW7-p8i8xUW71CC8AE8MRkg"
-    },
-    {
-      "query": "chip roy",
-      "search_volume": 200,
-      "increase": 75,
       "categories": [
         "politics",
         "law_and_government"
       ],
-      "news_token": "JYRMQXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpUg_7-LUvMWhQZD-PInq3-g8Asi5kL4ACyzGMo"
+      "news_token": "MlE6gXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWjV5YtSs1bFBoMANbsDUU"
     },
     {
-      "query": "united airlines san francisco routes",
+      "query": "nvidia stock",
+      "search_volume": 20000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "pL9EgHica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGFcuZoYtS8xaFBkP50VKKKHy3_ZIo_Mi9Rih8XuYeFL7W5UgUvuV2JhR-inYCMl8-k4cTma8gLd6GzFfmreJH5ivtmLkbRX5SxxIU_pzvzajy0mdQ-HsiJqG4p8NbCIUvvq4IhZ-btQ-Fr3zcD8X9X2bsRHH_Hff7ED4AQLyA_g"
+    },
+    {
+      "query": "sony playstation",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "technology",
+        "games"
+      ],
+      "news_token": "RzAOLnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRpUYvvJFqXmLQoOh_E5vD2S-chv3IlT5bwdR-B27bqDwXSsZUPjOqyaj8LstslD4iWeiUezrZ5ZCkY_fooQif_vOVRT5CLfnKPIHT_NC-ACii1am"
+    },
+    {
+      "query": "andy yen",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "science",
+        "technology"
+      ],
+      "news_token": "z-8ZAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhWOtr2LUvMWhQYDAM6CDFI"
+    },
+    {
+      "query": "faith evans",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "zZC_n3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpWEp0sWpeYtCg0GANPjDPA"
+    },
+    {
+      "query": "air force one",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "I5cZB3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpWGz8cXpeYtCg2G8JX_bdqFwt_ypgSZr5L9ZT-EDwAnfiCw"
+    },
+    {
+      "query": "amd stock price",
       "search_volume": 1000,
       "increase": 50,
       "categories": [
-        "travel_and_transportation",
         "business_and_finance"
       ],
-      "news_token": "_2pJ13ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuWVqayLUvMWhQZD-Zvu7ITwAcMcEqY"
+      "news_token": "Zx6W1Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpUao6JFqXmLQoOhfIX5gsh8BRXRVch8Jf0pkRA-AIRPG8U"
     },
     {
-      "query": "katie holmes jason bard yarmosky airport",
+      "query": "robert glenn shove navy sailor",
       "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "tyG3VHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXXDU8WpeYtCg0GANMIDOA"
+    },
+    {
+      "query": "larry page",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "science",
+        "technology"
+      ],
+      "news_token": "h0j4TXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpXO2omLUvMWhQZD-UlabSj8qv-FyHzlOrUXKPxVpxZA-ADXHiRU"
+    },
+    {
+      "query": "vibe coding",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "3h0B_Xica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGFacZLItS8xaFBkP5SVqsKHyvwC4UvsPeTBR-5HkGFD5XDR8yX_n-zGAUef3Fn1H4Ldc4Uc3fE4aiP3j6OhT5jIs7UOSX3jyPws9Ou4HCt9ioisJX2FsJ4QMAUXthVA"
+    },
+    {
+      "query": "norad air defense alaska f-16",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "law_and_government",
+        "business_and_finance"
+      ],
+      "news_token": "0-sUWnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUSYb5FqXmLQoMBye0LnA"
+    },
+    {
+      "query": "the traitors",
+      "search_volume": 500,
       "increase": 50,
       "categories": [
         "entertainment"
       ],
-      "news_token": "3jIfinica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXltbGLUvMWhQYDAM4NDDQ"
+      "news_token": "Gjd39nica1xTlFpYmlpcEp-SWJI4d_J5BgYGRuXJLkKLUvMWhQZD-CpJE2Yj85VPHPuFIm9dsAiFX6VnjMLPXrcMhd9fno9inrb-XGS-PNeXcmS-UvI6FHmFJ9snougXP78Vxfyi_AAIHwABKlG4"
     },
     {
-      "query": "samsung stock",
+      "query": "the hacker news",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "business_and_finance"
+        "technology"
       ],
-      "news_token": "nbTIunica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRhV_Vu9FqXmLQoMhfOU5Ow2R-SpKV9-g8JNSdqPwI_cshfABpTsjZQ"
+      "news_token": "SDerRHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRhXX4D2LUvMWhQZD-Mrix8SR-SrVwX9Q-OkmzSj8POfTKPyEeZUo_Br-KFT1KW4o_NzfJSj8-K2zIHwA38s_Lw"
     },
     {
-      "query": "steam ai games",
-      "search_volume": 100,
+      "query": "alaska air group",
+      "search_volume": 200,
       "increase": 50,
       "categories": [
-        "games"
+        "business_and_finance",
+        "travel_and_transportation"
       ],
-      "news_token": "hPcb6nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuVasdpFqXmLQoOh_GOrDFD4ApxuyHyl9ZP3QvgAnNoc5Q"
+      "news_token": "b0CZoHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRpWemYKLUvMWhQZD-W13rVH4RZPTUfiq7YYo_NZqBWS-cr_BEwgfAAT6KEk"
+    },
+    {
+      "query": "lakeva keel ferreira craig melvin costume",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "QT5gVXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpWmVSGLUvMWhQYDANENDIc"
     }
   ]
 }
