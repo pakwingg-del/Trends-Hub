@@ -10,227 +10,198 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 23,
+      "keywords_count": 20,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-10-30 21:31:01"
+      "last_updated_hkt": "2026-10-31 21:31:05"
     }
   },
   "trending_seeds": [
     {
-      "query": "sam altman pc ram comments",
-      "search_volume": 10000,
-      "increase": 900,
+      "query": "samsung news app discontinued 2026",
+      "search_volume": 100000,
+      "increase": 1000,
       "categories": [
-        "technology"
+        "technology",
+        "science"
       ],
-      "news_token": "ASbjUnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpWsW18XpeYtCg2G8JUPJ4Wh8Nd_cEbmq-R61qHIR_w8gcIPm66Ewr9omI7MV7ixnwfCBwCPwDXt"
+      "news_token": "9pw5oXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpWwPZ8XpeYtCg2G8JV_f56OzFcJqnFA4Qv_tULh8717gKLfSa8BRd6f1RtFfsWZtSj8OYntKHztkLMQPgDgiEC_"
     },
     {
-      "query": "airport",
+      "query": "bo bice short hair transformation",
+      "search_volume": 50000,
+      "increase": 1000,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "1HWnu3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUSn4RFqXmLQoMBzfMMJw"
+    },
+    {
+      "query": "selma blair",
       "search_volume": 10000,
-      "increase": 500,
+      "increase": 700,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "b3KNC3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuUlqjaLUvMWhQZD-EoLVa4i85UP7foG4QMAD1YYog"
+    },
+    {
+      "query": "mcdonalds pokemon happy meals",
+      "search_volume": 500,
+      "increase": 400,
+      "categories": [
+        "food_and_drink"
+      ],
+      "news_token": "7SLE9Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXl-reLUvMWhQYDANCNDJY"
+    },
+    {
+      "query": "tesla cybertruck",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "autos_and_vehicles",
+        "entertainment"
+      ],
+      "news_token": "Q7c6-3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpWFO18vSs1bFBoM5c-3OYbMV16nJIoiP2FnEAq_4bM2Cr_zyhQU_Qv2uqHw_yc9RObL7yq1hvABGPs8ew"
+    },
+    {
+      "query": "faith hedgepeth",
+      "search_volume": 2000,
+      "increase": 300,
       "categories": [
         "other"
       ],
-      "news_token": "bMog33ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRpX8ox2LUvMWhQZD-XmL96Hwe322o_D7pa-i8AvexaDwm90CUPhs3HrIfOWH_mtQ5FN_bETmK_1wfIqifvaKV8h8BSXeZAgfAIQhTH8"
+      "news_token": "KaP8r3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpWZc5UWpeYtCg2G8JUnTA2D8AHDYhIg"
     },
     {
-      "query": "wired an ai breakthrough",
-      "search_volume": 20000,
-      "increase": 300,
-      "categories": [
-        "science"
-      ],
-      "news_token": "J1zuV3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhWu-bGLUvMWhQYDAMy8DA0"
-    },
-    {
-      "query": "pokemon mcdonalds happy meal",
-      "search_volume": 10000,
-      "increase": 300,
-      "categories": [
-        "food_and_drink",
-        "entertainment"
-      ],
-      "news_token": "dG1rdXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhXl-reLUvMWhQZD-Ipmh5ZD-ADHqhJ5"
-    },
-    {
-      "query": "uss abraham lincoln sailor overboard",
-      "search_volume": 10000,
-      "increase": 300,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "ntgg1Xica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpX8INVFqXmLQoMhfOUCZxUU_oXJD5H5Kq4bnqDIy2QxoMi3TbyJIt8rboLCfyvYCuEDALoqM54"
-    },
-    {
-      "query": "caitlyn jenner",
-      "search_volume": 10000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "6T6Bunica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuW5_AWLUvMWhQYDAM3iDCI"
-    },
-    {
-      "query": "ukraine hits russian oil refinery",
+      "query": "armored core pile bunker pen",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "U8Kp2nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpWmVbqLUvMWhQZD-MqfQsSR-QriC5cj85VWPJ2JIh8rchCFz3hFC5kvf_TYRxS-757VKOq__bsM4QMAocY8hQ"
-    },
-    {
-      "query": "myglamper hitch mounted tent trailer",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "hobbies_and_leisure",
-        "autos_and_vehicles"
-      ],
-      "news_token": "tARQyHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUSX8ZFqXmLQoMBy2ILyQ"
-    },
-    {
-      "query": "paige cognetti",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "politics",
-        "law_and_government"
-      ],
-      "news_token": "MlE6gXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWjV5YtSs1bFBoMANbsDUU"
-    },
-    {
-      "query": "nvidia stock",
-      "search_volume": 20000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "pL9EgHica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGFcuZoYtS8xaFBkP50VKKKHy3_ZIo_Mi9Rih8XuYeFL7W5UgUvuV2JhR-inYCMl8-k4cTma8gLd6GzFfmreJH5ivtmLkbRX5SxxIU_pzvzajy0mdQ-HsiJqG4p8NbCIUvvq4IhZ-btQ-Fr3zcD8X9X2bsRHH_Hff7ED4AQLyA_g"
-    },
-    {
-      "query": "sony playstation",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "technology",
-        "games"
-      ],
-      "news_token": "RzAOLnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRpUYvvJFqXmLQoOh_E5vD2S-chv3IlT5bwdR-B27bqDwXSsZUPjOqyaj8LstslD4iWeiUezrZ5ZCkY_fooQif_vOVRT5CLfnKPIHT_NC-ACii1am"
-    },
-    {
-      "query": "andy yen",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "science",
         "technology"
       ],
-      "news_token": "z-8ZAHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhWOtr2LUvMWhQYDAM6CDFI"
+      "news_token": "zIxcNXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpVq6ceLUvMWhQYDANA_DIA"
     },
     {
-      "query": "faith evans",
+      "query": "apple iphone duo display cracking",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "NHHot3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRqUrhz8uSs1bFBoM4Ss76TVA-ADaShLD"
+    },
+    {
+      "query": "nintendo switch zelda 40th anniversary",
       "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "kO5gl3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRhU1ft1FqXmLQoOh_MBdWsh82VszBZH58i7vp0L4AH_CHLM"
+    },
+    {
+      "query": "vandenberg launch schedule",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "dPlTlnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpVYlsxFqXmLQoMhfPkfN5ci85XbD-VB-AAVIhiG"
+    },
+    {
+      "query": "xbox game pass november 2026 games",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "K53DvHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpU5rF6LUvMWhQZD-Io38gyQ-cqy654h8-VKNx1G5qu0HLGC8AG3ViOX"
+    },
+    {
+      "query": "haití",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "bQElRnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpXpC78tSi1eFBoM5XcpfkXhh6TvQ-EL_HdE4Qd2b0fheyk2IvOVbQqfQPgAPpEveg"
+    },
+    {
+      "query": "bobbie emmett happys place romance",
+      "search_volume": 2000,
       "increase": 75,
       "categories": [
         "entertainment"
       ],
-      "news_token": "zZC_n3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpWEp0sWpeYtCg0GANPjDPA"
+      "news_token": "Yw6p1nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpWJ_-0XpeYtCg0GANOpDNY"
     },
     {
-      "query": "air force one",
+      "query": "violetta mailyan",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "Q8P2a3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXjiomLUosXhQYDAM-XDFQ"
+    },
+    {
+      "query": "sony playstation 6 announcement 2027",
       "search_volume": 200,
       "increase": 75,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "UCX7P3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUsQ_ZFqXmLQoMBykgLqA"
+    },
+    {
+      "query": "russia rassvet constellation orbit failure",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "_d_fpHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhWFhCmLUvMWhQZD-PKNx7kgfAC65BGv"
+    },
+    {
+      "query": "philadelphia delivery robot sidewalk protest",
+      "search_volume": 1000,
+      "increase": 50,
       "categories": [
         "other"
       ],
-      "news_token": "I5cZB3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpWGz8cXpeYtCg2G8JX_bdqFwt_ypgSZr5L9ZT-EDwAnfiCw"
+      "news_token": "XIJNZnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXX0TsXpeYtCg0GANT_DQU"
     },
     {
-      "query": "amd stock price",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Zx6W1Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpUao6JFqXmLQoOhfIX5gsh8BRXRVch8Jf0pkRA-AIRPG8U"
-    },
-    {
-      "query": "robert glenn shove navy sailor",
-      "search_volume": 1000,
+      "query": "is elizabeth holmes still in jail",
+      "search_volume": 500,
       "increase": 50,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "tyG3VHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXXDU8WpeYtCg0GANMIDOA"
+      "news_token": "rgXlKHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpXJNbcWpeYtCg2G8JWV6ryQ-QryloshfAAV8Rde"
     },
     {
-      "query": "larry page",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "science",
-        "technology"
-      ],
-      "news_token": "h0j4TXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpXO2omLUvMWhQZD-UlabSj8qv-FyHzlOrUXKPxVpxZA-ADXHiRU"
-    },
-    {
-      "query": "vibe coding",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "3h0B_Xica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGFacZLItS8xaFBkP5SVqsKHyvwC4UvsPeTBR-5HkGFD5XDR8yX_n-zGAUef3Fn1H4Ldc4Uc3fE4aiP3j6OhT5jIs7UOSX3jyPws9Ou4HCt9ioisJX2FsJ4QMAUXthVA"
-    },
-    {
-      "query": "norad air defense alaska f-16",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "law_and_government",
-        "business_and_finance"
-      ],
-      "news_token": "0-sUWnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUSYb5FqXmLQoMBye0LnA"
-    },
-    {
-      "query": "the traitors",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "Gjd39nica1xTlFpYmlpcEp-SWJI4d_J5BgYGRuXJLkKLUvMWhQZD-CpJE2Yj85VPHPuFIm9dsAiFX6VnjMLPXrcMhd9fno9inrb-XGS-PNeXcmS-UvI6FHmFJ9snougXP78Vxfyi_AAIHwABKlG4"
-    },
-    {
-      "query": "the hacker news",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "SDerRHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRhXX4D2LUvMWhQZD-Mrix8SR-SrVwX9Q-OkmzSj8POfTKPyEeZUo_Br-KFT1KW4o_NzfJSj8-K2zIHwA38s_Lw"
-    },
-    {
-      "query": "alaska air group",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "travel_and_transportation"
-      ],
-      "news_token": "b0CZoHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRpWemYKLUvMWhQZD-W13rVH4RZPTUfiq7YYo_NZqBWS-cr_BEwgfAAT6KEk"
-    },
-    {
-      "query": "lakeva keel ferreira craig melvin costume",
+      "query": "all's fair",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "entertainment"
       ],
-      "news_token": "QT5gVXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpWmVSGLUvMWhQYDANENDIc"
+      "news_token": "Bc0lu3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuXbpW8WpeYtCg2G8FXmx2Qj85X7rjagyNcz3UTmK-xc1AzhAwAQlSTa"
+    },
+    {
+      "query": "météo demain",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "climate"
+      ],
+      "news_token": "Kzv7R3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuVPn-8sSitaFBoMANsIDcw"
     }
   ]
 }
