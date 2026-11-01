@@ -10,68 +10,48 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 26,
+      "keywords_count": 22,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-01 06:30:57"
+      "last_updated_hkt": "2026-11-01 21:30:55"
     }
   },
   "trending_seeds": [
     {
-      "query": "bank",
-      "search_volume": 2000,
-      "increase": 1000,
-      "categories": [
-        "other"
-      ],
-      "news_token": "PkR9kXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRuUdWoyLUvMWhQZD-CpdkyNQ-P3rf6Hwl-VVofCjd9ih8K2DG1H4C2JbUfh-7dtQ-NyxHsh85X99Ash8pXeJCSh8Hpm3KPyvCgshfACvdlCk"
-    },
-    {
-      "query": "once upon a farm tractor wheels recall",
-      "search_volume": 20000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "ahGJnnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUp3U8WpeYtCg0GANSnDQo"
-    },
-    {
-      "query": "courage and civility award",
-      "search_volume": 10000,
-      "increase": 500,
-      "categories": [
-        "entertainment",
-        "business_and_finance"
-      ],
-      "news_token": "b_D_FHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpXlXccWpeYtCg2efC4pNcQKyobILfzDicJfItgI4QMAngsd3g"
-    },
-    {
-      "query": "las vegas flash flooding",
-      "search_volume": 10000,
-      "increase": 500,
-      "categories": [
-        "other"
-      ],
-      "news_token": "LMVOU3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUJXgcXpeYtCg0GANGGDKI"
-    },
-    {
-      "query": "van allen radiation belt",
-      "search_volume": 20000,
-      "increase": 400,
-      "categories": [
-        "science",
-        "business_and_finance"
-      ],
-      "news_token": "Cg368nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWne2QWpeYtCg0GANOGDMM"
-    },
-    {
-      "query": "interstellar object",
+      "query": "interstellar object 3i atlas",
       "search_volume": 5000,
       "increase": 400,
       "categories": [
         "science",
         "business_and_finance"
       ],
-      "news_token": "h3LLcXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRmXl7b6LUvMWhQZD-CpRM1QgfAC67RGK"
+      "news_token": "_vRdcnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRmXl7b6LUvMWhQZD-PLWZg3IfJWoGSrIfIVXfusgfACV-Rzm"
+    },
+    {
+      "query": "market",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "sLmEy3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRpVpxXMXpeYtCg2G8pfaXEXmK-2YuRtFvmO5IAo_UdAWhb_XLw-Zrzxt0lYU_s5TK1HUi_bOQJG39DVCkd-z5xcKv27aMRS-jbIDinsvffRDMa9O7QWEDwCHA140"
+    },
+    {
+      "query": "flash flooding las vegas",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "other"
+      ],
+      "news_token": "aeEovXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpUJXgcXpeYtCg2G8veYf0HhT5hUjMKP-j0Fhb-7KBxV_wslFP5ev_UofGUJSWS-8vFPlch8pc6DdRA-APlRQdU"
+    },
+    {
+      "query": "data center",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "ETEVjnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXmnOOLUvMWhQZD-CpxDZNQ-JtmVyPzld9ntaHwr-z0QVGf_t0FhZ-8whaFX786G4WfdesrinkXuAIgfAAE70IK"
     },
     {
       "query": "5g",
@@ -80,71 +60,138 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Ny1dm3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpW0346LUvMWhQZD-MprD8Qh81Uyb09G4cefnoHCb_gSj8IPWmmCzFd6ab4WRT75rzIK3__9HwgfACP1PM4"
+      "news_token": "ZBN3_3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpW0346LUvMWhQZD-XH_SpD5yq8q-1HkN3yNRJH_yJyCwl97IA6Zr_TSfC0yX95luTaEDwCi8TZW"
+    },
+    {
+      "query": "samsung news",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "9XDkm3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRpVFX14tSs1bFBoM5Yft-YzMV56T2I4iL_zXCoXP9-4BCn_D0Uco_KAaBxR-opYtivm_P09H4T8QDENRH_F3KjJf6crhjyjy_qzeED4Av29Ujw"
     },
     {
       "query": "robert downey jr",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "gRPz9nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpUF--cvSs1bFBoM4SvnW75B5qtkH16Kwhf9_hqF73WrG4WvUrkMhe9y-zqK-WdXFiDzFXkmHUSRT797FMIHAEmRQxI"
-    },
-    {
-      "query": "market",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "7A7HIXica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGlWnFcxel5i0KDYbwlTtf8yPzlS599EPh75i5G5mvMkEsCUV_dkgTinxcw0cU-UnBDCj8Hw02KOoTBW1R-KriD1D43UlsqOqj16DwrVkfovBXrmRE4c_TDUWx33HhHBT-3JsqKOrn2yyD8AEk23KR"
-    },
-    {
-      "query": "it",
       "search_volume": 10000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "5AJLuHica1xTlFpYmlpcEp-SWJJ4h0F68nkGBgZGlTzn04tS8xaFBkP5i_v3ovDXzItD4WtfKUDhi_RMR-Yrd12VROGv9pqDoj60QBeFv6hzEQpfM9sWhb8q1B-F7yJ4CMX8p-KFKPzjoVIo6tetP48i_zp6J4q8nrkMivzehlQU_qN3Eij8FBUU9ynMmToZxbye9isofEc1axR-e4gJCt96wV8Uvvyd3yjm72xmgfABZr2hOA"
-    },
-    {
-      "query": "weapons",
-      "search_volume": 5000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "37fMynica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGFWWnXYtS8xaFBkP4yv-_8iPzVYK10pH5Ssc5FqHI-wYqoPB7pdlR-GtKD6Lwi5f0oPA7v0Wh8APl-VD4y2N_oPA7vP1R-Ku2T0ThJ-17i8yXv39OAoX__9lkFH5z52cU_SwPoOEBAIkfb68"
-    },
-    {
-      "query": "black widow",
-      "search_volume": 2000,
-      "increase": 75,
+      "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "8JxwjXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpX13p2LUvMWhQZD-SqVyyB8AMSnEhQ"
+      "news_token": "FGxlkXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpUF--cvSs1bFBoM4SvnW75B5quoVC5DkX_MUIfCT797FJmvyDPpIIr82ZUFED4ANIwwLg"
     },
     {
-      "query": "spacex nvda portfolio return 2030",
-      "search_volume": 1000,
-      "increase": 75,
+      "query": "la nación",
+      "search_volume": 2000,
+      "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "DDkBZ3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpXcrH2LUvMWhQZD-VqXIyF8AMbLEjk"
+      "news_token": "sxcLr3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpX2qe8XpRYvCg2G8JVzOucj81X2rDqEIv-d3QWZr3Rj1h8U9bv041DU3ynYgiK_w2MKCl-1NBrVvpSLED4AbvZC6w"
     },
     {
-      "query": "russia rassvet constellation orbit failure",
-      "search_volume": 2000,
-      "increase": 50,
+      "query": "avión espacial",
+      "search_volume": 1000,
+      "increase": 100,
       "categories": [
         "business_and_finance",
         "science"
       ],
-      "news_token": "_d_fpHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhWFhCmLUvMWhQZD-PKNx7kgfAC65BGv"
+      "news_token": "vuAMvHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXdrK2LUosXhQYDAM7LDFg"
+    },
+    {
+      "query": "retirement",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "SvXCP3ica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG5S3KiYtS8xaFBkP4KvN00lD4O2c8ReYrL-FNQJHf3nwOhR-7dxsKvzlHC4W_TNUbxbxG6VxU-3U7UPhb9B-g8LceMEOVP-6Dwk-Z9QeFv2qiPArff3szCt-o2gKFXy8-DYVvsRXVvhW7y1Hcf_nZYmS-konoMhT1Iee8UPjKJ5QgfABVIpCk"
+    },
+    {
+      "query": "cathie wood tempus ai stock purchase",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "LRhgCXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpX8ksBFqXmLQoMhfOW77YuQ-Sp8x1NR-HHmEhA-AL8AHPw"
+    },
+    {
+      "query": "xrp ledger",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "IgSwlHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRpW-gm2LUvMWhQZD-MoypbXIfBXr54ko_Dzn0yjqN393RZFfcCsMhb_rdxkKf7dVAArfNT0OhW-lFopifq_eXhR5e8tTED4AW91Leg"
+    },
+    {
+      "query": "tom lee",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "fSOq_Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpX5vs2LUvMWhQZD-ArnNV4i85Xl5t9D5qsEbLwE4QMA1iAelA"
+    },
+    {
+      "query": "technology news",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "I6pthnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWrydqLUvMWhQZD-EqXPvoh81U0zASR-crNOcchfADAix1x"
+    },
+    {
+      "query": "sirius xm",
+      "search_volume": 100,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "EYzM0Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhW7DvdFqXmLQoMhfOWep2bIfJUMpT4IHwAHcxdg"
+    },
+    {
+      "query": "ihop",
+      "search_volume": 20000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "food_and_drink"
+      ],
+      "news_token": "9vH0snica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuXDbpyLUvMWhQZD-Cp7NqxC4dvd0keVD69C4e9444zCX5C3EoWfulAUmS-_7XI4Ml_x9tNuZL4Co7YyMl_ujJkchA8A3EVGCQ"
+    },
+    {
+      "query": "chipotle",
+      "search_volume": 20000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "food_and_drink"
+      ],
+      "news_token": "EGts1Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRhW17oWLUvMWhQZD-ds8bZH5ynfWzkWR76wVQOFrPglHUR_dloPC_zs3H5mvIPX9HYQPAAxmNXQ"
+    },
+    {
+      "query": "black friday",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "4K7hp3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuXZE_cvSs1bFBoM4avsVN-Owhfu2IrCXyjWicLf5X8Zhb_DUAqF3_xyJTJf-bDlfRT5zZsZIXwA1Oo7hQ"
+    },
+    {
+      "query": "healthcare marketplace",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Sr9q9Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUZFfaLUvMWhQZD-Rdb8yF8AMTKEmA"
     },
     {
       "query": "verizon",
@@ -156,32 +203,13 @@
       "news_token": "RhMEMXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGZVU10UWpeYtCgyF8lawzG1H4vrlLkfnKaw_Eoch7bVyBwu-KvoiiXrerAkV-AXMKqn6WJBT-5KsFKPz29Hko_LlM01H4Qi7VKHz9m-rIfIVznMtR-K0_-1HcN1_kGgqf9-19CB8AGUZtNA"
     },
     {
-      "query": "halloween food deals",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "hobbies_and_leisure",
-        "food_and_drink"
-      ],
-      "news_token": "JUrU1Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXotpxFqXmLQoMhfBWbIzYQPgC_kBHW"
-    },
-    {
-      "query": "tom lee",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "tczlC3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpX5vs2LUvMWhQZD-Z7V51H4ARsvIfOV5ebfQ-YrnNd4CeEDAOLlJG4"
-    },
-    {
       "query": "warren buffett bear market advice",
       "search_volume": 1000,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "x_AfbXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhXR3hmLUvMWhQZD-Sz6NSj8gP8TIHwA_BwXXQ"
+      "news_token": "DQ6Fb3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXR3hmLUvMWhQYDAM4sDEE"
     },
     {
       "query": "warren buffett no water claim",
@@ -191,71 +219,6 @@
         "business_and_finance"
       ],
       "news_token": "825lI3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpWOqQ2LUvMWhQYDANHPDKQ"
-    },
-    {
-      "query": "what time does the sun go down",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "yiLPj3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpUWVeVFqXmLQoMhfGWFnlIIHwCyzRE6"
-    },
-    {
-      "query": "t-mobile customer churn q3 2026",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "frK2vXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUZtr2LUvMWhQYDAM_wDGg"
-    },
-    {
-      "query": "romania",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "O9Wa63ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpWYfu9FRfmLQoMhfOUlzPLIfJVF4kYo_Bk3V6HwnZofoej_82AjCv9egx6K-pUPzFH4PX8nofDnn2KA8AGAxEIV"
-    },
-    {
-      "query": "income",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "evSCV3ica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGZbnJhotS8xaFBkP4KjF81Sh839wcFD7zxSQUfvjcech8pS8bnqPIz-s6iMKvyLiJwp9pFoXCXxg_CVU-UwCFn7xiNQq_MeMZCt-z-jUKX3TpWhR-yE5-FPfuXDIHma8soRkM4QMA4Zxt9w"
-    },
-    {
-      "query": "las vegas",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "NLqE6Hica1xTlFpYmlpcEp-SWJI4e_J5BgYGRhWVCqVFqXmLQoOh_AleB1H4q53nocpPKkbmK-s85EKRX87_EoW_SiURha8srozC9_pXi8Kf1F2JYv5NpxkQPgDmr0SV"
-    },
-    {
-      "query": "ethereum price",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "sPHe8Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRpVVi3YsSs1bFBoM5ZuxvUfhL7_YgMxXrvxlhyKf53wama9waFcchA8AdA8qkw"
-    },
-    {
-      "query": "mta",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "n0SniXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRpVl7I8WpeYtCg2G8JV_KVej8OfdeoPCv_LsBzJfxcd5BYr87Em_IHwApUUsAQ"
     }
   ]
 }
