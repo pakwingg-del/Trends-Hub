@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 25,
+      "keywords_count": 26,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-01 04:14:27"
+      "last_updated_hkt": "2026-11-01 06:30:57"
     }
   },
   "trending_seeds": [
@@ -26,23 +26,32 @@
       "news_token": "PkR9kXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRuUdWoyLUvMWhQZD-CpdkyNQ-P3rf6Hwl-VVofCjd9ih8K2DG1H4C2JbUfh-7dtQ-NyxHsh85X99Ash8pXeJCSh8Hpm3KPyvCgshfACvdlCk"
     },
     {
-      "query": "courage and civility award",
-      "search_volume": 10000,
-      "increase": 600,
-      "categories": [
-        "entertainment",
-        "business_and_finance"
-      ],
-      "news_token": "xxi1mHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpXlXccWpeYtCg2efC4pNcQKyobILfzDCeEDAOypGGE"
-    },
-    {
       "query": "once upon a farm tractor wheels recall",
       "search_volume": 20000,
       "increase": 500,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "TT1Gvnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpUp3U8WpeYtCg2G8qeGVUP4ANHlErc"
+      "news_token": "ahGJnnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUp3U8WpeYtCg0GANSnDQo"
+    },
+    {
+      "query": "courage and civility award",
+      "search_volume": 10000,
+      "increase": 500,
+      "categories": [
+        "entertainment",
+        "business_and_finance"
+      ],
+      "news_token": "b_D_FHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpXlXccWpeYtCg2efC4pNcQKyobILfzDicJfItgI4QMAngsd3g"
+    },
+    {
+      "query": "las vegas flash flooding",
+      "search_volume": 10000,
+      "increase": 500,
+      "categories": [
+        "other"
+      ],
+      "news_token": "LMVOU3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUJXgcXpeYtCg0GANGGDKI"
     },
     {
       "query": "van allen radiation belt",
@@ -55,18 +64,9 @@
       "news_token": "Cg368nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuWne2QWpeYtCg0GANOGDMM"
     },
     {
-      "query": "flash flooding las vegas",
-      "search_volume": 10000,
-      "increase": 400,
-      "categories": [
-        "other"
-      ],
-      "news_token": "LMVOU3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUJXgcXpeYtCg0GANGGDKI"
-    },
-    {
       "query": "interstellar object",
       "search_volume": 5000,
-      "increase": 300,
+      "increase": 400,
       "categories": [
         "science",
         "business_and_finance"
@@ -80,7 +80,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "E_Xb73ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpW0346LUvMWhQZD-MprD8Qh81Uyb09G4Td8iUfmK700X4siH7TSBIWf_FcZhZ9g4Y3C93__B5kv77JcG8IHAPcUQUc"
+      "news_token": "Ny1dm3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpW0346LUvMWhQZD-MprD8Qh81Uyb09G4cefnoHCb_gSj8IPWmmCzFd6ab4WRT75rzIK3__9HwgfACP1PM4"
+    },
+    {
+      "query": "robert downey jr",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "gRPz9nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpUF--cvSs1bFBoM4SvnW75B5qtkH16Kwhf9_hqF73WrG4WvUrkMhe9y-zqK-WdXFiDzFXkmHUSRT797FMIHAEmRQxI"
     },
     {
       "query": "market",
@@ -98,7 +107,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "NClkiXica1xTlFpYmlpcEp-SWJJ4h0F68nkGBgZGlTzn04tS8xaFBkP5i_v3ovBFeqYj85W7rkqi8Fd7zUFRr32lAIUfWqCLoj4nux9F3kL_J6p5R66hyK8K9Ufha2bbovBdpgaj8gUPofCN9YRRzN858yWK_Jp5cSjyr6N3ovAVekpR-Mt_NKDon7NxEgq_p_0KCt9RzRqF3x5igsK3XvAXhS9_5zcyX2FnMwuEDwCHx6IR"
+      "news_token": "5AJLuHica1xTlFpYmlpcEp-SWJJ4h0F68nkGBgZGlTzn04tS8xaFBkP5i_v3ovDXzItD4WtfKUDhi_RMR-Yrd12VROGv9pqDoj60QBeFv6hzEQpfM9sWhb8q1B-F7yJ4CMX8p-KFKPzjoVIo6tetP48i_zp6J4q8nrkMivzehlQU_qN3Eij8FBUU9ynMmToZxbye9isofEc1axR-e4gJCt96wV8Uvvyd3yjm72xmgfABZr2hOA"
     },
     {
       "query": "weapons",
@@ -107,7 +116,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "1gX0qHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGFWWnXYtS8xaFBkP4yv-_8iPzlY5zLELmqwRrpaPwfQMVUPi90uwo_DWlB1H4xUt6UPid36JQ-IHyfCj85bE_UPgd3v4o_KR9b1H42hV6yHz5--ckUPj_n01G4Td3fkbRz_IAGh4AQhtujg"
+      "news_token": "37fMynica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGFWWnXYtS8xaFBkP4yv-_8iPzVYK10pH5Ssc5FqHI-wYqoPB7pdlR-GtKD6Lwi5f0oPA7v0Wh8APl-VD4y2N_oPA7vP1R-Ku2T0ThJ-17i8yXv39OAoX__9lkFH5z52cU_SwPoOEBAIkfb68"
     },
     {
       "query": "black widow",
@@ -116,7 +125,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "x18_wHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhVe5sRFqXmLQoOhfJXKZRA-AKp9EQI"
+      "news_token": "8JxwjXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpX13p2LUvMWhQZD-SqVyyB8AMSnEhQ"
     },
     {
       "query": "spacex nvda portfolio return 2030",
@@ -125,7 +134,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "eOd3HXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpXcrH2LUvMWhQYDANE2DJw"
+      "news_token": "DDkBZ3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpXcrH2LUvMWhQZD-VqXIyF8AMbLEjk"
     },
     {
       "query": "russia rassvet constellation orbit failure",
@@ -144,7 +153,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "tSxkKHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRmVVNdFFqXmLQoMhfJWsMxtR-L65S5H5ymsPxKHIe21cgSKv21WBIt8VfRFVPUsSCr89fR4KfwFzCgp_LtN0FL6QSzUKX_-mOgqf8dUkZL7COc7lED4Aw-JaTw"
+      "news_token": "RhMEMXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGZVU10UWpeYtCgyF8lawzG1H4vrlLkfnKaw_Eoch7bVyBwu-KvoiiXrerAkV-AXMKqn6WJBT-5KsFKPz29Hko_LlM01H4Qi7VKHz9m-rIfIVznMtR-K0_-1HcN1_kGgqf9-19CB8AGUZtNA"
     },
     {
       "query": "halloween food deals",
@@ -154,7 +163,7 @@
         "hobbies_and_leisure",
         "food_and_drink"
       ],
-      "news_token": "lzqt0nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXotpxFqXmLQoMBzywMUw"
+      "news_token": "JUrU1Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuXotpxFqXmLQoMhfBWbIzYQPgC_kBHW"
     },
     {
       "query": "tom lee",
@@ -225,9 +234,9 @@
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "entertainment"
+        "climate"
       ],
-      "news_token": "00qctXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpUVV9csSs1bFBoM5U_wOojMV550pxlFfsWEYhR-S2cDqv5JqPKLA9xR-EVaD1H4Xv9qUfjLjJ9B-AAy7UJC"
+      "news_token": "NLqE6Hica1xTlFpYmlpcEp-SWJI4e_J5BgYGRhWVCqVFqXmLQoOh_AleB1H4q53nocpPKkbmK-s85EKRX87_EoW_SiURha8srozC9_pXi8Kf1F2JYv5NpxkQPgDmr0SV"
     },
     {
       "query": "ethereum price",
