@@ -10,90 +10,62 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 23,
+      "keywords_count": 31,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-01 21:30:58"
+      "last_updated_hkt": "2026-11-02 21:30:57"
     }
   },
   "trending_seeds": [
     {
-      "query": "san juan mountains winter storm warning",
-      "search_volume": 20000,
+      "query": "zelda",
+      "search_volume": 100000,
       "increase": 1000,
       "categories": [
-        "climate"
+        "games",
+        "technology"
       ],
-      "news_token": "530x0Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpX1V9csSs1bFBoM5btZ3oPwAdV2Ets"
+      "news_token": "rMEvmHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRhXTBJdFqXmLQoOh_MPmc1D4x1-9QuFfDzqIzFeammyLzJe9NVMQRT3I_LQiBF-NXxeFf23KBBQ-yD5kfudcB2Q-2HwkPth-ZPUnd0D9AwCallgU"
     },
     {
-      "query": "montana millionaire tickets",
+      "query": "apple earnings",
       "search_volume": 20000,
+      "increase": 700,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "LBFex3ica1xTlFpYmlpcEp-SWJI4b_J5BgYGRuWL56wXpeYtCg2G8FUadn9G4Zur_kDhN4Z4ofBtiqtQ-NMT3qDwHZdvR9V_QA2FP7lTCZmvvCdiEoq8S9xjFP7Ns8eQ-UqpvW3IfIWHU05A-AATAFmx"
+    },
+    {
+      "query": "carnival cruise prepaid gratuities stickers",
+      "search_volume": 10000,
       "increase": 400,
       "categories": [
-        "games",
+        "travel_and_transportation"
+      ],
+      "news_token": "DoPlHnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhWvQ-cWpeYtCg0GANMrDOE"
+    },
+    {
+      "query": "selma blair",
+      "search_volume": 2000,
+      "increase": 400,
+      "categories": [
         "entertainment"
       ],
-      "news_token": "wGSmSXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhWO6vOLUvMWhQZD-UG73qLwBd5vg_ABHL4YlQ"
+      "news_token": "b3KNC3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuUlqjaLUvMWhQZD-EoLVa4i85UP7foG4QMAD1YYog"
     },
     {
-      "query": "fundraiser",
-      "search_volume": 500,
-      "increase": 400,
-      "categories": [
-        "hobbies_and_leisure"
-      ],
-      "news_token": "CwKS83ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpUtftMWpeYtCg2G8tdfXYPCX5mfhcLf5fcLhb977SoU_kLuUmS-8k1fKxR5DpaHKPztiWwo_LD3XyB8AA8pQag"
-    },
-    {
-      "query": "apple iphone duo",
-      "search_volume": 2000,
+      "query": "sam altman ram",
+      "search_volume": 5000,
       "increase": 300,
       "categories": [
         "technology"
       ],
-      "news_token": "ixKko3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRqUrhz8uSs1bFBoM4avIhtuj8M0ifyPzlfdETELmKwlMX4Qi76TXAOEDAFe5KQg"
-    },
-    {
-      "query": "apple tv",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "DWzz83ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpWCx48XpeYtCg2G8nfX3kTh7zVcj8IvfzILma_0al4_ivzOzU0o_D2Ol1D4Oj5LUPg7OPZC-AC6eT2D"
-    },
-    {
-      "query": "rain",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "CEOX-Xica1xTlFpYmlpcEp-SWJI4f_J5BgYGRhUWR65FqXmLQoOh_Mk1cch85SuLv6PIT1ljgsJvDGZA4bdvcUbh73oyH4W_M-AKivnH9nijyG9Y-w-Fv1c0FoW_glEbhe8WaY1insiTRBT-333rIHwA6I9dtg"
-    },
-    {
-      "query": "appletv",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "GoY3V3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpU9jpcWpeYtCg2G8gseP0bmK72a14_MV14nqoGifvmrGhT-Do69KPzukuMo-u_Pt0eRL46SQeGXP5kF4QMATvNCdA"
-    },
-    {
-      "query": "samsung news",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "9XDkm3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRpVFX14tSs1bFBoM5Yft-YzMV56T2I4iL_zXCoXP9-4BCn_D0Uco_KAaBxR-opYtivm_P09H4T8QDENRH_F3KjJf6crhjyjy_qzeED4Av29Ujw"
+      "news_token": "rmB1t3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpWsW18XpeYtCg2G8uPM16LwTz9RQ-EfzNuIwl-QV47CL46SQeG7O91E5itELj6LzFfWDkHhK9wImQfhAwDq0UFc"
     },
     {
       "query": "nintendo switch zelda 40th anniversary",
-      "search_volume": 500,
-      "increase": 200,
+      "search_volume": 1000,
+      "increase": 300,
       "categories": [
         "games",
         "technology"
@@ -101,137 +73,237 @@
       "news_token": "XBig4Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhU1ft1FqXmLQoMhfNlbMwWR-UpvEjdC-ADwuhdw"
     },
     {
-      "query": "blaise taylor",
-      "search_volume": 5000,
-      "increase": 100,
+      "query": "actress susan saint james",
+      "search_volume": 100000,
+      "increase": 200,
       "categories": [
-        "other"
+        "entertainment"
       ],
-      "news_token": "cU1vIXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpVK-5WLUvMWhQYDAM-3DGg"
+      "news_token": "6NKdJnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhW5BasXpeYtCg2G8o-tuo_Czw09COEDACfkGNA"
     },
     {
-      "query": "vada perfume launch brittany aldean",
+      "query": "dc power outage",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "QoG53Xica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZGlcssaxel5i0KDYbyzy_KQeFfD7yFyl_0HoV_LTIAhX-zmA2F3xjMgMyXv_fLC5mvaP_wBTJfKaFsGjJfOfvQcxTz6m6qofCvKP5C4V-NeovCV7_TisLv60f1z66dIaj-eXMGxf6dp1aiyCf_9kC174wdCn-vizaKf9xitqOY97LBBCU8tq39DeEDAFdOno4"
+    },
+    {
+      "query": "dave bautista kratos casting update",
       "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "Ll0PjHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpXggHeLUvMWhQYDANDMDJg"
+    },
+    {
+      "query": "intel stock price",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "u7g8AXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRmXbipJFqXmLQoMhfJWW68Eo_BqjIhQ-Y8oRFH7sMw0IHwCsASKt"
+    },
+    {
+      "query": "fundraiser",
+      "search_volume": 200,
+      "increase": 200,
+      "categories": [
+        "hobbies_and_leisure"
+      ],
+      "news_token": "CGdI-3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpWbPbcXpeYtCg2G8m_5bEDlO9xD4Xu4n0LmK68-cg1F_kb1a1T-ZzcUfuUsKxS-yi4FCB8AvgM9hA"
+    },
+    {
+      "query": "odyssey cruise crew unpaid cambodia",
+      "search_volume": 10000,
+      "increase": 100,
+      "categories": [
+        "travel_and_transportation"
+      ],
+      "news_token": "sDc5W3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhWJh3KLUvMWhQYDAM2RDB4"
+    },
+    {
+      "query": "willow wind sailboat rescue pacific ocean",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "SxKe_3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpWJbqaLUvMWhQZD-TdiI1D4-UGqKPxpAXwo_Mt1Vch85RMvmFH4Wf4KKOoP2dlA-ACcrDL8"
+    },
+    {
+      "query": "helen chiang",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology",
+        "science"
+      ],
+      "news_token": "rhXjlnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpXrlyoWpeYtCg0GANZGDSg"
+    },
+    {
+      "query": "grand theft auto vi",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "mB38Nnica1xTlFpYmlpcEp-SWJJ4h0F28nkGBgZGFVmHikWpeYtCg6H8qlfPkPnK92dqociv3H0ChX9d9jgKX67tIgp_Y80bFP78jF8o_AWnrFD4FV0nUfj7NYRR-N6rV6Hwr3r_Q-GfFTiMKr_7Ewq__eZeFP4lzjoU_gojMxR-95nTKPxdZVwo_Bt8nSh810oGFH5bDWp4nVWJQeFraaLqv8mPqv8yixcyX_5o_1lkvsKchy4QPgCZ_LF6"
+    },
+    {
+      "query": "jason galanis seized funds appeal",
+      "search_volume": 1000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "VP_SyXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUJbzQXpeYtCg0GANJuDKw"
+      "news_token": "DFRAlHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXJqW8XpeYtCg0GANDjDKI"
     },
     {
-      "query": "aipac",
-      "search_volume": 2000,
+      "query": "gta 6 ps5 pre load date",
+      "search_volume": 500,
       "increase": 100,
+      "categories": [
+        "games"
+      ],
+      "news_token": "HahHP3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuX7M7UWpeYtCg2G8FUquk6i8OXaLqLwm93lUPgLTlmh8NWOFiLzlUT2aSLzFdjn30BRzy4siaL-1UdRCB8AOAo-4w"
+    },
+    {
+      "query": "amd stock",
+      "search_volume": 5000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "TKFrknica1xTlFpYmlpcEp-SWJI4f_J5BgYGRpUao6JFqXmLQoOh_PP9rih88XUo8goqoquQ-fKTvp9GkV-0ZTkK_96F6yjm7bRYjMxXtq0oQZG_4pqJwt8kswtFfbrmMRT5EOtvKPzavUwo6n-eWgHhAwB3R17R"
+    },
+    {
+      "query": "airline",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "ugk50Hica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG5YfMfItS8xaFBkP4KsdWZaDwbzwwROYrr2ZvRpG_bjMfhX9pUjAKP2PaORT-yV5-FP66PlkUfuIcZxS-rNYWFP5GL0kU_kQxVP7Ng-tQ-b7sKPyLbIdQ_LNnlz6EDwCgLmhd"
+    },
+    {
+      "query": "tesla stock price",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "autos_and_vehicles",
+        "business_and_finance"
+      ],
+      "news_token": "g3Q7eHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuWIMKZFqXmLQoOh_GXqM5H5KvpCF5D5CjpTfVH4uxfNgPABeS0iQw"
+    },
+    {
+      "query": "apple new hardware lineup november 6",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "A8OwGnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpWz6-YsSs1bFBoM5e9YuAWZr6z97gkK_7bUYggfAArhH5M"
+    },
+    {
+      "query": "the missing",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "XqTKO3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpXT3kmLUvMWhQZD-UdqGVD4Z-4eROF3Wpaj8A-VtqLwM29tQuGv_--Gwi-KuofC15U7BuEDAAA2O_s"
+    },
+    {
+      "query": "sunrise",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "science",
+        "technology",
+        "entertainment"
+      ],
+      "news_token": "nBSBVHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpWbCQqLUvMWhQZD-Mp3OkWR-SrRP5-hyK9uqUXhH1iwFEX9fllvFP7VdXYo_INtthA-AG8SNh8"
+    },
+    {
+      "query": "russia su-57 jet engine failure",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "Z1s43nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpWG3esXpeYtCg0GANQADPE"
+    },
+    {
+      "query": "nail",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "beauty_and_fashion"
+      ],
+      "news_token": "xZpP9Xica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuUVVSWLUvMWhQZD-CpJyeko_JaOaBT-TZOFKPxdZrdR-IlzWlD4GUXTUfi7uV6h8C8sLobwAaHeO2c"
+    },
+    {
+      "query": "pickaxe mountain",
+      "search_volume": 1000,
+      "increase": 50,
       "categories": [
         "politics"
       ],
-      "news_token": "f2QII3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRhVPl-uLUvMWhQZD-Mqrj1xD4f9_sBaZr7J861JkvtKkmSko8jtLvJH5Cj-m7UORZ20_CuEDAPVEN8o"
+      "news_token": "_QzkEHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRuWritMXpeYtCg2G8FV6pdlR-WxxKHypSF8U_onIVmS-fKWCG4QPAMZ6JtY"
     },
     {
-      "query": "delta air lines boarding requirements november",
-      "search_volume": 500,
-      "increase": 100,
+      "query": "anthony bourdain",
+      "search_volume": 1000,
+      "increase": 50,
       "categories": [
-        "law_and_government"
+        "entertainment"
       ],
-      "news_token": "1Wupsnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuXV7M2LUvMWhQYDAM6lDDs"
+      "news_token": "6HU683ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRhVlHddFqXmLQoOh_CtHEpD5yrt1bFHkixbMgfABoDYdOQ"
     },
     {
-      "query": "iphone 15",
+      "query": "bowen wan family sue openai",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "other"
+      ],
+      "news_token": "ZaYyvHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhXltYaLUvMWhQZD-b2v96LwTWYbQ_gAEekXzQ"
+    },
+    {
+      "query": "russia rassvet constellation orbit failure",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "_d_fpHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhWFhCmLUvMWhQZD-PKNx7kgfAC65BGv"
+    },
+    {
+      "query": "dubai",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "travel_and_transportation"
+      ],
+      "news_token": "3dS-Lnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRpVNc6wWpeYtCg2G8JVnVLoj81XmVPag8C9sOYGi_ofTORT5S2FbUfmOU5D5SgmPUPjKj1ZLoqiv3Ytin9Jys3IIHwCNNEi1"
+    },
+    {
+      "query": "reacher season 5 villain update",
       "search_volume": 100,
-      "increase": 100,
-      "categories": [
-        "technology",
-        "shopping"
-      ],
-      "news_token": "1P9nwHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRhWb4jmLshIXhQZD-Aod7UYofPmQfch8-TSRXggfAKGcHHM"
-    },
-    {
-      "query": "zohran mamdani",
-      "search_volume": 5000,
-      "increase": 75,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "zwMwWXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRpXks56LUvMWhQZD-Mp_dpUh85WuNXsg81W0NrxFUb_6yDUU-RVfUPmZW8NQ-LE9jSj6fwurI_MVw1JXI_MV3t6KR-EnFNxE5suHxU6G8AGw3FSY"
-    },
-    {
-      "query": "cathie wood tempus ai stock purchase",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "LRhgCXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpX8ksBFqXmLQoMhfOW77YuQ-Sp8x1NR-HHmEhA-AL8AHPw"
-    },
-    {
-      "query": "youtube tv",
-      "search_volume": 20000,
       "increase": 50,
       "categories": [
-        "entertainment",
-        "technology"
+        "entertainment"
       ],
-      "news_token": "-VZvP3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpWtegmLUvMWhQZD-MoPK6ch81VY9D1R5F-_4obwAbeJHWk"
-    },
-    {
-      "query": "chipotle",
-      "search_volume": 20000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "food_and_drink"
-      ],
-      "news_token": "EGts1Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRhW17oWLUvMWhQZD-ds8bZH5ynfWzkWR76wVQOFrPglHUR_dloPC_zs3H5mvIPX9HYQPAAxmNXQ"
-    },
-    {
-      "query": "ocarina of time remake",
-      "search_volume": 5000,
-      "increase": 50,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "JSgsnnica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGFdMEl0WpeYtCg6H8zrkOKPzFDxeh8gs_oPB33NuOwl9wOwyFDzI_rQjBV-PXReGD9CPzQfYj8yd2fkbhg8xH5s_QMULhp0qLI_OVj20tR-HrnviFon7lSk9kvuytmYIo8puWtyP7BywP5gMAFjR8CA"
-    },
-    {
-      "query": "black friday",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "4K7hp3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuXZE_cvSs1bFBoM4avsVN-Owhfu2IrCXyjWicLf5X8Zhb_DUAqF3_xyJTJf-bDlfRT5zZsZIXwA1Oo7hQ"
-    },
-    {
-      "query": "ps5",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "95oB-Xica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGlVbhS4tS8xaFBkP5sg4VKHx5yxAU_qajHCj82HOvUfgrJsxC4W9WCUXmK2cZsqPwr-5JQ1Hf4HMO1TwjMxS-sAIrCl88UQiFby4QicLfc-w8in3hQVzIfCUPD35kvqKejCGKfnv_Uyh851WTIXwAu_RzqQ"
-    },
-    {
-      "query": "xbox cloud gaming",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "technology",
-        "games"
-      ],
-      "news_token": "55Wsf3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWyFy6LUvMWhQZD-HKlmw4j85WZVhkg8-VvvnKC8AHTTR48"
-    },
-    {
-      "query": "warren buffett no water claim",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "825lI3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpWOqQ2LUvMWhQYDANHPDKQ"
+      "news_token": "kOg1_3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpVd854vSs1bFBoM5a9yOwrhAwDZ6xNC"
     }
   ]
 }
