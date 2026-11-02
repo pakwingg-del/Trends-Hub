@@ -10,12 +10,21 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 22,
+      "keywords_count": 18,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-01 21:30:55"
+      "last_updated_hkt": "2026-11-02 00:31:00"
     }
   },
   "trending_seeds": [
+    {
+      "query": "market",
+      "search_volume": 10000,
+      "increase": 400,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "fLAWDnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRpXpCW8WpeYtCg2G8pfaXEXhFzY4ovB3Jmih8KcVz0XhL-ZlRuHvX7MYlb94FSr__BRkvvK0SVtR5NsXq6LwO5YLovBFe2eg6N95aiWEDwD8QVkV"
+    },
     {
       "query": "interstellar object 3i atlas",
       "search_volume": 5000,
@@ -24,34 +33,7 @@
         "science",
         "business_and_finance"
       ],
-      "news_token": "_vRdcnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRmXl7b6LUvMWhQZD-PLWZg3IfJWoGSrIfIVXfusgfACV-Rzm"
-    },
-    {
-      "query": "market",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "sLmEy3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRpVpxXMXpeYtCg2G8pfaXEXmK-2YuRtFvmO5IAo_UdAWhb_XLw-Zrzxt0lYU_s5TK1HUi_bOQJG39DVCkd-z5xcKv27aMRS-jbIDinsvffRDMa9O7QWEDwCHA140"
-    },
-    {
-      "query": "flash flooding las vegas",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "aeEovXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpUJXgcXpeYtCg2G8veYf0HhT5hUjMKP-j0Fhb-7KBxV_wslFP5ev_UofGUJSWS-8vFPlch8pc6DdRA-APlRQdU"
-    },
-    {
-      "query": "data center",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "ETEVjnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXmnOOLUvMWhQZD-CpxDZNQ-JtmVyPzld9ntaHwr-z0QVGf_t0FhZ-8whaFX786G4WfdesrinkXuAIgfAAE70IK"
+      "news_token": "VgkZFnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRmXl7b6LUvMWhQZD-PLWZg3IfJWoGSoQPgD5Yha9"
     },
     {
       "query": "5g",
@@ -63,36 +45,17 @@
       "news_token": "ZBN3_3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpW0346LUvMWhQZD-XH_SpD5yq8q-1HkN3yNRJH_yJyCwl97IA6Zr_TSfC0yX95luTaEDwCi8TZW"
     },
     {
-      "query": "samsung news",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "9XDkm3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRpVFX14tSs1bFBoM5Yft-YzMV56T2I4iL_zXCoXP9-4BCn_D0Uco_KAaBxR-opYtivm_P09H4T8QDENRH_F3KjJf6crhjyjy_qzeED4Av29Ujw"
-    },
-    {
       "query": "robert downey jr",
       "search_volume": 10000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "FGxlkXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpUF--cvSs1bFBoM4SvnW75B5quoVC5DkX_MUIfCT797FJmvyDPpIIr82ZUFED4ANIwwLg"
-    },
-    {
-      "query": "la nación",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "sxcLr3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpX2qe8XpRYvCg2G8JVzOucj81X2rDqEIv-d3QWZr3Rj1h8U9bv041DU3ynYgiK_w2MKCl-1NBrVvpSLED4AbvZC6w"
+      "news_token": "MxwmVnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpUF--cvSs1bFBoM4SvnW75B5qvsmzMTha9SuQyZr8gz6SCK_vS7R1H4Z1cWQPgAVLYwwQ"
     },
     {
       "query": "avión espacial",
-      "search_volume": 1000,
+      "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance",
@@ -101,13 +64,22 @@
       "news_token": "vuAMvHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXdrK2LUosXhQYDAM7LDFg"
     },
     {
-      "query": "retirement",
+      "query": "la nación",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Y2QwbHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpX2qe8XpRYvCg2G8jONg1H4i4_vQ-Yrr_-9DUV-T5QLivya2b-R-Uo3Zv1Bkc9NbEXRv0s_DkX-OzvUPACEGUMa"
+    },
+    {
+      "query": "nasdaq futures",
       "search_volume": 500,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "SvXCP3ica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG5S3KiYtS8xaFBkP4KvN00lD4O2c8ReYrL-FNQJHf3nwOhR-7dxsKvzlHC4W_TNUbxbxG6VxU-3U7UPhb9B-g8LceMEOVP-6Dwk-Z9QeFv2qiPArff3szCt-o2gKFXy8-DYVvsRXVvhW7y1Hcf_nZYmS-konoMhT1Iee8UPjKJ5QgfABVIpCk"
+      "news_token": "ZbIP-3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpVpxXMXpeYtCg2G8qcnvEHh59ZwQvgAI8YYEA"
     },
     {
       "query": "cathie wood tempus ai stock purchase",
@@ -125,16 +97,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "IgSwlHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRpW-gm2LUvMWhQZD-MoypbXIfBXr54ko_Dzn0yjqN393RZFfcCsMhb_rdxkKf7dVAArfNT0OhW-lFopifq_eXhR5e8tTED4AW91Leg"
-    },
-    {
-      "query": "tom lee",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "fSOq_Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpX5vs2LUvMWhQZD-ArnNV4i85Xl5t9D5qsEbLwE4QMA1iAelA"
+      "news_token": "y89BA3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRpW-gm2LUvMWhQZD-MoypbXIfBXr54ko_Dzn06jyrA9R-IY72lD4-wyEUMzf_N0VRX7BrTAUvpVaKAp_1-8yFP29entR5O0tT0H4AL4lUQI"
     },
     {
       "query": "technology news",
@@ -143,7 +106,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "I6pthnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuWrydqLUvMWhQZD-EqXPvoh81U0zASR-crNOcchfADAix1x"
+      "news_token": "NCNdiXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuWrydqLUvMWhQZD-Cr7rVei8FlaLFH4GmaCyHzl5pzjED4AnNciDQ"
     },
     {
       "query": "sirius xm",
@@ -152,7 +115,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "EYzM0Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhW7DvdFqXmLQoMhfOWep2bIfJUMpT4IHwAHcxdg"
+      "news_token": "-MRkp3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhW7DvdFqXmLQoMhfOWep2bIfBUn5g8QPgAH0xd9"
     },
     {
       "query": "ihop",
@@ -162,27 +125,7 @@
         "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "9vH0snica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuXDbpyLUvMWhQZD-Cp7NqxC4dvd0keVD69C4e9444zCX5C3EoWfulAUmS-_7XI4Ml_x9tNuZL4Co7YyMl_ujJkchA8A3EVGCQ"
-    },
-    {
-      "query": "chipotle",
-      "search_volume": 20000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "food_and_drink"
-      ],
-      "news_token": "EGts1Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRhW17oWLUvMWhQZD-ds8bZH5ynfWzkWR76wVQOFrPglHUR_dloPC_zs3H5mvIPX9HYQPAAxmNXQ"
-    },
-    {
-      "query": "black friday",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "4K7hp3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuXZE_cvSs1bFBoM4avsVN-Owhfu2IrCXyjWicLf5X8Zhb_DUAqF3_xyJTJf-bDlfRT5zZsZIXwA1Oo7hQ"
+      "news_token": "jNOONnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRuXDbpyLUvMWhQZD-Cp7NqxC4dvd0keVD69C4e9fMw-Fv-ONMwo_daEoMl9-2-VwZL7i7afdED4A1O08aA"
     },
     {
       "query": "healthcare marketplace",
@@ -191,7 +134,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Sr9q9Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRuUZFfaLUvMWhQZD-Rdb8yF8AMTKEmA"
+      "news_token": "2DWt8Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuUZFfaLUvMWhQZD-CrWPcuQ-coXW_MhfAARyhgU"
     },
     {
       "query": "verizon",
@@ -203,22 +146,41 @@
       "news_token": "RhMEMXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGZVU10UWpeYtCgyF8lawzG1H4vrlLkfnKaw_Eoch7bVyBwu-KvoiiXrerAkV-AXMKqn6WJBT-5KsFKPz29Hko_LlM01H4Qi7VKHz9m-rIfIVznMtR-K0_-1HcN1_kGgqf9-19CB8AGUZtNA"
     },
     {
-      "query": "warren buffett bear market advice",
+      "query": "walmart black friday 2026",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "shopping"
+      ],
+      "news_token": "2tpzaHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhXhjq2LUvMWhQZD-Mr1odnIfCVHfUMIHwADuhbC"
+    },
+    {
+      "query": "warren buffett",
       "search_volume": 1000,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "DQ6Fb3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXR3hmLUvMWhQYDAM4sDEE"
+      "news_token": "iSXrqHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRpWOqQ2LUvMWhQZD-aK9M1D4LPo1KPydbzxR-AH_J6Dw5YQ2ovC3maPIK_dW16LIb5_nhsxXYr2ph8K_-G0-Ml_B77Q4Cj-65zgyX37G6qUQPgAHM1eZ"
     },
     {
-      "query": "warren buffett no water claim",
+      "query": "ai sector stock selloff october",
       "search_volume": 500,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "825lI3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpWOqQ2LUvMWhQYDANHPDKQ"
+      "news_token": "U0QOmHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpWlNlcXpeYtCg2G8JWLalcj81WmFc9F4dsoOyDzlS599IPwAd0PI8Y"
+    },
+    {
+      "query": "november 2026 class action settlements",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "OKqlXXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhUmpfBFqXmLQoMByGILgg"
     }
   ]
 }
