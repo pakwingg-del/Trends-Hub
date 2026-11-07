@@ -10,242 +10,255 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 24,
+      "keywords_count": 26,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-06 21:30:58"
+      "last_updated_hkt": "2026-11-07 21:31:01"
     }
   },
   "trending_seeds": [
     {
-      "query": "susan saint james",
-      "search_volume": 200000,
-      "increase": 1000,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "WuPPGHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlV_K81FqXmLQoMhfBW5BashfACyThFq"
-    },
-    {
-      "query": "steam free games november 2026",
-      "search_volume": 5000,
-      "increase": 500,
-      "categories": [
-        "games"
-      ],
-      "news_token": "YHjPknica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtX41a8XpeYtCg0GANQFDP0"
-    },
-    {
-      "query": "joanna gaines pregnancy rumors response",
+      "query": "rihanna new hair transformation",
       "search_volume": 10000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "KFsTvnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRlVLBp9FqXmLQoOhfNunB1D4duVvUfhuvU0ofBPPLajqAx4j8-XNYk9A-ACqXC4N"
-    },
-    {
-      "query": "jessica chastain",
-      "search_volume": 5000,
-      "increase": 200,
+      "increase": 500,
       "categories": [
         "entertainment",
         "beauty_and_fashion"
       ],
-      "news_token": "BjnW5nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlWNlo-LUvMWhQZD-Cpy2Uoo_PdnFyHz5ZcZ8CDzFS5_VUCRX3BXDMIHACt8KWA"
+      "news_token": "RmiiAnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXSb_2LUvMWhQYDANSfDQI"
     },
     {
-      "query": "wow forever maintenance",
+      "query": "ice detains wisconsin state trooper",
+      "search_volume": 20000,
+      "increase": 400,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "aybXanica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtUosXmLUvMWhQYj8fNygHwAuCQRcw"
+    },
+    {
+      "query": "geoffrey hinton ai blackout warning",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "science",
+        "technology"
+      ],
+      "news_token": "hf_SzHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlUOn_hFqXmLQoMByioLuw"
+    },
+    {
+      "query": "gta 6 ps5 physical box",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "games"
+      ],
+      "news_token": "6sh8THica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpVf6fqLUvMWhQZD-c3ucsh8VaP8chR-8a3pyHzl-zO1IHwAsjMjOg"
+    },
+    {
+      "query": "alix didier fils-aimé",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "kbk9rXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlXPN5mL0ooWhQZD-SV9LyB8AMzNEuI"
+    },
+    {
+      "query": "ocarina of time switch 2 controls",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "1nG6OXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlW3t_mLUvMWhQZD-CqmCS4QPgDEfRHK"
+    },
+    {
+      "query": "nintendo zelda ocarina of time",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "glbtzHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRhXTBJdFqXmLQoMhfNWQFlS-yuVYFH7-8SJkvuLE-Q7IfKWpybbIfJW_W2-h6JdbcweFL2prgcJ3e5uPwrdJQuVHRlRA-ACEy0pB"
+    },
+    {
+      "query": "msc poesia detained miami coast guard",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "HzsXpXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpVbRtKLUvMWhQYDAM7WDC4"
+    },
+    {
+      "query": "jim cramer nvidia stock advice",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "KW4wTXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlVBs6pFqXmLQoMByogLyQ"
+    },
+    {
+      "query": "steam games",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
         "games"
       ],
-      "news_token": "ZUNXbHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlXja9sXpeYtCg2G8kWXHoLwAct2Eow"
+      "news_token": "imDEpHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpXTJlqLUvMWhQZD-KrWebIo_PjVr5H5KjNYSlHkLWV1UPixbtUo6ve84EGRt1L_BOEDAHJzMpU"
     },
     {
-      "query": "nasa artemis ii",
-      "search_volume": 5000,
+      "query": "macbook",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "technology",
+        "shopping"
+      ],
+      "news_token": "yYmE03ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpUItrZFqXmLQoMhfFU77iZkvpKjviGKfMiVYyj88I_GKPzS61eR-Sqqmn4o_IZUFP3K2u-eQPgAxWg5Xg"
+    },
+    {
+      "query": "haití",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "J0CfpHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtWcU3cWpRYvCg2G8l2-fkPmq0zfE4jCX634A4XffXM2Cv8P9y5U_QtRzFNVk5-HzFe2KXwC4QMArL49eQ"
+    },
+    {
+      "query": "delta air lines route cancellations",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "Zs2MI3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXc812LUvMWhQZD-Cq5HukQPgDKFhIx"
+    },
+    {
+      "query": "amazon return refund lawsuit claims",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "shopping"
+      ],
+      "news_token": "3XE-pHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVA3-BFqXmLQoMBzG8L-Q"
+    },
+    {
+      "query": "sat",
+      "search_volume": 500,
       "increase": 100,
       "categories": [
         "science",
-        "business_and_finance",
-        "technology"
+        "technology",
+        "jobs_and_education"
       ],
-      "news_token": "VyISn3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlWRIysXpeYtCg2G8BV9BZKQ-QoXmiWR-cqrFjsg85XkmKcj81X8ri2D8AHwBCgc"
+      "news_token": "BRvopHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlX_c8yLUvMWhQYDAM41DCg"
     },
     {
-      "query": "morgan fairchild",
-      "search_volume": 2000,
+      "query": "roku",
+      "search_volume": 200,
       "increase": 100,
+      "categories": [
+        "technology",
+        "entertainment"
+      ],
+      "news_token": "W6k4C3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRpVLThGLCnIWhQZD-cf3vkPhhxceROarVt7-iMKv0FNC4ZvmTUDhZ3r8QDHv2NcwZL6i64ttyHwFk6X6KPr9raDqAXdpR1k"
+    },
+    {
+      "query": "artificial intelligence news",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "vncrynica1xTlFpYmlpcEp-SWJI4c_J5BgYGRlWxG0cXpeYtCg2G8pkbfyLzVaKlFFHkzb4cQ-G7pQeiqL_SsQtFvtL7PArfaf99FL7LKW0IHwCD5Tq8"
+    },
+    {
+      "query": "nail",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "beauty_and_fashion"
+      ],
+      "news_token": "1BaQkHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRuUVVSWLUvMWhQZD-KqOVeeQ-Sq-F9tQ5CMeFaLwy-54oPALqhei8GMsHkH4ACMFL78"
+    },
+    {
+      "query": "gta 6 generative ai porting",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "games"
+      ],
+      "news_token": "B6f4c3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpVmd7lFqXmLQoOh_F_p-sh81VjG2yh8dmlmCB8AmFQbtA"
+    },
+    {
+      "query": "martin short",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "XvmIS3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpVe6wWLUvMWhQYDANAMDG8"
+    },
+    {
+      "query": "morgan fairchild of",
+      "search_volume": 500,
+      "increase": 75,
       "categories": [
         "entertainment"
       ],
       "news_token": "KlYEanica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlV7Ff1FqXmLQoMByYkLmg"
     },
     {
-      "query": "nier automata update size bug",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "games"
-      ],
-      "news_token": "3SPG8Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlXrlWcWpeYtCg0GANHYDLg"
-    },
-    {
-      "query": "eiji aonuma nintendo staff retention",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "-UVz2Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlUVS69FqXmLQoMByfsLrw"
-    },
-    {
-      "query": "oracle stock",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "science",
-        "technology"
-      ],
-      "news_token": "SuNEW3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtWYR0GLUvMWhQZD-UHrmFD48Z0zUfhqPcnIfBXbn_9R5ENTz6Dw_YOfI_PlDqWsR5FXTroG4QMAgiE63A"
-    },
-    {
-      "query": "cable tv",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "technology",
-        "entertainment"
-      ],
-      "news_token": "p-T40Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtWgw6KLUvMWhQZD-aFrOJH5KjOvrkPmy_-9XYfMVxDNcYDwAcgnI4M"
-    },
-    {
-      "query": "zelda switch 2 pro controller",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "J3scg3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRhU1ft1FqXmLQoMhfFW3t_nIfJXOJ_NR-KYJLij8G1_8UPgOngEo5gUWOyHzld74bkORF7W1gPABDD44mw"
-    },
-    {
-      "query": "sat",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "science",
-        "jobs_and_education",
-        "technology"
-      ],
-      "news_token": "6VaI8Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlX_c8yLUvMWhQZD-CrdrjchfAC_AxIY"
-    },
-    {
-      "query": "ark invest amd stock sale",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "eapXVHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlX54t2LUvMWhQYDAM61DFU"
-    },
-    {
-      "query": "prince william father son trip spain",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "E74Bdnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpVbl_8sSs1bFBoMANoFDbA"
-    },
-    {
-      "query": "s&p500",
+      "query": "roc nation soccer prodigy training",
       "search_volume": 500,
       "increase": 75,
-      "categories": [
-        "technology",
-        "business_and_finance"
-      ],
-      "news_token": "s6fJ4nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtUYi55FWYmLQoOhfGWF3Sj8oMOo_AjlfBS-yyltZL7KtOK5KPJ2gYoofPMbZ1H4kR-1IHwA5Is4tg"
-    },
-    {
-      "query": "cloud gaming",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "AIrGGnica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGVUtZnUWpeYtCgyF8lTam-ch81ZDLKSjym46cQ5H30y9E5suVbjqMzFdmWmWAor_ZXQ5Ff5zvXxT5X-n6KPKanV0o5j07MAVF3nFuJYr-OaxeKPybmsyo_qs5gaI_dhkDqv0uk1D4x1cqo6jnfZGI4p5l0XEQPgDyjX3M"
-    },
-    {
-      "query": "ocarina",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "VwKsZ3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRhXTBJdFqXmLQoOhfDV-XWS-qsrlWSj8wGInFL7b23wU_ZuNdqLIi6lYovCV3nxENT_7GArfJgnFPNWQFhdUvqwEMl9parIthA8ANKBNIg"
-    },
-    {
-      "query": "gamemill entertainment xbox game delisting",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "games"
-      ],
-      "news_token": "quMP5Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpW2mhOLUvMWhQZD-KqxBtMgfADKOhI8"
-    },
-    {
-      "query": "scene movie review",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "76ZDvHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuUAgymLUvMWhQZD-KrRSg-R-SpON-6hyLOUuKHIZyc8g_ABrTwi_Q"
-    },
-    {
-      "query": "tsmc",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "UrYkynica1xTlFpYmlpcEp-SWJI4f_J5BgYGRtXw8P2LUvMWhQZD-MrHfggj81X-eqci81UdNUVQ5KcVz0XhG-puQOGvmKWEoj8q6TyK_MVrnCj88hWVyHyFBnkWZL6iResBFPXOOpkofNYOYxT1pgyLIXwAOKpZxQ"
-    },
-    {
-      "query": "ai impact on white-collar jobs",
-      "search_volume": 200,
-      "increase": 50,
       "categories": [
         "other"
       ],
-      "news_token": "dDzrlHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRlVW1tmLUvMWhQZD-do1mih8mx_TUfj-sqdR-NFfUiB8AHTLIlI"
+      "news_token": "Ys2geHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlVhx72LUvMWhQYDAMzHDBk"
     },
     {
-      "query": "el kaiman",
+      "query": "what are the details of iran's new nuclear proposal to the united states?",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "politics"
+      ],
+      "news_token": "Yww4RHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuU7GSGLUvMWhQYDANIdDJ4"
+    },
+    {
+      "query": "vandenberg launch schedule",
       "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "WTvhgXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhXWlG2LUvMWhQZD-PI_bi5F5iuyi8RD-AAXWBec"
+    },
+    {
+      "query": "ios",
+      "search_volume": 1000,
       "increase": 50,
       "categories": [
-        "law_and_government"
+        "technology"
       ],
-      "news_token": "FkSe7Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlVbb_lFqcWLQoMBylMLtA"
+      "news_token": "Vc67q3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRlXtg6KLUvMWhQZD-YGfNJH5KpM7lVDkhUXYUfjMTvIo6r8pbUORj5rbhMIXNDNF4et0TUPhxxW8RTFv09ajyHz5QG8HCB8AWGdIJg"
     },
     {
-      "query": "walmart black friday 2026",
+      "query": "play store",
       "search_volume": 100,
       "increase": 50,
       "categories": [
-        "shopping",
         "technology"
       ],
-      "news_token": "dkGCknica1xTlFpYmlpcEp-SWJI4efJ5BgYGRlWNp9sXpeYtCg2G8l037UHmKznqG0L4ACCgF60"
+      "news_token": "CD1T8Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtVie7dFqXmLQoOh_Gi-SGS-ytn8NGS-wh6mzSj8T1NdIXwAisUitg"
     }
   ]
 }
