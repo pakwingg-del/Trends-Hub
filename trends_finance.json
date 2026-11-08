@@ -10,25 +10,16 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 19,
+      "keywords_count": 17,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-08 00:30:56"
+      "last_updated_hkt": "2026-11-08 03:31:01"
     }
   },
   "trending_seeds": [
     {
-      "query": "frente frío",
-      "search_volume": 10000,
-      "increase": 1000,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "aIqSnXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRhX5rXsWpRYvCg2G8FWTQ1eg8HNr5ZH5KkqNCSjyyosPoMivS6tGkTe7uBPCBwDIfy6p"
-    },
-    {
       "query": "mcdonalds new value meals",
       "search_volume": 20000,
-      "increase": 900,
+      "increase": 800,
       "categories": [
         "business_and_finance",
         "food_and_drink"
@@ -38,29 +29,11 @@
     {
       "query": "jetblue financial status restructuring debt",
       "search_volume": 10000,
-      "increase": 400,
+      "increase": 300,
       "categories": [
         "business_and_finance"
       ],
       "news_token": "Dmo-6nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlXOW5MWpeYtCg0GANAIDH0"
-    },
-    {
-      "query": "jim cramer nvidia stock advice",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "iCYd2nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlVBs6pFqXmLQoOh_EqffRA-ALRJEZQ"
-    },
-    {
-      "query": "dave ramsey 12 percent retirement rule",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "I_r1A3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlWzI0cWpeYtCg0GANJLDMY"
     },
     {
       "query": "treasury department",
@@ -69,16 +42,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "8tHbTnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtWUfcqLUvMWhQZD-Cr_3v9H5qvGznyMIq8lsQOZrzxnxwcU9YEfI1H4Mb7JyHxFpztnUcxzaq6D8AFQzjxc"
+      "news_token": "CGlJrnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtWUfcqLUvMWhQZD-Cr_3v9H5qsGfoxEkdeS2IEiH-ObjMxXdLpzFkW9U3MdhA8ARC0vsQ"
     },
     {
-      "query": "abdul el-sayed parents",
+      "query": "jim cramer nvidia stock advice",
       "search_volume": 5000,
-      "increase": 100,
+      "increase": 200,
       "categories": [
-        "politics"
+        "business_and_finance"
       ],
-      "news_token": "CK07zXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpUSn1eLUvMWhQZD-KrCws4ofLkzE5D5ysKNcsh8FaXMJGS-0uKVXijqE1_aQfgAbEcs-Q"
+      "news_token": "KW4wTXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlVBs6pFqXmLQoMByogLyQ"
     },
     {
       "query": "s&p 500 record single day decline",
@@ -87,7 +60,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "IGrUzXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRlWXU9qLUvMWhQZD-CrTiuei8B3eXoHwARUeGHY"
+      "news_token": "3vk4I3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpVpxXMXpeYtCg2G8JWnTdoK4QMAzOsS0A"
     },
     {
       "query": "spartanburg",
@@ -96,7 +69,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "F-gQM3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtWUG8mLUvMWhQZD-WlF-Sj8mJk3kfkq2944o8hzR8Si8FO9RVD4SeuKUPT_Pb0Qma-w4HIhhA8AkkE7LQ"
+      "news_token": "sIqg43ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRtWUG8mLUvMWhQZD-WlF-Sj8mJk3UfiZJTOR-Srb3jijyNco7EHhc0fEovBTvUVQ-EnrilDM-3t6ITJfYcHlQggfAJ3HRos"
     },
     {
       "query": "artificial intelligence news",
@@ -105,16 +78,25 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "E04SdHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRlWxG0cXpeYtCg2G8pkbfyLzVaKlFFHk3dIDUeSvdOxCkTf7cgyFX-l9HoXvtP8-Ct_-TRaEDwB5sTsY"
+      "news_token": "8YifHXica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZG1Urv84tS8xaFBkP4KqGvmZD5qqJLJqLwS2SLUdRPK56LIs9aoYqqnyEYhe9yShuFr_nuDwpf7MZRVPMef0Oxj6XFEkU-vXMJCl9lvjqK-guLk1DkQ2SrUfjMjT9R1EdLKaLIu6UHovDNvhxDUX-lYxeKvNP--yh8-zdZKPwq435kvmJPPyeEDwBGF5Om"
     },
     {
       "query": "boeing 737 max",
-      "search_volume": 1000,
+      "search_volume": 2000,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Z7aKDnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpWPpQcXpeYtCg2G8FWLb-uh8F2muaPw4wpQ5Qsv_0HhRy-4h8JnNypG4QdcPgfhAwBO4zV1"
+      "news_token": "XsWFynica1xTlFpYmlpcEp-SWJI4a_J5BgYGRlWXae6LUvMWhQZD-cW39ZD5Kh9LD6LIxxWgyKsWXv6Dwo9ecA-Fz25UjMIPuHwOma-ocLkNma8gFzkRwgcAj39AfQ"
+    },
+    {
+      "query": "ahsaa football playoffs",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "Pw_Gznica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuVb5bMWpeYtCg2G8FVLPsui8Ln2zIHwASkdGGc"
     },
     {
       "query": "att tmobile spacex network dispute",
@@ -132,7 +114,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "geTxtnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGlYD_Exal5i0KDYbwVZN3_0fhF9u9QOGXyBaj8A3MzqDwi-5FIvMV_E6LI_Nl1e7ehvLP3XmjtQZF7XI9QWS-yuVj61H4Dm-voPA_HrmIYnd51GoU-TS1G6jyT_xR5OWENkL4AJEJa9U"
+      "news_token": "ixDHcHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpWA_xMWpeYtCg2G8FWTd_9H4Rfdi0TmK_idFofyz915o7UGRW65niCK3hLZYmS-yuVj61Hky5_4o8jLCW2E8AGisEGM"
     },
     {
       "query": "what time does target open",
@@ -145,16 +127,6 @@
       "news_token": "Pt1AeHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhXZefqLUvMWhQZD-EqO-oYQPgCxhRDX"
     },
     {
-      "query": "vandenberg launch schedule",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "WTvhgXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhXWlG2LUvMWhQZD-PI_bi5F5iuyi8RD-AAXWBec"
-    },
-    {
       "query": "bombas",
       "search_volume": 2000,
       "increase": 50,
@@ -162,6 +134,16 @@
         "business_and_finance"
       ],
       "news_token": "GPSIwnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtVcppJFqcWLQoMhfJUXDZdR-NU53Mh81Yqtc1H4ZUFTUPgsqVbIfOUbJWtQzCv-F4nMV_oRsR6ZL_9f6hOEDwBVL0FZ"
+    },
+    {
+      "query": "5g",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "xqw7YHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlW-xQKLUvMWhQZD-Err3xci81XWxW1H5quWZ7ag8CM_2aHws1M2QvgALK4pbA"
     },
     {
       "query": "bill gates economic inequality views",
