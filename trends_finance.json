@@ -10,150 +10,119 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 15,
+      "keywords_count": 12,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-08 06:30:58"
+      "last_updated_hkt": "2026-11-08 21:31:04"
     }
   },
   "trending_seeds": [
     {
-      "query": "mcdonalds new value meals",
-      "search_volume": 20000,
-      "increase": 800,
+      "query": "palantir news",
+      "search_volume": 1000,
+      "increase": 400,
       "categories": [
-        "business_and_finance",
-        "food_and_drink"
+        "business_and_finance"
       ],
-      "news_token": "DIl5u3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXbpfWLUvMWhQYDAM-lDGg"
+      "news_token": "nSEGBXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRhXf3BuLUvMWhQZD-d9rfyDzVTsfz0Dh5zFsRFH_L-0iinyRyh8UPs_56RA-AIQTMQ8"
     },
     {
-      "query": "jetblue financial status restructuring debt",
+      "query": "bitcoin",
       "search_volume": 10000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Dmo-6nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlXOW5MWpeYtCg0GANAIDH0"
+      "news_token": "zUydxXica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZG5RtP8hal5i0KDYbwVfne26PwBfwEkPnKy0t_osh3RL1E4Zvu0EHmq2xY54Ai36MUhML3Pn4AhW-QGovCt326DoXvUl2Lwi_yqULhp4YsR7F_xa5nKPy5p1D0K9iYWaL5fxsKX8GtFIWveA3qHwC91nkP"
     },
     {
       "query": "south africa china trade increase",
-      "search_volume": 2000,
+      "search_volume": 5000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "5K8_y3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpU5LCcWpeYtCg2G8FVLGu4i81XiT8sj85Wn2fdA-ADI1x2_"
+      "news_token": "vemqonica1xTlFpYmlpcEp-SWJI4efJ5BgYGRlWTqc8XpeYtCg2G8vtseJD5KlfXMkP4ABGTF6I"
     },
     {
-      "query": "jim cramer nvidia stock advice",
-      "search_volume": 10000,
+      "query": "strait of hormuz",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "SxTpwnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtU-16-LUvMWhQZD-cWZzsh8lV5pdhT5fscJKPJ3bgmi8H9rb0RRX_l4EYr85ZsLkPnKyfP2QPgAiL873Q"
+    },
+    {
+      "query": "retirement",
+      "search_volume": 2000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "iCYd2nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlVBs6pFqXmLQoOh_EqffRA-ALRJEZQ"
+      "news_token": "7Beuz3ica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGlXrxaYtS8xaFBkP4qgWh61D4seV3kPkqC707UOQl-zej8M0UIlH4PPYeKHztCW0o5l0V348iX6bFjcIvYUZRr6qxrg6Vnz8fma98LDkGRT7v3xwUfo3QSxR-fX4wCl-38wEKv31hGQpfL2wHin2s25RQ7TtujcyX53vHhMxXuBbaDOEDAMIrjOY"
     },
     {
-      "query": "spartanburg",
-      "search_volume": 200,
+      "query": "katie price",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "TZj5vnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpVnKxYuSs1bFBoM4avyPbBE4fcyPIDwAStJGFo"
+    },
+    {
+      "query": "is veterans day a federal holiday",
+      "search_volume": 10000,
       "increase": 100,
       "categories": [
-        "business_and_finance"
+        "law_and_government"
       ],
-      "news_token": "sIqg43ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRtWUG8mLUvMWhQZD-WlF-Sj8mJk3UfiZJTOR-Srb3jijyNco7EHhc0fEovBTvUVQ-EnrilDM-3t6ITJfYcHlQggfAJ3HRos"
+      "news_token": "A96smHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpXMrlWLUvMWhQZD-Ko9uubIfBU7fh8U-fzecBT5uKbzKPL-766h8Kv8mSB8AJ6ILbs"
     },
     {
-      "query": "artificial intelligence news",
-      "search_volume": 200,
+      "query": "walmart thanksgiving meal deal",
+      "search_volume": 2000,
       "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "8YifHXica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZG1Urv84tS8xaFBkP4KqGvmZD5qqJLJqLwS2SLUdRPK56LIs9aoYqqnyEYhe9yShuFr_nuDwpf7MZRVPMef0Oxj6XFEkU-vXMJCl9lvjqK-guLk1DkQ2SrUfjMjT9R1EdLKaLIu6UHovDNvhxDUX-lYxeKvNP--yh8-zdZKPwq435kvmJPPyeEDwBGF5Om"
-    },
-    {
-      "query": "att tmobile spacex network dispute",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "0QEUiXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpWNu6cuSs1bFBoM4atan92HwuevXQXhAwAwgBiU"
-    },
-    {
-      "query": "berkshire hathaway",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "UGx6Nnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpWA_xMWpeYtCg2G8FWTd_9H4ZfIFiPzFfxOi6Pwl-sJIvNVLh9bj6K__Ik_iryc0EYIHwBGZDTc"
-    },
-    {
-      "query": "what time does target open",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "hobbies_and_leisure",
-        "shopping"
-      ],
-      "news_token": "Pt1AeHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhXZefqLUvMWhQZD-EqO-oYQPgCxhRDX"
-    },
-    {
-      "query": "boeing 737 max",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "TRVM63ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlWXae6LUvMWhQZD-XEFeij86AX3UPiFl_8g81U-lh5EkQ-4fA6Zr6hwuQ2ZryAXORHCBwBDnzXF"
-    },
-    {
-      "query": "bombas",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "GPSIwnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtVcppJFqcWLQoMhfJUXDZdR-NU53Mh81Yqtc1H4ZUFTUPgsqVbIfOUbJWtQzCv-F4nMV_oRsR6ZL_9f6hOEDwBVL0FZ"
-    },
-    {
-      "query": "5g",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "VTJkonica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlW-xQKLUvMWhQZD-Zo3VqLw6w8VI_NV1sVtR5HnZfyFwi_PbEGVn8GMws9O2QjhAwDJlTN1"
-    },
-    {
-      "query": "bill gates economic inequality views",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "HeT8k3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWoxJhFqXmLQoMBzZ8MHw"
-    },
-    {
-      "query": "aeropuerto internacional de tulum felipe carrillo puerto",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "RHoFAXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpUvKiKLUosXhQZD-ak_NkL4AMQ_EpI"
-    },
-    {
-      "query": "gta 6 price",
-      "search_volume": 100,
-      "increase": 50,
       "categories": [
         "other"
       ],
-      "news_token": "zMNAaHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpUFp6wWpeYtCg2G8n-l66PwV27mROYrHCxtgPAB0yweJw"
+      "news_token": "gU9uuXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhVbjpJFqXmLQoMhfNWcm_0QPgC2SxHc"
+    },
+    {
+      "query": "gas prices",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Nz9VhHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpVjLA2LUvMWhQZD-Krlx2yQ-Sq3Vn9B4Ye730dRH7e2B4WvcWg2ivovhUdQ5NsaLJD5Sq1h_hA-APvLO6c"
+    },
+    {
+      "query": "pepsico hormel long term investment",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "0hXBOXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWoSoNFqXmLQoMBzSsMCw"
+    },
+    {
+      "query": "irs marginal tax rates 2027",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "o2EF13ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlXbmMmLUvMWhQYDAM3zDDQ"
+    },
+    {
+      "query": "wall street stock market bubble risks",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "ens5pXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXej2qLUvMWhQZD-MrTJm2F8AHNQxLP"
     }
   ]
 }
