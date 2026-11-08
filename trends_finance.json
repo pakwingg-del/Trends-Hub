@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 17,
+      "keywords_count": 15,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-08 03:31:01"
+      "last_updated_hkt": "2026-11-08 06:30:58"
     }
   },
   "trending_seeds": [
@@ -36,31 +36,22 @@
       "news_token": "Dmo-6nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlXOW5MWpeYtCg0GANAIDH0"
     },
     {
-      "query": "treasury department",
-      "search_volume": 5000,
+      "query": "south africa china trade increase",
+      "search_volume": 2000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "CGlJrnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtWUfcqLUvMWhQZD-Cr_3v9H5qsGfoxEkdeS2IEiH-ObjMxXdLpzFkW9U3MdhA8ARC0vsQ"
+      "news_token": "5K8_y3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpU5LCcWpeYtCg2G8FVLGu4i81XiT8sj85Wn2fdA-ADI1x2_"
     },
     {
       "query": "jim cramer nvidia stock advice",
-      "search_volume": 5000,
+      "search_volume": 10000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "KW4wTXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlVBs6pFqXmLQoMByogLyQ"
-    },
-    {
-      "query": "s&p 500 record single day decline",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "3vk4I3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpVpxXMXpeYtCg2G8JWnTdoK4QMAzOsS0A"
+      "news_token": "iCYd2nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlVBs6pFqXmLQoOh_EqffRA-ALRJEZQ"
     },
     {
       "query": "spartanburg",
@@ -81,24 +72,6 @@
       "news_token": "8YifHXica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZG1Urv84tS8xaFBkP4KqGvmZD5qqJLJqLwS2SLUdRPK56LIs9aoYqqnyEYhe9yShuFr_nuDwpf7MZRVPMef0Oxj6XFEkU-vXMJCl9lvjqK-guLk1DkQ2SrUfjMjT9R1EdLKaLIu6UHovDNvhxDUX-lYxeKvNP--yh8-zdZKPwq435kvmJPPyeEDwBGF5Om"
     },
     {
-      "query": "boeing 737 max",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "XsWFynica1xTlFpYmlpcEp-SWJI4a_J5BgYGRlWXae6LUvMWhQZD-cW39ZD5Kh9LD6LIxxWgyKsWXv6Dwo9ecA-Fz25UjMIPuHwOma-ocLkNma8gFzkRwgcAj39AfQ"
-    },
-    {
-      "query": "ahsaa football playoffs",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "Pw_Gznica1xTlFpYmlpcEp-SWJI4efJ5BgYGRuVb5bMWpeYtCg2G8FVLPsui8Ln2zIHwASkdGGc"
-    },
-    {
       "query": "att tmobile spacex network dispute",
       "search_volume": 500,
       "increase": 75,
@@ -114,7 +87,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ixDHcHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRpWA_xMWpeYtCg2G8FWTd_9H4Rfdi0TmK_idFofyz915o7UGRW65niCK3hLZYmS-yuVj61Hky5_4o8jLCW2E8AGisEGM"
+      "news_token": "UGx6Nnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpWA_xMWpeYtCg2G8FWTd_9H4ZfIFiPzFfxOi6Pwl-sJIvNVLh9bj6K__Ik_iryc0EYIHwBGZDTc"
     },
     {
       "query": "what time does target open",
@@ -125,6 +98,15 @@
         "shopping"
       ],
       "news_token": "Pt1AeHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhXZefqLUvMWhQZD-EqO-oYQPgCxhRDX"
+    },
+    {
+      "query": "boeing 737 max",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "TRVM63ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlWXae6LUvMWhQZD-XEFeij86AX3UPiFl_8g81U-lh5EkQ-4fA6Zr6hwuQ2ZryAXORHCBwBDnzXF"
     },
     {
       "query": "bombas",
@@ -143,7 +125,7 @@
         "business_and_finance",
         "science"
       ],
-      "news_token": "xqw7YHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlW-xQKLUvMWhQZD-Err3xci81XWxW1H5quWZ7ag8CM_2aHws1M2QvgALK4pbA"
+      "news_token": "VTJkonica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlW-xQKLUvMWhQZD-Zo3VqLw6w8VI_NV1sVtR5HnZfyFwi_PbEGVn8GMws9O2QjhAwDJlTN1"
     },
     {
       "query": "bill gates economic inequality views",
