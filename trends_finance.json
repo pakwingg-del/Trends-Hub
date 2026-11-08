@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 22,
+      "keywords_count": 19,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-07 21:31:00"
+      "last_updated_hkt": "2026-11-08 00:30:56"
     }
   },
   "trending_seeds": [
@@ -23,17 +23,17 @@
       "categories": [
         "climate"
       ],
-      "news_token": "3mzprHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRhX5rXsWpRYvCg2G8FXLQyKQ-SpKjQko8sqLD6DwzS7uhPABtEMjOw"
+      "news_token": "aIqSnXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRhX5rXsWpRYvCg2G8FWTQ1eg8HNr5ZH5KkqNCSjyyosPoMivS6tGkTe7uBPCBwDIfy6p"
     },
     {
       "query": "mcdonalds new value meals",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 900,
       "categories": [
         "business_and_finance",
         "food_and_drink"
       ],
-      "news_token": "jnJLpXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhXbpfWLUvMWhQZD-AqPg_ggfADCPhHu"
+      "news_token": "DIl5u3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhXbpfWLUvMWhQYDAM-lDGg"
     },
     {
       "query": "jetblue financial status restructuring debt",
@@ -45,22 +45,31 @@
       "news_token": "Dmo-6nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlXOW5MWpeYtCg0GANAIDH0"
     },
     {
+      "query": "jim cramer nvidia stock advice",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "iCYd2nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlVBs6pFqXmLQoOh_EqffRA-ALRJEZQ"
+    },
+    {
+      "query": "dave ramsey 12 percent retirement rule",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "I_r1A3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlWzI0cWpeYtCg0GANJLDMY"
+    },
+    {
       "query": "treasury department",
       "search_volume": 5000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "_GaLynica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtWUfcqLUvMWhQZD-Cr_3v9H5ivP2fEBRV5LYgcyXzXwYySKfFanCop8kuVbZL6i052zKOqdmusgfABDDDwV"
-    },
-    {
-      "query": "jim cramer nvidia stock advice",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "KW4wTXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlVBs6pFqXmLQoMByogLyQ"
+      "news_token": "8tHbTnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtWUfcqLUvMWhQZD-Cr_3v9H5qvGznyMIq8lsQOZrzxnxwcU9YEfI1H4Mb7JyHxFpztnUcxzaq6D8AFQzjxc"
     },
     {
       "query": "abdul el-sayed parents",
@@ -72,50 +81,13 @@
       "news_token": "CK07zXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpUSn1eLUvMWhQZD-KrCws4ofLkzE5D5ysKNcsh8FaXMJGS-0uKVXijqE1_aQfgAbEcs-Q"
     },
     {
-      "query": "delta air lines route cancellations",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "Zs2MI3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXc812LUvMWhQZD-Cq5HukQPgDKFhIx"
-    },
-    {
-      "query": "irs marginal tax rates 2027",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "o2EF13ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlXbmMmLUvMWhQYDAM3zDDQ"
-    },
-    {
       "query": "s&p 500 record single day decline",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "VE2dOnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlWXU9qLUvMWhQZD-ZFuSyB8AL4FEcw"
-    },
-    {
-      "query": "burger king holiday countdown item",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "igGb_Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlXjpbMWpeYtCg0GANASDHo"
-    },
-    {
-      "query": "cboe volatility index",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "_KVmMXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRhWHt1cWpeYtCg0GANRTDQg"
+      "news_token": "IGrUzXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRlWXU9qLUvMWhQZD-CrTiuei8B3eXoHwARUeGHY"
     },
     {
       "query": "spartanburg",
@@ -124,7 +96,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "QYPE6nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtWUG8mLUvMWhQZD-WlF-ch8lW1vnFHkM0tmovC5I2JR-DEzb6Lwk9YVoZj39_RCZL7CgsuFED4ArxA73w"
+      "news_token": "F-gQM3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtWUG8mLUvMWhQZD-WlF-Sj8mJk3kfkq2944o8hzR8Si8FO9RVD4SeuKUPT_Pb0Qma-w4HIhhA8AkkE7LQ"
     },
     {
       "query": "artificial intelligence news",
@@ -133,7 +105,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "vncrynica1xTlFpYmlpcEp-SWJI4c_J5BgYGRlWxG0cXpeYtCg2G8pkbfyLzVaKlFFHkzb4cQ-G7pQeiqL_SsQtFvtL7PArfaf99FL7LKW0IHwCD5Tq8"
+      "news_token": "E04SdHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRlWxG0cXpeYtCg2G8pkbfyLzVaKlFFHk3dIDUeSvdOxCkTf7cgyFX-l9HoXvtP8-Ct_-TRaEDwB5sTsY"
+    },
+    {
+      "query": "boeing 737 max",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Z7aKDnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpWPpQcXpeYtCg2G8FWLb-uh8F2muaPw4wpQ5Qsv_0HhRy-4h8JnNypG4QdcPgfhAwBO4zV1"
     },
     {
       "query": "att tmobile spacex network dispute",
@@ -151,7 +132,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "kNyuS3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRpWA_xMWpeYtCg2G8FWTd_9H4VexnELhl8gWI_MV_E6Lo_CX6wlC-ABbjyjD"
+      "news_token": "geTxtnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGlYD_Exal5i0KDYbwVZN3_0fhF9u9QOGXyBaj8A3MzqDwi-5FIvMV_E6LI_Nl1e7ehvLP3XmjtQZF7XI9QWS-yuVj61H4Dm-voPA_HrmIYnd51GoU-TS1G6jyT_xR5OWENkL4AJEJa9U"
     },
     {
       "query": "what time does target open",
@@ -183,16 +164,6 @@
       "news_token": "GPSIwnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtVcppJFqcWLQoMhfJUXDZdR-NU53Mh81Yqtc1H4ZUFTUPgsqVbIfOUbJWtQzCv-F4nMV_oRsR6ZL_9f6hOEDwBVL0FZ"
     },
     {
-      "query": "is veterans day a federal holiday",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "law_and_government",
-        "hobbies_and_leisure"
-      ],
-      "news_token": "60kc73ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpW4pvOLUvMWhQYDANHmDLY"
-    },
-    {
       "query": "bill gates economic inequality views",
       "search_volume": 200,
       "increase": 50,
@@ -209,7 +180,7 @@
         "travel_and_transportation",
         "business_and_finance"
       ],
-      "news_token": "wEBTXHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUvKiKLUosXhQYDAM8zDDg"
+      "news_token": "RHoFAXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpUvKiKLUosXhQZD-ak_NkL4AMQ_EpI"
     },
     {
       "query": "gta 6 price",
