@@ -10,21 +10,21 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 16,
+      "keywords_count": 19,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-09 03:31:00"
+      "last_updated_hkt": "2026-11-09 06:30:58"
     }
   },
   "trending_seeds": [
     {
-      "query": "nasa astronauts",
-      "search_volume": 1000,
-      "increase": 400,
+      "query": "barcelona - madrid",
+      "search_volume": 20000,
+      "increase": 1000,
       "categories": [
-        "business_and_finance",
-        "science"
+        "travel_and_transportation",
+        "business_and_finance"
       ],
-      "news_token": "hagmpXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtXyRWWLUvMWhQZD-CqZIizIfFW17tko8u9EF6HwvzRsQeF_vKaHor9XTQOZL7_ZNgnCBwDg7jRB"
+      "news_token": "sPZyOHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlXeW_qLUosXhQZD-Mr71Cch81VlbrSgyN84n4fMV_mTKIYi__a8LoQPADJ_Kf0"
     },
     {
       "query": "bitcoin",
@@ -33,12 +33,12 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "5na_Qnica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG5RtP8hal5i0KDYbwVQzFCpD5qgpupSj8Kc2LUPjZKz-g8q8zofAneuag8LMCpqLYN_dULYp8scpGFH6RTxUK36UaRb2CjZklijzf-20ofMVrDij25TmfhvABz7RhhQ"
+      "news_token": "kcZaXHica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG5RtP8hal5i0KDYbwVQzFClD4jzfwIfNV-d7bo_BFA_eg8AX8BFD4U5oXoZj391UdiryCWykK31NQFIVf5FOFwud5ZonCn_r_EwrfpboWma9gY4aiXiXP-TSEDwAuH2CD"
     },
     {
       "query": "fidelity vanguard decade investment outlook analysis",
       "search_volume": 10000,
-      "increase": 300,
+      "increase": 200,
       "categories": [
         "business_and_finance"
       ],
@@ -55,12 +55,12 @@
     },
     {
       "query": "is veterans day a federal holiday",
-      "search_volume": 20000,
+      "search_volume": 10000,
       "increase": 100,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "kJhZvXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRpXMrlWLUvMWhQZD-Xb8Psh81R5dcxR-fm84ivq4pvMo8lX-TBA-ANyrJ2A"
+      "news_token": "zVB0XXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpXMrlWLUvMWhQZD-KpV_kwQPgDD9BG3"
     },
     {
       "query": "walmart thanksgiving meal deal",
@@ -78,7 +78,17 @@
       "categories": [
         "law_and_government"
       ],
-      "news_token": "P80b0Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpVnKxYuSs1bFBoM4avyPbBE4U9oeQbhAwAvrhjn"
+      "news_token": "bdbBZXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpVnKxYuSs1bFBoM4avyPbCE8AHUZxKl"
+    },
+    {
+      "query": "nasa astronauts",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "hagmpXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtXyRWWLUvMWhQZD-CqZIizIfFW17tko8u9EF6HwvzRsQeF_vKaHor9XTQOZL7_ZNgnCBwDg7jRB"
     },
     {
       "query": "gas prices",
@@ -108,6 +118,17 @@
       "news_token": "o2EF13ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlXbmMmLUvMWhQYDAM3zDDQ"
     },
     {
+      "query": "elon musk starlink satellite capacity",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "science",
+        "technology"
+      ],
+      "news_token": "ILI7y3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtVE9RuLUvMWhQZD-Aq35vBC-ADEAxIu"
+    },
+    {
       "query": "starlink",
       "search_volume": 2000,
       "increase": 75,
@@ -125,7 +146,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "sA_smHica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGlcvH1i9KzVsUGgzlfzxyEZmvWiJbjMIvj1qNwp8U6IbC7zwdh2Jex9QGFPmOqG4U-YD_E1Dke9zWIvMV_E6Lo6ifVjwXhe_w9goK__nTPyjmtQR_RuGLWR1CUT-x8DyKfO9HNRT-hKpQVPcrdKDwK72h-gHGGoOK"
+      "news_token": "ens5pXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXej2qLUvMWhQZD-MrTJm2F8AHNQxLP"
     },
     {
       "query": "live nation",
@@ -134,25 +155,35 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "K4NPFXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpWwFZsXpeYtCg2G8v8I7IbwAc1XEsY"
+      "news_token": "jPNCUXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpWwFZsXpeYtCg2G8FWn9h9G5qv8EdgN4QMALE4Y9Q"
     },
     {
-      "query": "historical stock market cycle analysis",
-      "search_volume": 100,
-      "increase": 75,
+      "query": "the town",
+      "search_volume": 2000,
+      "increase": 50,
       "categories": [
+        "law_and_government",
         "business_and_finance"
       ],
-      "news_token": "ens5pXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXej2qLUvMWhQZD-MrTJm2F8AHNQxLP"
+      "news_token": "vGo-43ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtUpPy8tSs1bFBoM4aukLrJH5qumx51G4cfxvEBRv_7qGhT5htiPKPwOhlMo_O4PaSj69ZdwIvOVzzDWQfgAGYJBag"
     },
     {
       "query": "walmart black friday deals 2026",
-      "search_volume": 1000,
+      "search_volume": 2000,
       "increase": 50,
       "categories": [
         "shopping"
       ],
-      "news_token": "g9DlPnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRlWWU3sXpeYtCg2G8jWebkfhu27ag8xXctQ3RJEXP7cWwgcA1uQjWg"
+      "news_token": "vkR6KHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRlWWU3sXpeYtCg2G8jWebkfhu27ag8xXctQ3RJFP4v-OwhfnnYnMV4lga0ORVzdZjMK34_4N4QMAMLo4Mg"
+    },
+    {
+      "query": "warren buffett",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "mJ8DBXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRpXLx9YvSs1bFBoM4auWyBYj81WmFc9FkS-PWo0in6Z2A0V-yq5uFH7n6TgU9R1TG1DkO6JQ1KsE_J-AIt_jthaFPynQDZmv4HdaHMIHAMpYUnw"
     },
     {
       "query": "石油",
