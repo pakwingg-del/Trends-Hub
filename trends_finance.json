@@ -10,29 +10,29 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 12,
+      "keywords_count": 16,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-08 21:31:04"
+      "last_updated_hkt": "2026-11-09 00:31:05"
     }
   },
   "trending_seeds": [
     {
-      "query": "palantir news",
-      "search_volume": 1000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "nSEGBXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRhXf3BuLUvMWhQZD-d9rfyDzVTsfz0Dh5zFsRFH_L-0iinyRyh8UPs_56RA-AIQTMQ8"
-    },
-    {
       "query": "bitcoin",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "zUydxXica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZG5RtP8hal5i0KDYbwVfne26PwBfwEkPnKy0t_osh3RL1E4Zvu0EHmq2xY54Ai36MUhML3Pn4AhW-QGovCt326DoXvUl2Lwi_yqULhp4YsR7F_xa5nKPy5p1D0K9iYWaL5fxsKX8GtFIWveA3qHwC91nkP"
+      "news_token": "5f4zYXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRuUbT_IWpeYtCg2G8FUMxQpQ-HEqSch81Qlr2VD4WQFTUfgKbqUo_GKVjSj8iZ45KPwinyoUfkfUSxT7vwrdRpF3qa5Fkc9zPo0iz_d-Gwpf8ZoDhA8AwVZbOQ"
+    },
+    {
+      "query": "fidelity vanguard decade investment outlook analysis",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "AlmwqHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtX-k2yLUvMWhQYDANBiDGY"
     },
     {
       "query": "south africa china trade increase",
@@ -41,16 +41,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "vemqonica1xTlFpYmlpcEp-SWJI4efJ5BgYGRlWTqc8XpeYtCg2G8vtseJD5KlfXMkP4ABGTF6I"
-    },
-    {
-      "query": "strait of hormuz",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "SxTpwnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtU-16-LUvMWhQZD-cWZzsh8lV5pdhT5fscJKPJ3bgmi8H9rb0RRX_l4EYr85ZsLkPnKyfP2QPgAiL873Q"
+      "news_token": "kQmyyHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRlWTqc8XpeYtCg2G8vtseFD4EyUmQvgADnMXWA"
     },
     {
       "query": "retirement",
@@ -68,25 +59,34 @@
       "categories": [
         "law_and_government"
       ],
-      "news_token": "TZj5vnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpVnKxYuSs1bFBoM4avyPbBE4fcyPIDwAStJGFo"
+      "news_token": "P80b0Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpVnKxYuSs1bFBoM4avyPbBE4U9oeQbhAwAvrhjn"
     },
     {
-      "query": "is veterans day a federal holiday",
-      "search_volume": 10000,
-      "increase": 100,
+      "query": "nvidia stock price",
+      "search_volume": 1000,
+      "increase": 200,
       "categories": [
-        "law_and_government"
+        "business_and_finance"
       ],
-      "news_token": "A96smHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpXMrlWLUvMWhQZD-Ko9uubIfBU7fh8U-fzecBT5uKbzKPL-766h8Kv8mSB8AJ6ILbs"
+      "news_token": "6YhABHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRlVBs6pFqXmLQoOh_MbNJ1H49vy7kfkq04rnovBnB7tD-ACnGyLI"
     },
     {
       "query": "walmart thanksgiving meal deal",
-      "search_volume": 2000,
+      "search_volume": 5000,
       "increase": 100,
       "categories": [
         "other"
       ],
       "news_token": "gU9uuXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhVbjpJFqXmLQoMhfNWcm_0QPgC2SxHc"
+    },
+    {
+      "query": "is veterans day a federal holiday",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "zVB0XXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpXMrlWLUvMWhQZD-KpV_kwQPgDD9BG3"
     },
     {
       "query": "gas prices",
@@ -95,7 +95,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Nz9VhHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpVjLA2LUvMWhQZD-Krlx2yQ-Sq3Vn9B4Ye730dRH7e2B4WvcWg2ivovhUdQ5NsaLJD5Sq1h_hA-APvLO6c"
+      "news_token": "TbUHznica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpVjLA2LUvMWhQZD-KptDRbIfJVbq7-g8MPd76PwvxQeQdGvcWg2Cr_8mA2EDwAzITBZ"
     },
     {
       "query": "pepsico hormel long term investment",
@@ -113,16 +113,54 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "o2EF13ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlXbmMmLUvMWhQYDAM3zDDQ"
+      "news_token": "QnM2eXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlXbmMmLUvMWhQZD-CpbjndD-ADC4BKB"
+    },
+    {
+      "query": "starlink",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "science",
+        "technology"
+      ],
+      "news_token": "68aJJXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRlXrs_sWpeYtCg2G8hPVb6Dw-_mPo_D5a1eh8CdMz0BV38eBwq97Go7Cz9ijhsKP-26Lwu9S347MV_n1-T-KvMBzOwgfADFBTLM"
     },
     {
       "query": "wall street stock market bubble risks",
-      "search_volume": 1000,
+      "search_volume": 2000,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ens5pXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXej2qLUvMWhQZD-MrTJm2F8AHNQxLP"
+      "news_token": "a3KmInica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtXej2qLUvMWhQZD-ROqQlH4_Sf1UfiV3udR-JL9m5H5KtOK56LIdyh0IPOVp03aCuEDACZpNSg"
+    },
+    {
+      "query": "walmart black friday deals 2026",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "shopping"
+      ],
+      "news_token": "TfVpo3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRlWWU3sXpeYtCg2G8jWebkfmKznqG6LI23H_RuarvJxSgsKPYGtD4ece2YeiP_7nHxR-yJU0CB8AdWU7HA"
+    },
+    {
+      "query": "warren buffett",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "WZvMHXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpXLx9YvSs1bFBoM4at2no5D5qvICW1E4Qf8n4DC75jagKK_x20tCr8jqhuFXyJbjMxX8DstDuEDAPaVOrY"
+    },
+    {
+      "query": "石油",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "eQccjXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtWJ3_QWVWUsCg2G8icsUUbmq2zYvhOFf7XMA4VfFB6Ion_i6zUo8nbr2ZH5SnsUnkP4AHzLNik"
     }
   ]
 }
