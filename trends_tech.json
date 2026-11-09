@@ -10,270 +10,207 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 28,
+      "keywords_count": 20,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-08 21:31:06"
+      "last_updated_hkt": "2026-11-09 21:31:01"
     }
   },
   "trending_seeds": [
     {
-      "query": "nvidia",
-      "search_volume": 10000,
-      "increase": 600,
+      "query": "nvidia stock",
+      "search_volume": 500000,
+      "increase": 800,
       "categories": [
         "other"
       ],
-      "news_token": "OPhfg3ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZG1cbNJxel5i0KDYbwVWYHuyPzFRW2_kHmKzBtWokizyVbhcyXl32pgGJetJQiiv7QI57IfFXVM89R1E8rnotivh3rfRTzv0-IRJE_t-4AinmCZijuUWm7_Q2F__eVEYr6wGtXUfjpVSEofK2ioxA-AAL4dNc"
+      "news_token": "U2yjcHica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZG1cbNJxel5i0KDYbymZukUPiV3ueR-SrTiuci85WnTdqKon5ZHSrfs1QQhR8-dQMKf41GLIr5mxLZUPiZ2wxQ1K_QY0HhC5pVofCnmHxE4c9j_I_Cj9I4jcL33lGNzJf_MmMnlH_u917fchS3REsporpljx0KP8ZiPQp_eag9Ml-BadNKFPlu4y5kvqLDE6jdAFa2m2U"
     },
     {
-      "query": "seattle power outages",
-      "search_volume": 20000,
-      "increase": 400,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "cpCodXica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZGlR17_y5KzVsUGgzhq5Z8YULmq3wq3YIirxH5EoUvcSwXRX21fhIKf2fvCxT1fR_Oo_AT3iSj8Ls3SiLzlZNPRqDIpyzdiMLvnSmMwi_lRHVfQymKf1Qb36Oq76lYiWLfpxBxVPs2eqC6v60FxX9LFApQ5G1XsCDzFe0fovhfKaFsGjJf_u6tSggfAJAGmU0"
-    },
-    {
-      "query": "dave chappelle",
-      "search_volume": 10000,
-      "increase": 400,
+      "query": "charlie kirk dave chappelle",
+      "search_volume": 5000,
+      "increase": 700,
       "categories": [
         "entertainment"
       ],
-      "news_token": "rIiJuHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtW2O1MXpeYtCg0GANSSDP8"
+      "news_token": "tp0cMXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtW2O1MXpeYtCg2G8FWuzslG5qvaepmiyJf4vEKRL_HfgMxXKrk5F5mvIOjNAeEDACB0Lqg"
     },
     {
-      "query": "strait of hormuz",
+      "query": "destruction allstars delisted playstation store",
       "search_volume": 5000,
       "increase": 300,
       "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "SxTpwnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtU-16-LUvMWhQZD-cWZzsh8lV5pdhT5fscJKPJ3bgmi8H9rb0RRX_l4EYr85ZsLkPnKyfP2QPgAiL873Q"
-    },
-    {
-      "query": "zelda ocarina of time remake",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
         "games",
-        "technology"
-      ],
-      "news_token": "5NY7Tnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRhXTBJdFqXmLQoMhfNWuJ6eQ-Sqp0uIo8mIqlih8-zWtKHy3t_nIfKWpybYQPgB9Ky0V"
-    },
-    {
-      "query": "msc cruises miami ship detained",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "HzsXpXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpVbRtKLUvMWhQYDAM7WDC4"
-    },
-    {
-      "query": "army air force game",
-      "search_volume": 20000,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "eitrQXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtWGuYWLUvMWhQZD-CrLu16h8DcfeILMV-0p_w3hAwD6ih_c"
-    },
-    {
-      "query": "game pass",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "Sl6XbHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpU5rF6LUvMWhQZD-Kr6dU-Q-fJiwq-Q-cqy656h8JlWGUD4AJhjIjk"
-    },
-    {
-      "query": "what happened in poland",
-      "search_volume": 20000,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "b1KH03ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtWSxrJFqXmLQoOR-AU5cL6SwoYDyHyFR9ukkPnyVbpxED4Az9cjWw"
-    },
-    {
-      "query": "apple tv",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "qsU3Inica1xTlFpYmlpcEp-SWJJ4h0Fx8nkGBgZGVTFPg0WpeYtCg6H83AsKKHwxL18UfrkmMwo_5HIqMl_F5Io5iry90iMUfo3gJRS-sGMliv7piTwo8o2b9VH46s8iUfhs0yVR-DqO61D4QUElKPxu1zAUfrOCPDJfueYTivuVL5yyROYrXL6sh8xXZDk3A0X9roavKP45p2iIYl_KnH0ofFO1Yyj8it3zUPi1fS9Q-OkB6ij8XobdKO6ZvnkZinsXRsegqK8-Mw3FfTfPQuMfAArXwBU"
-    },
-    {
-      "query": "tesla model x",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "autos_and_vehicles"
-      ],
-      "news_token": "Pwdu23ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtXy9dsWpeYtCg2G8r1-W6Pw43YdROYr7lkVDeEDAOZoHtI"
-    },
-    {
-      "query": "spain november 11 transport strike",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "Eyd0k3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpXg90KLUvMWhQYDAM_ADFs"
-    },
-    {
-      "query": "caitlin clark",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "w1xVk3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpXfWs8XpeYtCg2G8r-ul0Pmqwr2CqDwe9feReH3rxdB4ccKWqDwXa1VUfh1TyogfAAjoTQI"
-    },
-    {
-      "query": "appletv",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "n08j-Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRlX1Z5GLUvMWhQZD-bV9L1D4Yl6-KPya-24ofI6SQBS-juM6ZL4Kk9J7CB8AvngtWQ"
-    },
-    {
-      "query": "us central command counter drone systems",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "5JlsrHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlUBc6FFqXmLQoMBx68LYQ"
-    },
-    {
-      "query": "eiji aonuma nintendo staff retention",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "-UVz2Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlUVS69FqXmLQoMByfsLrw"
-    },
-    {
-      "query": "artificial intelligence news",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
+        "technology",
         "science"
       ],
-      "news_token": "sgwCDXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtX8GZMXpeYtCg2G8vt91qDwGzefROEzN_5E4Wu--4PCb767HIXvlh6IwhdpEELhlzRGQPgA_Sw67g"
+      "news_token": "sPbTkXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVKrRuLUvMWhQYDANBiDIM"
     },
     {
-      "query": "what are the latest updates on the us military task force iron gate operation",
-      "search_volume": 200,
-      "increase": 100,
+      "query": "the legend of zelda ocarina of time remake",
+      "search_volume": 5000,
+      "increase": 300,
       "categories": [
-        "law_and_government"
+        "games",
+        "technology"
       ],
-      "news_token": "BGmed3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXiTOdFqXmLQoMBzhEMJw"
+      "news_token": "EP6FS3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRhXTBJdFqXmLQoMhfNWuJ6dQ-PZrWlH4axJPovCX_Z6IzFeammwL4QMATf4qKg"
     },
     {
-      "query": "delta air lines route cancellations",
-      "search_volume": 200,
-      "increase": 100,
+      "query": "wtvr cbs 6 anchor retirement",
+      "search_volume": 2000,
+      "increase": 300,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "NCCMuXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVoj3OLUvMWhQYDAM_-DHk"
+    },
+    {
+      "query": "mv odyssey cruise ship detained",
+      "search_volume": 5000,
+      "increase": 200,
       "categories": [
         "travel_and_transportation"
       ],
-      "news_token": "m1LJMnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlWzuDOLUvMWhQZD-Cq5HukQPgDADRHL"
+      "news_token": "lYQz43ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlUfif-LUvMWhQYDAM9ODGs"
     },
     {
-      "query": "captains day fortnite",
-      "search_volume": 5000,
-      "increase": 75,
-      "categories": [
-        "games"
-      ],
-      "news_token": "BRBhPXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpUDz6wXpeYtCg2G8JX_-3JB-ADP2xKE"
-    },
-    {
-      "query": "shawn layden",
+      "query": "playstation plus",
       "search_volume": 2000,
-      "increase": 75,
+      "increase": 200,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "16MhkHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtXyfx6LUvMWhQZD-CqbVUJR-Fe9_yHzFRy4FyDz5dJ7ViPzVUMl9qHwo7oLIXwAAGMuuw"
+      "news_token": "bj_Ww3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlX-KZMWpeYtCg2G8l2XVKPwDWo9kPlK-VVyyHwV10oGFP6ryzshfADd6Cg0"
     },
     {
-      "query": "joanna gaines",
-      "search_volume": 1000,
-      "increase": 75,
+      "query": "amd stock",
+      "search_volume": 5000,
+      "increase": 100,
       "categories": [
-        "entertainment"
+        "business_and_finance",
+        "technology"
       ],
-      "news_token": "S397k3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlVLBp9FqXmLQoOhfLuAx8h8lWtvnFHkk46JofDLpK6i8KPv8aPw3XqbkPnKi9W9IHwAq08zTA"
+      "news_token": "9joZzHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtUojdOLUvMWhQZD-RZKeij8FXosyHyVGqMiFHnRsw0o8lG611Hk5Yt3I_MVVERXQfgAOYMxuA"
     },
     {
-      "query": "snl weekend update",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "UHxWg3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtXGpZaLUvMWhQbD-CJrkPkqiQJWyHxF_WPCyHzlUuaZKOrXabCiqA_yTITwAWG-K-c"
-    },
-    {
-      "query": "leak",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "zRS48Xica1xTlFpYmlpcEp-SWJI4d_J5BgYGRlXrcwKLUvMWhQZD-aW1-1D41iayKPxulz0o_OzpF1D1MzGj8Guj2VH4spf4kPkqW-S5UeTrrqih8Nk5FiDzlVctdkDR7-VUDeEDAF5tTQU"
-    },
-    {
-      "query": "anthony bourdain",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "politics",
-        "entertainment"
-      ],
-      "news_token": "8y-PKXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtXYtKuLUvMWhQZD-WIFfch8FWUdVwgfAApoFtc"
-    },
-    {
-      "query": "strait of hormuz news",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "other"
-      ],
-      "news_token": "RpV2o3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtXKx4sWpeYtCg2G8osznZH5KnduCaLwL99cgMxXvpMRgqJfwPQVMl9pt4g3Ml9B470phA8AdJk1UQ"
-    },
-    {
-      "query": "playstation plus",
-      "search_volume": 200,
-      "increase": 50,
+      "query": "playstation",
+      "search_volume": 2000,
+      "increase": 100,
       "categories": [
         "technology",
         "games"
       ],
-      "news_token": "e0KFynica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRlWDWo9FqXmLQoOh_OwZxih8_imTUPgysp3IfKX8KjlkvoprJQMK_9XlnRA-AFI1LRA"
+      "news_token": "K9FwDnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRtXJ1U2LUvMWhQZD-Cq_0vWR-arl_zxQ5D_qyqDwV-4-gaKekWEeCl_N8BIKn3_KJBT-sqgEFPNeXd6Jwl86IQ9FvUEtintUQ1mXQPgAIENRDw"
     },
     {
-      "query": "zelda switch 2 pro controller",
-      "search_volume": 200,
-      "increase": 50,
+      "query": "bella coola bear trail search",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "hobbies_and_leisure",
+        "pets_and_animals"
+      ],
+      "news_token": "JoosZHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpXvhfaLUvMWhQYDANLPDK4"
+    },
+    {
+      "query": "astronaut applications",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "jLKpVXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtXyRWWLUvMWhQZD-bNMJiDzVb40bEHhf7ymh6K-V00DmS-_2TYJwgcAXvcpnw"
+    },
+    {
+      "query": "xbox cloud gaming",
+      "search_volume": 5000,
+      "increase": 75,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "bxK6RHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtX840WLUvMWhQZD-W5v85H5Kp1P5kP4ACbIGO0"
+      "news_token": "6lI7LHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpU2pvmLUvMWhQZD-KqWsjoofBanCGS-XOmmw8h8ZaZVBhA-AGLXISs"
+    },
+    {
+      "query": "cloud gaming",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "d_yRkHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtXyfx6LUvMWhQZD-VaXniHz5Uo3HUaRZ3GKQOartDHNR5G3lNWB8AFR4ChI"
+    },
+    {
+      "query": "elon musk starlink satellite capacity",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "science",
+        "technology"
+      ],
+      "news_token": "VyZlDnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVE9RuLUvMWhQYDAM9yDGg"
+    },
+    {
+      "query": "starlink",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "science",
+        "technology"
+      ],
+      "news_token": "WjeDq3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRtV-_uOLUvMWhQZD-YnqN1D4MubnUfjWZ_ch81V-ff6PIi_w3A6FP2F6Bgqfv3YVCr-_jwOFPydTHIU_XeMWMl_5sGUwhA8AYm9L2Q"
+    },
+    {
+      "query": "amd stock price",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "6So4EXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpUao6JFqXmLQoMhfNUojdMofAslPWS-ynn5AGS-goroKggfAHrlITc"
+    },
+    {
+      "query": "gta 6 price",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "technology",
+        "games"
+      ],
+      "news_token": "5ZRov3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtW5b7MWpeYtCg2G8FV-peuj8Fdu5kTmKxwsbYDwAeSzHng"
+    },
+    {
+      "query": "tradingview",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "965gR3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtVV5mcXpeYtCg2G8pmbpCB8AMPVEZ0"
+    },
+    {
+      "query": "kaia jordan gerber",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "Nxa8knica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpXriX2LUvMWhQZD-DLam05C-ADNvhKy"
+    },
+    {
+      "query": "british airways boeing 787 pittsburgh grounded",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "vKiiFHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVpXImLUvMWhQYDAM0mDAk"
     }
   ]
 }
