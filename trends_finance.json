@@ -10,12 +10,21 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 31,
+      "keywords_count": 29,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-11 00:31:00"
+      "last_updated_hkt": "2026-11-11 03:30:59"
     }
   },
   "trending_seeds": [
+    {
+      "query": "mark robinson personal debt filing",
+      "search_volume": 10000,
+      "increase": 1000,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "uSzTP3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtU94tcXpeYtCg0GANIeDLI"
+    },
     {
       "query": "crwv stock",
       "search_volume": 20000,
@@ -23,18 +32,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "07lkz3ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGVc6bUxel5i0KDYbyT5cZovDPPpNF5SudROGvz76CzFfR_2SGIs_cJIXMV2bvZUdR3zbhM4p67_crUfiiZxtQ-CGy1Sj6l-VVIfMVxbdaoaifmf8LhX_GPR6VXzgNhb_mfzgK__jl2RA-AIrGdZc"
-    },
-    {
-      "query": "huevo",
-      "search_volume": 10000,
-      "increase": 500,
-      "categories": [
-        "business_and_finance",
-        "food_and_drink",
-        "shopping"
-      ],
-      "news_token": "lA85S3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlXN43WLUosXhQZD-Cr3zJ6i8HeayyLzVW0jRFDkv7QHoMgvF2NA4Z8-Z4TC33o0CMIHAO1WNGE"
+      "news_token": "JVbAlnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRlXOm1MXpeYtCg2G8pmbpFD4p8sMkfnK7L3syHyVtgmfkfmK4lutUPSfKZyGwo_vnInCX_M_HFW9ezyEDwDC2j-D"
     },
     {
       "query": "anthropic ipo",
@@ -43,7 +41,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Z9GfPHica1xTlFpYmlpcEp-SWJJ4h0Fu8nkGBgZGVbEbRxel5i0KDYbyj87kQuaraE70R-Yrf45PRlHfvvAwCn_ekTko_HAXExT95o62yHzFL8phKPIVfJwo-o8f7EThn9h4F5UfJYzC3_dgCQp__3IbFL6-qhEyX_5ZXBmKe3Yc00Xh6zx6g6L_dJkhSvic585FkWeW34jCP8scj8I_fPIEin5T9lBkvhLjZE8UfkTHThT9IbLVKO7fX_sema_QWwSNPwDmlbIt"
+      "news_token": "NNAX_3ica1xTlFpYmlpcEp-SWJJ4h0Fm8nkGBgZGVbEbRxel5i0KDYbyj87kQuaraE70R-Yrf45PRlHfvvAwCn_ekTko_HAXExT95o62yHzFL8phKOr1VY1Q1FfwcaLIHz_YicI_ESWMwt-_3AaFf7rMEJkv_yyuDMX-Hcd0Ufg6j96g-P-umCOKeWeZ41H4FzWqUPiHT55Add_GuyjmmbKHIvOVGCd7oqgPka1Gce_-2vfIfIXeImj8AADZAqZS"
     },
     {
       "query": "cpi",
@@ -52,29 +50,11 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "MfIyl3ica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZG1RDZ6kWpeYtCg6F8vhZHFP7By-EofJHry1H4J-qNUPinGQJR-BPWsiHzlVrD_JH5yjee5KHqz7ZE4dvGTEZRf6VnFor84W3JKPyExbzIfJVw9_so8rm7QlHMy_wRgyJ_1oEBhc_cJIXC13X1ROFPsueC8AGEZXzL"
-    },
-    {
-      "query": "mark robinson personal debt filing",
-      "search_volume": 2000,
-      "increase": 300,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "uSzTP3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtU94tcXpeYtCg0GANIeDLI"
-    },
-    {
-      "query": "airplane",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "ZmSaSXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRtUV3ocXpeYtCg2G8pPvL0Hmq-xe-A5FvjZaBIV_4l4hCv9suT0K_8AtV1R50RUo5qtrO6DwXzKEIPMVgkpuQ_gAaP5HFQ"
+      "news_token": "y4shrnica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZG1RDZ6kWpeYtCg6H8pd9iUfgi15ej8A9eDkfhn6g3QuGfZghE5ivfeJKHzFdqDfNHUT9hLRuK-is9s1DkLacLofAPb0tG4V8KKEHmq4S730eRz90VimJ-5o8YFHnmJikU_jKuzSh8BtmtKOb_1tZDMW_aJBR51Un2XBA-AEeIhKA"
     },
     {
       "query": "mendoza",
-      "search_volume": 2000,
+      "search_volume": 5000,
       "increase": 200,
       "categories": [
         "business_and_finance",
@@ -83,13 +63,13 @@
       "news_token": "RFMvpXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRlWGE9qLUosXhQZD-CqR8ibIfNWTS01R-PNS4lD4UROmo_Ar9VpQ-AfLk1H4R5YYoPB5K4RR5d_uQ3HPn_NPUPj3wqJQ-FvcN0P4AF6zUhg"
     },
     {
-      "query": "income",
-      "search_volume": 2000,
+      "query": "airplane",
+      "search_volume": 5000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ay1hsnica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZG1aWsExal5i0KDYbwVd6_jEHmq56aHI3CP6u0FIV_hNcLhX-s_CcKv0boJQp_f-hiFP6hmTdR-GtmXEbhn7lRhcKX7e1H4Z-cH4-qXnwRqvsfd6LwbWMmo_APn1yDqt_iFQo_79hZVHmxXyh88QdCKHz77BwU_u6VqOad1hBHNU-CGcIHAKpzm_0"
+      "news_token": "DbC7j3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtUV3ocXpeYtCg2G8pPvL0Hmq-xe-A5F_lwRirzq6qApKPzaaBEU_nZZThT-iXuFKPyzoisgfAA7cTwM"
     },
     {
       "query": "is the stock market open on veterans day",
@@ -99,16 +79,25 @@
         "law_and_government",
         "hobbies_and_leisure"
       ],
-      "news_token": "a_dl-Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpW4pvOLUvMWhQZD-KqHvyug8I-7dyLzVXafrkCRP3r0Fgp_yXJ1FP6xde8hfAB-rTIN"
+      "news_token": "t8YJVXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRpW4pvOLUvMWhQZD-KqHvysg8xWXJgigyJ_ZIIHCP-7eicI_evQWCn-1QjsKf8lydWS-yo_aRhS-Hb8PCj-zaxWK_i17v6LwzyqHQPgAxeZTJw"
     },
     {
-      "query": "starlink",
+      "query": "strait of hormuz news",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "hNinXnica1xTlFpYmlpcEp-SWJI4f_J5BgYGRtUtMY8XpeYtCg2G8nPXdaLwBZ7bIfNVfq1pRJFPVL-Bws_Yo4aivjm2A0XeWFUWhT8v9jCK-m_X1VHkJ0zPQOH38x9H4a__PR2Fvyc7G4W_9cJLCB8AlvFfVg"
+      "news_token": "GWsvyHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRlUG2a2LUvMWhQZD-ZWPFyHzVUzENqPI9ztOQJE_8qYAhX_nliCK-iSBTBT-2S__UNR_nrcSRd4yYjoKX_58Oor6cPf7KPJzJ25D5isc8NJB4fen60L4AG7wXgg"
+    },
+    {
+      "query": "tradingview",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Ca2Manica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlVBs6pFqXmLQoOhfMvpQhA-AK-tEPM"
     },
     {
       "query": "apprentice jockey izzy neale",
@@ -129,6 +118,15 @@
       "news_token": "tKEtNHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWtF5UXpeYtCg0GANLDDLE"
     },
     {
+      "query": "neil armstrong",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "1MIMX3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXNR3oXpeYtCg0GANUvDQw"
+    },
+    {
       "query": "economic calendar",
       "search_volume": 500,
       "increase": 100,
@@ -136,6 +134,15 @@
         "business_and_finance"
       ],
       "news_token": "Ns7f-Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtWsbSsXpeYtCg2G8k-bekP4AMw4EmQ"
+    },
+    {
+      "query": "global debt",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "6q4gp3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRgUjJ-9FqXmLQoOhfB2BNGS-6hHefSj8czw7UPgmd_ZD-ABwMSJv"
     },
     {
       "query": "icloud down",
@@ -147,23 +154,13 @@
       "news_token": "o8mqonica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVzd4UWpeYtCg0GANONDMU"
     },
     {
-      "query": "paul mccartney",
-      "search_volume": 5000,
-      "increase": 75,
-      "categories": [
-        "entertainment",
-        "business_and_finance"
-      ],
-      "news_token": "8P7KwHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRlUFjR2LUvMWhQZD-SvmnEbhH_E_iMJf5r4RhX-AdysKf4EBEzJfaYexCoQPAAkTLpk"
-    },
-    {
       "query": "costco stock",
       "search_volume": 1000,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Exc6_Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRpXH8V6LUvMWhQZD-KqaFQ4ofCfX78h8lX9pF5H5cuc8XqOoP7FAGsIHADrbKgs"
+      "news_token": "WFomenica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRpXH8V6LUvMWhQZD-KqaFQ4ofCfX7yj8Ewukkfkq_9IuIvPlznm8hvABKFsqCw"
     },
     {
       "query": "best buy black friday deals 2026",
@@ -172,7 +169,7 @@
       "categories": [
         "shopping"
       ],
-      "news_token": "VSlFwXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRiVHfcNFqXmLQoMhfFXXTXuQ-SquImIo_Ai2NhT1UYzVKHyNp9tR-Hbcv5H5ym33Uc37n3MBhX_leimKfpZTe1H44ufWQvgAxKNKjw"
+      "news_token": "toA0MXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRiVHfcNFqXmLQoMhfFXXTXuQ-SquImIo_Ai2NhT1UYzVKPKBRdbIfOW2-yj6VVlO7UXhazzdjqL_f84FFHk77t8o8q8u70SRFz-3FoWvH8IP4QMAc1VVBA"
     },
     {
       "query": "gas buddy",
@@ -185,22 +182,22 @@
       "news_token": "MlSbTnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpVw9_uLUvMWhQYDANA_DIQ"
     },
     {
-      "query": "djia futures",
-      "search_volume": 100,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "-yMRv3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtUzaosXpeYtCg2G8pmbpFD4IbLVKPxlXJtR-AyyW1H4J-qNkPkqv7X1kPnK0yZB1QMAbXsy_A"
-    },
-    {
       "query": "us economy debt gdp 2026",
       "search_volume": 100,
       "increase": 75,
       "categories": [
         "other"
       ],
-      "news_token": "Q65DBXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtW5LvKLUvMWhQZD-ToR61D4qvxdKPxVFktQ-I6x21D4HQodED4AySQnag"
+      "news_token": "LLE-cHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtW5LvKLUvMWhQZD-ToR61D4qyyWoPBV-btQ-I6x21D4HQodED4A1aQnag"
+    },
+    {
+      "query": "gta 6 price",
+      "search_volume": 5000,
+      "increase": 50,
+      "categories": [
+        "games"
+      ],
+      "news_token": "JVoCWXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpWNNW8WpeYtCg2G8FXdSvlR-CbT-ZD5Kr_S9ZH5CgdLGyB8AMDHIyM"
     },
     {
       "query": "stubhub",
@@ -212,15 +209,6 @@
       "news_token": "xj9q_Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlWG8ycXpeYtCg2G8s8dDIHwAcvQEss"
     },
     {
-      "query": "gta 6 price",
-      "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "games"
-      ],
-      "news_token": "IUG1sHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRpWNNW8WpeYtCg2G8FXdSvlR-CbT-ZD5Kr_S9ZH5SuHXK5D5CgdLGyB8ACDEKQ4"
-    },
-    {
       "query": "chipotle tattoo deal",
       "search_volume": 1000,
       "increase": 50,
@@ -228,15 +216,6 @@
         "food_and_drink"
       ],
       "news_token": "5A9oCXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWFVXyLUvMWhQYDAM7EDDE"
-    },
-    {
-      "query": "kohl's black friday early deals 2026",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "shopping"
-      ],
-      "news_token": "eCMFXXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXZDfcWpeYtCg2G8JUc9Q0hfADK1hHn"
     },
     {
       "query": "cboe volatility index",
@@ -267,6 +246,16 @@
       "news_token": "u8zlrXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtWz9ocWpeYtCg2G8je7GCHzVfr-lqLIL1n6HYVvum0aCv-wcSEKfynLXRS-QAE_Cn_VczMIHwD-TTtC"
     },
     {
+      "query": "syracuse",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "SBDgX3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtXzZ4sXpeYtCg2G8s-ovkPhn0vtROEf_3YBhe_c7YTMV_lYgqr-1MV7qPy9NyB8AAPNOQw"
+    },
+    {
       "query": "pnc bank employee theft charges",
       "search_volume": 200,
       "increase": 50,
@@ -283,16 +272,7 @@
         "business_and_finance",
         "law_and_government"
       ],
-      "news_token": "wyVaq3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtUzG3gWpeYtCg2G8q3UfqHwz03cj8Jnnh6BKr_NG4W_T_0oCv9UnAUK_-y8jRA-AD-PNec"
-    },
-    {
-      "query": "price of oil",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "9Gtn83ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRlUG2a2LUvMWhQZD-ZYR01H48ufTkfkq4e73UdWH70fmKxzw0kHh96frQvgAe0ctIQ"
+      "news_token": "rgmHbXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRtUzG3gWpeYtCg2G8vXaHqHw9zteQeF3yp9D4Xd3RKKqz0Q1z0rtFwr_VJwFCv_cNm8UPvP0CBR-pp4AMl_5z5QvKPKrg1lR5GdU1CPzFftkmCB8APbAW9w"
     },
     {
       "query": "philippine airlines",
