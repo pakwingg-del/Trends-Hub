@@ -10,225 +10,292 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 23,
+      "keywords_count": 30,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-10 21:31:02"
+      "last_updated_hkt": "2026-11-11 21:30:59"
     }
   },
   "trending_seeds": [
     {
-      "query": "wainwright",
+      "query": "happy veterans day",
       "search_volume": 100000,
       "increase": 1000,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "c2XjLHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpUXDvsWpeYtCg2G8FXnHSlG5quwqF5D4W8x8ENRf6DsCQp_P_9RFP7O3wHIfGWtAlT51eemQfgA8pc8Tg"
+      "news_token": "0J2n2Xica1xTlFpYmlpcEp-SWJJ4h0Fu8nkGBgZGlcyuVYtS8xaFBkP4qouLlqPwX_D9QearxDWdR5GPrl6MIm_H74Mify2wE4V_em04Cj_y9hkU_pIJq1H4L395opj_yJ8FRf7B2yQU-U3b7FHk11zbgsI_8_geCv_oBj8U_pW3dij81OZvKPw73A9Q-ExnrqPwN39IROHzxuSj8Ofl7UQ1b7UTCv91_WUUvonhbdT4eB6PwufL10fx_8NCYQgfAL1juww"
     },
     {
-      "query": "hailee steinfeld",
+      "query": "nintendo paid online service launch",
       "search_volume": 10000,
-      "increase": 800,
+      "increase": 200,
       "categories": [
-        "entertainment"
+        "games",
+        "technology"
       ],
-      "news_token": "Ulu-unica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpVFn38uSs1bFBoM4auWH7uIwt_hWojCX7dCB8IHABfPH2s"
+      "news_token": "TKh-4Hica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtVtTGyLUvMWhQZD-W5v81H4a7szkfnKn-XeQfgAqu4d3g"
     },
     {
-      "query": "glp-1 naion warning fda",
-      "search_volume": 10000,
-      "increase": 300,
-      "categories": [
-        "health"
-      ],
-      "news_token": "dtB3Pnica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZG1SWZ3xel5i0KDYbwVU6baCPzVSsfp6LI_zjyEoUfdNkema-QIDQHma-oH7YcxbwKs03IfGXOD9wo6rveaaLwyxJ1UfjP785GsW_njQMo5q_70IHivo-la1DkRQP9UPgZ0y1Q-KysX1Hc99gxDJmvtODfNRT7Z_PnouhP_MyEwpfWF0bhn7zJjMyXr962FMIHAJy0mCQ"
-    },
-    {
-      "query": "airplane",
+      "query": "steve berman airline class action lawsuit",
       "search_volume": 5000,
       "increase": 200,
       "categories": [
-        "business_and_finance"
+        "law_and_government"
       ],
-      "news_token": "co4-13ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRtUV3ocXpeYtCg2G8hdyaaPwT9wrROar7F74DkU--f4SFP6BW64o_NpoERT-8QMJKPxlMjtR-At8slHse8kQAuEDAFFQR2o"
+      "news_token": "E2PShXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlXlttpFqXmLQoMBzb8MLg"
     },
     {
-      "query": "sony playstation handheld",
-      "search_volume": 2000,
+      "query": "silver rail elementary school",
+      "search_volume": 5000,
       "increase": 200,
       "categories": [
-        "technology",
-        "games"
+        "other"
       ],
-      "news_token": "OWdvC3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRtXJ1U2LUvMWhQZD-ezSzMh8lV_p-ijyx_YXovAPGweiqN-sEooiX9juiCJ_aVkdCt_igwAKv6dDGNU-txwU_hF-NhS-dk0LCr-o_wOKec6rJkP4AMyFWxs"
+      "news_token": "4r7IEXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRlXtN38WpeYtCg2G8FWmm-Qg85W-30pF5iu_2gpVDwD2OB_1"
     },
     {
-      "query": "daisy ridley",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "eiONpXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUTk3oWpeYtCg2G8kt3TkHhLz__BYUv7NgJ4QMA-RQezw"
-    },
-    {
-      "query": "nintendo switch black friday",
+      "query": "american airlines international route cancellations 2027",
       "search_volume": 1000,
       "increase": 200,
       "categories": [
-        "technology",
-        "games"
+        "travel_and_transportation",
+        "business_and_finance"
       ],
-      "news_token": "yiWtdXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhXJLxsXpeYtCg2G8JUc9Q0hfADE3xGr"
+      "news_token": "SzLyInica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtUnVUcWpeYtCg2G8huXfIPwAdp6E40"
     },
     {
-      "query": "nintendo switch firmware",
-      "search_volume": 500,
-      "increase": 200,
+      "query": "mihail mihailidis garden fossil discovery",
+      "search_volume": 5000,
+      "increase": 100,
       "categories": [
-        "games",
-        "technology"
+        "science"
       ],
-      "news_token": "33ev_Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlXZKMFFqXmLQoOh_A2zd0H4ALOxEd0"
+      "news_token": "HbucfHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtW93E6LUvMWhQYDAM20DBI"
     },
     {
-      "query": "nintendo zelda ocarina",
-      "search_volume": 200,
-      "increase": 200,
+      "query": "applebees menu",
+      "search_volume": 2000,
+      "increase": 100,
       "categories": [
-        "games",
-        "technology"
+        "business_and_finance",
+        "food_and_drink"
       ],
-      "news_token": "zCjWl3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRhXTBJdFqXmLQoMhfNWQlgQUvvgvPhR-15NTyHzFifMdUOTzjxdB-AD05ijr"
+      "news_token": "wIoBfHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtUn79kWpeYtCg2G8FXs-H2Q-ao7VwlD-AASkBd_"
+    },
+    {
+      "query": "is there mail today",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "c7ilHnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpWPT8MWpeYtCg2G8uOazkP4ANhlEyk"
+    },
+    {
+      "query": "alaska airlines diverted flight yakima",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "7SNH2nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXp-7cuSs1bFBoMANUjDRM"
+    },
+    {
+      "query": "apple tv for all mankind show",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "-zujSnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXXErGLUvMWhQZD-Scm1kL4AMdQEoY"
     },
     {
       "query": "spectrum outage",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "aySVo3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtXjIp8WpeYtCg2G8iXz2VD4Wx9vR-GvUNRA5qsstl4F4QMAyBwjSg"
-    },
-    {
-      "query": "ring drone cam",
-      "search_volume": 10000,
+      "search_volume": 500,
       "increase": 100,
       "categories": [
         "technology"
       ],
-      "news_token": "LnavrXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWDeemLUvMWhQYDANHzDJ4"
+      "news_token": "Txq0gnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXrR-QXpeYtCg2G8h_saoPwAdJJEyo"
     },
     {
-      "query": "big walk game ai usage",
-      "search_volume": 5000,
+      "query": "icloud down",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "o8mqonica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVzd4UWpeYtCg0GANONDMU"
+    },
+    {
+      "query": "aion 2 patch notes",
+      "search_volume": 200,
       "increase": 100,
       "categories": [
         "games"
       ],
-      "news_token": "Xk9p43ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtV1Ny8tKstcFBqMxE_NA_IB4qAUDg"
+      "news_token": "1eLqbXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpXpkxsXpeYtCg2G8FXvCVhA-ADIoRIg"
     },
     {
-      "query": "soul train awards red carpet",
+      "query": "switch 2 black friday",
       "search_volume": 5000,
-      "increase": 100,
+      "increase": 75,
       "categories": [
-        "entertainment"
+        "technology",
+        "games",
+        "shopping"
       ],
-      "news_token": "udfWKHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWVJ0oXpeYtCg0GANRNDO4"
+      "news_token": "NJjl83ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtXncx8tSs1bFBoM4Ss56hsi81U1O1dC-AAmaxf3"
     },
     {
-      "query": "nintendo",
+      "query": "nintendo zelda switch 2 sales",
       "search_volume": 2000,
-      "increase": 100,
+      "increase": 75,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "39r1uXica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZG1Q2zdy1KzVsUGgzhq5gmuCDzVWWjBFH4KxT8UPgV01ag8MV_8aHw3d7mo_C7npxC4W-oe4HC91ToQzXPbgYKf2U9qv69UQYo7pf8shHVfKD_shIR8kvvvUPmg_2HzN_HdwWFDzIfmb_hwQ4Ufv7xIggfAEqWgKo"
+      "news_token": "Y5s_pHica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGFdMEl0WpeYtCgyF81edzH6HwX2R_ROHnHy9C5qs4eAYg8xV6xRqQ-UpvEjei6G-uuI7Ct0nKR-G_Mf6Mwufg3YHCl1tzB4Uf0pKAwr_9EdX9Gwq3oLhnarIthA8AMFVk-A"
     },
     {
-      "query": "mass effect 3 final mission update",
+      "query": "macrumors",
       "search_volume": 2000,
       "increase": 75,
       "categories": [
-        "games"
+        "technology",
+        "shopping"
       ],
-      "news_token": "4gCK6nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXus38WpeYtCg0GANcYDVw"
-    },
-    {
-      "query": "timothy cameron police update",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "GzSJ-Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtUqf4tFqXmLQoMBzTMMCQ"
-    },
-    {
-      "query": "apprentice jockey izzy neale",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "A0Hfrnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXmGcWLUvMWhQYDANFpDJY"
-    },
-    {
-      "query": "raf fairford",
-      "search_volume": 100,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "j2WUG3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtVTKisXpeYtCg2G8lf3nkDmK2o8344iz8vIjcxX4k2YBuEDANnfIpo"
-    },
-    {
-      "query": "starlink mini 2",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "ae6zlHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtX1v6cvSs1bFBoMANcJDUk"
+      "news_token": "YjrqK3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUFK3YuSs1bFBoM5XMkhKHw9y-3QeFfkn0N4QMAzC0eGw"
     },
     {
       "query": "chipotle tattoo deal",
-      "search_volume": 1000,
-      "increase": 50,
+      "search_volume": 2000,
+      "increase": 75,
       "categories": [
         "food_and_drink"
       ],
       "news_token": "5A9oCXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWFVXyLUvMWhQYDAM7EDDE"
     },
     {
-      "query": "oviedo, spain",
-      "search_volume": 200,
+      "query": "raf mildenhall aircraft relocation",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "J1rfaXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXVvScWpeYtCg0GANTMDQg"
+    },
+    {
+      "query": "steve vai eddie van halen friendship",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "-r_Q93ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpULx-0WpeYtCg0GANQZDNw"
+    },
+    {
+      "query": "taylor swift bratenahl home approved",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "0xLtHHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWM49aLUvMWhQYDANBmDHI"
+    },
+    {
+      "query": "ios 27.2 1",
+      "search_volume": 100,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "vqJdkXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtWVSVWLUvMWhQZD-Tpd05D5Sg9WP0fmK9R8SUDmqwR93QzhAwD5diUs"
+    },
+    {
+      "query": "amd stock price target 1 year",
+      "search_volume": 100,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "mSoonHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlULJb1FqXmLQoMhfJX3sxwgfACyfhGg"
+    },
+    {
+      "query": "ibm",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "technology",
+        "science"
+      ],
+      "news_token": "Ugt31Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpW_L3cvSs1bFBoM4asembsHhR_1QhCZr3KeOxdF_sAGURT-g9efUPhPOM-j8Lm0ofoB-8829g"
+    },
+    {
+      "query": "playstation store",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "other"
+      ],
+      "news_token": "n96mmXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRlV2aeZFqXmLQoOh_MPfniHzVX6l66Pwm93lUNS_Nk1D4T8rZEXhx__yQTXfOBCF_3BXDor5ryT3QPgAF1tAXQ"
+    },
+    {
+      "query": "air force",
+      "search_volume": 1000,
       "increase": 50,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "cJgpUHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVdOn2LUvMWhQYDANC1DHw"
+      "news_token": "6z6CgXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRtWr2rKLUvMWhQZD-Co7vvsh81VPqaxE4a_uPYHCf2BsgsJ_NTcehf_S6iAKv8bmGAr__DMbFP6L5wYo_Nds_1D4yUbFED4ACJ9ORg"
     },
     {
-      "query": "philippine airlines",
+      "query": "météo demain",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "other"
+      ],
+      "news_token": "aIVdt3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpXQDPNFaUWLQoMhfFWtv48hfAC9vBJX"
+    },
+    {
+      "query": "ring drone camera",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "LnavrXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWDeemLUvMWhQYDANHzDJ4"
+    },
+    {
+      "query": "sony",
       "search_volume": 100,
       "increase": 50,
       "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
+        "games",
+        "technology"
       ],
-      "news_token": "pWJirnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtW8Lt1FqXmLQoMhfJW4bdeR-aouTL0o8qUHEyB8ALTqHVc"
+      "news_token": "YQhui3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRtXTZXMXpeYtCg2G8o_tL0Th3y7qROEf4WdD4T9qRlX_OGQFMl_F4oMAijy7NDOKvJPiNxT-ZpVQFP6vdH0U_Xd82lD455kVIXwAVu1Qrw"
     },
     {
-      "query": "medicaid",
+      "query": "x.",
       "search_volume": 100,
       "increase": 50,
       "categories": [
-        "law_and_government",
-        "health"
+        "technology",
+        "games"
       ],
-      "news_token": "IRkZcnica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG1Uw9gUWpeYtCg6F8vbZHKPyTlT0o_E75cyj8Qx-3ofC3G2Qh81Vyr1WiyK8OZkWRv-uDwlfl_RuLzFf-M-ULivw-m1to_Oko_GOKDSj6Z1TUI_MVjDNPQPgAsbBkUw"
+      "news_token": "KUNc1Xica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGlU3bShel5i0KDYbwVRNOX0Xh-xx8gMLfttMahf942VEU_uGvXSj8uPwSFP6VpOko_HNrGlD4TxlqUPjHLgSgmReOzFf5la6PIn_yNTMK_2LwBhT-o8a1KHxLV3EU_oMldyB8AO9Jc7E"
+    },
+    {
+      "query": "ps6",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "technology",
+        "games"
+      ],
+      "news_token": "Wtbrm3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtXyfx6LUvMWhQZD-CpXvf-h8DerhCLzlbMM2ZH5Suc_pSLzFRy4F0D4AFLUKR4"
     }
   ]
 }
