@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 64,
+      "keywords_count": 57,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-12 21:31:10"
+      "last_updated_hkt": "2026-11-13 00:30:55"
     }
   },
   "trending_seeds": [
@@ -23,25 +23,34 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Bs16vXica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG1ata2YtS8xaFBkP4ortDVZH5qhr585H5ihv-uCHzFQ59NEeR37pbHpmvxlk5FcU8qx95KPwfIdOR-cqdwgwo-hmWocirMcbIIPNV2ra5oJj3P-4yCv-N4QMU_WxzX0L4APg9YtU"
+      "news_token": "G_sNV3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtWrWtmLUvMWhQZD-KK7Q1WR-aoa-fOR-Yob_rgh8xUOfTRHkd-6Wx5Fv9WPPAgfAO9WL3s"
     },
     {
-      "query": "microsoft stock",
-      "search_volume": 20000,
+      "query": "bitcoin atm",
+      "search_volume": 2000,
       "increase": 1000,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "u5hM3Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtXpZ-cuSs1bFBoM5R8_2InC_1V6GZmvxnU7FUX-2edjKPwTkdwofOYmKQgfALDbMME"
+      "news_token": "pZ9zB3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlX-kIJFqXmLQoOhfNvoqRA-ALM-EVA"
     },
     {
-      "query": "msft",
+      "query": "costco kirkland whipped cream recall",
       "search_volume": 5000,
       "increase": 500,
       "categories": [
+        "other"
+      ],
+      "news_token": "OBImmXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWVvfMWpeYtCg0GANOUDNw"
+    },
+    {
+      "query": "msft",
+      "search_volume": 20000,
+      "increase": 400,
+      "categories": [
         "business_and_finance"
       ],
-      "news_token": "mAOGiHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpXz3LmLUvMWhQZD-Kq_Si-j8I8f7EThn4jkRuarcd1ORZGffnYuMl8ly-EUivyzz8cgfACBTDcj"
+      "news_token": "4bprxnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtXpZ-cuSs1bFBoM4atx3U5F5qs--3wMhX_8YCeKeo6ekyjyJyK5UeSZD31Hkf9VehmZr3KeOxfCBwBv6D0T"
     },
     {
       "query": "mortgage rates today",
@@ -50,17 +59,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "961FhXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRlUm9s5FqXmLQoOh_NvK-1D4s2eFI_PVWG7tRpXfIociz_m-H0X-uYwEijyfFRuK_KquKlT7jZch8xWDo0qR-Qp3Hm5HkT-QIQThAwBEHVBg"
-    },
-    {
-      "query": "walmart drawing",
-      "search_volume": 500,
-      "increase": 400,
-      "categories": [
-        "law_and_government",
-        "entertainment"
-      ],
-      "news_token": "8K3TI3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRlWng-6LUvMWhQZD-eU3FyPzFSd_WAvhAwAgqRkB"
+      "news_token": "lFNfonica1xTlFpYmlpcEp-SWJI4b_J5BgYGRlUm9s5FqXmLQoOh_NvK-1D4IbLVKPzZs8JR-VvkUPjPfYVQ-Esyj6Pwu_wPo6qXkUDmq_FZsaHIr-qqQuYrBkeVIvMV7jzcjiJ_IANqPwAnfVV0"
     },
     {
       "query": "elon musk spacex tesla merger",
@@ -69,43 +68,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "pTe9RXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtUbvhWLUvMWhQZD-Xn_BJD5inc_zUCRl_trj8xXcXgXCuEDAPviJIA"
+      "news_token": "8ZT7jXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtUbvhWLUvMWhQZD-WI3jiLz1fjnhqHIP5DjQOarvI84BOEDAMzmI4k"
     },
     {
-      "query": "kuru",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "tDyjVnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtXjAS2LSooWhQZD-T9Wy6Pw7x9Zj8J_e2ojCv_7v1w0-WUQPgDchi24"
-    },
-    {
-      "query": "amd",
-      "search_volume": 20000,
+      "query": "vix",
+      "search_volume": 1000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "sOhxLHica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGNd7I34tS8xaFBkP5HD0nUfhc3cLIfNX_CYUo_MbNKOpVH9c1ofBNFuah8JmbpFD4B2eqo_A5b05F4Zuqy6Pw79yQRnEfs9IKFD7v_iQUPmvoLxT9f6WWI_NVPkYmoMhbKOmh8D-cZ0BRv5jhNIr5DIaLUNR_OsmKwv9XVoLCX6oO9T8ABv2N2A"
-    },
-    {
-      "query": "amd stock",
-      "search_volume": 20000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "2aaK8nica1xTlFpYmlpcEp-SWJI4b_J5BgYGRlULJb1FqXmLQoOh_MbNJ5H5aoyOa5D5KjVGRch8Rd62ThS-9_-lyHwl4YbpKObxRv5Gse-v1HJU-f1JKHzW0F8o6p87qKLwozROo_C_9EZC-AAYJVWE"
-    },
-    {
-      "query": "lisa su",
-      "search_volume": 10000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "DeagmHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRjXe_UmLUvMWhQYj8XNK4HxVCyU9FH7j5pMo_K8sS5H5irxtnRA-AO5zKEo"
+      "news_token": "wG-wDHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpWgQplFqXmLQoMhfDXWsMPIfJXUN6LIfNXPP8tR5B3eXkGR__OhC4X_mr0RwgcA8vAwZg"
     },
     {
       "query": "spacex launch today",
@@ -127,42 +99,32 @@
       "news_token": "BBK2wXica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG1U6nzYtS8xaFBkP4Ku2L-pD5qjLm51H4K27WofAnrEVV_-JZKQrfm_EeCv_4UwVkvhqzgjaKPH_tKhT-_iknUPjNHajmp85kR-HfSfRB4fd8SULhi904isxXfJfDgsI31jkA4QMALChvLQ"
     },
     {
-      "query": "walmart black friday deals",
-      "search_volume": 20000,
-      "increase": 100,
-      "categories": [
-        "shopping"
-      ],
-      "news_token": "S_Dcy3ica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGVY2n2xel5i0KDYbyn899hML_xyiFwlf6V4TMV2N-9RyZr-Sob4jMV7H4IICi38SrHoX_p2Utinm8bnNQ5MtvLkYxb7FkDYq8fgg_Cv8v60kU_rUXwah8gx8o5s14VoYiL34OxT2q6gHzUfium_ag8KMYqyF8AGM_gEc"
-    },
-    {
       "query": "nbis stock",
       "search_volume": 10000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Qz5NpXica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG1a8mFxal5i0KDYbw1XgjfyPzVRs3n0ThMzdJIfNVphtPRZHnvInKv1H8A8V8nrZaFP36n8xQ5JkmLEbR395VhMI_fnk2Ml_xGGMCMl8hkNUNxTw-i0YU-Xu7ZyHzldhnuUD4AMi3Z8k"
+      "news_token": "MJZMRXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRtWvJhcWpeYtCg2G8NUECmpR-Bz-B5D5qo2bT6Lwnb6xofDbu4qQ-Sr6n8xQzGOasBiFz9OGYp9CIKsbCv_e7lnIfCX2WS4QPgDXPkow"
     },
     {
       "query": "bankruptcy",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "yKa7KXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRhXdh58XpeYtCg2G8FXfzj6FwhfrO4bCX-ovgsxXCZGuQOar8X1vQ-HzzP6Kov-LwzYUvtzElRA-APZjO10"
-    },
-    {
-      "query": "invidia",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
-        "technology",
         "business_and_finance",
-        "science"
+        "food_and_drink"
       ],
-      "news_token": "EIpJ8nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjUW40mLUvMWhQZD-KqNm09C-AC4yxIX"
+      "news_token": "bYsTW3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRtW3s08tSs1bFBoM5S_1F0Hmq3wtf4_MVxO6uAZF_erpz1Dlf21C0R8iXYEiz_e9DYUv-PsBinrdh59R5HmUd6LYF3nqHIQPAGu0ToQ"
+    },
+    {
+      "query": "cisco stock",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "JlSdpXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtWPHV2LUvMWhQZD-Gr8u8OR-QpqCt4o8gJKL1D5jUUQPgCvayH4"
     },
     {
       "query": "harvey jones",
@@ -172,16 +134,16 @@
         "business_and_finance",
         "technology"
       ],
-      "news_token": "sTARh3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjU-6YxFqXmLQoMhfNXGzSeR-WocaTko8scvz4bwAZ0UHX8"
+      "news_token": "aZOPA3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjU-6YxFqXmLQoMhfNXGzSeR-WqCiyJQ-BxpOSjqj1-eDeEDAI88ItM"
     },
     {
-      "query": "kimberly powell husband",
+      "query": "microsoft layoffs",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
-        "business_and_finance"
+        "other"
       ],
-      "news_token": "6JCM0nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjXejvpFKamLQoOR-Kl5cL5q4-aTED4A_8wXtQ"
+      "news_token": "Z1o5T3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUrBbqLUvMWhQZD-CpMt94g81Wfpjkh8xW4QsshfADLuR12"
     },
     {
       "query": "venezuela",
@@ -192,53 +154,52 @@
         "law_and_government",
         "politics"
       ],
-      "news_token": "kz83C3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRpWv804sSi1eFBoM4aueND2Owr_7ahoKf71XKzJfjV16Por8Ma-nKPzFnZNR1fPvQJF_eeQoMl_h-n5jZL4ik24chA8A2pRIDQ"
-    },
-    {
-      "query": "should i buy nvidia stock now",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "eybHrnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlXmJqlFqXmLQoOh_D2sq1H4jZtPovAPzlRH4QuaVSHz1fhFbCF8AOlrJxs"
-    },
-    {
-      "query": "will nvidia stock go back up",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "YXTi-Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlVBs6pFqXmLQoOhfOYmKWS-SuY2AxT5xs0nUfiP1T6h8B01RVD4e1hXo_APzlSH8AFwNDMR"
+      "news_token": "_E5E73ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRpWv804sSi1eFBoM4aueND2Owr_7ahoKf71XKzJfTdDXD0X-mNdTFHl2_h0o8vw3ziPzFa7vN0bmKzLpxiHzla8FpEL4AJAwRwY"
     },
     {
       "query": "microsoft stock price",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "technology"
+        "business_and_finance"
       ],
-      "news_token": "aSUriHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtXjBzsXpeYtCg2G8BU-Jcmi8NW5-SF8ACUDF1E"
+      "news_token": "aOu8onica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRlXlNV8XpeYtCg2G8o8f7ETmK6hz8yPz1bhup6LIf0qShfABzmsi8A"
     },
     {
-      "query": "microsoft layoffs",
+      "query": "jim cramer",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "other"
+        "business_and_finance"
       ],
-      "news_token": "OO8hNXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUrBbqLUvMWhQZD-U_TnJD5Kky33iDzFbhCyyF8AMgZHXY"
+      "news_token": "MHvfY3ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGVUGzqkWpeYtCg6F8J9fvKPzGzSdR-GI3jiLzVdoX9SHz1XhVlVDUv3hWiiIv9PgGMl_xZbg_ijxr6C8U_byMjSjqMz-boMjvYV2Nol-goBZF_uBMdVT3Rf2E8AHppmHe"
     },
     {
-      "query": "xbox game pass 25th anniversary discount",
+      "query": "cbrs stock",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "games",
-        "technology"
+        "business_and_finance"
       ],
-      "news_token": "jKcmvnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtV5q-MXpeYtCg2G8rtdNkP4AMquEno"
+      "news_token": "uQA9vHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRtWie9KLUvMWhQZD-GrCHN4ofIG3nch8Ree7H1DkhTqiUNUrvUDlF9Qi81VrFPtR-B87ulD4rbUo9qteWWyOwv_RKoLCr817h8K_2bQZwgcARm5WxQ"
+    },
+    {
+      "query": "nvidia price",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "fDOwSnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtU9rKsXpeYtCg2G8hs3n0TmqwkU1KLIC5pVQfgAxDcdCA"
+    },
+    {
+      "query": "tyra banks",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "DsLarnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtXXq6MXpeYtCg2G8NX4ll1E4bN8WQvhAwAr1Bi1"
     },
     {
       "query": "when does the stock market open",
@@ -251,13 +212,15 @@
       "news_token": "HmDep3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpW4pvOLUvMWhQZD-Zub-CF8AMleEkE"
     },
     {
-      "query": "cbrs stock",
+      "query": "flight",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
-        "business_and_finance"
+        "travel_and_transportation",
+        "business_and_finance",
+        "entertainment"
       ],
-      "news_token": "uTwTiXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtWie9KLUvMWhQZD-Gq8kb-R-ar7-Pag8GsU-yF8ALx0HWE"
+      "news_token": "s85Au3ica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGNZaYlYtS8xaFBkP5_Pf2I_NVP_x0R-arTLXYiyJ_-1YNCv_P9CIU_hE-NhTzuWdeQeGzP7uHov5F6GsUfpdDEqr64tMo8s_n7UDhy5ifR1HPueAICp-VNwdF_a9kLxT-a9PDED4A3lNwTw"
     },
     {
       "query": "hugging face",
@@ -271,13 +234,13 @@
       "news_token": "ilyGiXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtW3_tsXpeYtCg2G8FXOLQlB5qu-F1VD4R85OBnCBwDqih7a"
     },
     {
-      "query": "smci stock",
+      "query": "what time does the stock market open",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "bimVRnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtWwGeGLUvMWhQZD-GoccyuR-arHL89G4S9Vl0Lmq4S-ZoLwAbqHIug"
+      "news_token": "ggsDFHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpXNTfyLUvMWhQZD-Kp3xROR-SpxTeeR-YpLEwQgfAC2Qh03"
     },
     {
       "query": "spacex launch",
@@ -290,15 +253,6 @@
       "news_token": "yi6EnHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRlUZ8_OLUvMWhQZD-CqsKduQ-ar7p5xAkW9f1Icq_6IHhV_E3YTMl7e_fQiZr3BrDi-K-svbNqDw12y0g_ABqtJB-w"
     },
     {
-      "query": "tyra banks",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "98vCb3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXXq6MXpeYtCg2G8NVYvqyF8AHSeBLn"
-    },
-    {
       "query": "gma deals and steals",
       "search_volume": 1000,
       "increase": 100,
@@ -308,13 +262,77 @@
       "news_token": "tKEtNHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWtF5UXpeYtCg0GANLDDLE"
     },
     {
-      "query": "what time does stock market open",
+      "query": "federal reserve bitcoin price impact",
       "search_volume": 500,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ggsDFHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpXNTfyLUvMWhQZD-Kp3xROR-SpxTeeR-YpLEwQgfAC2Qh03"
+      "news_token": "VA5SSXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRuUbT_IWpeYtCg0GANaPDTA"
+    },
+    {
+      "query": "smci stock",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "n7Nkj3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjWOuZWLUvMWhQZD-KphM8JR-Mcvz4bwAQn4GDE"
+    },
+    {
+      "query": "nvidia micron broadcom amd stock analysis",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "X2rLVXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRlULJb1FqXmLQoMhfDWBgloUvqBsGDJftXHzSRT-_4RCCB8AWFEiAA"
+    },
+    {
+      "query": "broadcom stock",
+      "search_volume": 10000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "BD_j5Xica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGNYGC2kWpeYtCgyF81cd1TSj8xs0nUfj_EwpR-IJmVSj8B65lKHzOm1OR-Wpc3cIofI4n5ijqLZT0kPkqNUZFyHxF3rZOVP09KO5TE5QNQzFPQ_cbCv_ODWlkvsJpk08QPgBKrmXK"
+    },
+    {
+      "query": "ast spacemobile at&t verizon partnership",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "technology",
+        "business_and_finance"
+      ],
+      "news_token": "Kt659nica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjWWm_qLUvMWhQZD-KohzRtQ-JeSHqHw3zurovB5L22H8AHI4iO_"
+    },
+    {
+      "query": "howard lutnick",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "CeLru3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtXlofaLUvMWhQZD-Y2bT6LwGeuNUfh_T-si8xX3lIhB-ADGKyNK"
+    },
+    {
+      "query": "hong kong",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "4-ijCXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRjWho0cXpeYtCg2G8FV_hDIj89WEnkij8BkM96OoX-CdhCLP5rwARd7g5Q0U_pc1x1H4H6eKQvgAM8Y6Yg"
+    },
+    {
+      "query": "amat stock price",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "TrdVrXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXWWu9FqXmLQoMBz4sMVQ"
     },
     {
       "query": "petroleum",
@@ -323,7 +341,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "oJqu4Hica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRlUtlxeLUvMWhQZD-GqMS3-h8Jks5ZD5qh_E2VD4kn8uo6jnqyxDkZ_37gkyXyXc_T6K_H1TRxS-0t8WFP7fCcrIfMU_Cu8gfAChp0v-"
+      "news_token": "7cKqWXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtUP4myLUvMWhQZD-Vc9NqHw-Z2mIfPV-CrLUOTnvXuCzFcJd7-Pop7JUg5FvZbLCxT-fVNHCB8AK8U4-g"
     },
     {
       "query": "tsmc stock",
@@ -332,26 +350,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "KTDScnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtX9y20WpeYtCg2G8r89OoTCLzU4h8xXY1VfjyLPeXMqCv-Xz1EIHwB9gip9"
-    },
-    {
-      "query": "fernet",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "ZIe3PXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtW5K7YsSi1eFBoM4auxbLwJ4QMA0iUS4g"
-    },
-    {
-      "query": "cnbc",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "6Tc8KXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRjW2LT2LUvMWhQZD-KqNm08i89W4WK1Q-IxLPqGoX5N_CkWeg_s7Cp813wLCBwC9yy17"
+      "news_token": "Pr6m5nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtX9y20WpeYtCg2G8ksNziHz1Th6TqLwWdXXo6j_9ugQCv91Iw8Kn_PmVBT-L5-jyHyV0NdMED4AvP87bA"
     },
     {
       "query": "amd stock price",
@@ -360,34 +359,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "3LSQanica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjVOd51FqXmLQoMhfFULJT0UfuPmkyh8LRcNFP6X3kgIHwBVbSGa"
-    },
-    {
-      "query": "avgo stock",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "mBEAV3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtUHrmWLUvMWhQZD-Y_rmpD5alzdwih83sjfKOr_JxRC-ADPnSOB"
-    },
-    {
-      "query": "reasons for falling us gas prices",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "JAb1D3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRpVw9_uLUvMWhQZD-Krv5G-g8NeJu6DwFztmovAfXP2Hwn_GkQThAwBRASoq"
-    },
-    {
-      "query": "csco stock",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "4HyQ_Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtWPHV2LUvMWhQZD-ApqCt7IfDXeyN8ofAaDlSh87rxWCB8AqTwh8g"
+      "news_token": "ZCIQTHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjVOd51FqXmLQoMhfFULJT0UfuPmk8h8NYGCWmS-goroKggfAFW1IQY"
     },
     {
       "query": "costco stock",
@@ -396,25 +368,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "tbp93Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpXH8V6LUvMWhQZD-Gqsob-Q-ao_r91GkWcwMEORd3L9DuEDAOCQI5c"
+      "news_token": "xDoiaHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpXH8V6LUvMWhQZD-Gqsob9Q-AwGZsh8VSfX7xA-AKhFHKU"
     },
     {
-      "query": "amat stock price",
-      "search_volume": 500,
+      "query": "smh",
+      "search_volume": 1000,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "TrdVrXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXWWu9FqXmLQoMBz4sMVQ"
-    },
-    {
-      "query": "stub hub",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "w6VyHXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRlWG8ycXpeYtCg2G8ueXHEHhnzsYgsJ_8HouhA8A63Efmg"
+      "news_token": "QS7d33ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRtWbNl8XpeYtCg2G8qOrI1D4_2Vuo_A5b05F5qtx3U5F4XPPeobCZ34lhKLf5ZQuCv9FyDcU_q9kWxT-51e3UPixBgnIfIUb-3kgfACn71Mt"
     },
     {
       "query": "nvidia market cap",
@@ -424,7 +387,7 @@
         "business_and_finance",
         "technology"
       ],
-      "news_token": "P7R8DHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtX3bBMXpeYtCg2G8pmbpFD4jZtPovAFzapQ-HtYV0P4AKT-Inc"
+      "news_token": "iGoU43ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtX3bBMXpeYtCg2G8hs3n0ThC5pVQfgAH6EX3A"
     },
     {
       "query": "qqq stock price",
@@ -436,24 +399,6 @@
       "news_token": "qFRT4Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjV-FaZFqXmLQoMBxqgLPg"
     },
     {
-      "query": "smh",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "qHi3-Xica1xTlFpYmlpcEp-SWJI4a_J5BgYGRlWXU7qLUvMWhQZD-Z9f3ULmq3H7LUCRv2nzFUWe-ZUQinzj5pMo_Bch31D1TxNH4X-M8EDhf2NYDOEDABKNQmU"
-    },
-    {
-      "query": "smh stock",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Hgn_Q3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtWbNl8XpeYtCg2G8qOrI1D4_2Vuo_A5b06F8AHj6R6F"
-    },
-    {
       "query": "manny pacquiao",
       "search_volume": 200,
       "increase": 75,
@@ -461,15 +406,6 @@
         "business_and_finance"
       ],
       "news_token": "A8bTenica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtVbD-cvSs1bFBoM5ds-24_Ctwu4AuEDAEK3GTY"
-    },
-    {
-      "query": "nvda ticker",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "OF7DzXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtU9rKsXpeYtCg2G8hs3n4TwAciYErk"
     },
     {
       "query": "英伟达股票",
@@ -490,13 +426,13 @@
       "news_token": "cdn-KHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtW1GzQXpeYtCg2G8hs3n0TmK_JqrYfwASCOF_0"
     },
     {
-      "query": "howard lutnick",
-      "search_volume": 2000,
+      "query": "stubhub",
+      "search_volume": 5000,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "zBjhsnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtXlofaLUvMWhQZD-X9P66LwGzefROYr7ikRQ-ar_Ki9h6L-fs01ZL4am0EjqvydSSj8b3-PofAX3H8I4QMARWtEoA"
+      "news_token": "LYhf-Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRlWG8ycXpeYtCg2G8h-8novCn19yBIVfnMWLwi-QuALhAwALLSRF"
     },
     {
       "query": "hubspot",
@@ -505,7 +441,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "_xo_N3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjVmxdWLUvMWhQYDAMrDC9g"
+      "news_token": "NKFmo3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjVmxdWLUvMWhQZD-KoiN_0hfACzRhFc"
     },
     {
       "query": "robinhood",
@@ -514,17 +450,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "rdGA93ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRlUO3muLUlIXhQZD-GrM_72Q-aovdQqR-SpLMu-gyH_0NUWR_yd1CkVeyuwtCt_5djCKfRzlW1Dkn1TXovCV2ytQ-FdmKEP4AMNbSxE"
-    },
-    {
-      "query": "ast spacemobile at&t verizon partnership",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "technology",
-        "business_and_finance"
-      ],
-      "news_token": "aRTMs3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjWWm_qLUvMWhQZD-KqXkh6h8EOaN6DweS9tR-G_d1aF8AHVwiO_"
+      "news_token": "wcUh1Hica1xTlFpYmlpcEp-SWJI4e_J5BgYGRlUO3muLUlIXhQZD-Zvc7iLz1TjKt6DIO98ORuarLMm8gyIvZfYWRf6f1CkU85j_e6Gof1Jdi8JXbq9A4V-ZoQzhAwBWSkWv"
     },
     {
       "query": "target black friday 2026",
@@ -533,17 +459,16 @@
       "categories": [
         "shopping"
       ],
-      "news_token": "0YscLHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRiVHfcNFqXmLQoMhfNUdnV-R-Sq3GDNQ5K8Z_EDhi2-8i8o_txbCBwAqgim7"
+      "news_token": "L8j_I3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiVHfcNFqXmLQoMhfNVrBj9Q-OIb76Lyz62F8AGtFh2z"
     },
     {
-      "query": "hola",
+      "query": "smci",
       "search_volume": 500,
       "increase": 50,
       "categories": [
-        "business_and_finance",
-        "entertainment"
+        "business_and_finance"
       ],
-      "news_token": "nEjpg3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjVuhdxFqcWLQoMhfFUD0-UQPgCtIBD_"
+      "news_token": "qRo5E3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtWwGeGLUvMWhQZD-GoccyuR-arn5HtQ-EvVpVD4H0v7IHwAouci3w"
     },
     {
       "query": "the lowdown",
@@ -561,7 +486,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "fJ67PHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpWPMqKLUvMWhQZD-Kqrn19A4d-vM0PhPz_iicxX45BB4avGut1Bkec09YXwARUrLjs"
+      "news_token": "tNQyunica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtX7dWaLUvMWhQZD-CofZUSR-arPj3gi89U4ZFD4qrFud1D4q59fQFHPaeqLYv7b39sgfAD1pTUg"
     },
     {
       "query": "wealthy investors alternative assets growth",
@@ -570,16 +495,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "RHCRYXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRlWjR_KLUvMWhQZD-Z8y81H4m6LCIHwAFC4X9w"
+      "news_token": "e-gA7Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlWjR_KLUvMWhQZD-S9ffELhb-4KQOF_ysxH4b9NUkTh743ih_ABiP0qUw"
     },
     {
-      "query": "cboe volatility index",
+      "query": "graham d. gerade",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "zOT86nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtUvvb8WpeYtCg2G8v986ILwAeZrFEE"
+      "news_token": "VFCVk3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjXejvpFKamLQoMBzPgMEw"
     },
     {
       "query": "tony robbins",
@@ -588,7 +513,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "f5Yni3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtW1MUyLUvMWhQZD-fvuT4LwAcIeEoo"
+      "news_token": "xdUv33ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtW1MUyLUvMWhQYDAM3sDBM"
     },
     {
       "query": "cathay pacific",
@@ -598,7 +523,16 @@
         "business_and_finance",
         "travel_and_transportation"
       ],
-      "news_token": "sdpDanica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtUrt5UWpeYtCg2G8NX4LBtR-IzKuRA-AA0rFsQ"
+      "news_token": "AaJmfXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtUrt5UWpeYtCg2G8NUYlXNR-HyWjRA-AAm7FsQ"
+    },
+    {
+      "query": "why are gas prices going down?",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "MlSbTnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpVw9_uLUvMWhQYDANA_DIQ"
     },
     {
       "query": "gta 6 countdown",
@@ -607,7 +541,7 @@
       "categories": [
         "games"
       ],
-      "news_token": "Rc5HcHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpWPetGLUvMWhQYDANFFDIE"
+      "news_token": "ekR7onica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpWPetGLUvMWhQZD-KpupfwQPgDBOhGT"
     }
   ]
 }
