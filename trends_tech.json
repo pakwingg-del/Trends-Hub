@@ -10,460 +10,292 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 48,
+      "keywords_count": 30,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-12 21:31:13"
+      "last_updated_hkt": "2026-11-13 21:31:02"
     }
   },
   "trending_seeds": [
     {
-      "query": "microsoft outage",
-      "search_volume": 5000000,
+      "query": "avril lavigne",
+      "search_volume": 100000,
       "increase": 1000,
       "categories": [
-        "technology"
+        "entertainment"
       ],
-      "news_token": "nuGE7Hica1xTlFpYmlpcEp-SWJJ4hyFi8nkGBgZGNa7bqYtS8xaFBkP4KprZosh8NV7V_8h81cq311DkWb4aoMg_-3wMRR5kflYiQv6dQg-KPHONIjJf4a_HChTzSk_sQnEf0603yHzFFPvjKOobN59EdX_kbxT5tk9iqPI_WlHM11tyC0X941M_0NTfQ-WvjkFxT7RuNor-H81vUdSznZ6FEb7I4fPo5mUU_btXK6Go5zBnRbHveyk3ivplbhtR-CZGPijh27h_Mop_j69URlEf8ygIRb6NaT6K_skMN1DUW1j1obiHszERRT7IshHFvEtP5FDTRyhKeCu6HJBH5itxFKxCMe_4wU4U98yZiuIfxb_1KPpVrV3PIfOV77q5o-i_n7IUxT18UijuU1Q6egY1_OfGoZi_78E6FD5PcBsKP-E_in2qax4_RLVvGWp8lxp4oYTXjyPPUORrZ55Gkf93_wJq-mp5gaL-8y9LFH7Kfk8U_U7Xn6PmRwVblPCXM0UpHxTeL76Owr8zmwHFPNeKvyj2hdailAeqUYzVKPbxV8mi2v9KCNU_9yxQzF8uw4ZinpiKNop7PxTMRIlvkTSU8FJ9waeGwjdehupena5pqO5L_4caXx25KHyei4IofPZWOxTzsuSbUfhn1FUhfAD1hP7Q"
+      "news_token": "gjTRQHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjUt3tpFqXmLQoMhfNW3alwQPgCxOREi"
     },
     {
-      "query": "microsoft stock",
-      "search_volume": 20000,
+      "query": "airports",
+      "search_volume": 2000,
       "increase": 1000,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "u5hM3Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtXpZ-cuSs1bFBoM5R8_2InC_1V6GZmvxnU7FUX-2edjKPwTkdwofOYmKQgfALDbMME"
+      "news_token": "vg8OzXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjWDTudFqXmLQoMhfNWLW4-g8PeEfEfmq_xbWQ_hAwDdOB9T"
     },
     {
-      "query": "internet outage",
-      "search_volume": 10000,
-      "increase": 600,
+      "query": "airlines",
+      "search_volume": 1000,
+      "increase": 500,
+      "categories": [
+        "travel_and_transportation"
+      ],
+      "news_token": "2kgUQnica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG1Rehrxel5i0KDYbw1TgXHEHhC_wtQOarPmoWRearHNLiRpG_c70BhV-nfA2FP8PSDoV_6rE3in2GekIofK7bqSjqn3elofCPrzdE4b-1W4nCz2pSQ-HvTvoE4QMAzKZj8Q"
+    },
+    {
+      "query": "zelda ocarina of time remake sales",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "Vx9rvnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtUPWWKLUvMWhQZD-GoqH2OR-aofKu6hyHOt2obCF7xph8xXMU1wgfABTWIpBQ"
+    },
+    {
+      "query": "rene haas",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "0PHkG3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjXtatdFqXmLQoOhfNHGDch81eOXZ0P4AAHvGAA"
+    },
+    {
+      "query": "microsoft 365 outlook outages",
+      "search_volume": 200000,
+      "increase": 200,
       "categories": [
         "other"
       ],
-      "news_token": "TMERUXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtV3Cj2LUvMWhQZD-Gpct1NR-LwqWyB8ABLwF2M"
+      "news_token": "sK-g2Hica1xTlFpYmlpcEp-SWJJ4h0F18nkGBgZGNa7bqYtS8xaFBkP4qr_ZZyPz1fTnv0LhG2zpQ-HrpBqh6P9sHo8iz7blDTJfMVo3G5mvXHD-EDJf4Z7mXRTz3s2-jWr-ASkU9X89ViDzlZJaBVDUL3PbiMK3eMaLzFdJC1FAcc_BbpTwUGNXE0Phiwd_RuELCfWjmP_s8zEU_vSzc1H4xw92ovAbN59EMU-72hWFz83IiqJe0KwKRZ419BeKfzK3GaDIiy3iQOHrCpxDlX8hg8KXb7uGwje0O40SPtudf6C6NzgXwgcAxLbYhw"
     },
     {
-      "query": "caitlin clark",
-      "search_volume": 10000,
-      "increase": 400,
+      "query": "anthony clark what happened",
+      "search_volume": 5000,
+      "increase": 200,
       "categories": [
         "entertainment"
       ],
-      "news_token": "si3uS3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpXfWs8XpeYtCg2G8NUYDzOj8LkPsiDzVXlNL6LwxRjFUNRzrL6HIn9hlh8yX0nBay6EDwB2VjIy"
+      "news_token": "mxDgTnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtUPbTyLUvMWhQYDANHdDIo"
     },
     {
-      "query": "jessica chastain",
+      "query": "the mcbee dynasty steve mcbee update",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "4dQkhnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjXeSNVFqXmLQoMhfNXlJSkQPgCwDBFb"
+    },
+    {
+      "query": "airline ground stop",
       "search_volume": 2000,
-      "increase": 400,
+      "increase": 200,
+      "categories": [
+        "other"
+      ],
+      "news_token": "bQ_oJnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjVRb6lFqXmLQoMhfJV_K-uR-Wq6P6UhfAD-gxd6"
+    },
+    {
+      "query": "chip roy",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "politics"
+      ],
+      "news_token": "7PErhHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXnh74uSs1bFBoMANnLDaY"
+    },
+    {
+      "query": "chipotle",
+      "search_volume": 50000,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "XYIDQHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtWFVXyLUvMWhQZD-S957qPwbRRNkflqehYrUeSfRa9HkVec0Iwif6ziMoq8RmAnhA8AwEoz2A"
+    },
+    {
+      "query": "microsoft layoffs 2026",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "iht193ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhWmW28WpeYtCg2G8JUcX35E5qva_JgO4QMAMvcZQg"
+    },
+    {
+      "query": "microsoft playback",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "-SVAr3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRhW36VWLUvMWhQZD-KqOcyuR-Wr8JmdQ-EIXb6Hweb-eRNFf-fYairxAATMyX9FZ4C6K-nmr41HUK5hdgfABOH4_lg"
+    },
+    {
+      "query": "bahrain news",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "6jIABXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjXRpuBFqXmLQoOhfN6vP1H4LLdOIPNVozNbkfnyIapZED4Avrsi3A"
+    },
+    {
+      "query": "zero-day vulnerability",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "technology",
+        "science"
+      ],
+      "news_token": "7dXq6nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtVHEd6LUvMWhQZD-Cqa2aLIfNXL286g8FcJq6PwlRosUfgHbCYh8xV9uo6iyLt2_kTmK7w6Z4zC39nMAuEDABOXP94"
+    },
+    {
+      "query": "claude outage",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "sIO3H3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjXt4NxFqXmLQoOhfK7bqch8RWbzNBR-wpkiCB8AiewcTQ"
+    },
+    {
+      "query": "air travel",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "JmUThHica1xTlFpYmlpcEp-SWJI4f_J5BgYGRtW7N68vSs1bFBoM4av8W1mPzFe9kl-KzFfT_SmNwue6nYrC13vwH0W_rdwDFP7zeTtQ1Mufj0KRP6UijCKv3iWAwpdoPYfCF9fgRXH_7oXvUPgv5ntB-AB5I15T"
+    },
+    {
+      "query": "airport news",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "L6p1_nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRjV2AbdFqXmLQoMhfNWLW4-g8Oe9O4HMV-Ny7UXmq_xbWY-i_qPuHhT1Bp3OED4ABmUvjQ"
+    },
+    {
+      "query": "hailey bieber",
+      "search_volume": 500,
+      "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "jE4PMnica1xTlFpYmlpcEp-SWJI4e_J5BgYGRtWkXLlFqXmLQoMhfJX3Zxch81Xfi8og89W4rc-jyL8IXYIizxpWiSJ_ZiI_Cv8oXyYyX4nRTgeZL7_grhgyX-HyVwUIHwAjFkSO"
+      "news_token": "iW79mXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRjVZo7-LUvMWhQZD-KpvzlUj89UYpB-gyE9KP4XCX7izBpnPt3plLzJfIX-vHDJfseLELAgfAFOSNfw"
     },
     {
-      "query": "nintendo black friday",
-      "search_volume": 20000,
-      "increase": 300,
+      "query": "nintendo black friday sale",
+      "search_volume": 5000,
+      "increase": 75,
       "categories": [
         "games",
         "technology",
         "shopping"
       ],
-      "news_token": "zcronnica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZG1edzHy1KzVsUGgzlazzdjsxXctQ3RJHX7FyJwo9irEbhV5d2ofBdN-1B5quxr0lE5qtEsLWhqNcP4UeRf3V5Jwo_98g-FPOYFWei6L9m8AOFr_SvCIX_j1EKhf9L5igK_0_LWhT-X9aTKPbHPt2IIt-0MQvCBwBjBoDQ"
-    },
-    {
-      "query": "spain",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "other"
-      ],
-      "news_token": "n2M_e3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRpXg90KLUvMWhQZD-KoRcxVR-MyrlJD5anyc_ijyez73o_D57veh8J-uKkbmK-7zeojMV2JaagjhAwD6pzlc"
-    },
-    {
-      "query": "elon musk spacex tesla merger",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "pTe9RXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtUbvhWLUvMWhQZD-Xn_BJD5inc_zUCRl_trj8xXcXgXCuEDAPviJIA"
-    },
-    {
-      "query": "nintendo zelda ocarina",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "5sE2cnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtUPWWKLUvMWhQZD-T9fcqDw5dbcQeGLqVii8J_PfYTCn2z_AJmvYprggsxXmppsC-EDADAONJU"
-    },
-    {
-      "query": "amd",
-      "search_volume": 20000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "sOhxLHica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZGNd7I34tS8xaFBkP5HD0nUfhc3cLIfNX_CYUo_MbNKOpVH9c1ofBNFuah8JmbpFD4B2eqo_A5b05F4Zuqy6Pw79yQRnEfs9IKFD7v_iQUPmvoLxT9f6WWI_NVPkYmoMhbKOmh8D-cZ0BRv5jhNIr5DIaLUNR_OsmKwv9XVoLCX6oO9T8ABv2N2A"
-    },
-    {
-      "query": "amd stock",
-      "search_volume": 20000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "2aaK8nica1xTlFpYmlpcEp-SWJI4b_J5BgYGRlULJb1FqXmLQoOh_MbNJ5H5aoyOa5D5KjVGRch8Rd62ThS-9_-lyHwl4YbpKObxRv5Gse-v1HJU-f1JKHzW0F8o6p87qKLwozROo_C_9EZC-AAYJVWE"
-    },
-    {
-      "query": "colin mizuo toenail lawsuit portland",
-      "search_volume": 10000,
-      "increase": 200,
-      "categories": [
-        "health",
-        "law_and_government"
-      ],
-      "news_token": "ekKyYnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVHTRGLUvMWhQYDANNTDMQ"
-    },
-    {
-      "query": "christina applegate",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "entertainment",
-        "health"
-      ],
-      "news_token": "SzNkE3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjXGiteLUvMWhQZD-Kp8HlbIfPknRmXIfOXU9XuQ-Sq1q55B-ACi7yN9"
-    },
-    {
-      "query": "unruly aircraft passenger",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "other"
-      ],
-      "news_token": "aiBnIXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtUPBz8uSs1bFBoMANn4Dao"
-    },
-    {
-      "query": "cyber attack",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "MHCcx3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtVVFrsXpeYtCg2G8NW4Mh1Q-bdTkfmqd16_QOEH26xC4e9erYTCfyZjhMJfriiNwk-4ew-F_-fuXQgfAFszQYQ"
-    },
-    {
-      "query": "m365",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "6tDAMXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlULq75FqXmLQoMhfDWu26kQPgC4cBGb"
-    },
-    {
-      "query": "mobile network operator",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "9FxpKnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpWV-caLUvMWhQZD-Kr8tasgfAC_QBHQ"
-    },
-    {
-      "query": "spacex launch today",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "JQ47l3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRhXWlG2LUvMWhQZD-MruzxiR-aoy5udR5NU0y5D5Crfm8CLz5X_cXIrMV2QXiYfwAYVyLUs"
-    },
-    {
-      "query": "hegseth awards medal to soldier who reprimanded him and aides at arlington cemetery",
-      "search_volume": 20000,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "VSUBTXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtVX_dqLUvMWhQZD-W_iOZH5KkfeFKDwf6Y9gPAB4CUfNQ"
-    },
-    {
-      "query": "humble bundle",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "-lvBrXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXfFxMWpeYtCg0GANbkDTQ"
-    },
-    {
-      "query": "invidia",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "technology",
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "EIpJ8nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjUW40mLUvMWhQZD-KqNm09C-AC4yxIX"
-    },
-    {
-      "query": "harvey jones",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "sTARh3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjU-6YxFqXmLQoMhfNXGzSeR-WocaTko8scvz4bwAZ0UHX8"
-    },
-    {
-      "query": "apple home view",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "tpkxcHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjWWm78WpeYtCg2G8FU_PWVD5iuKSIsi81U2L3WH8AHNUx1z"
-    },
-    {
-      "query": "nvidia cmp 170hx voltage mod",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "4xlDwHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtV_k7gXpeYtCg0GANK0DKM"
-    },
-    {
-      "query": "microsoft stock price",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "aSUriHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtXjBzsXpeYtCg2G8BU-Jcmi8NW5-SF8ACUDF1E"
-    },
-    {
-      "query": "microsoft update",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology",
-        "science"
-      ],
-      "news_token": "zn-bGnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjXGijeLUvMWhQZD-KpdApwo_P_n5iDzVTSzRVHkLaXtIXwApP4h1Q"
-    },
-    {
-      "query": "cyber attacks today",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "UHqU1Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtWXsisXpeYtCg2G8h9FeKPwE6QKUPgXX3Wg8N-FB6Dw_5-bg8xX-a_2GMIHADWyMR4"
-    },
-    {
-      "query": "xbox game pass 25th anniversary discount",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "jKcmvnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtV5q-MXpeYtCg2G8rtdNkP4AMquEno"
-    },
-    {
-      "query": "microsoft layoffs",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "OO8hNXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUrBbqLUvMWhQZD-U_TnJD5Kky33iDzFbhCyyF8AMgZHXY"
-    },
-    {
-      "query": "should i buy nvidia stock now",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "eybHrnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlXmJqlFqXmLQoOh_D2sq1H4jZtPovAPzlRH4QuaVSHz1fhFbCF8AOlrJxs"
-    },
-    {
-      "query": "will nvidia stock go back up",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "YXTi-Hica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlVBs6pFqXmLQoOhfOYmKWS-SuY2AxT5xs0nUfiP1T6h8B01RVD4e1hXo_APzlSH8AFwNDMR"
+      "news_token": "MIJLjHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtXncx8tSs1bFBoM5Ws83Y7Cv2bwA5mv5KhviMxX0z_nhsJXqVyOwtdmqoHwAVCYLrE"
     },
     {
       "query": "météo demain",
-      "search_volume": 2000,
-      "increase": 100,
+      "search_volume": 1000,
+      "increase": 75,
       "categories": [
         "climate"
       ],
-      "news_token": "bZvVw3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjVWydRFaUWLQoMByMALkQ"
+      "news_token": "niWduXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXsq3yL0ooWhQZD-CqhGeYQPgC-ohGb"
     },
     {
-      "query": "hugging face",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "technology",
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "ilyGiXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtW3_tsXpeYtCg2G8FXOLQlB5qu-F1VD4R85OBnCBwDqih7a"
-    },
-    {
-      "query": "slay the spire 2 update",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "games"
-      ],
-      "news_token": "3w2Yvnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjX-jLZFqXmLQoMBzGQMBg"
-    },
-    {
-      "query": "spacex launch",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "yi6EnHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRlUZ8_OLUvMWhQZD-CqsKduQ-ar7p5xAkW9f1Icq_6IHhV_E3YTMl7e_fQiZr3BrDi-K-svbNqDw12y0g_ABqtJB-w"
-    },
-    {
-      "query": "microsoft servers",
+      "query": "avgo",
       "search_volume": 500,
-      "increase": 100,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "exrm3Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtUdT4MXpeYtCg2G8NVkXu5B4bM19yLzVR_XNaHw1yqbQ_gA9wAj2w"
+    },
+    {
+      "query": "tsmc",
+      "search_volume": 500,
+      "increase": 75,
       "categories": [
         "technology"
       ],
-      "news_token": "-QN8BXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVba14uSs1bFBoMANhSDXc"
+      "news_token": "HKm1VHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRtVvjw4tSs1bFBoM5TduPonCFzSrQuGXGpxD4XPenIrCl_LZjcJ3WncGma-mklyLIn_6egEKf_9yG2S-QoM8C4p8ePh-CB8AvqtMAw"
     },
     {
-      "query": "backward retirement approach gen x",
+      "query": "xbox 25th anniversary console",
       "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "LihuFHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtVUb5dFqXmLQoOh_EP5MhA-ALjWEZE"
-    },
-    {
-      "query": "amd stock price",
-      "search_volume": 2000,
       "increase": 75,
       "categories": [
-        "business_and_finance"
+        "games",
+        "technology"
       ],
-      "news_token": "3LSQanica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjVOd51FqXmLQoMhfFULJT0UfuPmkyh8LRcNFP6X3kgIHwBVbSGa"
+      "news_token": "kqWpknica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlXHuZWLUvMWhQZD-Cpu06sgfADBMRH9"
     },
     {
-      "query": "applebee's veterans day menu 2026",
+      "query": "apple homeview",
+      "search_volume": 5000,
+      "increase": 50,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "Xl--bXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjWWm78WpeYtCg2G8FU_PWVD5iuKSIsi81W0NuRD-ADJ8h0d"
+    },
+    {
+      "query": "marvel studios",
       "search_volume": 2000,
-      "increase": 75,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "DFJaF3ica1xTlFpYmlpcEp-SWJJ4h0Fm8nkGBgZG5fcn1y5KzVsUGgzhqyZdOoTCv-FzAYV_aeElZL6a7uuLKHz988ko6iunlaHIS6wSQeHzCy9DUa8rPRVFnoslCZmv4ukihGof9xcU_Wce96DIG3xag6L_9KpVKOqFa1lQ1OuseIYiv4JxLwr_5G99FPNuxCmhyHPPfInC_73gFIr66Yk8KPLvy3ej2G8osx6Fr9Knh8xXzDp4DMIHAEgOqRI"
+    },
+    {
+      "query": "jfk airport",
+      "search_volume": 500,
+      "increase": 50,
       "categories": [
         "law_and_government",
-        "hobbies_and_leisure"
+        "politics"
       ],
-      "news_token": "1PV9TXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRhU7fp9FqXmLQoMhfFWL2mUofKfW78h8lYecKijyB-XCUfgvZCxR-E8WsaHw7fd4QvgAgXEzAQ"
+      "news_token": "hvyBjnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtV5704sSs1bFBoM4asJCfUj81X-Vs1Bkdf9KY0i_4NpG4o8n-d2CB8AYiIpig"
     },
     {
-      "query": "tesla driver asleep ottawa highway 417",
-      "search_volume": 1000,
-      "increase": 75,
+      "query": "thời tiết ngày mai",
+      "search_volume": 200,
+      "increase": 50,
       "categories": [
-        "autos_and_vehicles"
+        "climate"
       ],
-      "news_token": "yaZHz3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVDdxUWpeYtCg0GANODDMc"
+      "news_token": "tjVynXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjXZQ88XlWUuCg0GANKaDNs"
     },
     {
-      "query": "nvidia market cap",
-      "search_volume": 500,
-      "increase": 75,
+      "query": "playstation store",
+      "search_volume": 100,
+      "increase": 50,
       "categories": [
-        "business_and_finance",
+        "games",
         "technology"
       ],
-      "news_token": "P7R8DHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtX3bBMXpeYtCg2G8pmbpFD4jZtPovAFzapQ-HtYV0P4AKT-Inc"
+      "news_token": "NmUKA3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtXiW9cWpeYtCg2G8tmlmVH4P40_IvPV2M4II_NVNquEoshrVxqh8qtyUNR_7XmIYr7f6wsQPgApjToR"
     },
     {
-      "query": "indie games festival ai backlash",
-      "search_volume": 200,
-      "increase": 75,
+      "query": "gta 6 map leak selfridges",
+      "search_volume": 100,
+      "increase": 50,
       "categories": [
         "games"
       ],
-      "news_token": "1FoVU3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtV1Ny8tSs1bFBoM5R_7fxDCBwDjMBQv"
-    },
-    {
-      "query": "google play store",
-      "search_volume": 100,
-      "increase": 75,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "fpor23ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtXrUtsXpeYtCg2G8l8c2ovCb5N9jsxXTLqnisxX2MO0GcIHAA_cJI4"
-    },
-    {
-      "query": "ast spacemobile at&t verizon partnership",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "technology",
-        "business_and_finance"
-      ],
-      "news_token": "aRTMs3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjWWm_qLUvMWhQZD-KqXkh6h8EOaN6DweS9tR-G_d1aF8AHVwiO_"
-    },
-    {
-      "query": "internet",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "qcELtXica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG1WWbFBel5i0KDYbyz57MReE3bj6Jwt_3awEyX41fpA5F_oljMIo8r8oWFPlnMkYo8ly3U1Hkz0WwovDfKfQg81V-peuj6OcW_orCZ7q5DUX_c-lZKHxvxnsQPgCjsmKc"
-    },
-    {
-      "query": "ddos",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "tuRvo3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtVdS3wWpeYtCg2G8n8w7YPwAc0fErI"
-    },
-    {
-      "query": "air bakin",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "shopping"
-      ],
-      "news_token": "oBWuqXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXOWItFqXmLQoMBzioMJg"
-    },
-    {
-      "query": "michael leiters tesla roadster critique",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "autos_and_vehicles"
-      ],
-      "news_token": "HAknk3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpVlPYsWpeYtCg0GANODDNs"
+      "news_token": "Hyd3-nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjX2S02LUvMWhQYDAM9QDGQ"
     }
   ]
 }
