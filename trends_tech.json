@@ -10,311 +10,158 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 32,
+      "keywords_count": 16,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-14 21:30:59"
+      "last_updated_hkt": "2026-11-15 21:31:08"
     }
   },
   "trending_seeds": [
     {
-      "query": "workday outage",
-      "search_volume": 100000,
-      "increase": 1000,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "6Jurgnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRjWTOttFqXmLQoMhfJV_K-uR-Wpct1OR-apnQjci85VeHa9CkT8bvQqFf4B3P4QPACU9MHA"
-    },
-    {
-      "query": "iphone hacked",
+      "query": "miami airport airplane crash",
       "search_volume": 20000,
       "increase": 1000,
       "categories": [
-        "business_and_finance",
-        "technology"
+        "travel_and_transportation"
       ],
-      "news_token": "zw5zQ3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlWdrmmLUvMWhQZD-MorbCSQ-SpdeyYg88HqsxIR8u901iLzFX26jkL4ABPoKRw"
+      "news_token": "Qy7MWnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRrWASRcXpeYtCg2G8FWmr96OzFdLfPwLlS-8BYUfsZ8DhW_fsgHFvDsfZJH5qoVzF6PwD7L6ofBv5Voj8-VF_FDUK9y44otiH9j9xUj89ToQPgA1blhk"
     },
     {
-      "query": "power outage",
-      "search_volume": 20000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance",
-        "climate"
-      ],
-      "news_token": "P8-WCXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRjVv9_WLUvMWhQZD-Zq_vJD5qmdCN6LIW2h1o8h_Xr8KRV5lnxQyX5Hf9QGKvH3zXxS-bpMOCt8pyRHCBwA7IT77"
-    },
-    {
-      "query": "cbs news",
+      "query": "rocket launch today",
       "search_volume": 5000,
-      "increase": 400,
+      "increase": 500,
       "categories": [
         "business_and_finance",
-        "technology"
-      ],
-      "news_token": "oR379Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtXlofaLUvMWhQZD-GrM1ooofKWzwsh81TdnVVD4z1kvQ_gAedgiYg"
-    },
-    {
-      "query": "what is a cyber attack",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
-        "technology",
         "science"
       ],
-      "news_token": "S7uLIXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtUOvfhFqXmLQoMhfJV_K-tR-FLsb1H4cU3XkPnKBecPQfgAz9gkIw"
+      "news_token": "j17QCXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtUi7qZFqXmLQoOhfBnz8yh8kHxBDpAPAPeRFsE"
     },
     {
-      "query": "alaska airlines",
+      "query": "apple tv black bird adaptation",
       "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "cWpSTnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjXOBUcWpeYtCg2G8FX-raxH5qt5MXAi81XTn1lC-ADCXx1N"
-    },
-    {
-      "query": "outages today",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "yUpbRXica1xTlFpYmlpcEp-SWJJ4h0Fu8nkGBgZGNa7bqYtS8xaFBkP4qkX3pJH5ak7WjSjyN5vaUfhfTS6gqHfc_ANF_rm0J6p5D1-j8CVWPkHhO1_Yi6I_SuM0Cv_64Q8o6jXTPqLwrR_no6i3lNVBkRddhWq_UJIxCp8_4hsKX6HtIQrffV8UCp_3_jEU-w4c40Xhi904iqKeW0QMhc-zrhRFvXJ7BQp_rc1mFH5nTj8yX2W-ZAkK_7nwRAgfAKp8syE"
-    },
-    {
-      "query": "spider-man 2 ps5 update qssr",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "Lytcanica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjW1fxmLUvMWhQYDANERDJU"
-    },
-    {
-      "query": "tesla cybercab",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "autos_and_vehicles"
-      ],
-      "news_token": "QgGlcXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjWT8PhFqXmLQoMhfNWmxeeQ-WqO_xuQ-cr9fNrIfCXHnh8QPgC82CNP"
-    },
-    {
-      "query": "fcc",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "FuEKcXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtXkdSyLUvMWhQZD-de9ypH5KkEnHiLz1biFL6Pw9eZOQNHPZI0ir9JxUgrCBwDOsy4n"
-    },
-    {
-      "query": "surveillance aircraft",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "3oZ1Anica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjX7la2LUvMWhQZD-IrNdmnIfIWUZWEQPgAMaReE"
-    },
-    {
-      "query": "donald trump immigration ban review",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "LJZug3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjW98HmLUvMWhQYDAM2bDCw"
-    },
-    {
-      "query": "apple tv 4k",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "WtJgrXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjWWG8cXpeYtCg2G8nWvr0TmKxzf9h-Zr_gtnQPCBwDs6x8K"
-    },
-    {
-      "query": "malaysia",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "xWX5Tnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtXbMU8WpeYtCg2G8idc_oHCX2KSjsJvWT4Phf_jwxQU_nfPZhT--6ZaZL6amN07ZL6S1dZHED4AutY-BA"
-    },
-    {
-      "query": "taiwan",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "V2NnDHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRtXqqw8WpeYtCg2G8hs3n0Tmq7kXKqDwTa41oKgvNTiHIq-3YhEK3-HMVWS-yukL-1H0zzZfgcKvvsaFwn90uBPFPMnbesh8hRPb1FD4-uz3IXwAi6BZPQ"
-    },
-    {
-      "query": "what happened to christian cousins",
-      "search_volume": 1000,
-      "increase": 100,
+      "increase": 300,
       "categories": [
         "entertainment"
       ],
-      "news_token": "_wq_k3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjXVi2cWpeYtCg0GANJcDMs"
+      "news_token": "w_UcHHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtX_zFMXpeYtCg0GANILDJ8"
     },
     {
-      "query": "japan cyber attack",
-      "search_volume": 200,
-      "increase": 100,
+      "query": "ring drone camera",
+      "search_volume": 1000,
+      "increase": 300,
       "categories": [
         "technology"
       ],
-      "news_token": "QpO1QXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUPEu6LUvMWhQZD-GqWs7mR-cqlZvOR-Sq1HWcgfACiJB0n"
+      "news_token": "LnavrXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtWDeemLUvMWhQYDANHzDJ4"
     },
     {
-      "query": "frontier airlines",
-      "search_volume": 10000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "P9FpFnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtU65WuLUvMWhQZD-Gou_1qR-arLjI4i81X-raxHkX9tehiFf-DDWQgfAH51K9E"
-    },
-    {
-      "query": "911 outage",
-      "search_volume": 5000,
-      "increase": 75,
+      "query": "unruly aircraft passenger",
+      "search_volume": 1000,
+      "increase": 300,
       "categories": [
         "other"
       ],
-      "news_token": "WWkZ0Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjWxRV2LUvMWhQZD-Cr_VtYj81W7Vr5C5qtZTloI4QMA4hce0g"
+      "news_token": "oZfFLnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtUPBz8uSs1bFBoM4asFzrGC8AHfTxMa"
     },
     {
       "query": "bahrain",
-      "search_volume": 2000,
-      "increase": 75,
+      "search_volume": 20000,
+      "increase": 200,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "ci2np3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRjXRpuBFqXmLQoMhfNUkgUxkvhqTwkMU-VXT8pD5KqkJych8xc6qdBT9xkyvUPi8X3-imLczbw-Kef9W1qPIHwo1ROGLtZyH8AEx6Ur6"
+      "news_token": "P3KAPnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRjXRpuBFqXmLQoOh_HCeNBS-V9xxZL7qxT-tKPzKx4uQ-VKM4n0o8pO2cqDwg7j4kPnKdzJCUORZWepQ5P9_5UeRT_xbgcxXWWH1FZmvJLW6HsIHAC9EVYQ"
     },
     {
-      "query": "daily mail",
-      "search_volume": 2000,
-      "increase": 75,
+      "query": "spacex starship rocket launch",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "-fzNR3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRlUZ8_OLUvMWhQZD-UXcTch8hVtzeJH58pttkyB8AJ3_HMs"
+    },
+    {
+      "query": "jessica chastain",
+      "search_volume": 10000,
+      "increase": 200,
       "categories": [
         "entertainment"
       ],
-      "news_token": "xPUTtnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjW7f46LUvMWhQYDANDYDIY"
+      "news_token": "NA3M-3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpX3ZxctSs1bFBoM4at-YD-KzFczWCmAwue2Po8qH78Gha_xUh3FvKRcOWS-wuWvChA-ACx_NF4"
     },
     {
-      "query": "caitlin cunningham uss michael murphy relieved",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "law_and_government",
-        "politics"
-      ],
-      "news_token": "SBbFKHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtVLVYmLUvMWhQZD-Go8bVYQPgDFrBHK"
-    },
-    {
-      "query": "hailey bieber",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "1MRQLXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRjVZo7-LUvMWhQZD-S5XmpH5qjF-4Sh8v7IiFPX2kxahyC_cWYPMV7mTHI_MV6w4MQvCBwDkRzTd"
-    },
-    {
-      "query": "widespread power outages",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "rO9JJ3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjXeKstFqXmLQoMhfNXdvYrIfDWBBVYQPgD01Rat"
-    },
-    {
-      "query": "hail",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "p_8QIHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjVRb6lFqXmLQoOhfKYMExS-OW80Cl9IqB-Fr9q5CcIHACDMH_c"
-    },
-    {
-      "query": "billionaires",
-      "search_volume": 5000,
-      "increase": 50,
+      "query": "boston logan international airport",
+      "search_volume": 10000,
+      "increase": 100,
       "categories": [
         "other"
       ],
-      "news_token": "wCfRMHica1xTlFpYmlpcEp-SWJJ4h0Fx8nkGBgZG1cbNJxelFi8KDYbwVXKC1iHzVXctsUXhg9XnwflqYos4kPmqCho7UPhXtRhQ-AvOTkfRr6g5C4WvsvwgMl_l67wTKPqPX56Not51xmoU-ZV7tiDzlfkPGaGY929lPYp6QbMqFD5zkxSK-tnB7ijyn74tROEbq4SguMcp8SeK_jzn0yjuWXZ0Loq8nZIMMl_xXKwXivrJLDbIfIWOEwoo-juV7qLYr135EIXvmGaM4t6bEi0o8prd1RA-AF-sw4s"
+      "news_token": "ILH9L3ica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGlX8r6xel5i0KDYbwVa9ws6HwT6msROarJTaUofA9uLpR-KJNwSj8cJ40FPNmcfChyDNXtaHIu76YiCKvXe2KIv_NoASFL2EijcxXjNbNRuYr7N7_B8W8gOO3Ufk-R1H5ky6i8KMeNaLwOe9vh_ABO-J3Xg"
     },
     {
-      "query": "pearl abyss crimson desert ai development",
+      "query": "craig melvin dan hicks tribute",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "Ul7s7Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjW2mOmLUvMWhQYDAMwqDAI"
+    },
+    {
+      "query": "robot",
       "search_volume": 2000,
-      "increase": 50,
-      "categories": [
-        "games",
-        "science"
-      ],
-      "news_token": "3OSI1Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjVt8YJFqXmLQoOhfI8Z-5H5qr_Ks1HkpS4fhvABqcIdwA"
-    },
-    {
-      "query": "nintendo black friday canada",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "games",
-        "technology",
-        "shopping"
-      ],
-      "news_token": "XoNK5Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXncx8tSs1bFBoMANgeDW4"
-    },
-    {
-      "query": "trump administration medicaid work requirement delay",
-      "search_volume": 1000,
-      "increase": 50,
+      "increase": 100,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "gXi5k3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUXsqqLUvMWhQZD-GqGn9RQ-EzB85H5qp3y5yB8AJ-aHL8"
+      "news_token": "X-7dp3ica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG1feb7Bel5i0KDYbyXzieQuarxUzahcKPylqKqv7gRRS-blksMl8lJH0finzKMkYU84JLqlD4YccdUPixfFYo-mc2SaHIu_IuQ-GznfFD4TsVX0HRX_kW1T_mfY0o8paNP1Dk5duuocifY1BBkZeZhWK-Whx_DIp6GfPzyHzlY6rzIXwAZXiPVA"
     },
     {
-      "query": "cisa",
+      "query": "scott bessent",
       "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "UbxvAHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtWlT2UWpeYtCg2G8FU0s0WR-Wpct1OR-arrniWhyItxcKHI3_1bgsKPDmtB4R9_sgjFvoR5lRA-ADbVOkY"
-    },
-    {
-      "query": "turkish airlines",
-      "search_volume": 500,
-      "increase": 50,
+      "increase": 100,
       "categories": [
         "business_and_finance",
-        "travel_and_transportation"
+        "technology"
       ],
-      "news_token": "gtGCXXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjXtz6yLUvMWhQZD-Kp_J0RB-ADCKhJb"
+      "news_token": "R2NOCXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjXtatdFqXmLQoOhfLFFHMh81SAuPmS-wkHpcBT-71NPIXwAVyciEg"
     },
     {
-      "query": "ios 27.3 new features release",
+      "query": "samsung galaxy s27 pro production",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "technology"
       ],
-      "news_token": "QThXW3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRjVD2-2LUvMWhQZD-Ry9XCh87TMLUfgsN38h81W1D4oi85UerH4O4QMA6wEpFw"
+      "news_token": "D9kUy3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpWgGodFqXmLQoMBzWEMFQ"
+    },
+    {
+      "query": "tesla, inc.",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "3420nHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUbvhWLUvMWhQZD-GoxFjXIfIWpi04j81W9fltD-ADJCx4L"
+    },
+    {
+      "query": "daniel craig",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "ozHWkHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpVVOfaLUvMWhQZD-Kor1_5C5qv5SsmhyH9Q34rCD7JUQ1EvcA9Fv8rXR24QPgDvnS9k"
+    },
+    {
+      "query": "maika monroe",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "zpKCLXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRhVFq12LUvMWhQZD-GpxF38j81UPlK-E8AEaTRi3"
     }
   ]
 }

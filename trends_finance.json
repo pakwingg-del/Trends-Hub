@@ -10,103 +10,176 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 16,
+      "keywords_count": 19,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-15 06:30:56"
+      "last_updated_hkt": "2026-11-15 21:31:01"
     }
   },
   "trending_seeds": [
     {
-      "query": "peter thiel",
-      "search_volume": 2000,
-      "increase": 600,
+      "query": "rocket launch today",
+      "search_volume": 5000,
+      "increase": 500,
       "categories": [
-        "business_and_finance"
+        "business_and_finance",
+        "science"
       ],
-      "news_token": "NFEka3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtXS71aLUvMWhQZD-GquatnIfNXrl84h85V91ZyR-Yo8rWbIfIVPzEbIfKVY40Uo6stvXkVVL9yEwv-WlAjhAwAHLD-j"
-    },
-    {
-      "query": "dario amodei",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "UHQCS3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRlWxG0cXpeYtCg2G8FVuFl9C5qvKOa5B5iuW6QUj8-Ub-o1R5PWPCSPz1VyX70Mx76JGFTJf4Rb_LwgfAH39OlI"
+      "news_token": "j17QCXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtUi7qZFqXmLQoOhfBnz8yh8kHxBDpAPAPeRFsE"
     },
     {
       "query": "vix",
-      "search_volume": 1000,
-      "increase": 300,
+      "search_volume": 2000,
+      "increase": 400,
       "categories": [
         "business_and_finance"
       ],
       "news_token": "MO2zRHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjWVD3KLUvMWhQZD-CoOb69A-ADDARKD"
     },
     {
-      "query": "sam altman",
-      "search_volume": 1000,
-      "increase": 200,
+      "query": "peter thiel",
+      "search_volume": 10000,
+      "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "wxpdX3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRjW1v_6LUvMWhQZD-KqNm08i85XDpish8xXmTJ2MzFfJuvUVRf7Gfh5kvnxDvzEyX7HFdBcyXynwVDmEDwDpKzuU"
+      "news_token": "Fm4lonica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtXrl84tSs1bFBoM5Zd-t0Lh962KRuaruaplo_BjLPuR-cq-as7IfEWeVjNkvsInZiMIHwA0tzNF"
     },
     {
-      "query": "starship catch",
+      "query": "spacex starship rocket launch",
       "search_volume": 10000,
-      "increase": 100,
+      "increase": 200,
       "categories": [
         "business_and_finance",
         "science"
       ],
-      "news_token": "2GKDUnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRlUZ8_OLUvMWhQZD-PL2tw8h85UO2GUg8xXbpZYh8xVuzeFFkb_t0oHMV-P7MRuZr6ymWYZi32bbJAgfAG48Obg"
+      "news_token": "-fzNR3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRlUZ8_OLUvMWhQZD-UXcTch8hVtzeJH58pttkyB8AJ3_HMs"
     },
     {
-      "query": "btc",
+      "query": "ifc",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "ZIDRz3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlWJDX8WpeYtCg2G8NWcHaMhfADHLRH0"
+    },
+    {
+      "query": "sam altman",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "sOFMUXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRjW1v_6LUvMWhQZD-bGaZ5D5qtMPMKLIiy8zRuEHXZuOzFfJuvUVma8cNl0Jma9wYz8PMl--oR_FPMUW010QPgA8rz_t"
+    },
+    {
+      "query": "dario amodei",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "lExmX3ica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG5RtP8hal5i0KDYbw1XjdXVH4jucMkfmqp_ZbIvNV5uloochP48pA4Qv4CaDwKztNUcwXKlBD4fNV2qCY__7sTBR5l5hcFPMiIw6jykv0IvMVrj1ci6L-8mJGFPP_rz-Not_c7AiEDwAgiWwu"
+      "news_token": "KetqYHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlWxG0cXpeYtCg2G8FVuFl9C5qte1KhC5ss39Bsj8xXL9IKR-Wquy_ehyOsfE0bmK9zi_wXhAwBBBzT_"
     },
     {
-      "query": "xrp",
+      "query": "the motley fool",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "kgZ23Hica1xTlFpYmlpcEp-SWJI4f_J5BgYGRpX_608vSs1bFBoM4atWpb5F4e9dlYDMV7FmfYjMV_MUn4qifk0BinrVc68bUNSzqv9Fkb9lbYYib9DpisxXTH9ih6LeO2Q-Ml_hq2wRCv83C4p-1ZXffCB8AMtqXa4"
+      "news_token": "VnIFYHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRrWkOI1FqXmLQoOh_FjNGmS-al9BNgr_i04uivrEhiIU-cbNJ1H4Gx6EovDXVhVD-AC5mzSy"
     },
     {
-      "query": "cathie wood buying coreweave shares",
-      "search_volume": 500,
+      "query": "credit card debt",
+      "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "bmRplHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjWjWecXpeYtCg2G8FVvrNyKwpcv3g3hAwAsCBi3"
+      "news_token": "TpTesHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtVOp12LUvMWhQZD-GqcF-tR-Dq6Bch8lZIyPwgfAK9PHMA"
+    },
+    {
+      "query": "guyana",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "XifMTnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtWrHpsWpeYtCg2G8NUMmD-g8G0XoMgrGlosQOYrrPu9BUXefV8LhA8AQDkp1Q"
+    },
+    {
+      "query": "btc",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "K7PbhXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRjWvqY2LUvMWhQZD-Mo3nuQh81UTd1mj8LfHX0bmq_G6u6LId-wyReHzvbdH5qu8PzsTRb9LTC6EDwC02zq_"
+    },
+    {
+      "query": "btc price",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "bBMQtXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRuUbT_IWpeYtCg2G8NWiJu1G5qvM09FC5qtO48pAUR_ruwZF_f_1p1HUR0YcRuFvj7-Mop_X3RWF7yLRi2KeoVgBiv7LixkhfABTKUrI"
+    },
+    {
+      "query": "scott bessent",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "R2NOCXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjXtatdFqXmLQoOhfLFFHMh81SAuPmS-wkHpcBT-71NPIXwAVyciEg"
     },
     {
       "query": "warren buffett stock market warning",
       "search_volume": 2000,
-      "increase": 50,
+      "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "7nzruXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjXJdJNFqXmLQoMByngLvQ"
+      "news_token": "X_zl53ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjV-5fmLUvMWhQZD-Kq7Bacg89Uk001Q5J9XRyPzVT4euQjhAwCKQSNR"
     },
     {
-      "query": "breeze",
+      "query": "energy",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "Vcf2anica1xTlFpYmlpcEp-SWJI4d_J5BgYGRjXOyjOLUvMWhQZD-YIp_Ch8n93Xkfmq_E7TUPiNGtkofMfsABT-8eiXKHy1KC4U_kWGXSj8__E_Uex3sp6HwvdP9kVR_3pCCYQPAMOdT5Q"
+    },
+    {
+      "query": "xrp price",
       "search_volume": 1000,
       "increase": 50,
       "categories": [
-        "travel_and_transportation",
         "business_and_finance"
       ],
-      "news_token": "R9htu3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjUv-VWLUvMWhQZD-Cr_VtYj81WfJz1C4f_t-wrhAwDinh_E"
+      "news_token": "OQ6Bo3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpX_608vSs1bFBoM4atWpb5F5qv5uZog81WsWR-iqN-7KgHCBwAGViQb"
+    },
+    {
+      "query": "target black friday 2026",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "shopping"
+      ],
+      "news_token": "914TfXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiVHfcNFqXmLQoMhfLV4Kz4Uvv2qBmS-qvi5tSj8awY_IHwAZqUiaA"
+    },
+    {
+      "query": "tesla, inc.",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "3420nHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUbvhWLUvMWhQZD-GoxFjXIfIWpi04j81W9fltD-ADJCx4L"
     },
     {
       "query": "mark zuckerberg",
@@ -115,52 +188,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "g-aqr3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtXnRzwXpeYtCg2G8FXuvlJD5qs2bj6JzFfTn2CAov6jjCgyX7k35TGEDwCCZyow"
-    },
-    {
-      "query": "hong kong",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "JeVw2nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRjWblE-LUvMWhQZD-KpuGYnIfJV_vXuQ-WoB3qdQ1O9cpYUiL_7QHIUfGP8YRf2zAmUU_l83AQgfALCROrM"
-    },
-    {
-      "query": "tahiti",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "kFSP5Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRjVvSZ1FaUWLQoOhfOFrC5H5quEf2lH4F4xiUNQ7vGtA4Zu5X4XwAf_oKNg"
-    },
-    {
-      "query": "frontier",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "cexY8Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtULPK8WpeYtCg2G8l-bHkbh1ylfQ-ar_FtZjyK_zOgohA8ADFIlCg"
-    },
-    {
-      "query": "target black friday 2026",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "shopping"
-      ],
-      "news_token": "SeP_xnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRiVHfcNFqXmLQoMhfDX7VQ3IfFXxc2tR-NcMfkD4AJgVHXg"
-    },
-    {
-      "query": "klarna",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "kzrEDXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjXm_16LUlIXhQYDAM7jDEs"
+      "news_token": "UilOfnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtXnRzwXpeYtCg2G8NWCrk1H5qs2bj6JIh-n5oLCd3p4G5mvcveVGgr_o4woMl-5N-UxhA8AkUA2WA"
     }
   ]
 }
