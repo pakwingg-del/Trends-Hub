@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 24,
+      "keywords_count": 12,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-14 21:30:58"
+      "last_updated_hkt": "2026-11-15 00:30:57"
     }
   },
   "trending_seeds": [
@@ -24,92 +24,36 @@
         "business_and_finance",
         "technology"
       ],
-      "news_token": "zw5zQ3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlWdrmmLUvMWhQZD-MorbCSQ-SpdeyYg88HqsxIR8u901iLzFX26jkL4ABPoKRw"
+      "news_token": "u1Qd-nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRlWdrmmLUvMWhQZD-MorbCSQ-SpdeyZA-AAHVhez"
     },
     {
-      "query": "power outage",
-      "search_volume": 20000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance",
-        "climate"
-      ],
-      "news_token": "P8-WCXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRjVv9_WLUvMWhQZD-Zq_vJD5qmdCN6LIW2h1o8h_Xr8KRV5lnxQyX5Hf9QGKvH3zXxS-bpMOCt8pyRHCBwA7IT77"
-    },
-    {
-      "query": "cbs news",
+      "query": "workday outages",
       "search_volume": 5000,
-      "increase": 400,
+      "increase": 300,
       "categories": [
         "business_and_finance",
         "technology"
       ],
-      "news_token": "oR379Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtXlofaLUvMWhQZD-GrM1ooofKWzwsh81TdnVVD4z1kvQ_gAedgiYg"
+      "news_token": "r8-F5nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjWTOttFqXmLQoMhfJV_K-uR-Wpct1MhfAAQsRf4"
     },
     {
-      "query": "newsmax",
-      "search_volume": 2000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "kGfn4nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtVPVw4vSs1bFBoM4avZu_Ai81VXfl2MIm-sXw_hAwDqKR4d"
-    },
-    {
-      "query": "starship",
-      "search_volume": 20000,
+      "query": "starship catch",
+      "search_volume": 10000,
       "increase": 200,
       "categories": [
         "business_and_finance",
         "science"
       ],
-      "news_token": "oWT43nica1xTlFpYmlpcEp-SWJI4d_J5BgYGRlUZ8_OLUvMWhQZD-Gp8P2Yj8xVuzeFF5iuraZYh8-U32yYh85UO2GUg81WLuJtQzFf704Vi_iqxahTzL9cYoejXPpCNYp_97UPIfMV2qWUQPgAuzE_s"
-    },
-    {
-      "query": "nasdaq composite",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "FivofXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlXmJqlFqXmLQoOhfEGzKmS-4v4le1DkA9LdUfhbPLYg81WmFc-F8AHLtyg-"
-    },
-    {
-      "query": "alaska airlines",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "cWpSTnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjXOBUcWpeYtCg2G8FX-raxH5qt5MXAi81XTn1lC-ADCXx1N"
-    },
-    {
-      "query": "faa smart system",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "pGWK8nica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGlZ6sokWpeYtCg6H8fyvrkfmKUkU2yHzVqKTJyHw1lpu_0Ph1KOad9vqIIu98vwbFvOV7GlDkHT0SUfguR5-gqN-_3xFFXlfgHDJf2WKjKjJf4cCFSmS-UspefRT_zfvmgiIfvvQSin6lLGkIHwA863UA"
-    },
-    {
-      "query": "car rental",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "6-FFenica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjXbBbMWpeYtCg2G8FX-raxH5qtZXpmBwjfv-wfhAwDk-h7n"
+      "news_token": "VDblwHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlUZ8_OLUvMWhQZD-PL2tw8h85UO2GUg8xXbpZYh8xVuzeFF5qvx_ZiNzFdW0yxDMX-zbRKEDwDujjPN"
     },
     {
       "query": "xrp",
-      "search_volume": 1000,
+      "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "pSLhj3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRpX_608vSs1bFBoM4auuKUhA4Z973YDCr0p9i8K_rnUZhb93Far--xk6yHw155SJKPK3rM1Q-JWdpsh8hd8srsh85YWdTijyX2WLkPmK6U_sUMxb-c0HwgcAy9JfUg"
+      "news_token": "8WGKJXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRpX_608vSs1bFBoM4atWpb5F4e9dlYDMV_MUn4oiv6YARV713OsGFP79DB0U_azqf1Hkb1mbIfMVfrO4ovC_yhYh8xXTn9ih6F_5zQfCBwAlqFM0"
     },
     {
       "query": "malaysia",
@@ -119,7 +63,7 @@
         "business_and_finance",
         "technology"
       ],
-      "news_token": "xWX5Tnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtXbMU8WpeYtCg2G8idc_oHCX2KSjsJvWT4Phf_jwxQU_nfPZhT--6ZaZL6amN07ZL6S1dZHED4AutY-BA"
+      "news_token": "uJWZFXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtXbMU8WpeYtCg2G8je8uorCb1k-D5mv5vvEB0X-x4cpKPzvns0o_PdNtRA-ANg8MrY"
     },
     {
       "query": "cathie wood buying coreweave shares",
@@ -131,50 +75,13 @@
       "news_token": "bmRplHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjWjWecXpeYtCg2G8FVvrNyKwpcv3g3hAwAsCBi3"
     },
     {
-      "query": "frontier airlines",
-      "search_volume": 10000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "P9FpFnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtU65WuLUvMWhQZD-Gou_1qR-arLjI4i81X-raxHkX9tehiFf-DDWQgfAH51K9E"
-    },
-    {
-      "query": "faa floppy disks",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "qUI69Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRhUfk9hFqXmLQoOh_H8r6yF8ALz5ElE"
-    },
-    {
-      "query": "cnbc news",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "aApRnHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRjWdVNlFqXmLQoMhfFXmJilkvppT8RUUebEbR1HkuW6novDFFnGgqG_cfBKFn7jLGsIHAFXkMuo"
-    },
-    {
       "query": "why is crypto crashing",
-      "search_volume": 200,
-      "increase": 75,
+      "search_volume": 1000,
+      "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "7LDe9Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRuUbT_IWpeYtCg2G8FUjIw4j89XMzY6g8BV_W0H4AOHkHgU"
-    },
-    {
-      "query": "jeff landry",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "hRADJHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjU-LZZFqXmLQoMhfNW7L6uR-Wp6Ur-R-SqBZskQPgCU-RyL"
+      "news_token": "gD3kE3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuUbT_IWpeYtCg2G8FX-rz-NzFeNjDiMzFczNzuCwlf8bQXhAwAugiTF"
     },
     {
       "query": "breeze",
@@ -187,42 +94,22 @@
       "news_token": "R9htu3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjUv-VWLUvMWhQZD-Cr_VtYj81WfJz1C4f_t-wrhAwDinh_E"
     },
     {
-      "query": "government shutdown",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "politics",
-        "law_and_government"
-      ],
-      "news_token": "s2fK-3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtVXAUsXpeYtCg2G8NUMtsqg8HWVSpH5Kv9W1iPzVU23bUPhc60URVE_ITIfwgcA3mUuQw"
-    },
-    {
-      "query": "delta stock",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "4qvSOHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtWsJrVFqXmLQoMhfDXTM9bIfMXQZdcgfAAD6xe0"
-    },
-    {
-      "query": "turkish airlines",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "business_and_finance",
-        "travel_and_transportation"
-      ],
-      "news_token": "gtGCXXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjXtz6yLUvMWhQZD-Kp_J0RB-ADCKhJb"
-    },
-    {
-      "query": "hong kong",
+      "query": "warren buffett stock market warning",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "nGMUI3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtUt7AmLUvMWhQZD-e_vSSLz1cQfmqPIu2UkosjrTHNFkd9taY0ib9O3EsIHALHfLaM"
+      "news_token": "7nzruXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjXJdJNFqXmLQoMByngLvQ"
+    },
+    {
+      "query": "tahiti",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "kFSP5Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRjVvSZ1FaUWLQoOhfOFrC5H5quEf2lH4F4xiUNQ7vGtA4Zu5X4XwAf_oKNg"
     },
     {
       "query": "frontier",
