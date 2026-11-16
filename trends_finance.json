@@ -10,20 +10,20 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 23,
+      "keywords_count": 16,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-16 03:30:57"
+      "last_updated_hkt": "2026-11-16 06:31:06"
     }
   },
   "trending_seeds": [
     {
       "query": "wealth",
-      "search_volume": 5000,
+      "search_volume": 10000,
       "increase": 400,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "oz2PjXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRrUYS_FFqXmLQoMhfNU389yQ-WoSOzJQ-ClOC1D4MR8Xo8rfrETh8yh1oPBTd35Hse-qFgOEDwA7bzm5"
+      "news_token": "pCJ0P3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtU389wWpeYtCg2G8NViLMVR-FkPlyDzVffmlKDIZ_DvR9X_cTEKP71xEgo_eVc7Cp9HqQPCBwCfdjpR"
     },
     {
       "query": "vix",
@@ -55,51 +55,14 @@
       "news_token": "Us17gHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrX4WycXpeYtCg0GANSZDQs"
     },
     {
-      "query": "peter thiel",
-      "search_volume": 10000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Fm4lonica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtXrl84tSs1bFBoM5Zd-t0Lh962KRuaruaplo_BjLPuR-cq-as7IfEWeVjNkvsInZiMIHwA0tzNF"
-    },
-    {
-      "query": "spacex starship rocket launch",
-      "search_volume": 10000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "fWnfcXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlUZ8_OLUvMWhQYDAM1GDCo"
-    },
-    {
       "query": "ula vulcan rocket launch",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 200,
       "categories": [
         "business_and_finance",
         "science"
       ],
-      "news_token": "I20TGXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtUi7qZFqXmLQoOhfBnz88h8FdaUbSh8wzeuKOpXnD6Jwl-z0Q6Zr3y5xgiZr3BrDi-K-i1XPFD4IPcU5AD5AA1-P9w"
-    },
-    {
-      "query": "sam altman",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "AJ71AHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRjWxC1GLUvMWhQZD-Wp__ZH5qtMPMKLIiy8zRuEHXZuOwrc7pILMV8m69RWZrxw2XQmZr3BjPw8yX76hH2o-ABWEP5E"
-    },
-    {
-      "query": "dario amodei",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Rx1-7Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRlWxG0cXpeYtCg2G8FVuFl9C5qvKOa5B5ss39Bsj8xXL9IJR-PrHhJH5Crf4f0H4APwWLqQ"
+      "news_token": "s7S9SHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRtUi7qZFqXmLQoOhfBnz88h8NYGji5H5Kqwp25D5ypdrjFD0rzh9EkW94RtXFPk1G-1QzI_Z8QeZr3BrDi-KekNnaxT-xNUlKPwtVzxQ-CD_FOQA-QD01Fbl"
     },
     {
       "query": "bank algorithm debt free rejections",
@@ -117,7 +80,7 @@
       "categories": [
         "entertainment"
       ],
-      "news_token": "s9m0tHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRlXL618WpeYtCg2G8NU43z-A8AHUXxMt"
+      "news_token": "W8hEq3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjXO9w8WpeYtCg0GANLcDOE"
     },
     {
       "query": "the motley fool",
@@ -126,16 +89,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "71CxOXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtUvOrmLUvMWhQZD-RsehKLw3xgfR-arpU_5hcLXX7schc9sNRdF_-feQyjyob7iyHzlG0_ykPkq7Yv6IHwACAdCFw"
-    },
-    {
-      "query": "guyana",
-      "search_volume": 1000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "1javnXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtWrHpsWpeYtCg2G8uNnZCHz1QyYP6DwbRegqFc0tFiAzFdY93sLirz7vhYIHwD_My9-"
+      "news_token": "JlKpdnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtUND0IXpeYtCg2G8r_o5KLyOVai8Bs3n0Tmq4lwT0bhK3XPReEr-Hij8BXjGVHM-9x7CIUvaFYF4QMAZNI-3w"
     },
     {
       "query": "reliable healthcare dividend stocks jnj mdt",
@@ -154,7 +108,7 @@
         "business_and_finance",
         "technology"
       ],
-      "news_token": "e4gAanica1xTlFpYmlpcEp-SWJI4a_J5BgYGRjXtatdFqXmLQoMhfNUgLj5kvprYIg4UvsMyXRS-V9xxFL7q8zvIfIWD0uEo_N-nniLzFT_ZL0fhO905C-EDAEfoP6I"
+      "news_token": "1P7rX3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRjXtatdFqXmLQoMhfNUgLj5kvprYIg4UvsMyXRS-V9xxFL7q8zvIfIWD0uEo_N-nniLzFT_ZL0fhO905i6L-zuksCB8AdOtF9g"
     },
     {
       "query": "nintendo switch 2 black friday deals",
@@ -168,6 +122,15 @@
       "news_token": "I6gL-nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtXncx8tSs1bFBoM4Ss56hsi81U1nm6H8AEppBhg"
     },
     {
+      "query": "intel shareholder class action lawsuit",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "71trWXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjU5w7pFqXmLQoMByvsL1g"
+    },
+    {
       "query": "spacex spcx stock price target 2027",
       "search_volume": 1000,
       "increase": 50,
@@ -175,7 +138,7 @@
         "business_and_finance",
         "science"
       ],
-      "news_token": "5rqnF3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpX2RX2LUvMWhQYDANKQDL4"
+      "news_token": "6RTjuHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRpX2RX2LUvMWhQZD-KpzXVshfADLHhJt"
     },
     {
       "query": "tesla model y awd price increase",
@@ -187,15 +150,6 @@
       "news_token": "YPDir3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjXJNzGLUvMWhQYDAM-4DGo"
     },
     {
-      "query": "target black friday 2026",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "shopping"
-      ],
-      "news_token": "4vhH9nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjX7VQ2LUvMWhQZD-EqO-obIfFXxc2tR-NcMfkD4AKTVHXg"
-    },
-    {
       "query": "dave ramsey 401k ira outlook",
       "search_volume": 500,
       "increase": 50,
@@ -205,15 +159,6 @@
       "news_token": "6F9S0Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXVhw8sSs1bFBoM4aul1kyD8AHWkxL2"
     },
     {
-      "query": "intel shareholder class action lawsuit",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "71trWXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjU5w7pFqXmLQoMByvsL1g"
-    },
-    {
       "query": "tesla, inc.",
       "search_volume": 200,
       "increase": 50,
@@ -221,15 +166,6 @@
         "business_and_finance"
       ],
       "news_token": "DoeCUXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtUbvhWLUvMWhQZD-GoxFjUQPgDGSRH-"
-    },
-    {
-      "query": "mark zuckerberg",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "UilOfnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtXnRzwXpeYtCg2G8NWCrk1H5qs2bj6JIh-n5oLCd3p4G5mvcveVGgr_o4woMl-5N-UxhA8AkUA2WA"
     }
   ]
 }
