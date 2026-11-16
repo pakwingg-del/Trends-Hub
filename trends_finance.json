@@ -10,29 +10,49 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 19,
+      "keywords_count": 23,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-16 00:31:00"
+      "last_updated_hkt": "2026-11-16 03:30:57"
     }
   },
   "trending_seeds": [
     {
       "query": "wealth",
-      "search_volume": 2000,
+      "search_volume": 5000,
       "increase": 400,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "LSq0gnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrUYS_FFqXmLQoOh_BQvUVS-0wJU_s1KFL7EjgwUvlL3XBR-zMfFKHwepQ5kvuqF4j4U_lUtBggfAGqPPfs"
+      "news_token": "oz2PjXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRrUYS_FFqXmLQoMhfNU389yQ-WoSOzJQ-ClOC1D4MR8Xo8rfrETh8yh1oPBTd35Hse-qFgOEDwA7bzm5"
     },
     {
       "query": "vix",
-      "search_volume": 2000,
+      "search_volume": 1000,
       "increase": 400,
       "categories": [
         "business_and_finance"
       ],
       "news_token": "MO2zRHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjWVD3KLUvMWhQZD-CoOb69A-ADDARKD"
+    },
+    {
+      "query": "venezuelan crude oil surge united states",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance",
+        "law_and_government",
+        "politics"
+      ],
+      "news_token": "VNZiLHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRpWv804sSs1bFBoM4avefTUNhb8ptQWF_-G8Agr_yl8bCB8AVSYmZg"
+    },
+    {
+      "query": "avengers doomsday prequel production budget",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "Us17gHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrX4WycXpeYtCg0GANSZDQs"
     },
     {
       "query": "peter thiel",
@@ -51,7 +71,17 @@
         "business_and_finance",
         "science"
       ],
-      "news_token": "-fzNR3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRlUZ8_OLUvMWhQZD-UXcTch8hVtzeJH58pttkyB8AJ3_HMs"
+      "news_token": "fWnfcXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRlUZ8_OLUvMWhQYDAM1GDCo"
+    },
+    {
+      "query": "ula vulcan rocket launch",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "I20TGXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtUi7qZFqXmLQoOhfBnz88h8FdaUbSh8wzeuKOpXnD6Jwl-z0Q6Zr3y5xgiZr3BrDi-K-i1XPFD4IPcU5AD5AA1-P9w"
     },
     {
       "query": "sam altman",
@@ -60,17 +90,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ULpT9nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrVYzTOLUvMWhQZD-Wp__ZH5qtMPMKLIB12bjsIXX2aMwrc7pILMV8m69RWZrxw2XQmZr3BjPw8yX76hH2oeACz5P6M"
-    },
-    {
-      "query": "amazon satellite launch setback ula",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "Qn_t3Hica1xTlFpYmlpcEp-SWJI4e_J5BgYGRtUi7qZFqXmLQoOhfBnz88h8FdaUbch8NYGji1HUrzh9EoW_ZqMdin7DN67IfPl_2yqR-cqXa4yQ-Qq35vCimAdyX0EOkA8AW0VF9A"
+      "news_token": "AJ71AHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRjWxC1GLUvMWhQZD-Wp__ZH5qtMPMKLIiy8zRuEHXZuOwrc7pILMV8m69RWZrxw2XQmZr3BjPw8yX76hH2o-ABWEP5E"
     },
     {
       "query": "dario amodei",
@@ -79,7 +99,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "6A6QdXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRlWxG0cXpeYtCg2G8FVuFl9C5qvKOa5B4V_UqELmK5bpBSPz5Rv6jZH5aq7L96Go1z8mjMxXuMX_C8IHAJdNOlI"
+      "news_token": "Rx1-7Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRlWxG0cXpeYtCg2G8FVuFl9C5qvKOa5B5ss39Bsj8xXL9IJR-PrHhJH5Crf4f0H4APwWLqQ"
     },
     {
       "query": "bank algorithm debt free rejections",
@@ -106,25 +126,25 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "jHfaMHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrWkOI1FqXmLQoOhfPWFZsh81bS3AijyKSv4UeQ_9x5C4X_hWImiPtRXHEV-w4NQFPnkx9uQ-Srti_ogfADm1EAw"
+      "news_token": "71CxOXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtUvOrmLUvMWhQZD-RsehKLw3xgfR-arpU_5hcLXX7schc9sNRdF_-feQyjyob7iyHzlG0_ykPkq7Yv6IHwACAdCFw"
     },
     {
-      "query": "btc",
+      "query": "guyana",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "7BoltHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRjWvqY2LUvMWhQZD-Mo3nuQh81UTd1mj8LfHX0bmq_G6u6LwY33XoKjv2GWKwud7b4_MV3l_diaKfpeYXAgfAIGxQF4"
+      "news_token": "1javnXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtWrHpsWpeYtCg2G8uNnZCHz1QyYP6DwbRegqFc0tFiAzFdY93sLirz7vhYIHwD_My9-"
     },
     {
-      "query": "btc price",
+      "query": "reliable healthcare dividend stocks jnj mdt",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "bBMQtXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRuUbT_IWpeYtCg2G8NWiJu1G5qvM09FC5qtO48pAUR_ruwZF_f_1p1HUR0YcRuFvj7-Mop_X3RWF7yLRi2KeoVgBiv7LixkhfABTKUrI"
+      "news_token": "mSGM_Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjVeVaVFqXmLQoOhfJ_FPBA-AKbOEKE"
     },
     {
       "query": "scott bessent",
@@ -134,7 +154,28 @@
         "business_and_finance",
         "technology"
       ],
-      "news_token": "9shzh3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRjXtatdFqXmLQoMhfNUgLj5kvprYIg4UvsMyXRS-V9xxZL7CQelwFP7vU0-R-Yqf7Jej8J3unIXwAX7aOXE"
+      "news_token": "e4gAanica1xTlFpYmlpcEp-SWJI4a_J5BgYGRjXtatdFqXmLQoMhfNUgLj5kvprYIg4UvsMyXRS-V9xxFL7q8zvIfIWD0uEo_N-nniLzFT_ZL0fhO905C-EDAEfoP6I"
+    },
+    {
+      "query": "nintendo switch 2 black friday deals",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "games",
+        "technology",
+        "shopping"
+      ],
+      "news_token": "I6gL-nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtXncx8tSs1bFBoM4Ss56hsi81U1nm6H8AEppBhg"
+    },
+    {
+      "query": "spacex spcx stock price target 2027",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "science"
+      ],
+      "news_token": "5rqnF3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpX2RX2LUvMWhQYDANKQDL4"
     },
     {
       "query": "tesla model y awd price increase",
@@ -152,28 +193,25 @@
       "categories": [
         "shopping"
       ],
-      "news_token": "914TfXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRiVHfcNFqXmLQoMhfLV4Kz4Uvv2qBmS-qvi5tSj8awY_IHwAZqUiaA"
+      "news_token": "4vhH9nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjX7VQ2LUvMWhQZD-EqO-obIfFXxc2tR-NcMfkD4AKTVHXg"
     },
     {
-      "query": "spacex spcx stock price target 2027",
+      "query": "dave ramsey 401k ira outlook",
       "search_volume": 500,
       "increase": 50,
       "categories": [
-        "business_and_finance",
-        "science"
+        "business_and_finance"
       ],
-      "news_token": "5rqnF3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpX2RX2LUvMWhQYDANKQDL4"
+      "news_token": "6F9S0Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtXVhw8sSs1bFBoM4aul1kyD8AHWkxL2"
     },
     {
-      "query": "nintendo switch 2 black friday deals",
-      "search_volume": 500,
+      "query": "intel shareholder class action lawsuit",
+      "search_volume": 200,
       "increase": 50,
       "categories": [
-        "games",
-        "technology",
-        "shopping"
+        "business_and_finance"
       ],
-      "news_token": "I6gL-nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtXncx8tSs1bFBoM4Ss56hsi81U1nm6H8AEppBhg"
+      "news_token": "71trWXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjU5w7pFqXmLQoMByvsL1g"
     },
     {
       "query": "tesla, inc.",
@@ -182,7 +220,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "hrndlnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtUbvhWLUvMWhQYDANIxDKU"
+      "news_token": "DoeCUXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtUbvhWLUvMWhQZD-GoxFjUQPgDGSRH-"
     },
     {
       "query": "mark zuckerberg",
