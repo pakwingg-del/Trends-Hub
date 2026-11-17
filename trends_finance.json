@@ -10,21 +10,12 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 39,
+      "keywords_count": 47,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-17 06:31:01"
+      "last_updated_hkt": "2026-11-17 21:31:03"
     }
   },
   "trending_seeds": [
-    {
-      "query": "bank outage",
-      "search_volume": 1000000,
-      "increase": 1000,
-      "categories": [
-        "other"
-      ],
-      "news_token": "SEw3NXica1xTlFpYmlpcEp-SWJJ4h0Fz8nkGBgZGtaoJBxal5i0KDYby2eZ1ovDLSzeh8JvPZqDwQ5ZJoPAb9gkj81U_SLijyDv-z0Lmq0ixv0WR57qdisJvvL4Hxbz_njHIfKVXx6tQzDvfhGK_Wn2MMop6HhkU-1S519gi8xWNTm5E0V-x7D6K-uPfzqPId7HzovKf3UJRv9hZAEU-8MNrFPdOLEQ1rzliEWr4nl6AYt6--G4U_tOgfhT1LdIzUfjdzG9Q-NJbglDsdz68H4XfNuEzivrWjiMo9v0rN0T1b6Ylqn2aqParb1JC4ZuEx6Pw-VnnQ_gAJjLz0A"
-    },
     {
       "query": "united airlines outage",
       "search_volume": 200000,
@@ -32,17 +23,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "1kuoinica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrXG63sWpeYtCg2G8FX-raxH5qtVTTgA5Z97__1tLYpcTXsOMl_1aVA_hA8Ah6Ms1A"
-    },
-    {
-      "query": "nasa curiosity gediz vallis discovery",
-      "search_volume": 50000,
-      "increase": 1000,
-      "categories": [
-        "science",
-        "business_and_finance"
-      ],
-      "news_token": "8afXjHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRrVyW_5FqXmLQoMhfNVdqYXIfLWG-mco8tbn4lDk6wtakflKGd6uyHyF-al6qOoVFFD4NjqSKHyjeGcUfsnDdxA-AMPZQ2s"
+      "news_token": "tjuhBnica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGtcbrexal5i0KDYbypy7nQuar_FtZjyLvvXA5Ct_xfxYKv2rCARS-yfseFL7Hiwoo_9z7729rUeSmnzqJzFd-dQnFbQq7dP-iqC8v3YTMV30R-hpFPv7sbBT-bNNEFL5gXR2EDwCO228w"
     },
     {
       "query": "jack nicklaus",
@@ -54,13 +35,87 @@
       "news_token": "HeaUJXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrVYh_RFqXmLQoOhfMUEPQgfALSsEQU"
     },
     {
+      "query": "navy federal",
+      "search_volume": 20000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "_aykzXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrWqCQcWpeYtCg2G8JXMJ7og89Xm_AlE4Rc3OqPwy59WoPDnfe6G8AFNeSpY"
+    },
+    {
+      "query": "gavin baker",
+      "search_volume": 2000,
+      "increase": 500,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "PvBJZXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrXOzn-LUvMWhQZD-S0Rrch81cbNJyF8ADBKGQg"
+    },
+    {
+      "query": "sls stock",
+      "search_volume": 10000,
+      "increase": 300,
+      "categories": [
+        "other"
+      ],
+      "news_token": "3k0mh3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlUBpf5FqXmLQoMhfLWFj9Yh81VXJx5CkZ-6fDWq-hQ5FH5x_XYU_pzrhSj8nG2nIXwAR9E2Sg"
+    },
+    {
       "query": "madison huang",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "AcpYH3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtW1GzQXpeYtCg2G8NUac_aj8NUXmiHzVRs3n0SRz2iZBOEDANa6I9Y"
+    },
+    {
+      "query": "market",
       "search_volume": 2000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "lxzDjHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtW1GzQXpeYtCg2G8NUac_Yj81UbN5-E8AEiVBjI"
+      "news_token": "GQyKM3ica1xTlFpYmlpcEp-SWJJ4h0Fh8nkGBgZG1f37HRel5i0KDYby1XqSkflqU86vReFXTTiAov6180sUeT4ObxT5R6urUOTnGF5Gkddrl0HhL-RKR-EbL-5A4d_fwYxiXmvlPhS-ZLoJCp-7-RkKX1XgNwrflDsFhS8wqQaFv3DJTBT7m4UWocgzKVxAVa_xBJmvoj8FxT1KexSeo8hPK56LYr6gGWp4NSYaofB77qKEj-L-JXtQ5Dud81DMOxuoi2JfRAI0fgFtILwI"
+    },
+    {
+      "query": "brasil",
+      "search_volume": 1000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "fdiLKXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrXJtzwXFZQsCg2G8r05ZZD5qg8f7EORX7gyE0V-tQMTCt9iagSEDwBFQClD"
+    },
+    {
+      "query": "nvidia earnings call",
+      "search_volume": 20000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "9CxgIHica1xTlFpYmlpcEp-SWJI4d_J5BgYGRjX1hWaLUvMWhQZD-QuDgpH5qvv3O6LIT5_1EYUvXR-BzFe-8SQPRT5hgzYKv81BCcV8QbMqFPkFR7eg8PXXlqPwWyv3oehv3HwSwgcA1SNRuQ"
+    },
+    {
+      "query": "nasa curiosity rover",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "science",
+        "business_and_finance"
+      ],
+      "news_token": "PaOl3Xica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtVdqYWLUvMWhQZD-Grltvwo_Ib6Zyj8mUwzkPmq1ufikPlKGd6uED4AEMcoOg"
+    },
+    {
+      "query": "criminal investigation",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "B-euE3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtXlofaLUvMWhQZD-Gpt59SQ-aq7XPaiyC9ckojCn5e-G1U-eAMKX13UA4VfF8kK4QMAF8Az4A"
     },
     {
       "query": "franchising",
@@ -69,45 +124,26 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ajr7qXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtVD-XmLMksWhQZD-WcdtqLwRR_eReardfBvQuHXTsqG8AH5cyRT"
+      "news_token": "VjHMxnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrWplasWZZYsCg2G8qe5_kPmqx7Kz0OVTzmJwu_g34Si_qzDVhT50n8cED4AWpQwfA"
     },
     {
-      "query": "spacex stocks",
+      "query": "juez federal de los estados unidos",
       "search_volume": 5000,
       "increase": 200,
       "categories": [
-        "business_and_finance",
-        "science"
+        "law_and_government"
       ],
-      "news_token": "A89mCnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRlUZ8_OLUvMWhQZD-Y2bTyLz1SqW3Ufh17Z4o_CZJqxH4Yc3TkTmq7Qv6kMxn_fSdhT1xd_iUPi-0vEo6sVuHEXh36tURjHf4V0oivwN3woIHwCtzVfu"
+      "news_token": "529ynHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrVGG85FqcWLQoOhfOeIFRA-ALQeEWU"
     },
     {
-      "query": "peso mexicano",
-      "search_volume": 2000,
-      "increase": 200,
+      "query": "nasa",
+      "search_volume": 5000,
+      "increase": 100,
       "categories": [
+        "science",
         "business_and_finance"
       ],
-      "news_token": "Oq4mUnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXzBuaLUosXhQYDAM9FDEM"
-    },
-    {
-      "query": "spacex stock price",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "business_and_finance",
-        "science"
-      ],
-      "news_token": "JHVwvHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRpX2RX2LUvMWhQZD-GrF3-KQ-apiN46iyjfYosjLmJ9H5qsYvnFFkW_cfBKFf8O3AsIHAEZBNX8"
-    },
-    {
-      "query": "jubilación",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "7jxFeXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRjVRsdWLUosXhQZD-RzLHFD45TsdUfjJZjnIfNUDGxtR5CsSRFD4RQ8SUfhN8sqo6s3VUfhRVicgfAB7ej2M"
+      "news_token": "mu-zsnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRtWdL7kXpeYtCg2G8nelFiLz1Rrqn6Hwy235UfiSrxtQ9Pd_qkPhv8y1RVHPp8WCwu98bomiPl_bBUW-ZnskCn-eyAxkvkrVuikQPgD32VC-"
     },
     {
       "query": "the motley fool",
@@ -116,106 +152,108 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Rr6ISnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtXHdU2LUvMWhQZD-GrqC81Q-MX3LZD5qvPvLkXhi904isJPeyuAwo-ujkDht9UnovC_9Eai8A-bsED4ALDmQJ0"
+      "news_token": "kcCrA3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRlVBs6pFqXmLQoOh_C86uch8tWmtmSjy-_c7ovCPrfdFUW947SYKv9N5LQpf5-U_FP1h3V9Q5CXTTSB8AHSHQN0"
     },
     {
-      "query": "diesel fuel",
+      "query": "home depot stock",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "jQ-7tHica1xTlFpYmlpcEp-SWJI4d_J5BgYGRrWaaecXpeYtCg2G8pner0Tmq-oVCqPy22VQ-A_kOFD4_xjqUPjrxF1QzG_J7kPh1-5gRlHPcTUXhV9dqoXMV0qa9ReZrzi5Jg7CBwAOd09t"
+      "news_token": "1JGRI3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRpW3vx4tSs1bFBoM4atNCmRH5qvumbQdRb5ClB-Zrxjf_RJFXnq_AYQPAIC0KZ8"
     },
     {
-      "query": "deuda",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "xibIlnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtWf7GyLUosXhQZD-GqOO5MgfAC7ixG9"
-    },
-    {
-      "query": "ron baron spacex valuation 2040",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "cyVC1Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrXiBttFqXmLQoMBzqkMOQ"
-    },
-    {
-      "query": "greg abel berkshire hathaway stock sales",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "WJv3IHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRlUDszOLUvMWhQZD-GrFSvko_Ipl9yF8AASBF80"
-    },
-    {
-      "query": "brad gerstner",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "knxxe3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRlWxG0cXpeYtCg2G8NVq4x8h81UfcVii8Bs3n0RRXxYdi8xX1Hn0BpmvXMHHiSK_45guinlPJ0PNBwDAezrk"
-    },
-    {
-      "query": "black rifle coffee",
+      "query": "2027 roth ira income thresholds",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "pgkVYHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjXufNNFqXmLQoMBykELuA"
+      "news_token": "c8KjBXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjVu0WWLUvMWhQZD-TOEciF8ALHDES8"
     },
     {
-      "query": "gma deals and steals",
+      "query": "bregje de best",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
-        "other"
+        "business_and_finance"
       ],
-      "news_token": "Cr-cTnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjUWt1-LUvMWhQYDAM4dDE0"
+      "news_token": "K8AMS3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrVpabKLUvMWhQYj8fNygHwAuyIRiw"
     },
     {
-      "query": "cloud",
+      "query": "djia futures",
+      "search_volume": 100,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "SkRrdHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrU5-dsWpeYtCg2G8BWrdvUj81X373eE8AErvRjY"
+    },
+    {
+      "query": "disney stock",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "entertainment"
+      ],
+      "news_token": "YVdc9Hica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtWup-GLUvMWhQZD-GpzbjSh8OdL8KLwK2L2QvgA2dId9A"
+    },
+    {
+      "query": "elizabeth banks",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "EJ4Qw3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjWNPy8XpeYtCg2G8FUTzJWQ-Wqt7z6hyDtPPwnhAwDdcB6w"
+    },
+    {
+      "query": "gas prices",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "hobbies_and_leisure"
+      ],
+      "news_token": "AY1xHnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtVTj70XpeYtCg2G8FXC3e8j81WvSm9G4f-MT0bmq0WaH0Lhz3FrRlH_KVMFhX_8yTYU-34kuSLzlefyf4DwAfmcQjM"
+    },
+    {
+      "query": "deutsche bank",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "0lTVZnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrWuZ7cWpeYtCg2G8FV3rwpE5qvNuHIXwgcARDUZ4w"
+    },
+    {
+      "query": "vinod khosla",
       "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Wq3nyXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRpXZwe6LUvMWhQZD-KqOdwyQ-Wost4JQ-K1M4ij8fLc7KPwidTkUftPz5Sh8ce6NKPzGM8wo_IZrnCj8kGUSKPz6AmEIHwDjhUhn"
-    },
-    {
-      "query": "josh d'amaro",
-      "search_volume": 200,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "kQB7AHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrXWTdyLCkoWhQZD-Aotk-dC-ADEjhJk"
-    },
-    {
-      "query": "nvidia earnings",
-      "search_volume": 10000,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "mcHZInica1xTlFpYmlpcEp-SWJJ4h0Ft8nkGBgZG1f37HRel5i0KDYbyBc2qkPmK-5fsQeardTrnoag_G6iLIt-YaITCb337C4WfmiWOwldfaIZi3u5VgSjyZWVHUORLDc6hyLOGoppfNeEAivq2sBUofO-TIij8x6cWoPBXMZeimGduhmq_8eIOFL4Xcx8yXyUiIRnV_5X7UNTbruBHke8qX48iP_3sZBS-2I2jKOq7WZxQ5G9pMKLYP614Lop6jt-KKOrDa1HDuzJhE4r-92dnouiXM6xD4eu-FkLhtxzZj8Jvew31PwDg6uBJ"
+      "news_token": "5yjrknica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtUFBv2LUvMWhQZD-Y5tVRA-AMGPEfA"
     },
     {
-      "query": "warren buffett",
-      "search_volume": 1000,
+      "query": "pentagon",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "2AlU7Hica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRrUmF9ZFqXmLQoOh_PmLo5H5qkdKilHkG_YJo_AXrH2Bwl8ogsqf85oFhZ-sdwHVPId1KPyYnZko9p_0SULhvwpYCuEDADYFTI0"
+    },
+    {
+      "query": "jetblue ceo joanna geraghty turnaround plan",
+      "search_volume": 500,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Yjfd-3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRrUS7aJFqXmLQoOh_CLV1Sj8lsNrUPgVy-4j81UNzM4g8xX8Tosj85VYb-qh8NV_qyHzJX09JyLzVQL-T0Dhd0xtQOYrWmXyQ_gAyHJKVQ"
+      "news_token": "CMIjjnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjUhi0WLUvMWhQYDAMvDC_U"
     },
     {
       "query": "cheney power outage",
@@ -236,76 +274,125 @@
       "news_token": "QEmJTXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrWahxcWpeYtCg2G8FUc3l6B8AHaLxN-"
     },
     {
-      "query": "ionq stock",
-      "search_volume": 200,
+      "query": "scott galloway",
+      "search_volume": 500,
       "increase": 75,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "7kXNrXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRjXvL-cWpeYtCg2G8o2ex6Dw3ZPdkfmqsWnyKPKqz12Q-Qp-JpbIfMVjjAkQPgDPSy06"
+      "news_token": "R5LI6Hica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrWK4u5FqXmLQoMhfJW_SzSR-aqNm08i8xU9VRkgfADVdB2H"
     },
     {
-      "query": "nvidia earnings date",
+      "query": "cra",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "business_and_finance",
+        "law_and_government"
+      ],
+      "news_token": "qMgbd3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrUam-OLUvMWhQZD-bG3bkL4AMqMEuE"
+    },
+    {
+      "query": "bank robbery",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "Jp50OXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrVZD9MXpeYtCg2G8oWnb0fmK19O1ESRnyskhMKvKu9A4RvPmwHhAwAvAii2"
+    },
+    {
+      "query": "nike stock",
       "search_volume": 2000,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "bCd4h3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRjX1hWaLUvMWhQZD-Kr79zsi89Uab_aj8MvKjqDwEzZoo_CVk9IhfAA1aSjy"
+      "news_token": "S1MFgHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpWZT4wWpeYtCg2G8FXPFUUg8xWPMSagyJ_ckwzhAwDSOR4x"
     },
     {
-      "query": "grid shutdown",
+      "query": "take two stock",
       "search_volume": 2000,
       "increase": 50,
       "categories": [
-        "other"
+        "business_and_finance"
       ],
-      "news_token": "Y2vjPHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrXG3OBFqXmLQoOh_IZ9whA-AMAmEeQ"
+      "news_token": "q8j8uXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRlWT6XyLUvMWhQZD-Go2qaYofI6eeGS-Krs0M4QPAHE4Gqk"
     },
     {
-      "query": "government shutdown",
+      "query": "gta 6 price",
       "search_volume": 2000,
       "increase": 50,
       "categories": [
-        "politics"
+        "games",
+        "technology"
       ],
-      "news_token": "4uEi4Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRjWDrTKLUvMWhQZD-CoTIvOR-apcK0WR-WqNaw-iqP-3sh5F_auApRA-AAGhKYU"
+      "news_token": "6Hfcz3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrX669sXpeYtCg2G8lU-qCPzVdmlmZH5CgdLGyB8AL22HQA"
     },
     {
-      "query": "mstr stock",
+      "query": "when is anthropic ipo",
       "search_volume": 1000,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "OOW2NHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtXLixkXpeYtCg2G8NU4yhRR-IWuD1D4mr9MUfhVpb8gfACjXSMZ"
+      "news_token": "z17SUXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRlWxG0cXpeYtCg2G8NXkZoog81X_SrWi8N-JzEXhMxqZoPD373dEMa9L9QkyX7mCjxNFfqr4ART9TydbIvMVdxzTReHrPHoD4QMAeSJK3A"
     },
     {
-      "query": "take two stock",
+      "query": "now stock",
       "search_volume": 500,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "a3g9Ynica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRlWT6XyLUvMWhQZD-ezSzMh8NZtUUxR--41QFH6TtgaEDwA_AiCI"
+      "news_token": "s_Pv5Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrVZFt6LUvMWhQZD-KqcN6dC-AC9FBHl"
     },
     {
-      "query": "schd stock",
+      "query": "abigail spanberger",
       "search_volume": 500,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "AjlWvHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjW1fv9FqXmLQoMhfNV9tp7IfAXZpkMQPgD-3Bc9"
+      "news_token": "W8r6H3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtX7plGLUvMWhQZD-Gqm4vNQ-HxaLBA-AP5_Fi4"
     },
     {
-      "query": "walmart stock",
+      "query": "unh stock",
       "search_volume": 500,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "4-KbxHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtX5d5cuSs1bFBoM5a9KYEbmqzkGf0Lhl07vQOFXiPKj8AuNtkL4AEF1KLA"
+      "news_token": "2O2Lknica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrXWqKOLUvMWhQZD-Kq_dhgg89WazEtQ-LPqyiB8ANk0HiQ"
+    },
+    {
+      "query": "mary barra",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "autos_and_vehicles",
+        "business_and_finance"
+      ],
+      "news_token": "HmYSInica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrU5eV8WpeYtCg0GANSLDQc"
+    },
+    {
+      "query": "trader joes winter bag release",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "shopping",
+        "business_and_finance"
+      ],
+      "news_token": "z4OR03ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjVz5QWLUvMWhQZD-cWfN0L4AL5sEmM"
+    },
+    {
+      "query": "charles schwab down",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "MCff-Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVZ9XMWpeYtCg0GANKZDL4"
     },
     {
       "query": "dan schulman",
@@ -317,60 +404,49 @@
       "news_token": "a8MlVXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtWnT7wWpeYtCg2G8JUsG95D-ADVlhMI"
     },
     {
-      "query": "ethereum price",
+      "query": "voice",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "74CUpHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtVpXBmLUvMWhQZD-Mo3nuQh81WfRe9B5qu5SPRC-ADPwR33"
+      "news_token": "17MVenica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGtVpJ20WpeYtCgyF8laBv-5D5atNS56Dwa8Q-ofDLL61F5qtevbIERb5SeAsKvyx6B4r6e_yXUeRNal-i8OvOxaPwp9fNQOFPKGJD4dsd2ovq_tYVKPat6pqJIt_fX4Ii__RSAAr_5RKU8FFji5kO4QMA2OF9HA"
     },
     {
-      "query": "nasdaq composite record highs 2026",
+      "query": "tesla model y awd price increase",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "business_and_finance"
+        "autos_and_vehicles"
       ],
-      "news_token": "W71qDHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtUND0IXpeYtCg2G8vfvd0Tmq0QkJEP4ACyQGFY"
+      "news_token": "YPDir3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjXJNzGLUvMWhQYDAM-4DGo"
     },
     {
-      "query": "ibm stock",
+      "query": "its going down strands",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "business_and_finance"
+        "other"
       ],
-      "news_token": "0iIV23ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjWlR58XpeYtCg2G8FXzjrug8A9sEIXwASuKGI4"
+      "news_token": "B_XFJHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRpUXhxgXpeYtCg0GANMeDLI"
     },
     {
-      "query": "xrp price",
+      "query": "amazon black friday deals",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "business_and_finance"
+        "shopping"
       ],
-      "news_token": "t_WZk3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpX_608vSs1bFBoM4au1LruDzFexZn0I4QMASPkZOA"
+      "news_token": "1zEaDnica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGJUd9w0WpeYtCgyF81ck_PqPwj878icxXW8SZj8Ln-BOPwq8oCkPR_4fXD4X_fokmCl_83FoU_fzz9FHkf8kcReGfPhqBwtee6InMV4l9uhHFvJk3GlDUGy8JQpGff-4CCp_94kkIHwAZBHCG"
     },
     {
-      "query": "nike stock",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "3FXSbXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRpWZT4wWpeYtCg2G8NVCTk9B4TdViCHzFY8xJkD4AM4VHXY"
-    },
-    {
-      "query": "cathay pacific",
+      "query": "ai bubble",
       "search_volume": 100,
       "increase": 50,
       "categories": [
-        "business_and_finance",
-        "shopping",
-        "travel_and_transportation"
+        "business_and_finance"
       ],
-      "news_token": "4th3g3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjV_j_RFqXmLQoMhfNUrt5WQ-Wrhz0QhfAAMLBe7"
+      "news_token": "RL1P8Xica1xTlFpYmlpcEp-SWJI4b_J5BgYGRrXWt_cWpeYtCg2G8qeKH0DhT8pIQ-G3bc5D4eu-Po_MV2U0MkGRz39-GUVe7MZRFPnSV1NQ-D1dEch85RtPUO3zlliDYl7TCWkU9Z2v-SF8AGfTWSQ"
     }
   ]
 }
