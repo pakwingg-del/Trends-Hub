@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 31,
+      "keywords_count": 34,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-19 03:30:58"
+      "last_updated_hkt": "2026-11-19 06:31:09"
     }
   },
   "trending_seeds": [
@@ -56,24 +56,23 @@
       "news_token": "ZdkpNXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRrWWq5cXpeYtCg2G8FWfcSQh89Xa2uRQ-NvbklH4lccPo8p_XINi3kOWmyj8K39Poaif81cAhb-nhAeFv-s2Jwp_7p9iFP7OtXNQ-EukpCF8ADqAWxs"
     },
     {
-      "query": "anheuser-busch",
-      "search_volume": 10000,
-      "increase": 700,
-      "categories": [
-        "business_and_finance",
-        "food_and_drink"
-      ],
-      "news_token": "HvlQoXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUPcX8WpeYtCg2G8NV8Fq9B4e9RkkDhH3pUCuEDAPFVHtc"
-    },
-    {
-      "query": "wind farm",
+      "query": "technology news",
       "search_volume": 5000,
       "increase": 700,
       "categories": [
         "business_and_finance",
-        "politics"
+        "technology"
       ],
-      "news_token": "RCNqynica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG1ZK-m4tS8xaFBkP4arONXVD4x1SmofBLp2Wj8Pd_OorC38F1CpmvOntmLYr8vsVOKHzN3g4U_sl2OxT-zv7ZKPyjx1DMV1tsFovMVzixZAKK_eoHMpD5im4zjkH4AKwMZfA"
+      "news_token": "bViVx3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRjXlpPRFqXmLQoOh_ONWU1H4CyzsUfiO_7NQ-P39Yij8nWu-Q_gAAFApSQ"
+    },
+    {
+      "query": "medicare part b premium 2027",
+      "search_volume": 20000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "85iagXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrWth-4vSs1bFBoM5Xcq5KLwtx7sR-arRkq_Q5FvMi9BkT_6UgdFPn7TUlTz7p9E4Tu1vEbmK0Y-KYDwASYvQt4"
     },
     {
       "query": "retirement",
@@ -82,16 +81,35 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "1t8cpHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRrUZuucXpeYtCg2G8ndw6aDw_TXLUfhHBFhQ-KGrKlD46z2mo_BnLHyLwi_4ZIDCl9iRAeEDAA62OY8"
+      "news_token": "5QA3lnica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGtRm65xel5i0KDYbwVdv1mJD5apMnOKDwuUWXofDLL9mh6J-96TAKf10rJ4r6w-2TUOQzxblQ5N33nkTmq8ybfhBFfllMAwrfX7MchX-e4RgKP3RVBQq_4JMBiv19GbdQ5Nd7TEfhH-q_j6K-gHc2irzEjgwIHwDAG39e"
     },
     {
-      "query": "medicare part b premium 2027",
-      "search_volume": 20000,
+      "query": "wind farm",
+      "search_volume": 10000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "KKrVJXica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGtdnGLotS8xaFBkP4qvcEOJD5aqXTslH4J9vtUNSX9N1EkV9sFovC3__pKAp_B9cpFP65y39R-Dv7Z6Pwjx5DVX9MZRoK_7yRHDJf4cSSCSjuUz-QgcxXdJtxDMIHAEoBZhE"
+    },
+    {
+      "query": "anheuser-busch",
+      "search_volume": 10000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance",
+        "food_and_drink"
+      ],
+      "news_token": "HvlQoXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUPcX8WpeYtCg2G8NV8Fq9B4e9RkkDhH3pUCuEDAPFVHtc"
+    },
+    {
+      "query": "maga elon musk",
+      "search_volume": 500,
       "increase": 500,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "u3pC3nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrWth-4vSs1bFBoMANd5DV8"
+      "news_token": "68glxXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVylguLUvMWhQYDAM7yDFQ"
     },
     {
       "query": "腾讯财报",
@@ -109,7 +127,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "XL4DZnica1xTlFpYmlpcEp-SWJJ4h0F58nkGBgZGteNWUxel5i0KDYbyhc_WofC1q11R-MpJ6Sj8Q3_PoPD32U1B4R_rWYXCF5T1QOYrvgz3R5Hf-0AL1bysbch8ldAFKOqVZrl4IfOVK_g4UeQjOnai2Kfz6A0yX_XpZEsUvtiNoyj8X7JuKPavWJSPIu-utgLFvVsDDFHs23FMF0X9_v2OKOo9Pweg8JcVPEBR_7rfAEV-jzkLCl_tyC0U_mme9Sj6Bc2qUOR1Xv5D4asvNEPhM01A0a92NK4CwgcAzWnQRg"
+      "news_token": "8J9R13ica1xTlFpYmlpcEp-SWJJ4h0F98nkGBgZGteNWUxel5i0KDYbwVffvd0Thi904isxXEz5bh8LXrnZF4R_6ewaFr5yUjsLfZzcFhX-sZxUKX1DWA5mv-DLcH8U9XTdOo6jfc_MACn9rgCGKfp1Hb1Dk46a0IfNVQhegmK80y8ULma9cwceJIh_RsRPFPU8nWyLzFS5LC6H6N2sbivp_5SjuU_0l64aivsFgCYq8u9oKFPm9D7RQ_LfjmC6K_PRZH1H4np8DUPjLCh6g8NWO3ELhn-ZZj2K_oFkVirzOy38ofPWFZih8pgko-tXOd0PDEwCXWOkq"
     },
     {
       "query": "spartanburg water",
@@ -121,51 +139,31 @@
       "news_token": "4HaZj3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVdCxctSs1bFBoMANTzDQY"
     },
     {
-      "query": "panw stock",
-      "search_volume": 10000,
+      "query": "mercado cambiario",
+      "search_volume": 5000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "MNeafnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrWZ7zkXpeYtCg2G8tWO3ELhb_tWgsLPTWlB4e_4uxSFP_20CgpffaEZhA8AY2swZw"
+      "news_token": "1_NPfnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrWlwsWLUosXhQZD-Y02zCh89tDLKPzjnMIQPgCOehv1"
     },
     {
-      "query": "ttwo stock",
-      "search_volume": 20000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "eMod23ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRlWT6XyLUvMWhQZD-GpOB3KQ-aoTdM6g8Ofe9EVRf-CzGQr_oHYrCv9o7A8U_n4tXWS-IofcTxTz2aWZUdRv-1aCwrcN3o5qvst3CB8A0EhRMw"
-    },
-    {
-      "query": "voyager 1",
+      "query": "applied compute",
       "search_volume": 10000,
       "increase": 100,
       "categories": [
-        "science",
         "business_and_finance"
       ],
-      "news_token": "9ZyqNHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtWdL7kXpeYtCg2G8JWXu-Uj81U7rwoi81Wq1k1B5gtoRjpD-ADVkSMJ"
+      "news_token": "CYbJ4nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrWZ7zkXpeYtCg2G8FU7c_qR-WrbvpWg8M-aGaLwd_xdisKffloFwgcAcaMqvg"
     },
     {
-      "query": "ps5 price",
+      "query": "gta6 price",
       "search_volume": 10000,
       "increase": 100,
       "categories": [
-        "games",
-        "technology"
+        "games"
       ],
-      "news_token": "uyB5r3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrX669sXpeYtCg2G8BX_3ktB5qv-4fVD5qupfFBH4e9ccxpF_bWrUP0ApGUrjA"
-    },
-    {
-      "query": "mercado cambiario",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "KPoTrHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrWlwsWLUosXhQZD-Y02zCj845zCKPwZdrwofPbQyxA-AG2oISY"
+      "news_token": "ciy3J3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrXWQ86LUvMWhQZD-fXXt6PwVT6oI_NV2aWZUeRPS1ZD-ADKQiKC"
     },
     {
       "query": "hedge",
@@ -174,16 +172,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "BmKfSHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGtQObbBal5i0KDYbyj-wuReEfuGSBwvecJIHCr7V6jsLfmD8Zhd8X64vC37enFoW_ePV3FH7pthQUPv_ZGBT-pgn9qO6baIXMV8zc_gaZr3Lk32lkvuqpxyj6VV8Ho7hP4eGU6RA-AJSSc9I"
-    },
-    {
-      "query": "dow jones industrial average",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "qqMsaHica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZG1f37HRel5i0KDYbw1Y5bTUXhH7v6CZmv-kFcBYX_2vklivpFuz6j8A8Ye6Dw2dvZUNX_P4li3ufeQyjyB619UeQ3HylE4Rsv7kBRvzzqFAqf_8NSFP7M95wo-sVuHEXhm0znQ-arzHxiBOEDAJCTeCU"
+      "news_token": "mg2eE3ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGtQObbBal5i0KDYbyj-wuReFvzJ-Mwj-7QwKFX2v1HIXfF-uLws8v4kXmqzYm8qDIL36Oyi_dloLC5z8bg8LfNKEfhX9gohUK33MSivsUM7e_QearHPl3GsU9px6jmKf6OhjF_QoPp0yH8AFdMXcj"
     },
     {
       "query": "unh stock",
@@ -195,13 +184,13 @@
       "news_token": "VnmBqXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrUm85JFqXmLQoMBzmkMNg"
     },
     {
-      "query": "gta6 price",
+      "query": "dow jones industrial average",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
-        "games"
+        "business_and_finance"
       ],
-      "news_token": "SuL4aXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrXWQ86LUvMWhQZD-fXXt6PwT0tWI_NV2aWZUeRVPqhD-ADOwiKC"
+      "news_token": "dA_Gxnica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZG1f37HRel5i0KDYbw1Y5bTUXhn63gROGrLzRD5su_ZqhG5qt-EFdB4b92fomif9Guzyj8A8YeKHz2djZU9f9Popj3ufcQivxBa18U-c1HClH4xos7UNQvjzqFwuf_sBSFP_M9in9VxW4cReGbTOdD5qvMfGIE4QMA9huB1Q"
     },
     {
       "query": "nice",
@@ -219,7 +208,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Rh0k4Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtXNvzMWpeYtCg0GANXkDR4"
+      "news_token": "GsxVQnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtXNvzMWpeYtCg2G8NX29iWh8Ld9K0HhH1wYCOEDAAJnH3k"
     },
     {
       "query": "greg brockman",
@@ -229,6 +218,16 @@
         "business_and_finance"
       ],
       "news_token": "yv_RSHica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGtf2caxel5i0KDYbyD1UZofD5Km1Q-Hs685H5im0vL6PIH7eaisxXPbS2GEW-WEkOhV-9YiUKf7f_CVT-YzYU_txybxT-IteTKPxj_4VR-Fu_mqPwqw6hqt-55juEDwBiQmwR"
+    },
+    {
+      "query": "home care",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance",
+        "health"
+      ],
+      "news_token": "2VUWjXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRrWDWj8WpeYtCg2G8FW_TvmIzFcL-bkERT7sYjAK_92OlSjqp7nORuEffXMGRf3JPQ4o_Beyqqjqt-5E4U9ijYLwAWmgSfs"
     },
     {
       "query": "car accident attorney",
@@ -251,24 +250,23 @@
     },
     {
       "query": "ps5 black friday deals",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 75,
       "categories": [
-        "games",
+        "shopping",
         "technology",
-        "shopping"
+        "games"
       ],
-      "news_token": "U9J2tXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtXncx8tSs1bFBoM5f_h9UPmq6l8UIfwATfuGJE"
+      "news_token": "Eeall3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtU_vH6LUvMWhQZD-CqvLu9E5qs-n_sIma-m8kEdhV9_fTuEDwAgqSWk"
     },
     {
-      "query": "ilhan omar federal search affidavit",
-      "search_volume": 2000,
+      "query": "microsoft satya nadella employee buyouts",
+      "search_volume": 500,
       "increase": 75,
       "categories": [
-        "law_and_government",
-        "politics"
+        "business_and_finance"
       ],
-      "news_token": "fn6ej3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVdLnsXpeYtCg0GANK-DMM"
+      "news_token": "xtnennica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrX1fW8WpeYtCg0GANX-DTI"
     },
     {
       "query": "gas prices",
@@ -289,22 +287,50 @@
       "news_token": "pSf-tXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRlUXM4dFqXmLQoMhfLVYE3MU_lJvWxS-yH0uFP6hS49R-AW-4Sj8fc1SyHzVk4qrIXwAXn4zLQ"
     },
     {
+      "query": "anheuser busch",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "food_and_drink",
+        "business_and_finance"
+      ],
+      "news_token": "Ksqgn3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrU9ShKLUvMWhQZD-YcelSLzVT_E_UGR91m8BsIHANa1Htc"
+    },
+    {
       "query": "crwd stock",
       "search_volume": 500,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "dKSPjHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtWfxacXpeYtCg2G8NXUjtxC4e8xZ4HwAThKGIw"
+      "news_token": "zJHWrXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtWfxacXpeYtCg2G8NVmvudE4Z8TTofwATb9GKo"
     },
     {
-      "query": "mexico hoy",
+      "query": "george soros",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Od8w9nica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrVlCR8WpRYvCg2G8vf_fI3C36UVgcJXdJ-Ewk_zegXhAwAhsySv"
+      "news_token": "OsMpbHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRjX-szGLUvMWhQZD-YYlkSh8-QsmKPw9cSeQ-UrmqZOR-YoeFu4QPgDr9See"
+    },
+    {
+      "query": "emirates",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "5JKVEXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtW9-zcvSs1bFBoM4atVXK9E4Uev347MV73Tug9FPjvwMQp_4ubDKOofcVii8PdtLoLwAewZN4c"
+    },
+    {
+      "query": "cathay pacific",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "j1LB3Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrUdXA8WpeYtCg2G8td7hqPwz0z0QuarHsyLRJGvXb4Qhc8yswKFvzF4B4QPAA8OL3Q"
     }
   ]
 }
