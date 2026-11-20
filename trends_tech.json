@@ -10,235 +10,228 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 24,
+      "keywords_count": 23,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-19 21:31:08"
+      "last_updated_hkt": "2026-11-20 21:31:09"
     }
   },
   "trending_seeds": [
     {
-      "query": "resin",
-      "search_volume": 20000,
-      "increase": 1000,
-      "categories": [
-        "business_and_finance",
-        "entertainment",
-        "technology"
-      ],
-      "news_token": "DVg43Xica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrUn4tcXpeYtCg2G8lcu5ULhH_wXicJ_HDUBhb9J_DEK__pJDwgfAISkKxk"
-    },
-    {
-      "query": "jessica chastain",
-      "search_volume": 5000,
-      "increase": 700,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "yLDRl3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRpX3ZxctSs1bFBoM4aslzRJH5isx2umgyO_N-IjCf7B8Lgr_kJIbCj_hjhkKv12qEIWv7VCAat4yVPOO9ZQi81WTcuUgfABI7Eub"
-    },
-    {
-      "query": "playstation servers",
-      "search_volume": 10000,
+      "query": "toyota us vehicle recall airbags",
+      "search_volume": 50000,
       "increase": 400,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "Bp0bJ3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRjXb4O2LUvMWhQZD-SvzvqLw92srovAvX1uMwr9rGoPKl12Jwt8aiKr-hJMMMl_VdUk1Cp9dmhmF_9zhB4QPAOJtRhI"
-    },
-    {
-      "query": "tesla yl",
-      "search_volume": 1000,
-      "increase": 300,
       "categories": [
         "autos_and_vehicles"
       ],
-      "news_token": "hwkZyHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrXTxeKLUvMWhQZD-Ko310hA-ADFNhJD"
+      "news_token": "3wl8_Hica1xTlFpYmlpcEp-SWJI4e_J5BgYGRtVvk2IXpeYtCg2G8NWE7wYj81W-mQYg85U0dX1R1Nc1RCDzVbcpXkORX7mUC5mvzqOggyJf-2EyCv9B00MUflD7bAgfAD8NRYw"
     },
     {
-      "query": "ao3 down again",
-      "search_volume": 5000,
-      "increase": 200,
+      "query": "mamdani",
+      "search_volume": 20000,
+      "increase": 400,
       "categories": [
         "other"
       ],
-      "news_token": "5KIETnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRtU7B64sSs1bFBoM5beZl0P4ANr-EvQ"
+      "news_token": "V5AvrHica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGddZAzkWpeYtCgyF8tb19s1H4XRFdyHyV3JozKPKcSkoo_H2RNch8dUYlV2S-6rVABxQ-76o3KOYn_3qOzFcyrLJEMX_brj5kvmJY6moU_ucnU1D4--5ao5h_9UcEhA8A4jJjLQ"
     },
     {
-      "query": "nail",
+      "query": "ukraine",
+      "search_volume": 10000,
+      "increase": 300,
+      "categories": [
+        "politics",
+        "law_and_government"
+      ],
+      "news_token": "GaQrrXica1xTlFpYmlpcEp-SWJJ4h0Fx8nkGBgZGtUsG1xel5i0KDYbwVb9ILEbmq73Y2oDCv1b4CYWv6GqFov-mRAuK_F3fayj8C3WfUfj_r-mh8H-eVkXmqzMq70Exv7VWEUX9cZ5iFP7LTctR-LeWGqHwk7JmoZjPmiGGIr9j23QU_r_AQ6juMXNAcc-681Ko_q2xRuH_XnAFRb034z1UeYlGVP2m_ch8lQarTBT5T67-KPwPy-aj8CNWt6LwPT-lI_PFr3m7obhnxpIeCB8AUQ7JYw"
+    },
+    {
+      "query": "playstation ps5 grand theft auto vi",
+      "search_volume": 20000,
+      "increase": 200,
+      "categories": [
+        "games"
+      ],
+      "news_token": "W5i1dHica1xTlFpYmlpcEp-SWJJ4h8Fm8nkGBgZGVXZp5kWpeYtCgyF8tXfpmij8Gx1hKPw5YUtR-E-9zqHw92srovCvzpmFwn_wWRqF__ORJzJf5aOuDKr-wlso_MvXFqPw64-i2K_63OEHivzKvK_IfHWeZY9R1PNMzkZRv-X-HxT-8fYOFP3Mm0-i6K-7ooYiz_FmAQqfzQbVvG2N61DtyzZH4T8TfYTCb1PmRbFPxkMBma8ksg8lvhS3yaCEp2qCuRKq__kDUfkKEih87q17Ud2XhRrefXeXofAXp71A1e9yD0XeIkgUxb1a5ZkofJ-miyjqbynHoPAfd65A8c_f0w7IfIV3iowo_k_NQbX_KZcgiv58u4eo_u8MRVHvqX4DRZ6dHSU9qvxK10fmi265Pgk1fXT4opi3yUIFhf8v6CUKv2TRHRT9XDcDUOT_M3uj8KtWboPwATTRX4o"
+    },
+    {
+      "query": "microsoft xbox series s",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "Hz49Bnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrWVeV8XpeYtCg2G8FXZpZmR-WqXry1GkX_u8ANFflfmDRT-obdbIHwAYzorbg"
+    },
+    {
+      "query": "apple store black friday deals",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "hobbies_and_leisure",
-        "beauty_and_fashion"
+        "technology",
+        "shopping"
       ],
-      "news_token": "re4U73ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRjU-jrRFqXmLQoOh_MOWnCj8nX9MUfg31G-j8O9WL0DhX3_Oh8J_uLgPhe_c74fCf6RkDOEDAGnJOsM"
+      "news_token": "sVMfcXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrUN6TGLUvMWhQZD-Kr_vkxC5qvlGl-F8AEv0BkG"
     },
     {
-      "query": "cait conley",
-      "search_volume": 1000,
-      "increase": 200,
-      "categories": [
-        "politics"
-      ],
-      "news_token": "p7B7x3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRpVMm-JFqXmLQoMhfIXXLK-R-Up-M5whfAAN8xeq"
-    },
-    {
-      "query": "raise the colours",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "NmCQH3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtUS-6-LUvMWhQZD-GocgT4ofIntLSh81ZBaCB8ApQcceQ"
-    },
-    {
-      "query": "anthropic ipo nvidia competition",
+      "query": "save plan legal challenge updates",
       "search_volume": 10000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "p_O8xnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRtX9-x0XpeYtCg2G8NWOW01F4ceHHELmq4rdOIoiz6uqhMI_W8EJ4QMAQMgokw"
+      "news_token": "Hrj0W3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrX0b7GLUvMWhQZD-Zv5_CB8AMlCEhs"
     },
     {
-      "query": "palmer luckey",
+      "query": "trump-putin ukraine",
       "search_volume": 5000,
       "increase": 100,
+      "categories": [
+        "politics",
+        "law_and_government"
+      ],
+      "news_token": "mzfRXXica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZG1ZsSLYtS8xaFBkP5XyQWI_PVXmxtQOFfMriOwr9W-AmFf9f3Ggr_1lIjFH5S1iwU_oW6zyj8l5uWo_A_LJuPzFfn0A5B5ccfR-GztHug6GeuakOR5y6IQpFfksmAIs_UdA-Zrxi70wGZr-T9XwdFPc87X5TwO75-G4QPAP5ch3w"
+    },
+    {
+      "query": "hailey bieber rhode birthday collection",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "beauty_and_fashion",
+        "entertainment"
+      ],
+      "news_token": "Jb2QKHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrUamy2LUvMWhQYDANAbDHU"
+    },
+    {
+      "query": "haiti news",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "KfM4GXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtX3GycuSs1bFBoM4atzZQci81XfL7ZA5qsV8xig8E9Vs6Oo1y2LRZF__uEdCv9cWgMK_95sbggfAI8LOwg"
+    },
+    {
+      "query": "faith hill cma 2026",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "DzN18nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrUTj-MXpeYtCg0GANWsDRM"
+    },
+    {
+      "query": "playstation plus",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "kfPXN3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRlXXJdWLUvMWhQZD-X94_VD434z0kPlqWwMXQ_gAum4dmw"
+    },
+    {
+      "query": "apple iphone 20",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "SF9s9Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrWikkOLUvMWhQZD-RViE5H5quG1iRA-ABPlF5Y"
+    },
+    {
+      "query": "the traitors",
+      "search_volume": 20000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "JI2ByXica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG1SLuzEWpeYtCgyF8tXnCcSj813xfUPj_P09D4X8QRuW_XxyJwr9U9R2FL-r9D4X_7lgEMl-d-_FfZL5SxnkPFP53riko-ifKl6PIL-h4hCLfuOc3Cv_2pQfIfMWaq1A-AL2fbpU"
+    },
+    {
+      "query": "nocturne apple tv",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "RwzSxXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtV_n68tSs1bFBoM4Su9mtePzFdYvEMJwgcAWvAZ6w"
+    },
+    {
+      "query": "apple stock price",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "zlSv53ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjXBurpFqXmLQoMhfMV_n2eg8LfKP4LwASE6GN0"
+    },
+    {
+      "query": "jensen huang leaves nvidia",
+      "search_volume": 500,
+      "increase": 75,
       "categories": [
         "business_and_finance",
         "technology"
       ],
-      "news_token": "lW2EJHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrXdp9gWpeYtCg2G8FWfNf9A5qutNtuMwq82OITMV147TwKZr9h97BcK31f6G4QPAGF6MKo"
+      "news_token": "rSEnV3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrXdp9gWpeYtCg2G8g9UlSDzVRs3n0SRf3SaGcIHAOEYHsk"
     },
     {
-      "query": "can you game share gta 6",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "dOMV83ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrVDb7csSs1bFBoM5V--thiFvzLvKzJflV2aGcIHAByVHsM"
-    },
-    {
-      "query": "fix railing gta 6",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "games"
-      ],
-      "news_token": "FRVIL3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrUt2WqLUvMWhQYDAM-pDE4"
-    },
-    {
-      "query": "arnold schwarzenegger strength training advice",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "E1FHa3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjV-1qJFqXmLQoMByMALjw"
-    },
-    {
-      "query": "amd",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "efGAmHica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZGNT4O70WpeYtCg6H8hZpCKPzZi1tR-Ef4z6PwbzloIvNVv_RGovAbPDhR1B-3mooi_7iuCUX-Yr8qCn8BjyMKX6FwGor-ryxLUeSVr55F4bOqr0fhz7mRg8K_sH8TCn_3YzYUvvpCM2S-ovd_FPsU2WazI_OVhBumQ_gACcqDpA"
-    },
-    {
-      "query": "kimberly williams-paisley",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "tQc_Hnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrU5BayLUvMWhQZD-CrPXv9C5qs-4rCE8AElSBiX"
-    },
-    {
-      "query": "microsoft satya nadella employee buyouts",
-      "search_volume": 1000,
+      "query": "valve steam machine 512gb + controller",
+      "search_volume": 500,
       "increase": 75,
       "categories": [
-        "business_and_finance"
+        "other"
       ],
-      "news_token": "xtnennica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrX1fW8WpeYtCg0GANX-DTI"
+      "news_token": "jaxlNHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVKzb2LUvMWhQYDAM-nDGg"
     },
     {
-      "query": "lainey wilson songs",
-      "search_volume": 1000,
+      "query": "app",
+      "search_volume": 100,
       "increase": 75,
       "categories": [
-        "entertainment"
+        "other"
       ],
-      "news_token": "ZXNUInica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrWTpY8XpeYtCg2G8v0OGUH4ANQVErU"
+      "news_token": "Hz3TWXica1xTlFpYmlpcEp-SWJI4f_J5BgYGRjWNytZFqXmLQoOh_DWFz1H4L_XkUfgVYhNR-Fsyt6LwhX5_Q-E33UpE5queWa-MIv9o0yYUeb9QbRT5jwf9UPgnP0xD1T9nKgr_J4cCCv-7ViyEDwD4RV_J"
     },
     {
-      "query": "ps 5",
-      "search_volume": 10000,
-      "increase": 50,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "zmetrnica1xTlFpYmlpcEp-SWJJ4h0F98nkGBgZGtZV5Xxel5i0KDYbyD73dgsxXZZdmRpG_K7sSRX7aRE0U_oNobhT1tsHbUeT_8Pqh8O9OPouifsv9Pyj8bXdR7W9_0oXCT_2Eat-1mHwUvlm9M4p9byacRzW_UQiFvzXvJQp_lacxCv-sewcKXyMtAYV_4mIcCn9vxh0U_n5tRRT-5WuLkfkqv9L1Udz7pJodRf1Tr3Mo_KPHFFDjxzQGRf9zhx8o8nfsAlDV-9ah8Ouvo8SX2lXPLyj8mwtFUNz76vJOFL7zqsnIfIWvhYUQPgAma-8q"
-    },
-    {
-      "query": "hyundai elantra",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "autos_and_vehicles"
-      ],
-      "news_token": "rEVQu3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRrXaD5MXpeYtCg2G8k8t8EPmqxbOyUGRf-QWh8J_kM-Awn8SLYvCv54YgMK_Ee2Iwt95bCMKf6n3DlT75u5D4Z9Zdh2F__AZB4QPAAvDVP8"
-    },
-    {
-      "query": "train",
+      "query": "satya nadella",
       "search_volume": 500,
       "increase": 50,
       "categories": [
-        "law_and_government"
+        "business_and_finance",
+        "science",
+        "technology"
       ],
-      "news_token": "Iu8DiXica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGtSdalxalFS0KDYbydx7biMLnrEpG4evsZEHhHwpRROELCHkj8xW1-vJR5EH2pebB-SqLJWuQ-WpXklah8IvvlqPwD4o2oPCrSu4j81XXf2RAkX9y8DMK_2jgWxS-rrI8hA8AeglpNg"
+      "news_token": "-9FroHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrX1fW8WpeYtCg2G8nefYkPhVx06icLnup2Kwv9mdgeFv-R-KzJfqWxvN4QPAIg_MYw"
     },
     {
-      "query": "united states department of veterans affairs",
+      "query": "cenly chen",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "wurHVXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrUFR7csKstcFBoMANXoDS4"
+    },
+    {
+      "query": "jensen huang workplace culture nvidia",
+      "search_volume": 200,
+      "increase": 50,
+      "categories": [
+        "other"
+      ],
+      "news_token": "8AezzHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrXGnP2LUvMWhQZD-btPsaHyH0ui8BeFb0Tmq67doIkir13tiiLfuPkkhA8AKKUvww"
+    },
+    {
+      "query": "train",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "1cD4vXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRjVFcZtFqXmLQoOh_JYv8ij8mzZ6KPyTGieQ-apnTsehyB-s9Ufh3-pnhfABrjcutQ"
-    },
-    {
-      "query": "app",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "QTu2XXica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGtXWhUxal5i0KDYbyH-SZovCFfn9D4T8uOoLCv9PXg8JXWVGKwnftCEDh72sWROE_mjMVle9ui8I_-WEamv2o6o9bofJrS9RR-EtfmqDwF3yKQrWP4RaEDwCl1WyL"
-    },
-    {
-      "query": "macbook air",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "technology",
-        "shopping"
-      ],
-      "news_token": "LJouK3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjWThQcXpeYtCg2G8o-KiKPw53-7BOEDABaoGIg"
-    },
-    {
-      "query": "qatar airways",
-      "search_volume": 100,
-      "increase": 50,
-      "categories": [
-        "other"
-      ],
-      "news_token": "3I5sJXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrXGub8XpeYtCg0GANVBDSI"
+      "news_token": "reGZxXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrUnWpcWpRUtCg2G8jda1qLwP23QQOEfClFE5itq9eVD-ADw7COw"
     }
   ]
 }
