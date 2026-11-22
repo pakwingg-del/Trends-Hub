@@ -10,94 +10,143 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 15,
+      "keywords_count": 19,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-22 06:31:00"
+      "last_updated_hkt": "2026-11-22 21:31:00"
     }
   },
   "trending_seeds": [
     {
-      "query": "costco thanksgiving holiday store closures",
-      "search_volume": 20000,
-      "increase": 1000,
-      "categories": [
-        "hobbies_and_leisure",
-        "shopping"
-      ],
-      "news_token": "CeHfenica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrUfcuyLUvMWhQZD-VvYBSB8ALmQETo"
-    },
-    {
-      "query": "black friday sale deals",
-      "search_volume": 10000,
-      "increase": 200,
+      "query": "delta airlines flight delays",
+      "search_volume": 50000,
+      "increase": 800,
       "categories": [
         "other"
       ],
-      "news_token": "CpDWHXica1xTlFpYmlpcEp-SWJJ4h0F28nkGBgZGtaMi4otS8xaFBkP5V5JWIfNVftR-R5HPnJeFqt6SH4W_dMkcFP5PdnVkvqr4ubXIfCVHfUMU9RvSY1D4Gn-eo-h_PvcRinyINhsyX11edgGK-msGP1D40V8UUfT__7oDhX9pcg-K-j-8fijy130bUOSjGKtR5Bu93qHw-efpo7hPxk4ZJXxfXd6JIq-ffwCFL1imicIXOP8Fxfzv4XcgfABxca8E"
+      "news_token": "Trtmh3ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGdfNbBYtS8xaFBkP4SgtVriLzFZnPPEaRn3rjEAp_9c1UFH7N_m8o_NqrHCh8_yIU_Ypz8nWQ-WoJOtIofB3JOGS-ujHXXRS-1WxDFL583Upkvuqpx97IfJV_K-tRzA90nYei_qTSc2S-co43VD8AO-10Ug"
     },
     {
-      "query": "black friday deals games",
-      "search_volume": 200,
+      "query": "kate middleton parenting style chores",
+      "search_volume": 10000,
+      "increase": 400,
+      "categories": [
+        "law_and_government",
+        "entertainment"
+      ],
+      "news_token": "U4s_U3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjW5nJeLUvMWhQYDAM_ADHw"
+    },
+    {
+      "query": "kroger white collar job cuts",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "IK6FL3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrUu8YxFqXmLQoMhfHWW-b4QPgC3JhFM"
+    },
+    {
+      "query": "nasdaq composite record highs 2026",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "HGNz-Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrVO57xFqXmLQoOh_LMvFCF8AMPSEmI"
+    },
+    {
+      "query": "current black friday deals",
+      "search_volume": 2000,
       "increase": 200,
       "categories": [
         "shopping"
       ],
-      "news_token": "5rnULHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrU71ccXpeYtCg2G8r-H30Hh5xvUoPD55-mj8Bu93qHwJzJsQOarcxrvh_ABOngu9A"
+      "news_token": "9e7cjHica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGtaMi4otS8xaFBkP538PvoPA3pMeg8LW6GVD4P8y2IfNVE0_aovCfz32EzFfXqDyMor-iKAxF3rofRb2aycKDKHz-qjUo_PNdt1D4V5JWoZhnecsEhc_3yB7FfeLn1kL4ADCiag8"
     },
     {
-      "query": "gma deals and steals",
+      "query": "calley means",
+      "search_volume": 1000,
+      "increase": 200,
+      "categories": [
+        "health",
+        "business_and_finance"
+      ],
+      "news_token": "9FW4Jnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjULl8uLUvMWhQZD-Krx7I8gfAC_axHo"
+    },
+    {
+      "query": "scott bessent",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "MB_B-Xica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRjXtatdFqXmLQoMhfHU79qvIfJXZwe4o8tYLpZH5aqrP76DwxRZxIPOVIs8LI_OVzWqOIvMV36xbhMJ_2piEoj9xSgAKX-JiFIQPABbTSio"
+    },
+    {
+      "query": "chatgpt xrp price prediction 2029",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "shopping"
+        "business_and_finance"
       ],
-      "news_token": "J-IQw3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrXeW5mLUvMWhQYDANOXDNk"
+      "news_token": "u0q0bXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVPn_4sSs1bFBoMANvpDek"
     },
     {
-      "query": "real",
+      "query": "jeff bezos amazon stock donation",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "xvaxQXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRnXuo6mLUlIXhQZD-GoL_ISR-eqav6-gyG8Wv4YiLyF1AlX9rX_IfNXmPQKo6h90ovDFTNdB-ABMtDmO"
-    },
-    {
-      "query": "franchising",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "zhyrbXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrWfba2LMksWhQZD-OrsM0VR-Ly5c1H4TKxqKHzOC_-R-Wr3g95C-AD8niip"
-    },
-    {
-      "query": "stock market crash",
-      "search_volume": 500,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "anN21Hica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtW0twKLUvMWhQZD-Gr3jIKQ-eoKuseQ-ar79zuiyMtf60bRf9xqKjJf-caTPGS-yrTiuch8pSAnORT-lZoYCB8AYnNAaA"
-    },
-    {
-      "query": "timmie haynes federal charges",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "zFBLCnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrWWL_KLUvMWhQYDANIQDKA"
+      "news_token": "NBEY23ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrXmiBWLUvMWhQYDANDmDIw"
     },
     {
       "query": "ipad black friday deals",
-      "search_volume": 2000,
-      "increase": 50,
+      "search_volume": 5000,
+      "increase": 75,
       "categories": [
         "technology",
         "shopping"
       ],
-      "news_token": "1L7K2Xica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrUN6TGLUvMWhQZD-UdFxFH4Gn-eo_AvTe5B4dtf4EHhL9dkgvABMtgowg"
+      "news_token": "ThFCunica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrUN6TGLUvMWhQZD-UdFxFH4Gn-eo_DtL_Cg8JdrMqHwryStQuarRLC1QfgAxpkt3A"
+    },
+    {
+      "query": "walmart black friday ad 2026",
+      "search_volume": 5000,
+      "increase": 75,
+      "categories": [
+        "shopping"
+      ],
+      "news_token": "KZFplXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrVLlaaLUvMWhQZD-UdFxJH56uptMsh8VbO4IhT1jV7vUPiWV8pR-D_MtqHo_8Prh8IXP7cWha_xdDuEDwDSAz-k"
+    },
+    {
+      "query": "nintendo switch 2 black friday deals",
+      "search_volume": 5000,
+      "increase": 75,
+      "categories": [
+        "games",
+        "technology",
+        "shopping"
+      ],
+      "news_token": "TSfgBXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrXv4XcWpeYtCg2G8pV9PqLwj4qII_NVn899hMK_ZvADRf30U4kQPgCA1ysU"
+    },
+    {
+      "query": "cnbc make it",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "uk3zcXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnUL4yuLUvMWhQZD-YrMGsh8tWfeTMh8xUPzkpD5zCsVHyLzFXKP3EHmK9XtZoDwAYI-LgA"
+    },
+    {
+      "query": "supplemental nutrition assistance program budget data",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "other"
+      ],
+      "news_token": "XZmUDXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrXHH_ctSs1bFBoM5e_4exnCBwDo5RRs"
     },
     {
       "query": "mila kunis",
@@ -110,51 +159,40 @@
       "news_token": "b85NLHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrW4KW2LUvMWhQYDANCLDIE"
     },
     {
-      "query": "s&p 500 post bear market rally",
+      "query": "target black friday 2026",
       "search_volume": 1000,
       "increase": 50,
       "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "RT8pwXica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGtU7nvEWpeYtCgyF8dflr3Sh8LV5XFL7y-yfIfLU1BZEofH4zPRR-C68pCn-F0AQU_kyD_ch81f37HVH4aW8FUOyXC3iMov_18_co_GUxU1D494yCUMybuJgDRX7bLhsU-cbNJ1Hkj1tNhfAB4hhzyg"
-    },
-    {
-      "query": "dollar general ftc price lawsuit",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "other"
-      ],
-      "news_token": "f_AnkXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrUtmZMWpeYtCg0GANKNDLg"
-    },
-    {
-      "query": "nintendo switch 2 black friday deals",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "games",
-        "technology",
         "shopping"
       ],
-      "news_token": "saD1zXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrXv4XcWpeYtCg2G8qefSkTmqz6f-whF_k71cRT-URFxFPXXDH5A-ADMaivS"
+      "news_token": "0WZhvnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrVGr3eLUvMWhQZD-T_MtqHwF8m9ROar_uH1Q5E_KiIO4QMA-XkjuQ"
     },
     {
-      "query": "cmo",
+      "query": "market correction",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "1KVa6nica1xTlFpYmlpcEp-SWJI4c_J5BgYGRtX9-x0XpeYtCg2G8NVWCE1A5qvzRuigyPOb6aHIy1_rRpG_tKIZma8yrXguMl9hk6QGMl9pVdldCB8ABPY5Zg"
+    },
+    {
+      "query": "bitcoin price today",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "u90yDXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnXlxU8WpeYtCg2G8mWWsKPw5T8cQ-ErvfVC5qv-EN6AzFc5KquHzFfbLu4H4QMA35UuRg"
+      "news_token": "JpgxtXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRuUbT_IWpeYtCg2G8NU-hGxH5qtL_g5D4RtE3EDmK297MRXCBwAdxyVL"
     },
     {
-      "query": "walmart black friday ad 2026",
+      "query": "robert downey jr",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "shopping"
+        "entertainment"
       ],
-      "news_token": "ibyW3Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrVLlaaLUvMWhQZD-UdFxJH5qn94_VD44ufWovA1nm6H8AGzHyNH"
+      "news_token": "hPnO4Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRnUNltxFqXmLQoMhfLU7NcLIfHXWtl4UvjEDJ4p6O54kFHlr2a0QPgCHYCWL"
     }
   ]
 }

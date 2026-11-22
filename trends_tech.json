@@ -10,191 +10,235 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 19,
+      "keywords_count": 24,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-21 21:31:09"
+      "last_updated_hkt": "2026-11-22 21:31:02"
     }
   },
   "trending_seeds": [
     {
-      "query": "fbi hacked",
-      "search_volume": 20000,
-      "increase": 1000,
+      "query": "delta airlines flight delays",
+      "search_volume": 50000,
+      "increase": 800,
       "categories": [
-        "law_and_government",
-        "technology"
+        "other"
       ],
-      "news_token": "H27hx3ica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZGdaEJfxal5i0KDYbwVe-ujUPmq3PEH0fmqz30NkPhn3aQRuHX-k9H0a_aXoQif8hICcW-ztN6KPyVyWdR1D-d9hbFPL7j5Sjy-vbBKPoXbn-HIv9PYTeKvMVVX2S-0vT1bMh8ZVcJVPPUDL8j81XO3DVEcY8ox0QUvqDTJxTzlR-tQeYr7GxmQeYrbpPxhPABUGKVVA"
+      "news_token": "Trtmh3ica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGdfNbBYtS8xaFBkP4SgtVriLzFZnPPEaRn3rjEAp_9c1UFH7N_m8o_NqrHCh8_yIU_Ypz8nWQ-WoJOtIofB3JOGS-ujHXXRS-1WxDFL583Upkvuqpx97IfJV_K-tRzA90nYei_qTSc2S-co43VD8AO-10Ug"
     },
     {
-      "query": "anthony bourdain",
-      "search_volume": 20000,
+      "query": "kylian mbappé",
+      "search_volume": 2000,
       "increase": 300,
       "categories": [
         "entertainment"
       ],
-      "news_token": "UbaJanica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtVzEa8WpeYtCg2G8JXmxb5D5iuLLniKzFfNc_iJwt_5xx2ZrzZnyyUU85oXxSPzFWf37IHwAdh1N7Q"
+      "news_token": "pGsmc3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrWVolyLUvMWhQZD-OomO5lR-MYLzqHw1VPWIvPV3v48jsJf4CcM4QMA6sAouA"
     },
     {
-      "query": "jessica chastain",
-      "search_volume": 1000,
-      "increase": 300,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "bwFrz3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRpX3ZxctSs1bFBoM4asrhPCh8CXLQ5D5qkm5csh8Jf7faSh8RjsdZL7Cx3mOED4Ani4tDA"
-    },
-    {
-      "query": "red hair",
+      "query": "seattle airport ice",
       "search_volume": 10000,
       "increase": 200,
       "categories": [
-        "entertainment"
-      ],
-      "news_token": "RoHcWHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrWrmyIXpeYtCg0GANRvDOk"
-    },
-    {
-      "query": "haití",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
         "law_and_government"
       ],
-      "news_token": "yleiWXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnXOTplFqcWLQoMhfLULzMtR-LMOfkXhNyXrovBfTGZC5qt4KTYi81VzTt2B8AHLTS7l"
+      "news_token": "0MnqPHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRrUFR08sSs1bFBoM5SfoSCPz1dn_vkHh27ROQ-Frp7Sh6NedbIYiz5--EUV-x7b5KPxEl2gU_pwwIVR5YT0U_gP2qyj8qYymKPZZac2A8AGju1RG"
     },
     {
-      "query": "gta 6 xbox auto upload bans",
+      "query": "tesla fsd v15",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "autos_and_vehicles"
+      ],
+      "news_token": "aTx33Hica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRnXRtxaLUvMWhQYDAM6qDEQ"
+    },
+    {
+      "query": "gta vi review metacritic",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "games"
+      ],
+      "news_token": "M3pdMXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrXfCycsSs1bFBoM5XdZTEHhb8k2R-arskszQ_gA2eoc4A"
+    },
+    {
+      "query": "honda airbag recall",
+      "search_volume": 5000,
+      "increase": 200,
+      "categories": [
+        "autos_and_vehicles"
+      ],
+      "news_token": "AMsbSXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRtVvk2IXpeYtCg2G8NW-f-FC4ReyKCDzVXeuCkXmK128eAhF_cLNi5H56gL2j1Hkd2htQ5EXmvAHRb59rTYK__eCKyj8qhvzUPhLrS5B-AAvSVTK"
+    },
+    {
+      "query": "scott bessent",
+      "search_volume": 500,
+      "increase": 200,
+      "categories": [
+        "business_and_finance",
+        "technology"
+      ],
+      "news_token": "MB_B-Xica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRjXtatdFqXmLQoMhfHU79qvIfJXZwe4o8tYLpZH5aqrP76DwxRZxIPOVIs8LI_OVzWqOIvMV36xbhMJ_2piEoj9xSgAKX-JiFIQPABbTSio"
+    },
+    {
+      "query": "apple tv",
+      "search_volume": 10000,
+      "increase": 100,
+      "categories": [
+        "shopping"
+      ],
+      "news_token": "M4WuUnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRjWNP88XpeYtCg2G8n-yq6Pw93Fyo_ADPxxG5qvLXpmFwje5643CZ9z5H4VvffQ0inmx6VwofP_PUSjqLevmocifmeCHwk_csQWFv7f_OIQPAJL3WH8"
+    },
+    {
+      "query": "playstation plus",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "eSiTCnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrU_k_8vSs1bFBoMANlgDZc"
+      "news_token": "bSXfe3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtVvRnqLUvMWhQZD-a5LqpH5alsDF6PwnfzSkfnq2rtDUOTVHT-hmHeEnw3CBwDBOy2E"
     },
     {
-      "query": "google nest app",
-      "search_volume": 1000,
+      "query": "chatgpt xrp price prediction 2029",
+      "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "technology"
+        "business_and_finance"
       ],
-      "news_token": "c2IA4nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjWdnRmLUvMWhQYDAM8fDFY"
+      "news_token": "u0q0bXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVPn_4sSs1bFBoMANvpDek"
     },
     {
-      "query": "nocturne apple tv",
-      "search_volume": 1000,
+      "query": "daisy fuentes",
+      "search_volume": 2000,
       "increase": 100,
       "categories": [
+        "beauty_and_fashion",
         "entertainment"
       ],
-      "news_token": "RwzSxXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtV_n68tSs1bFBoM4Su9mtePzFdYvEMJwgcAWvAZ6w"
+      "news_token": "ynDte3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVFJw0XpeYtCg0GANJEDKU"
     },
     {
-      "query": "rocket launch today",
+      "query": "brussels airport",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "travel_and_transportation"
+      ],
+      "news_token": "2lsWaXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrWGIsVFqXmLQoMBzeoMHA"
+    },
+    {
+      "query": "gta vi game review",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
-        "business_and_finance",
-        "science"
+        "games"
       ],
-      "news_token": "xXAmL3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrU9cW8XpeYtCg2G8t3Z-ZH5ik--aSDzld2fMSLzVYu4m5D5SkZPlZD58pttkyB8AMoALck"
+      "news_token": "wPhCXXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRlV2aeZFqXmLQoMhfMVTjz4j89V2Zd5A4R_rTkTh_144AYV_gesThA8ASo4q2Q"
     },
     {
-      "query": "air force one",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "Pc48bHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrXXXWGLUvMWhQZD-bf2OKHwPz08D-EDADfqGeA"
-    },
-    {
-      "query": "phil wickham hallelujah! it's christmas again!",
+      "query": "why is the air quality bad today",
       "search_volume": 500,
-      "increase": 75,
+      "increase": 100,
       "categories": [
-        "entertainment",
-        "hobbies_and_leisure"
+        "other"
       ],
-      "news_token": "FjtEN3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrWGa8cXpeYtCg2G8vPdCyB8ANKLEpU"
+      "news_token": "sQs1Q3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrXDVmyLUvMWhQZD-TWBNsh8dQah3Sjyd65VQvgAkCkc6Q"
     },
     {
       "query": "ipad black friday deals",
-      "search_volume": 2000,
-      "increase": 50,
+      "search_volume": 5000,
+      "increase": 75,
       "categories": [
         "technology",
         "shopping"
       ],
-      "news_token": "10IBYXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRrUN6TGLUvMWhQZD-Rp_nqPwj4qIo_BNFh5E4dtf4EHhL9dkQuFfmtyDzFdy1DdEkb-StAqZrxLB1obMV71m8APCBwBLk0Uh"
-    },
-    {
-      "query": "eternatus pokemon go",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "technology",
-        "science",
-        "games"
-      ],
-      "news_token": "zaIUe3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrXERrVFqXmLQoMBzW4MEQ"
-    },
-    {
-      "query": "lucy gray baird",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "xy_-_3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRnWFZN1FqXmLQoMhfNUEcyUIHwCtdBC7"
-    },
-    {
-      "query": "shane traitors",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "86RvpXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtUi7sxFqXmLQoMBzCIL7g"
-    },
-    {
-      "query": "trump portfolio palantir nvidia spacex trades",
-      "search_volume": 1000,
-      "increase": 50,
-      "categories": [
-        "other"
-      ],
-      "news_token": "gsTPMXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjWO34qLUvMWhQZD-f9YdCB8ALx0EaQ"
+      "news_token": "ThFCunica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrUN6TGLUvMWhQZD-UdFxFH4Gn-eo_DtL_Cg8JdrMqHwryStQuarRLC1QfgAxpkt3A"
     },
     {
       "query": "nintendo switch 2 black friday deals",
-      "search_volume": 500,
-      "increase": 50,
+      "search_volume": 5000,
+      "increase": 75,
       "categories": [
         "games",
         "technology",
         "shopping"
       ],
-      "news_token": "a9rExXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrXv4XcWpeYtCg2G8qefSkThHxURR-arPp_7CEX-TvVxCB8AF_8ljA"
+      "news_token": "TSfgBXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrXv4XcWpeYtCg2G8pV9PqLwj4qII_NVn899hMK_ZvADRf30U4kQPgCA1ysU"
     },
     {
-      "query": "sciencedaily",
-      "search_volume": 500,
-      "increase": 50,
+      "query": "macrumors",
+      "search_volume": 2000,
+      "increase": 75,
       "categories": [
+        "technology"
+      ],
+      "news_token": "yztviHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrXWd1sWpeYtCg2G8k0WHkThx3W1IvNVu_7-gvAB9aUfjg"
+    },
+    {
+      "query": "xbox game pass november additions",
+      "search_volume": 2000,
+      "increase": 75,
+      "categories": [
+        "games",
+        "technology"
+      ],
+      "news_token": "ncvR_Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrUZu04uSs1bFBoM5ed-TEHmq8xh9ULmKyYfuIvCb1C0Q-YrM60yQDGP3-QMhA8AGl4uQg"
+    },
+    {
+      "query": "the tv app",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "technology",
         "science"
       ],
-      "news_token": "Sf8B_Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRrUEs1eLUvMWhQZD-OqK00WR-WqJ_n9Q5OW7HqHI87QuQOEvVz-Eol5oXyKK_JkSPRR5Hr10CB8AO0I42g"
+      "news_token": "mR_Bfnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrXpH3IXpeYtCg2G8m-l3YXwAdbaE2M"
     },
     {
-      "query": "american airlines phoenix flight",
+      "query": "météo demain",
+      "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "climate"
+      ],
+      "news_token": "ZTUoX3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrVp78sXpRUtCg2G8v3Lv0H4ANRdExQ"
+    },
+    {
+      "query": "tv app",
+      "search_volume": 200,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "3t5wCHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRnW1BfKLUvMWhQZD-Gq30u6i8AvWVSDzla7uKoPwAcYPHn4"
+    },
+    {
+      "query": "nordvpn",
+      "search_volume": 100,
+      "increase": 75,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "iqTIsHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRnW29-sWpeYtCg2G8FW_PzgH4QMA0uwTmg"
+    },
+    {
+      "query": "ps5 console",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "games"
+      ],
+      "news_token": "E97xVnica1xTlFpYmlpcEp-SWJJ4h0Fu8nkGBgZGtf3aiotS8xaFBkP4quzSzMh8ddOl-Sh85Q-1yHy1P5P_o_BX5n1F4V_1_ILCf-p1DsU8k_LFKPJ3qo-jyKvaJqPI1x9F0a_m5JeOol5HXwtFfrPdDGS-yqvLO5H5ioW215D5Sh4e_Mh85amPjqCYZxu8HYV_17cOhf_qdCpKeD53-IHiPp5lj1H4Vrwo8irOqyajuMe4gw_FPdsa3qHIh6aIodjveA5qHgCNz7WR"
+    },
+    {
+      "query": "hailey bieber nyt interview",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "other"
+        "entertainment"
       ],
-      "news_token": "AVpxf3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrUP_TWLUvMWhQYDANU_DQQ"
+      "news_token": "oic2TXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRnV2zoJFqXmLQoMhfNWXVp0QPgCwUhF-"
     }
   ]
 }
