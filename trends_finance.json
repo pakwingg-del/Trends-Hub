@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 16,
+      "keywords_count": 15,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-22 03:31:02"
+      "last_updated_hkt": "2026-11-22 06:31:00"
     }
   },
   "trending_seeds": [
@@ -27,6 +27,15 @@
       "news_token": "CeHfenica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrUfcuyLUvMWhQZD-VvYBSB8ALmQETo"
     },
     {
+      "query": "black friday sale deals",
+      "search_volume": 10000,
+      "increase": 200,
+      "categories": [
+        "other"
+      ],
+      "news_token": "CpDWHXica1xTlFpYmlpcEp-SWJJ4h0F28nkGBgZGtaMi4otS8xaFBkP5V5JWIfNVftR-R5HPnJeFqt6SH4W_dMkcFP5PdnVkvqr4ubXIfCVHfUMU9RvSY1D4Gn-eo-h_PvcRinyINhsyX11edgGK-msGP1D40V8UUfT__7oDhX9pcg-K-j-8fijy130bUOSjGKtR5Bu93qHw-efpo7hPxk4ZJXxfXd6JIq-ffwCFL1imicIXOP8Fxfzv4XcgfABxca8E"
+    },
+    {
       "query": "black friday deals games",
       "search_volume": 200,
       "increase": 200,
@@ -34,15 +43,6 @@
         "shopping"
       ],
       "news_token": "5rnULHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrU71ccXpeYtCg2G8r-H30Hh5xvUoPD55-mj8Bu93qHwJzJsQOarcxrvh_ABOngu9A"
-    },
-    {
-      "query": "timmie haynes federal charges",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "zFBLCnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrWWL_KLUvMWhQYDANIQDKA"
     },
     {
       "query": "gma deals and steals",
@@ -54,14 +54,13 @@
       "news_token": "J-IQw3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrXeW5mLUvMWhQYDANOXDNk"
     },
     {
-      "query": "rocket launch today",
+      "query": "real",
       "search_volume": 1000,
       "increase": 100,
       "categories": [
-        "business_and_finance",
-        "science"
+        "business_and_finance"
       ],
-      "news_token": "xXAmL3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrU9cW8XpeYtCg2G8t3Z-ZH5ik--aSDzld2fMSLzVYu4m5D5SkZPlZD58pttkyB8AMoALck"
+      "news_token": "xvaxQXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRnXuo6mLUlIXhQZD-GoL_ISR-eqav6-gyG8Wv4YiLyF1AlX9rX_IfNXmPQKo6h90ovDFTNdB-ABMtDmO"
     },
     {
       "query": "franchising",
@@ -82,13 +81,13 @@
       "news_token": "anN21Hica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtW0twKLUvMWhQZD-Gr3jIKQ-eoKuseQ-ar79zuiyMtf60bRf9xqKjJf-caTPGS-yrTiuch8pSAnORT-lZoYCB8AYnNAaA"
     },
     {
-      "query": "the bear",
+      "query": "timmie haynes federal charges",
       "search_volume": 2000,
-      "increase": 50,
+      "increase": 75,
       "categories": [
-        "business_and_finance"
+        "law_and_government"
       ],
-      "news_token": "0xFPDXica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG1f37HRel5i0KDYbw1eWvdSPzVdPeCiDz1c6-UEThu03-h8I_-l8ZxTyF99tQ5J9Yb0fh162KRFHPu-49irxl00wUeZWmWyjyu9dtQXFvjG8yinycmgwK_9DDHxA-ANrQZdE"
+      "news_token": "zFBLCnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrWWL_KLUvMWhQYDANIQDKA"
     },
     {
       "query": "ipad black friday deals",
@@ -98,7 +97,17 @@
         "technology",
         "shopping"
       ],
-      "news_token": "gwG9xXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRrUN6TGLUvMWhQZD-Rp_nqPwj4qIo_Cv-zag8E0WHkThL9dkQuFfmtyDwre_wIPMV3LUN0SRv5K0CpmvEsHWhsxXvWbwA4X_fokmhA8A3O9REg"
+      "news_token": "1L7K2Xica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrUN6TGLUvMWhQZD-UdFxFH4Gn-eo_AvTe5B4dtf4EHhL9dkgvABMtgowg"
+    },
+    {
+      "query": "mila kunis",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "entertainment",
+        "business_and_finance"
+      ],
+      "news_token": "b85NLHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrW4KW2LUvMWhQYDANCLDIE"
     },
     {
       "query": "s&p 500 post bear market rally",
@@ -107,7 +116,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "QQQTWnica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGtU7nvEWpeYtCg6H8FUITkPnqWryuKHzF6Soo6vnN9FD4LbymKPyZBvuR-appbwVQzJO_1o0iv3-_I4q88vsnKHy5gMco5r9-_h5F_8TFHCjy94yCUPjLYqag8LftskHR37j5JIr8caupED4A2JVzMg"
+      "news_token": "RT8pwXica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGtU7nvEWpeYtCgyF8dflr3Sh8LV5XFL7y-yfIfLU1BZEofH4zPRR-C68pCn-F0AQU_kyD_ch81f37HVH4aW8FUOyXC3iMov_18_co_GUxU1D494yCUMybuJgDRX7bLhsU-cbNJ1Hkj1tNhfAB4hhzyg"
     },
     {
       "query": "dollar general ftc price lawsuit",
@@ -130,32 +139,13 @@
       "news_token": "saD1zXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrXv4XcWpeYtCg2G8qefSkTmqz6f-whF_k71cRT-URFxFPXXDH5A-ADMaivS"
     },
     {
-      "query": "elizabeth banks",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "8GrY4Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjWNPy8XpeYtCg2G8NXFBa2Q-Uourl-Q-WpsZ7QgfAC0lBzJ"
-    },
-    {
       "query": "cmo",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "ioY_9nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnXlxU8WpeYtCg2G8uU_HEPhK731QuHLLGFH5qv-EN6AzFc5KquHzFfbLu4H4QMA-ZUuRg"
-    },
-    {
-      "query": "emirates",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "travel_and_transportation",
-        "business_and_finance"
-      ],
-      "news_token": "prHQC3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnVGZY9FqXmLQoOhfIZWOWS-2u40QRT-H-YQFP7_ECUU_awfNyLzVfdtLoLwAS3ULVQ"
+      "news_token": "u90yDXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnXlxU8WpeYtCg2G8mWWsKPw5T8cQ-ErvfVC5qv-EN6AzFc5KquHzFfbLu4H4QMA35UuRg"
     },
     {
       "query": "walmart black friday ad 2026",
