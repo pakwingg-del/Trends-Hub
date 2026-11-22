@@ -10,9 +10,9 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 20,
+      "keywords_count": 19,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-21 21:31:07"
+      "last_updated_hkt": "2026-11-22 00:31:01"
     }
   },
   "trending_seeds": [
@@ -27,22 +27,13 @@
       "news_token": "ZQiBM3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrUfcuyLUvMWhQYDAM7MDCY"
     },
     {
-      "query": "stock markets",
+      "query": "nvidia market cap drop 35 percent",
       "search_volume": 20000,
-      "increase": 800,
+      "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "RKyCjXica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG1f37HRel5i0KDYbw1eWvdaPwFXSPIfPVOp3zUOQFVjUi85XmStci8xXZrleiyH-9k47MV74xiwXF_ONWU1H4d9SSUfhrCiJR-I-F_qC4R3WSB4r8GXMLFHneCB0U-QPGKOqVp03aisLfycmO4v73j61R_MdceBXFvNfP3yPzVaYVz0WxX0hgGYQPAJBnkFo"
-    },
-    {
-      "query": "retirement age",
-      "search_volume": 5000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "KqanbHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrXQ7TmLUvMWhQZD-Wvyl6LwX1x_h8xXl7HTReFzVR9FUT8_7hUK_6_eNQgfADgLMF8"
+      "news_token": "EIAqLHica1xTlFpYmlpcEp-SWJJ4h0F48nkGBgZGtdfP3y9KzVsUGgzlqy80Q-F7S6xB5qtL5M5DkV8UvhGFv_tXHwp_TUEkCj_mymxU9afYkPmqjZtPovD373dEUb894BYK_7jVVBS-XocHinv5m1HMU5vRi2r_aZ71KHyO34oo_ANVJRA-AGwAdsQ"
     },
     {
       "query": "black friday deals games",
@@ -52,6 +43,15 @@
         "shopping"
       ],
       "news_token": "5rnULHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrU71ccXpeYtCg2G8r-H30Hh5xvUoPD55-mj8Bu93qHwJzJsQOarcxrvh_ABOngu9A"
+    },
+    {
+      "query": "timmie haynes federal charges",
+      "search_volume": 2000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "zFBLCnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrWWL_KLUvMWhQYDANIQDKA"
     },
     {
       "query": "gma deals and steals",
@@ -88,7 +88,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "Bdaoynica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrWfba2LMksWhQZD-Oq8uXNR-Eysaih8zgv_kflq94PeQvgAwWcjoA"
+      "news_token": "zhyrbXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrWfba2LMksWhQZD-OrsM0VR-Ly5c1H4TKxqKHzOC_-R-Wr3g95C-AD8niip"
     },
     {
       "query": "stock market crash",
@@ -97,26 +97,16 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "DeCfiXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRrVO57xFqXmLQoMhfNW0twLIfHVVj-0ofAXdYyjq9-93RJFXmrgehS9_rRuZr3bcaioyX_nGE6j9ADdROoU"
+      "news_token": "wENfyHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtW0twKLUvMWhQZD-OoKuseQ-ar79zuiyMtf60bhS-TOQ-arHbeaisxXvvEkD5mvMq14LoQPAP_NNUI"
     },
     {
-      "query": "drinking",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance"
-      ],
-      "news_token": "yM0DCnica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGtV-vmhel5i0KDYbyk6NVkfnqLKULUfics46hqP_WPQ9FXqqJA0U-KVYZhT_LQhCFf0T-EQr_Pm8Kinl8no9R-KxqZSjqb-72ReGvbIhA4Ve_DEDRL2LvjcxXLTdBcZ_qtqQdED4AOtZryQ"
-    },
-    {
-      "query": "crowdstrike zscaler",
-      "search_volume": 200,
-      "increase": 75,
+      "query": "the bear",
+      "search_volume": 10000,
+      "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "NRWYlHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRnWetxWLUvMWhQYDANAZDHs"
+      "news_token": "mPwf7nica1xTlFpYmlpcEp-SWJJ4h0Fj8nkGBgZG1f37HRel5i0KDYbw1eWvdSPz1Tqd81D4awoiUfgb0jNR-JuCHiPzVWXMz6OYz5JwC5mvfOMJqvnHraai8JfsjkLRzxS9E0X-Ud5iFHnF6aIo8t4Sa1D4p3XKUNRz_WBC4at4xaG4r9tdHpmvuOTpCxTzzr5QROG7Tf6H4v-0twIo8kf_K6PYp_B-G4r8E-vtKPy6VSjhrc677j2KvGXTTFT3N6GEr9rudVtQ3BPjm4wiH6cmg8I_9PAHqvt0j6HwBVY1IvOV5krXooQP2_VKFPmvd9JR43sWC4QPAO1B7o4"
     },
     {
       "query": "ipad black friday deals",
@@ -126,7 +116,7 @@
         "technology",
         "shopping"
       ],
-      "news_token": "10IBYXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRrUN6TGLUvMWhQZD-Rp_nqPwj4qIo_BNFh5E4dtf4EHhL9dkQuFfmtyDzFdy1DdEkb-StAqZrxLB1obMV71m8APCBwBLk0Uh"
+      "news_token": "n30wmnica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRrUN6TGLUvMWhQZD-UdFxFH4yzWZUPhXklah8E0WHkThN3q9Q-Fr_HmOwr80uQeFb3-BB5mv5KhviMxXiWBrQ-arXjP4AeEDANrDSyM"
     },
     {
       "query": "s&p 500 post bear market rally",
@@ -135,18 +125,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "iNEuXnica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRrWZBvsXpeYtCg2G8NUVp6sg89X4zfSQ-appbwVQ5NcURKLwW3hNUfgrhCagmM8boYPCV37_BMX8_fsdUfR3OuehqJe_1g3hAwCsOkjt"
-    },
-    {
-      "query": "nintendo switch 2 black friday deals",
-      "search_volume": 500,
-      "increase": 50,
-      "categories": [
-        "games",
-        "technology",
-        "shopping"
-      ],
-      "news_token": "a9rExXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrXv4XcWpeYtCg2G8qefSkThHxURR-arPp_7CEX-TvVxCB8AF_8ljA"
+      "news_token": "ZMIR-Hica1xTlFpYmlpcEp-SWJI4e_J5BgYGRrVO57xFqXmLQoMhfHX5a90ofMXpKsh8NX4zPRT-moJIFH4LrykKf4XQBBT-TIP9yHzV_fsdUexTfv8ERT7trQCEDwB14kQS"
     },
     {
       "query": "dollar general ftc price lawsuit",
@@ -158,22 +137,33 @@
       "news_token": "yDAeSXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrUtmZMWpeYtCg2G8rm6H0P4AMpcEnk"
     },
     {
+      "query": "nintendo switch 2 black friday deals",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "games",
+        "technology",
+        "shopping"
+      ],
+      "news_token": "saD1zXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrXv4XcWpeYtCg2G8qefSkTmqz6f-whF_k71cRT-URFxFPXXDH5A-ADMaivS"
+    },
+    {
+      "query": "elizabeth banks",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "8GrY4Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRjWNPy8XpeYtCg2G8NXFBa2Q-Uourl-Q-WpsZ7QgfAC0lBzJ"
+    },
+    {
       "query": "cmo",
       "search_volume": 200,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "7z8k33ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRnXlxU8WpeYtCg2G8mWWsKPw5T8cQ-ErvfVC4bM3TUHmq20X90Pmq_4Q3oDMVzkqqwfhAwDcoDOt"
-    },
-    {
-      "query": "cboe volatility index",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "1LR1PHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtU_H7oWpeYtCg2G8NXZmyxQ-LwROsh8ZWFVOwgfAMHtHCA"
+      "news_token": "1rApIHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRnXlxU8WpeYtCg2G8NW2i_sh89XlPxxD4Su99ULhyyxhR-GzN01B5qv-EN6AzFc5KqsH4QMA7EAzrQ"
     },
     {
       "query": "emirates",
