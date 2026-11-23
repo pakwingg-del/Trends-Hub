@@ -10,20 +10,29 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 27,
+      "keywords_count": 28,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-23 03:31:11"
+      "last_updated_hkt": "2026-11-23 06:31:06"
     }
   },
   "trending_seeds": [
     {
       "query": "nvidia stocks",
       "search_volume": 5000,
-      "increase": 800,
+      "increase": 700,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "8SfCJHica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGtdfP3y9KzVsUGgzhq_M3n0Tmqy0K34jCn9E7G4W_5KMdMl_1yrslKPJrCiJRzHdSnoYif9xqKgr_s7s9Cn_3rz4Uvna1KwpffaEZCn97wC0U9zRuRvUPx29FFP6BqhIIHwAzEGv_"
+      "news_token": "Hgmo63ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRrXXz98vSs1bFBoM5asvNEPh7_7Vh8Kf0Tsbha9d7YrC3x5wC5mveuXdEhT5A1UlKPKNm0-iyHP8VkThH7eaisKfvMYTwgcAvhtPCw"
+    },
+    {
+      "query": "dow jones stock markets",
+      "search_volume": 5000,
+      "increase": 600,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "-1htkHica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGdY0_exal5i0KDYbwVffvd0Tmq6uGGCPz1dY4C6LI2z9lQpE_bjUVhT9jITuKere50Sjy6gvNUPhHurhQzTvxDJmvxGffhCK_tfsVMl-Fhc8Zma88bdJWFPlpxXNR-L-19SB8ALiuZ1A"
     },
     {
       "query": "delta airlines flight delays",
@@ -32,16 +41,7 @@
       "categories": [
         "other"
       ],
-      "news_token": "5U6f0Hica1xTlFpYmlpcEp-SWJJ4h0F68nkGBgZGdfNbBYtS8xaFBkP5qgw5yHxF5jOPkflKglOUUPirb6aiqA9ddg1FfuqNQyj8czuTUdTPyddBkV-ochWZr_Zkw0Zkvuqpx94o8o3X96Do9y9CsU9NRzIOxX9Wsw1R-E7KO1DUb5svhsJfcPQEinq7IHMU-bh0exT-_X4U-9QSdKRR-L9fLEDh73-sjMxXzvFG8Z_Kv5X1ED4AGpejpg"
-    },
-    {
-      "query": "nbc",
-      "search_volume": 2000,
-      "increase": 400,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "A-PqAXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRjXro42LUvMWhQZD-OquVQVofDkUvlM6Fwrf2bEJma_2mYUfwgcA1TMmxg"
+      "news_token": "AkkMaXica1xTlFpYmlpcEp-SWJJ4h0Fm8nkGBgZGdfNbBYtS8xaFBkP5nmzTkPmKzGceo_Dn5Osg85UEpyih8FffTEXhT71xCIXvX4TKP7czGYW_UOUqMl_N8X8WivvcfuijyD_ZsBGF33h9D4p6V4-PKPI6knEo8lazDVH4Tso7UNRvmy-Gwl9w9ASKersgcxT5uHR7FP79fhT71BJ0pFH4v18sQOHvf6yMzFfO8fZG5qv8W1kP4QMAH8SpFw"
     },
     {
       "query": "kate middleton parenting style chores",
@@ -54,13 +54,22 @@
       "news_token": "U4s_U3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRjW5nJeLUvMWhQYDAM_ADHw"
     },
     {
+      "query": "wage",
+      "search_volume": 5000,
+      "increase": 300,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "2K6apnica1xTlFpYmlpcEp-SWJI4b_J5BgYGRnUL4yuLUvMWhQZD-GoHDgei8O9FbkHmq0tMbEKRvyVij8KvUu1BUe_y2geFz775HgpfkVkDRf8zbyZkvuKheUnIfOaVig-R-Qq5R-4g85XqdjNA-ADtz1ZX"
+    },
+    {
       "query": "franchising",
       "search_volume": 5000,
       "increase": 300,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "TqcNeHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrWfba2LMksWhQZD-OrsM0VR-Gw7D6LweXPnQvgAxoMdXw"
+      "news_token": "r-lvSHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrWfba2LMksWhQZD-OrsM0VR-Ly5c1H47hmKKHy2nQchfACzZiKD"
     },
     {
       "query": "calley means",
@@ -70,16 +79,17 @@
         "health",
         "business_and_finance"
       ],
-      "news_token": "Yxbhtnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRjULl8uLUvMWhQZD-Krx7I-Q-crLmY0hfAAGsBcL"
+      "news_token": "9FW4Jnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRjULl8uLUvMWhQZD-Krx7I8gfAC_axHo"
     },
     {
-      "query": "wage",
+      "query": "scott bessent",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "business_and_finance"
+        "business_and_finance",
+        "technology"
       ],
-      "news_token": "lV8b-Hica1xTlFpYmlpcEp-SWJI4f_J5BgYGRnUL4yuLUvMWhQZD-GoHDgci89VdXvugyC9O-4TCvyVij8J_4bERRT_75nsofAfPPBS--Z7jKHxFZg0U8555MyHzFQ_NS0LmM69UfIjMV8g9cgeZr1S3mwHCBwAXR1zt"
+      "news_token": "5D-eJ3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRjXtatdFqXmLQoMhfHU79qvIfDXV53dQ-GKLOJD5SpHnhZH5im_WLULhP21MQlGfOCUAwgcAs7w0KA"
     },
     {
       "query": "tony danza",
@@ -89,26 +99,34 @@
         "entertainment",
         "business_and_finance"
       ],
-      "news_token": "94llH3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRnWHypBFqXmLQoMhfNWnBkkQPgC8WhHW"
+      "news_token": "N8R4xnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRnWHypBFqXmLQoMBzVEMFw"
     },
     {
       "query": "apple black friday deals",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "shopping",
-        "technology"
+        "shopping"
       ],
-      "news_token": "qoXr2nica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRtV_XyYtSs1bFBoM4attSI9B5qv-kjmKIn9URByFfyVpFQpf489zFL79BR5kvkoEWxuEDwCsPjWw"
+      "news_token": "ZdzZzHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRjWNP88XpeYtCg2G8FX_fZmEwv8lcxSZr3ZURByFvyE9BoU_Mf0BCv9SpSkK32ThQRS-_QUeZL5KBFsbivxPdnUU_j5ObggfACp1S9s"
+    },
+    {
+      "query": "current black friday deals",
+      "search_volume": 2000,
+      "increase": 200,
+      "categories": [
+        "other"
+      ],
+      "news_token": "l3FHsXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRrWJ6Q8WpeYtCg2G8o-KiKPwL1WaovC_h99B4bsn3UDhb0iPQearuwgoocjb9OlD-AAlDjPe"
     },
     {
       "query": "walmart black friday ad 2026",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 100,
       "categories": [
         "shopping"
       ],
-      "news_token": "xpdV7nica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRrVLlaaLUvMWhQZD-UdFxJH5qn94_VDkf5htQ-Ffr-BEUW8WV4TC13i6HYUvfm4thA8A4-w0Yw"
+      "news_token": "b05PbXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRrVLlaaLUvMWhQZD-YvkXqLwj4qIo_B_mG1D4VteKUfmq5rFFaHw__D6ofDFz61F4Ws83Q7hAwCBhjqB"
     },
     {
       "query": "lowes black friday deals",
@@ -117,7 +135,7 @@
       "categories": [
         "shopping"
       ],
-      "news_token": "a0kWMXica1xTlFpYmlpcEp-SWJJ4h0F-8nkGBgZGtaMi4otS8xaFBkP5XGHrUfjfw-8g89Wt-x-hyP8w24bCv1p4H4V_JWkVCp-_ag0KP0SbDYV_p_o4Cn9DegwyX_WXzFEU-XsXbqK4j-39OmS-yqvLO1H0i59bi6Lfpk8fha_VzYBinouAEor-53NR_K_yo_Y7inrbShT1ahMZNiDzlRz1DVHM03i6HUU_3yN7FPl_jFKo4TcPxb3qsk-WofAtb5mg6D9ysArCBwBu1bp3"
+      "news_token": "kY9L23ica1xTlFpYmlpcEp-SWJJ4h0F-8nkGBgZGtaMi4otS8xaFBkP5XGHrUfjfw--g8C9VmiLz1a37H6HIN3q9Q-FfLbyPwv9htg2FfyVpFQqfv2oNCj9Emw2Ff6f6OApf489zFPc47r-KIn_vwk0U_ob0GGS-yqvLO5H5quLn1iLzlRz1DVHMd7_9BJX_5Q8K30VACYXvNPcviv0TGTag8E0WHkSVT3-Aop_vkT1q-MzTR5GXfbIMxT8_ar-jyFveMoHwAWLqvdg"
     },
     {
       "query": "nasdaq composite record highs 2026",
@@ -138,14 +156,14 @@
       "news_token": "YFG6qHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrXoeq1FqXmLQoMBzUQMDQ"
     },
     {
-      "query": "scott bessent",
+      "query": "meritage hospitality group wendy closures",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "business_and_finance",
-        "technology"
+        "food_and_drink",
+        "business_and_finance"
       ],
-      "news_token": "Ehg0NHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRjXtatdFqXmLQoOhfNXnd5D56tYLpVH4duxXUdSLLeJA5itFnhdG5iu-WbcIhf-0MQlFfeKUABS-xMUoCB8Ax2c-8Q"
+      "news_token": "kkoCMHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtUlJraLUvMWhQZD-Ooc8QIofI_PPMh85VKVXyh8v2pGZL7StE-vUPiMNZMhfABkuS1k"
     },
     {
       "query": "chatgpt xrp price prediction 2029",
@@ -173,7 +191,7 @@
         "technology",
         "shopping"
       ],
-      "news_token": "65VL6nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrUN6TGLUvMWhQZD-UdFxFH4V5JWofCXazKhyie2IfNVItigfAAMpCgo"
+      "news_token": "aIEYn3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrUN6TGLUvMWhQZD-UdFxFH4V5JWofCXazIh81Ui2NogfACs6CIk"
     },
     {
       "query": "nintendo switch 2 black friday deals",
@@ -184,7 +202,7 @@
         "technology",
         "shopping"
       ],
-      "news_token": "D0ez3Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrXv4XcWpeYtCg2G8o-KiCPzVZ_PfYQiP_1UIgpf2ecjhA8ADjwkzg"
+      "news_token": "iT2YXHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrXv4XcWpeYtCg2G8o-KiKPwJzJsQOarPp_7CEVe2ecjCn_6qUQIHwBkXCpY"
     },
     {
       "query": "supplemental nutrition assistance program budget data",
@@ -207,22 +225,13 @@
       "news_token": "TW5PYXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRnX27I5FqXmLQoOhfJv8_ch8NfGuryjyujpKED4AoIkcXA"
     },
     {
-      "query": "stock market futures",
-      "search_volume": 5000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "Zdta83ica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGddcZZxal5i0KDYbw1Y5bTUXmq7uY_kGR5-PwRuar7t_viCKvvtAMhf8ijRHV_BPPkPlKfPZNKPy50rUo9jscM0Lmq0wrnovC_62th2L-l5k3UPiXQxtQ-DMWsqPoZ-FzhvABDkJnRw"
-    },
-    {
       "query": "kospi index",
       "search_volume": 2000,
       "increase": 50,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "MDPJqXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrUZC9kXpeYtCg2G8NVdZ5xB4fPP-47C1_izB5mvdGj7VhQ-f_YqVPM8ZkH4ACMAL6E"
+      "news_token": "BBN8_Xica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrUZC9kXpeYtCg2G8NU1_uxB4Wtyn0bh88_7jsxXOrR9K4q8q8csCB8AN7Ipjg"
     },
     {
       "query": "target black friday 2026",
@@ -231,17 +240,16 @@
       "categories": [
         "shopping"
       ],
-      "news_token": "3SRZCHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRrUfZtsWpeYtCg2G8i9VmqLwj4qIo_Atr5Sj8Bu93qHwF8m9ROar_uH1Q5FPXxQJ4QMAMig0-g"
+      "news_token": "kGiQGHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrUfZtsWpeYtCg2G8hu93qHwF8m9ROar_uH1Q5E_KiKOwk9fFAnhAwBknSlk"
     },
     {
-      "query": "mila kunis",
-      "search_volume": 1000,
+      "query": "jensen huang nvidia wealth breakdown",
+      "search_volume": 500,
       "increase": 50,
       "categories": [
-        "entertainment",
         "business_and_finance"
       ],
-      "news_token": "b85NLHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrW4KW2LUvMWhQYDANCLDIE"
+      "news_token": "AatojHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrUDVSWLUvMWhQZD-bt_9SHz1U1_c0D4ADF6GMU"
     },
     {
       "query": "market correction",
@@ -250,7 +258,7 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "1Q53snica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtX9-x0XpeYtCg2G8NVWCE1A5qvbP2VCkec300Ph__nQiKJe_lo3Ct91xhkU9WdfKCLzVaYVz0XmK2yS1IDwAVeVQDs"
+      "news_token": "9um0cXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRtX9-x0XpeYtCg2G8NVWCE1A5qvbP2VCkec300ORl7_WjSL_50MjCv_sC0UU9a4zziDzVaYVz0XmK2yS1IDwAUuVQDs"
     },
     {
       "query": "bitcoin price today",
