@@ -10,197 +10,171 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 20,
+      "keywords_count": 17,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-23 21:31:11"
+      "last_updated_hkt": "2026-11-24 21:31:03"
     }
   },
   "trending_seeds": [
     {
-      "query": "disney discontinues hulu standalone app",
-      "search_volume": 200000,
-      "increase": 1000,
+      "query": "spotify outage",
+      "search_volume": 2000,
+      "increase": 600,
       "categories": [
         "entertainment"
       ],
-      "news_token": "sTrLAXica1xTlFpYmlpcEp-SWJI4e_J5BgYGRrUpmzYvSs1bFBoM4auHRicj89V-squj8DX-PEfh2zo5ovALDYNQzFOV3YrCj5TjQVE_i8MLRT72fSIKP1rcFcIHAOJmQqQ"
+      "news_token": "Jih_Vnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvVSSflFqXmLQoMByrsLtw"
     },
     {
-      "query": "gta 6 update",
-      "search_volume": 50000,
-      "increase": 800,
+      "query": "microsoft code red",
+      "search_volume": 10000,
+      "increase": 500,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "6uJnBHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRnULF_NFqXmLQoOhfG-u1yh8k-UnkPlqR26dQ-EvWpmDol53XSoKP_XqFhS-6dJ8FL7vAlMUfr1RFQq_Li8Uxb69-4-iyBdN-YfMV10eag_hAwBfS1gF"
+    },
+    {
+      "query": "playstation plus",
+      "search_volume": 10000,
+      "increase": 500,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "rThSIHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRjXb4O2LUvMWhQZD-dsa1yHz1fXzUPiq7NLMKHwLJW8U_Zymich8lV_p-ijmsdn8QeYrGdcEIvMVU3PuoagXfWuBIn_i_W5kvrLuOzkU--uPnoPwAX9NVQA"
+      "news_token": "g9bqLHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRrWtgYsXpeYtCg2G8NVNl-aj8Bvcd6Lwa1iFUfg52tHIfNUj_GzIfKX8KjlkvmL9v1BkvsqryyjmK89syEKRd61kQLGv4nQKivlbDXeg2O-6pBrCBwBR-FW3"
     },
     {
-      "query": "jensen huang reinstated as ceo",
-      "search_volume": 1000000,
-      "increase": 500,
+      "query": "daisy fuentes",
+      "search_volume": 1000,
+      "increase": 400,
       "categories": [
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "uVjJSHicZZZ7TM1hGMePe8NEGCXSOZ3fybWaVVRULillJKd0U-2IlNHNRjRaZDZUJCf3DnOr1ThzrchSSIohHJeUpWiYy0bK7WDzfvjzs-_zvu_zvs_tTStMjE5YGZ2UHLEoKjnqsaxsR51MJusilVT31EUv16kDfrNqzuejIkuaEwOg93d_DnbpoQZ7GLKw3l67XGTr7HVvRZZ75FaJPDJ1ihZ6vUOiyDZjAh3BGWdsRFa6RT2BPxFF9fCn5IsG3NYCf1QBJ-9DL09JBpt0WOO8S5c8sV796h7PH_0CbLXAGRykGcv3PZGG846Z4T3ltrfHQXdP_ga-N2E1_Fv8uj_2d9U4gIP7Tae_T-3BIeV-4LDL48HTdI9wfrU6Bpy95BnshwchHsqDN3eB0_TXYT9VkQueZx_G-EzwBnd4VTKfa_me92efgu6d-R4cvikb9s-GDQJrzc4x3lm9oL_LGQPdtrMU8Ssd2QJ7lxV8z5C8VuhXXXaCCwbDP1Xkpvlgt6IS2Js6YX-rNtkakRUPdndHfUbWlGH9XlkXcD8TX7AhE_1A0fI1HRx4fR_sC-OD4e_c8hzo37ttAFed_8R8TUe9Sbe-oV9IdwpfgXUjfLDed78V4mHn0wj7m63W9Cd1BPPjyEHoqnwn6AvWpOI9H9SsY74e7gOuqFuPfrYnYCb9DzrJejB_iHq5--YwdNN01k9ENepReVTtzn6QdQHnbb4If5UftyJeNqMrZmG9X7MleeBp9tuf8yU2iv1YYKkptAi6sX-KurH_ifoo7WmRFbnbwVKlPBZsrFeRa33Yb8Or9uK-7Uk34H9Z423oDnHQVd3iG8BDlr1kvjYcJ9txHn3ayPfq8FoKbtRfYTzdTv3DW1mvK86CZ9uxnsMmoT5tQi04zwY4pTD_6-N5XrEO-o2-xeBxZ02xn6VzHd_7LeaJ5JPE-i9QG2BveQj-qtybu4LN-0zG-t0T0Z9UkXl8v_CMEPQnY_6I_cCr6TP8f7pawfu_PPBffqfE_NWHbWwSWeostgAb-71ob5xvIhv_BwLLSyv1Iv-aj7B_z_9b74k1jHcB_3NVmmuwd-ww4byydIV98wcz3vfLNtgHVgwH-3fPh33XLOZHwgz-B9SZ6C9SuOdQ7udYzXnTifyStPmYv6rQIYiX1L4wCJzzAvVi7aEEK_zjMK8UBue12H_8lHfMh4QtvM_F1n_yj__RYD3-q1L5Ie432IT_j1j9KvAVgxJsVfJnPvwAqj5KHA"
-    },
-    {
-      "query": "strait of hormuz shipping blockade",
-      "search_volume": 10000,
-      "increase": 500,
-      "categories": [
-        "other"
-      ],
-      "news_token": "u4iA4Xica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrVJitcWpeYtCg2G8NUjTnej8N1uV6DwGSKWoPD9GlYg89VcMzpQ-LtCsyB8APasLrM"
-    },
-    {
-      "query": "vanity fair taylor swift",
-      "search_volume": 5000,
-      "increase": 300,
-      "categories": [
+        "beauty_and_fashion",
         "entertainment"
       ],
-      "news_token": "SHs-Vnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvXoLysWpeYtCg2G8kP0mZD5agvic1H4HL8VIXwAt10c8g"
+      "news_token": "ynDte3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVFJw0XpeYtCg0GANJEDKU"
     },
     {
-      "query": "kaley cuoco daughter matilda rainbow dress",
+      "query": "allegiant air route cancellations 2025",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
-        "entertainment"
+        "travel_and_transportation",
+        "business_and_finance"
       ],
-      "news_token": "4K_7GXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRnV_89mLUvMWhQYDAM25DCs"
+      "news_token": "9tcekHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvW49QcWpeYtCg0GANMDDNc"
     },
     {
-      "query": "amd stock",
+      "query": "p3c",
       "search_volume": 10000,
       "increase": 100,
       "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "gW8u2nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRtUvvZGLUvMWhQZD-Gq7T7Gh8Pk4vFH4awpQ1KuL57xE4UefP4mifg4DI4QPANjRLfc"
-    },
-    {
-      "query": "orcl stock",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
         "business_and_finance",
         "technology"
       ],
-      "news_token": "lKkPGnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRnXesA-LUvMWhQZD-Go73LWR-eqhr66iyC8K34jMV-ZgNEPhJ130RuYr_smYjaL_xdZkFPPDWLlR-MERW1D0J5zZi6L_46OnKOqjGC0gfADT01Fa"
+      "news_token": "5xC9ZXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVH9w8vSs1bFBoMANkyDY0"
     },
     {
-      "query": "nike air force 1",
+      "query": "ice arrests seattle airport",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
-        "entertainment"
+        "law_and_government"
       ],
-      "news_token": "x9RGgHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrXv83csSs1bFBoM4avHND5F5qulfuJG4b8o_orCD_RNReHzzJ6Lwl9cehXFfGsdPmS-EmOPJjJfdU92O4QPAAI9QGY"
+      "news_token": "LbO_nXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrUFR08sSs1bFBoMANYzDTY"
     },
     {
-      "query": "intc",
+      "query": "ai safety",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
-        "business_and_finance",
+        "science",
         "technology"
       ],
-      "news_token": "OJRkhHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrWjD7YtSs1bFBoM4as25vIi89XkDOtQ-LtPsaHw1xREovAX5dgg85VtK0ogfAD1IC5R"
+      "news_token": "ExOGF3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRvVogwWLUvMWhQZD-cV6WSh8V4_jyHy141ZTUfgzr3ujqLf-sBmFL-yaj6J-ketJFP6Kz40o_FMiQSh8oam-KHztM5eQ-aqNnHNQ5L8k96Lw2eZ1QvgAirhcew"
     },
     {
-      "query": "seattle-tacoma international airport",
+      "query": "temporary protected status haiti impact",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "YRC6HHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrUFR08sSs1bFBoM4ateyS-F8AHZEBM2"
+      "news_token": "9FgxvHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtXTfIGLUvMWhQZD-OqB5y2R-Yp9s5kgfAAGrhdE"
     },
     {
-      "query": "tesla stock",
-      "search_volume": 10000,
-      "increase": 75,
+      "query": "honda recall airbags",
+      "search_volume": 2000,
+      "increase": 100,
       "categories": [
         "autos_and_vehicles"
       ],
-      "news_token": "-ctZ53ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnXRtxaLUvMWhQZD-eFcx1D4olmvkPmq9vcnIfOVI8KYkPlKLZ0iyHy1y2ug-gGoMS5u"
+      "news_token": "saxrcnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtVvk2IXpeYtCg2G8NUeK9ej8L9_4ULmq-5cFYrMV7p48RCEDwASuSWi"
     },
     {
-      "query": "ibm stock",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance",
-        "technology"
-      ],
-      "news_token": "tXenRXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRvXoXY2LUvMWhQZD-KpbPFOQ-WpKjz4j89UFeFpR5KelPEPh_9p6AsIHAEMHKl0"
-    },
-    {
-      "query": "404 media",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "HRVxD3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrWQZRKLUvMWhQZD-RU_Z6Lwp3GZofC3Lk1F5qtwtO1FkXf8n4XCvyfVDeEDAN7SLuY"
-    },
-    {
-      "query": "apple stock price",
+      "query": "jaime munguia",
       "search_volume": 2000,
-      "increase": 50,
+      "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "k8Sc0nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrUpFRyLUosXhQZD-Op2ershfAC6lBGY"
+    },
+    {
+      "query": "pope leo xiv new saint decree",
+      "search_volume": 2000,
+      "increase": 100,
       "categories": [
         "other"
       ],
-      "news_token": "rV2IjHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRsWt8o8WpeYtCg0GANJEDLo"
+      "news_token": "RmZVvHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRnU5JbtFqXmLQoMhfLW6FfcgfACydRHV"
     },
     {
-      "query": "apple stock",
-      "search_volume": 2000,
-      "increase": 50,
+      "query": "xbox game pass new games november",
+      "search_volume": 1000,
+      "increase": 100,
       "categories": [
-        "business_and_finance"
+        "games",
+        "technology"
       ],
-      "news_token": "00vkGXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrXbJXyLUvMWhQZD-OqR8zJQ-AlVVSh8JglrFH5o305kvtrpYhZkviq7NDOEDwCQniwq"
+      "news_token": "s6OJznica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRrUZu04uSs1bFBoM5W9LuY_MVw_qc0fmq8xh9ULmK8uue4aiP_djCjJf8UaeATJf6fgqLggfAGipNYU"
     },
     {
-      "query": "crm stock",
-      "search_volume": 200,
-      "increase": 50,
+      "query": "3.5 billion records exposed database leak",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "a-rhpHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvXixhOLUvMWhQYDANKIDMY"
+    },
+    {
+      "query": "nvidia cfo",
+      "search_volume": 500,
+      "increase": 100,
       "categories": [
         "business_and_finance",
         "technology"
       ],
-      "news_token": "vu9runica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrUlWd2LUvMWhQZD-RWixij8jNP_kfnq0eIfkPmqf6VaIXwAy1Mjtg"
+      "news_token": "GOjtMHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjXlpPRFqXmLQoOh_N2n2FD43hJrkPnqwhfjkfmqjZtPQvgAmY0i8w"
     },
     {
-      "query": "google play",
+      "query": "train",
+      "search_volume": 200,
+      "increase": 100,
+      "categories": [
+        "other"
+      ],
+      "news_token": "tHEHPHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnXnqSsXpRUtCg2G8mtuHkbhp9xvQeEHHESRV3uidQmFr7OTBZmvdL9GFsIHAGYUMFc"
+    },
+    {
+      "query": "spotify wrapped 2026",
       "search_volume": 200,
       "increase": 50,
       "categories": [
-        "technology"
+        "entertainment"
       ],
-      "news_token": "k10yHHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRnWWzbGLUvMWhQZD-cER11D4Ia2yyHy1daFTkPlKDtrSyHzFZKVaFPlLu11Q-MV59yF8AIbiMzU"
-    },
-    {
-      "query": "vrt stock",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "sR_igXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVZx9YsSs1bFBoMANVBDRU"
-    },
-    {
-      "query": "nvidia market cap",
-      "search_volume": 200,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "-t1hw3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRvWE9pBFqXmLQoOh_Ph111D4cW_Skflql9e8QpGXjzBHkd99ig3CBwBeOSnr"
+      "news_token": "ezZ2gHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVLL7QXpeYtCg0GANTCDO4"
     }
   ]
 }
