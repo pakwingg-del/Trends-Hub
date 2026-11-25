@@ -10,171 +10,175 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 17,
+      "keywords_count": 18,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-24 21:31:03"
+      "last_updated_hkt": "2026-11-25 21:31:12"
     }
   },
   "trending_seeds": [
     {
-      "query": "spotify outage",
+      "query": "chipotle bogo",
+      "search_volume": 10000,
+      "increase": 1000,
+      "categories": [
+        "food_and_drink"
+      ],
+      "news_token": "kfarPXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrX_XxkXpeYtCg0GANWZDP4"
+    },
+    {
+      "query": "artificial intelligence",
       "search_volume": 2000,
-      "increase": 600,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "Jih_Vnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvVSSflFqXmLQoMByrsLtw"
-    },
-    {
-      "query": "microsoft code red",
-      "search_volume": 10000,
-      "increase": 500,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "6uJnBHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRnULF_NFqXmLQoOhfG-u1yh8k-UnkPlqR26dQ-EvWpmDol53XSoKP_XqFhS-6dJ8FL7vAlMUfr1RFQq_Li8Uxb69-4-iyBdN-YfMV10eag_hAwBfS1gF"
-    },
-    {
-      "query": "playstation plus",
-      "search_volume": 10000,
-      "increase": 500,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "g9bqLHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRrWtgYsXpeYtCg2G8NVNl-aj8Bvcd6Lwa1iFUfg52tHIfNUj_GzIfKX8KjlkvmL9v1BkvsqryyjmK89syEKRd61kQLGv4nQKivlbDXeg2O-6pBrCBwBR-FW3"
-    },
-    {
-      "query": "daisy fuentes",
-      "search_volume": 1000,
       "increase": 400,
       "categories": [
-        "beauty_and_fashion",
-        "entertainment"
-      ],
-      "news_token": "ynDte3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVFJw0XpeYtCg0GANJEDKU"
-    },
-    {
-      "query": "allegiant air route cancellations 2025",
-      "search_volume": 2000,
-      "increase": 200,
-      "categories": [
-        "travel_and_transportation",
         "business_and_finance"
       ],
-      "news_token": "9tcekHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvW49QcWpeYtCg0GANMDDNc"
+      "news_token": "GwBSpnica1xTlFpYmlpcEp-SWJJ4h0Fz8nkGBgZG1f37HRel5i0KDYbyXzxbg8xXD50Qi8xXU4xnROG_rLmEwm88w47CX1MQiWIeb7IrCj9yXjeK-ga-fhT-Bfe5KPyV311Q-CaLHqKY13zZBEX-axWKfWqHHlmj8PW4bqLoD34TisKvYv-Dwm80aEfht3JmoISfRZodinzfVWYUfn_idxQ-c7Qfins2z0B1_-5TbCjqlz7Yi8Kf-8cfRX35_lUo_KsmgSj8325HUeP31VUUebEYSRT_fBBXQeF_43uFor93wQ0U_Z3OeSjydfKNyHyVacUo8anyZulmCB8AOhD1GA"
     },
     {
-      "query": "p3c",
-      "search_volume": 10000,
-      "increase": 100,
+      "query": "jensen huang nvidia stock",
+      "search_volume": 1000,
+      "increase": 300,
       "categories": [
-        "business_and_finance",
-        "technology"
+        "business_and_finance"
       ],
-      "news_token": "5xC9ZXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVH9w8vSs1bFBoMANkyDY0"
+      "news_token": "FLSEGHica1xTlFpYmlpcEp-SWJJ4h0Ft8nkGBgZGtd2n2Bal5i0KDYbyy_evQuar7t_viMxXV7hhiKL-8ppXKPzXz9-jqF-ybjkKf-mDvSjqrxpXosiLT8hH4S97sA6FP7P5BYr-gxd_ocgvtGRG5it9vZOOzFe-MYsFRX3XpXYUfqLWGxTzu3-i8NVnV99G4Ve2CqGov39-Dkr4NW4-iSJ_oKoERb_HpwhU-_nuovqXcw2K_veaBijybYko_lUv3nUZhS9g_xhF_8N_LSjy8yo_ovDne29C4dfllaLw67OjUfixKQEo_r37ahqEDwDPS-v3"
     },
     {
-      "query": "ice arrests seattle airport",
+      "query": "ice detainee habeas corpus petitions",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
         "law_and_government"
       ],
-      "news_token": "LbO_nXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrUFR08sSs1bFBoMANYzDTY"
+      "news_token": "4Z-Ls3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvXeDcsWpeYtCg0GANP8DO0"
     },
     {
-      "query": "ai safety",
-      "search_volume": 2000,
+      "query": "mario kart world update",
+      "search_volume": 5000,
       "increase": 100,
       "categories": [
-        "science",
-        "technology"
+        "games"
       ],
-      "news_token": "ExOGF3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRvVogwWLUvMWhQZD-cV6WSh8V4_jyHy141ZTUfgzr3ujqLf-sBmFL-yaj6J-ketJFP6Kz40o_FMiQSh8oam-KHztM5eQ-aqNnHNQ5L8k96Lw2eZ1QvgAirhcew"
+      "news_token": "F4B9PXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvUOW4tFqXmLQoMhfLXv4XeQ-Sr-z54i81V1NPxR1HNuXwrhAwDWeyN0"
     },
     {
-      "query": "temporary protected status haiti impact",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "law_and_government"
-      ],
-      "news_token": "9FgxvHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRtXTfIGLUvMWhQZD-OqB5y2R-Yp9s5kgfAAGrhdE"
-    },
-    {
-      "query": "honda recall airbags",
+      "query": "airbag",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "autos_and_vehicles"
       ],
-      "news_token": "saxrcnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtVvk2IXpeYtCg2G8NUeK9ej8L9_4ULmq-5cFYrMV7p48RCEDwASuSWi"
+      "news_token": "34YFe3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRtVvk2IXpeYtCg0GANSqDO0"
     },
     {
-      "query": "jaime munguia",
-      "search_volume": 2000,
+      "query": "savasleyka air base",
+      "search_volume": 1000,
+      "increase": 100,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "mKPBGnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvW-2KRFqXmLQoOhfM2zpyB8AMPSEmE"
+    },
+    {
+      "query": "tiktok outages",
+      "search_volume": 1000,
       "increase": 100,
       "categories": [
         "entertainment"
       ],
-      "news_token": "k8Sc0nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrUpFRyLUosXhQZD-Op2ershfAC6lBGY"
+      "news_token": "3XWlmXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvUm3rhFqXmLQoMBzIkL9w"
     },
     {
-      "query": "pope leo xiv new saint decree",
-      "search_volume": 2000,
+      "query": "samsung galaxy",
+      "search_volume": 200,
       "increase": 100,
       "categories": [
-        "other"
+        "technology"
       ],
-      "news_token": "RmZVvHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRnU5JbtFqXmLQoMhfLW6FfcgfACydRHV"
+      "news_token": "knZB73ica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZGtU8n-Ral5i0KDYbyr536gsLfoVWHwn_ckYzMV3cQYUbhz9BfjcJv_siPzFfZxbQeRZ5B8AcKv_1yIop965dLo8jXmTxH4RsbPkHhp5XLovDjtYNQ-DU3NSF8AMUDYlA"
     },
     {
-      "query": "xbox game pass new games november",
-      "search_volume": 1000,
+      "query": "hailey bieber",
+      "search_volume": 200,
       "increase": 100,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "LyI-TXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrUamy2LUvMWhQZD-OqNNVtR-OycBSj8KLFtKPz67Hco_MSrU5D5qi-tOpH5SjvWLUWRX7izBpmvdrBWCsIHAEnIQOQ"
+    },
+    {
+      "query": "playstation plus december games",
+      "search_volume": 2000,
+      "increase": 75,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "s6OJznica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRrUZu04uSs1bFBoM5W9LuY_MVw_qc0fmq8xh9ULmK8uue4aiP_djCjJf8UaeATJf6fgqLggfAGipNYU"
+      "news_token": "-LbPInica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrWtgYsXpeYtCg0GANJNDLI"
     },
     {
-      "query": "3.5 billion records exposed database leak",
+      "query": "microsoft outages code red",
       "search_volume": 500,
-      "increase": 100,
+      "increase": 75,
       "categories": [
         "technology"
       ],
-      "news_token": "a-rhpHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvXixhOLUvMWhQYDANKIDMY"
+      "news_token": "DeVKZHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRnULF_NFqXmLQoMBypYLvQ"
     },
     {
-      "query": "nvidia cfo",
+      "query": "nvidia share price sell off",
       "search_volume": 500,
-      "increase": 100,
+      "increase": 75,
       "categories": [
-        "business_and_finance",
+        "business_and_finance"
+      ],
+      "news_token": "okikgHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRrXy_asWpeYtCg2G8l8_f4_MV92_3xGZr770wV4U_pJ1y1H0l76aAuEDAPOuLQU"
+    },
+    {
+      "query": "breeze airways new routes 2026",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "travel_and_transportation",
+        "business_and_finance"
+      ],
+      "news_token": "Gs5HNXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvWFfrKLUvMWhQZD-Q1aChA-ALdjESo"
+    },
+    {
+      "query": "1password",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
         "technology"
       ],
-      "news_token": "GOjtMHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRjXlpPRFqXmLQoOh_N2n2FD43hJrkPnqwhfjkfmqjZtPQvgAmY0i8w"
+      "news_token": "WQmlgXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvXFHcKLUvMWhQZD-bPvxSLzlT6bxEH4ABj5GDI"
     },
     {
-      "query": "train",
-      "search_volume": 200,
-      "increase": 100,
+      "query": "samsung galaxy s26",
+      "search_volume": 1000,
+      "increase": 50,
       "categories": [
-        "other"
+        "technology"
       ],
-      "news_token": "tHEHPHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRnXnqSsXpRUtCg2G8mtuHkbhp9xvQeEHHESRV3uidQmFr7OTBZmvdL9GFsIHAGYUMFc"
+      "news_token": "BpZ4Wnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRvX2y4mLUvMWhQZD-VP-qKDw60yeI_PVNv7YisLfoVWHzFfZxbQeRX7rw3oU8yZlWCDzlaZJTUbhC9ZnoPCnr_uKwn_8Iw2ZrxgklQ3hAwAjxFNn"
     },
     {
-      "query": "spotify wrapped 2026",
-      "search_volume": 200,
+      "query": "hailey bieber nyt interview",
+      "search_volume": 100,
       "increase": 50,
       "categories": [
         "entertainment"
       ],
-      "news_token": "ezZ2gHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVLL7QXpeYtCg0GANTCDO4"
+      "news_token": "4uyn0nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRnV2zoJFqXmLQoMhfLWDtVLIfNWXVp0QPgDv4Rcf"
+    },
+    {
+      "query": "ukraine news",
+      "search_volume": 100,
+      "increase": 50,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "xf1ytnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRnXdG78WpeYtCg2G8rXV3ZH5ahfqPqPIL-08hCL_YmsDinxmZTkKX_PsKRR-z_dYFH515gUIHwAngDzr"
     }
   ]
 }
