@@ -10,289 +10,225 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 29,
+      "keywords_count": 22,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-26 21:31:06"
+      "last_updated_hkt": "2026-11-27 21:31:01"
     }
   },
   "trending_seeds": [
     {
-      "query": "happy thanksgiving message",
+      "query": "iran attacks kuwait",
+      "search_volume": 5000,
+      "increase": 500,
+      "categories": [
+        "law_and_government"
+      ],
+      "news_token": "L6gqFHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrXdqdMXpeYtCg2G8NUjTnej8O9bHUTmqy3JZEDhizYFo_BPJpSj8J9uFUDmK8kuC0WRj9mZicxXeCzUD-EDAIKZQCw"
+    },
+    {
+      "query": "aircraft carrier",
+      "search_volume": 10000,
+      "increase": 300,
+      "categories": [
+        "politics",
+        "law_and_government"
+      ],
+      "news_token": "JdCBtHica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZGtSWZDItS8xaFBkP5u1OnI_PVTyTuQuH3J35H4T_Qfo3CjzjdjWLeyYRyFPmnWaUo8o7T_FH4KxZMRlGv4vUM1f7Fcch85fy5Lsh8pYfv3qLwVdfdRuar9LKh6Ffn8XmPzFf9xeaHIr-xdDsK_8KaEhT3Vt64iyKff4sXhX-sWQ9FfVx6NIp9AvlQ_wIA1YCZ3w"
+    },
+    {
+      "query": "russian ukraine war",
+      "search_volume": 500,
+      "increase": 300,
+      "categories": [
+        "politics",
+        "law_and_government"
+      ],
+      "news_token": "T4C8wHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRvVMzUOLUvMWhQZD-GrXCj8h89WrX1ej8Nsr16Dwn7xyRdF_yeA6iry2ujsKP44pC0X9a0VvFPk72_JQ-PdXvkdRH_7vAYq87o1fKPKfvhyD8AGo3Fve"
+    },
+    {
+      "query": "apple black friday deals",
       "search_volume": 20000,
-      "increase": 1000,
+      "increase": 100,
       "categories": [
-        "hobbies_and_leisure",
-        "law_and_government",
-        "politics"
+        "technology",
+        "shopping"
       ],
-      "news_token": "LGfjX3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvUjk4oWpeYtCg2G8nfY5qLwl9pfR-Hvzn2Iwj_ccwmFf2LnAxT-sY9LUfVvRzV_d-ckZL7ypOkrIHwAr_lE8g"
+      "news_token": "Tx3-8Xica1xTlFpYmlpcEp-SWJJ4h0Fx8nkGBgZGtQ3pMYtS8xaFBkP5h_4eRuar_vsyCUX-qIg4Ct9k4UEUvv0FHmS--s3AYyjyyzWZUOQ3PUlAkVdQfoDCv-7bgKK-5RUvinyu8VUU_qXJ_1DUy5fuQeG_Xi2Nyk_kQ9Gv83MdivwBcVT7X9h1oPDvXlNE0X-n-jgKv9HrHYr665O7UPh7slDCR73O5DkKv_mSFgp_4isU9yg56hsi81Wk-ktR4u8qzywU97DO8Ebha_yB2gcAYePJZQ"
     },
     {
-      "query": "dominion power outage",
-      "search_volume": 100000,
-      "increase": 800,
-      "categories": [
-        "other"
-      ],
-      "news_token": "2dbx_3ica1xTlFpYmlpcEp-SWJJ4h0Fy8nkGBgZG9RMFpxel5i0KDYbw1XQk45D56scUqlD4AYcWoMoXh6PwTyR8QpU_wojCP7T1CCr_sT6q-oA-VPNc1iDzVS6zrEXmK706juI-lcnhySjyCWXTUMzbrp-P4l_HcksU_cmVJqj289mh8JfaT0Z1r1EwCr8n8woKf5_3exR-3D4U-9TXn0mD8AHgu5kU"
-    },
-    {
-      "query": "hailee steinfeld",
-      "search_volume": 2000,
-      "increase": 800,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "0Rh1yHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvUDL4wWpeYtCg2G8uWvyaDw_a5NQOE7fz-Owt-R3YPCX3FSF4WfNsMAma_UE7YEma9m6-QI4QMA5Cs6tQ"
-    },
-    {
-      "query": "ameren outage map",
-      "search_volume": 50000,
-      "increase": 700,
-      "categories": [
-        "climate"
-      ],
-      "news_token": "OwB3MHica1xTlFpYmlpcEp-SWJJ4h0F58nkGBgZG9YBDCxal5i0KDYbyj9bxo_APxVaj8JP4HqLwl321ROGf1PuNwl_sZI3MV0teJYjC38znh8xXnnnsAQqfK-8Kqvmf9qLwD844gMrf0ILCP1FwGpmvklxpgiK_f4EuCv_YEUYU_rqX5Sju1ZGMQ-H_LSxEUc87MQSFv-jyEVT3mAih8He96ULhL5zsiMKvUriJwj9VXY_Cn_nzFQq_Lw7V_4e2XkPhd95iQ-Hv1P6L4p9ii83IfNV1H1QhfACQzdae"
-    },
-    {
-      "query": "fedex plane crash miami airport",
-      "search_volume": 10000,
-      "increase": 600,
-      "categories": [
-        "business_and_finance",
-        "travel_and_transportation"
-      ],
-      "news_token": "ZyX4jXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvU132csSs1bFBoM4SvxX_VA5qvd-r0Ama--XysaRT5g0kUIHwAYrCT-"
-    },
-    {
-      "query": "jonathan bailey",
-      "search_volume": 2000,
-      "increase": 400,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "nF_kF3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvUwxf-LUvMWhQZD-EoaQjzIfNVlx5pR5C9LPobwAaFAHVY"
-    },
-    {
-      "query": "gta6 leonida",
-      "search_volume": 500,
-      "increase": 200,
-      "categories": [
-        "games",
-        "shopping",
-        "technology"
-      ],
-      "news_token": "tAYBg3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvWTDqsXpeYtCg2G8k2XmSPz1W50hKHIL-TmQ5E_lMGEwv8Tp4zC33L_D4QPANQuLzA"
-    },
-    {
-      "query": "camera",
-      "search_volume": 500,
-      "increase": 200,
+      "query": "air force hacked",
+      "search_volume": 20000,
+      "increase": 100,
       "categories": [
         "technology"
       ],
-      "news_token": "4DhvMHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvXWr1MXpeYtCg2G8tsvJ6Lwt5edRearPmdrRZHvc32Jwg_q60Dhd2dzofDXPBdH4a_acROFr3nbDMIHADCQQhs"
+      "news_token": "AD66h3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvW7jLMWpeYtCg2G8qXUTFD4Fi7mKPzLx_4i81XmS5Yg85WZVhmg8JMu2kL4AIngLWg"
     },
     {
-      "query": "cloud",
-      "search_volume": 500,
-      "increase": 200,
+      "query": "apple",
+      "search_volume": 20000,
+      "increase": 100,
       "categories": [
         "technology"
       ],
-      "news_token": "IwiNInica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRvU1eg6LUvMWhQZD-e0eTij8udMDUfh1JldQ-Msy_6LwT-wUReFbuJij8I80_kPhMy6djcI_uuMAKv_fAhT-YY9bED4AJiJNzA"
+      "news_token": "MchRbnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRnWurIOLUvMWhQZD-Gob0mNQ-EdFxJH56vKle5D5qv--TEJRf_vJDhT-6WIWFL7Gn-co5j15eQKF32qgAuEDALDOQjs"
     },
     {
-      "query": "the legend of zelda wind waker",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "games",
-        "technology"
-      ],
-      "news_token": "lSRh93ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvXtPxoWpeYtCg2G8jd3KUD4ANcpEuA"
-    },
-    {
-      "query": "robot",
-      "search_volume": 200,
-      "increase": 200,
-      "categories": [
-        "hobbies_and_leisure"
-      ],
-      "news_token": "4vfvpnica1xTlFpYmlpcEp-SWJI4f_J5BgYGRtXXJ7YsSs1bFBoM4as9aIxD5qtvepKAwndIOozC3y9Qj8I_9M0Ihb_8mjAKf-qViSj8U1MmoNj_R6IFRb4hKwyZr3pobTGKfPgtHhT9jzs5UPgbb76D8AEemmEi"
-    },
-    {
-      "query": "laguardia airport",
-      "search_volume": 10000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "76otkHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvVVk1ctSs1bFBoM5RvkHUfmq-lIxqHIs3x5gsxX0fo0H8IHANIdI7Q"
-    },
-    {
-      "query": "delmarva power outage",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "LeP3j3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRvVT5m2LUvMWhQZD-ceOMKLwt-vnQ_gAG_kYBQ"
-    },
-    {
-      "query": "spotify wrapped 2026",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "ezZ2gHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVLL7QXpeYtCg0GANTCDO4"
-    },
-    {
-      "query": "duke energy power outage",
-      "search_volume": 5000,
-      "increase": 100,
-      "categories": [
-        "other"
-      ],
-      "news_token": "t_hj-Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvVjRsGLUvMWhQZD-XvDz0D4AMV7En8"
-    },
-    {
-      "query": "switch 2 black friday",
-      "search_volume": 2000,
+      "query": "nintendo switch 2 black friday deals",
+      "search_volume": 20000,
       "increase": 100,
       "categories": [
         "games",
         "technology",
         "shopping"
       ],
-      "news_token": "qyPsRHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrXv4XcWpeYtCg2G8NU3PUlA5qsdFRFH5qs-n_sIRf2xRA4IHwAc8CTT"
+      "news_token": "SAfGt3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRrXv4XcWpeYtCg2G8u9UH0fhS33-icxXfT73ETJf_QTffRT1R0XEUfgKyg9Q1G96kgDhAwASizd7"
     },
     {
-      "query": "cenly chen",
-      "search_volume": 2000,
+      "query": "playstation 5",
+      "search_volume": 20000,
       "increase": 100,
       "categories": [
-        "business_and_finance",
-        "technology"
+        "games"
       ],
-      "news_token": "NSmWfHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrUFR7csKstcFBoM4av33FsH4QMA2xkTnA"
+      "news_token": "lBZbaXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvUVaQaLUvMWhQZD-Gp3qo8j89V36oig8GvZ96CoX5n3FUX-zgtuFP6zmddQ-BPOHYPwAUv5Nvc"
     },
     {
-      "query": "happy thanksgiving 2026",
-      "search_volume": 2000,
+      "query": "tv black friday deals",
+      "search_volume": 10000,
       "increase": 100,
       "categories": [
-        "hobbies_and_leisure"
+        "technology",
+        "shopping"
       ],
-      "news_token": "c4aUjnica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvVjTQ8XpeYtCg2G8o_WnkHhHzx8DIW_1mUqCn-H4FoU_pFJRSj8Re_-o_CXM_xE4adJLYfwAczIPfU"
+      "news_token": "9K0kunica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZGtd2TPy5KzVsUGgzhq98MPIbMV_P-mociv0onB4X_PDYXhT9twTdkvopcKyOKeRp_nqOoP6KLat7i9FoU_i1zVRT-picJKPx9vr0o5l-qmIPKrzRF4R8VEUfh739Yh2LeInZfFPnvW_qQ-aoaT7ejqG-5_QnCBwB-AYQc"
     },
     {
-      "query": "the tv app",
-      "search_volume": 500,
+      "query": "gamestop black friday",
+      "search_volume": 10000,
       "increase": 100,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "QMSMynica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvUpDusWpeYtCg0GANDzDIw"
-    },
-    {
-      "query": "ps5 black friday deals",
-      "search_volume": 5000,
-      "increase": 75,
       "categories": [
         "technology",
         "games",
         "shopping"
       ],
-      "news_token": "OBd-f3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvUJ544tSs1bFBoM5Z90WI3MVzsqIo4ivyLNAJmv8uryThT5GcVcyHzVP7x-ED4APmIvqA"
+      "news_token": "4uAJyXica1xTlFpYmlpcEp-SWJJ4h0Fi8nkGBgZG9Qnnji1KzVsUGgzln3RYjcJf0b0Gma_y6vJOZL7qH14_FPXqP31R-BETbqHwb355jmp-mgEyX21l3lcU-YozJ1H4i6u8UfiHz9mj8GvZ96Dwn828hsLfqSOCwleap4bCP_SoHsW_zqsmI_OVtk74j-LeO9XHUfj88_RRzHuciuof2SfLIHwAa9-YGw"
     },
     {
-      "query": "ocarina of time update",
+      "query": "t mobile black friday deals",
+      "search_volume": 10000,
+      "increase": 100,
+      "categories": [
+        "technology",
+        "shopping"
+      ],
+      "news_token": "grF0FHica1xTlFpYmlpcEp-SWJI4e_J5BgYGRjX7CzyLUvMWhQZD-Op1Js9R-HuyjqHwmy9pIfPVNqTHoPCPioijqJ_4qgGZr3qVZxaK-lzjqyjqV5Z4ofAj-bUhfACdyUVP"
+    },
+    {
+      "query": "play station 5",
       "search_volume": 5000,
-      "increase": 75,
+      "increase": 100,
       "categories": [
         "games",
         "technology"
       ],
-      "news_token": "Xe6Q63ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRvU1XiyLUvMWhQZD-GpbFHYg85WmJtsi81VME1wgfAChxRxz"
+      "news_token": "vfzTGHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRrWVeV8XpeYtCg2G8NUnnDuGwl-RZoDC36kjgsI_6bAahX_zy3MU_naGS6jmda9B4RscNUHhz6nTQuFH_QpD5qvEnnsN4QMAT0ZOmA"
     },
     {
-      "query": "bogo chipotle today",
+      "query": "ai bubble",
+      "search_volume": 500,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "b3N1nHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRrU1BZGLUvMWhQZD-OoBqStR-LIT-VH4Up4CKPzpFw6i8BdLTUbmqzadkEbmK3e-RjXvwp9JED4AC3w6FA"
+    },
+    {
+      "query": "xbox series x black friday",
+      "search_volume": 10000,
+      "increase": 75,
+      "categories": [
+        "games",
+        "technology",
+        "shopping"
+      ],
+      "news_token": "NJrxd3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRjX-efqLUvMWhQZD-XeqjyPz1a_Zvkbhn6pmQuGfdFiNov98VzqK_IRzx1DkDz5AUa9yrncehA8ABOo9bw"
+    },
+    {
+      "query": "laptop black friday deals",
       "search_volume": 5000,
       "increase": 75,
       "categories": [
-        "food_and_drink"
+        "technology",
+        "shopping"
       ],
-      "news_token": "kfarPXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrX_XxkXpeYtCg0GANWZDP4"
+      "news_token": "Dotxc3ica1xTlFpYmlpcEp-SWJJ4h0Fk8nkGBgZGtUN_Dy9KzVsUGgzl36k-jsI_KiKOwr80-R8yX_Xfl0ko8hvSY1D49hd4UPjft_Sh8JdrMiHz1Tc9SUDhv-6PRlGv8ec5ivyTylUo7olirEaRvxl4DIUvY6eMYp7JwoMofAXlByj8uzUo6lUi2NogfADkLn0K"
     },
     {
-      "query": "peco outage",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "other"
-      ],
-      "news_token": "20ZlJnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvVjRxgXpeYtCg2G8NWqY35D-ADK4hKw"
-    },
-    {
-      "query": "teslarati",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "autos_and_vehicles"
-      ],
-      "news_token": "02zbIHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRnXRtxaLUvMWhQZD-SksHBA-ALg4EP4"
-    },
-    {
-      "query": "when will ios 27.3 be released",
-      "search_volume": 500,
-      "increase": 75,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "SdwV0nica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvVDp38vSs1bFBoM5cephiPz1eK6WlH4zKtykPmq2gdFkfkqkzuVkPlKD1Y_h_ABBlEvUw"
-    },
-    {
-      "query": "gta6 ps5",
-      "search_volume": 200,
-      "increase": 75,
-      "categories": [
-        "technology"
-      ],
-      "news_token": "0QlfzHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvWdOiKLUvMWhQZD-GonnGSQ-eqmy8xR-MdT96PwIybcQuGfdFiNYt7KvK8o8iu610D4AOGLNYs"
-    },
-    {
-      "query": "ps5 console",
+      "query": "apple stock price",
       "search_volume": 1000,
+      "increase": 75,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "l9FW0Hica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrXTxSyLUvMWhQZD-OrLvnmi8A9N34vMV7v9ZAeEDwDiWh-a"
+    },
+    {
+      "query": "apple tv black friday",
+      "search_volume": 10000,
       "increase": 50,
       "categories": [
-        "games",
-        "technology"
+        "entertainment"
       ],
-      "news_token": "7S0y3Hica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGtZV5Xxel5i0KDYbw1SecO4bCj5hwC4VvuswchX88dT8yX-2EkwyK_Io0A2S-6h9ePxT5eY5pKPzShGRkvorzqsnIfOVlEsEo8rfXz0Dhv7q8E5mv9M1jFqp7qlRR5JdPF4DwAeGqapg"
+      "news_token": "-a8tnXica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRjWNP88XpeYtCg2G8o-KiCPz1Tc9SUDhRx1MR1G_e_JHFPnF6bUo8hvSY1Dk3Y-fQOYrVxm0IPNVXTftQeFf5ZmFYl6u8VUIHwD8Lk1-"
     },
     {
-      "query": "dji",
-      "search_volume": 1000,
+      "query": "laptop",
+      "search_volume": 5000,
       "increase": 50,
       "categories": [
         "technology",
-        "shopping",
-        "entertainment",
-        "hobbies_and_leisure"
+        "shopping"
       ],
-      "news_token": "Ksf_QHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrWNisKLUvMWhQZD-cyKWSj871v6UPhHRcSR-SofHauR-eoT9yqg8Gu_aaDw5_Nbopj3YPJjFP7bfQshfADTikB2"
+      "news_token": "nv0OzHica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZGdQ-W7kWpeYtCgyF8NZOFB5H56kVTS1DkD_09jCKfUdOOwt-0nBOF3_QkF4X_YP8jFP7Sg5Eo_O6sYyj8yCOSKPa_-l6AIn9nOz-K_FERcWS-ssySPmS-0p6fL1Hk56_bhSL_tJwLwgcAT31yoQ"
     },
     {
-      "query": "universal studios orlando",
-      "search_volume": 200,
+      "query": "roku tv",
+      "search_volume": 5000,
       "increase": 50,
       "categories": [
-        "entertainment",
-        "travel_and_transportation"
+        "technology",
+        "entertainment"
       ],
-      "news_token": "iRGpR3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvXab2mLUvMWhQZD-cf4g5H5ajczm1Hk11u_QJGPk2JDkedNMkCRf8U1CcIHAPLCLf4"
+      "news_token": "giugLXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvUOm8JFBTmLQoMhfNVwnU3IfPWW259Q-Ke0YpD5Kse-hqHw6_0PoPAvOUVA-AAfUzAQ"
+    },
+    {
+      "query": "ultra",
+      "search_volume": 2000,
+      "increase": 50,
+      "categories": [
+        "technology",
+        "shopping"
+      ],
+      "news_token": "Squr0Hica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvV7ef6LUvMWhQZD-S8mzkThzwxG5VdxTkbmq133bUCR15B-hcK_MrsQha_FYo2ivzzCFsIHAL-FOcY"
+    },
+    {
+      "query": "apple tv 4k",
+      "search_volume": 1000,
+      "increase": 50,
+      "categories": [
+        "technology"
+      ],
+      "news_token": "0Pmo0Xica1xTlFpYmlpcEp-SWJI4c_J5BgYGRrWjIiyLUvMWhQZD-OrX-UxQ-CZ3vZH5KnU35iHzldeJKSLz1XSvr0RR_9ZwI4o8y43jyHzFb-kcED4AIqI59g"
+    },
+    {
+      "query": "tony aiello",
+      "search_volume": 500,
+      "increase": 50,
+      "categories": [
+        "entertainment"
+      ],
+      "news_token": "PcDQ-3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvWDtzsWZZYsCg0GANaCDTg"
     }
   ]
 }
