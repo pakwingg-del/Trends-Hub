@@ -10,20 +10,20 @@
     "strategy": "Slim SerpAPI: few categories + scoop from all@24; empty never overwrites",
     "provider": "serpapi",
     "config": {
-      "keywords_count": 33,
+      "keywords_count": 30,
       "fetch_errors": 0,
-      "last_updated_hkt": "2026-11-26 21:31:05"
+      "last_updated_hkt": "2026-11-27 00:30:59"
     }
   },
   "trending_seeds": [
     {
-      "query": "cbs",
+      "query": "black friday deals on thanksgiving day",
       "search_volume": 5000,
-      "increase": 700,
+      "increase": 1000,
       "categories": [
-        "business_and_finance"
+        "shopping"
       ],
-      "news_token": "H2reSXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvUkeftFqXmLQoMhfLXkVYLIfPWDtztQ-PXvUdVvNa9B4Wv8eY6ivjCrGJmvklxpgiJ_ZFIRhA8Aar46nA"
+      "news_token": "7cffbXica1xTlFpYmlpcEp-SWJJ4h0Fs8nkGBgZG9U1PEhal5i0KDYbw1X7IsaPwj4qII_PVTxcfROHXRf9E4Z9y8Ubhy8qaoZjX6PUORX7Ln2BU-822ocg3fRZDkd8d4Ioif6jeBoW_9IAyCr_kiCIK3_CnMDJfVY_TAEXepeUOqn2TP6LwryStQuYrOeoboph3zeAHhA8ALW6F1A"
     },
     {
       "query": "fedex plane crash miami airport",
@@ -33,7 +33,35 @@
         "business_and_finance",
         "travel_and_transportation"
       ],
-      "news_token": "ZyX4jXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvU132csSs1bFBoM4SvxX_VA5qvd-r0Ama--XysaRT5g0kUIHwAYrCT-"
+      "news_token": "UWDGNnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvU132csSs1bFBoM4avpSMah8AMmXUTmq-_XikbmK_Ff9YDwAdhxIyw"
+    },
+    {
+      "query": "what time does walmart open on black friday",
+      "search_volume": 100000,
+      "increase": 300,
+      "categories": [
+        "shopping"
+      ],
+      "news_token": "g5s0cHica1xTlFpYmlpcEp-SWJJ4h8Fo8nkGBgZGtR9m2xal5i0KDYbx5diR-erxEtoo_ENxP5D5qicZu1Dkd6VWoph31RiFr376lCiK_KVKUxR-o9c7FP5REXEU_nHujch8lUStUBR5BeUHKPaddFiNIr978kcU94vzzkRR75V8HUV9iDYbivwMZi0U_pY_wSjmuW7ag6J_duIuFPXH33Ki8Hcv8kFRr1W2DMW8awY_UMPDeQuKvMbT7Sjyv7aeQQ3v4oMo8iu_u6Dw_3xoRFG_ra0Bxfybp1tR1G9Ij0FRP2kpB4q8TZ8-in7G5Nco6tkaPVHUL34ugiJfeKsehb_uxyEUvm8SM2p63FaEYt7zWBMUeY43jij8gFu2KPwDWl4o_LoTryB8ALiSKl0"
+    },
+    {
+      "query": "walmart black friday ad",
+      "search_volume": 20000,
+      "increase": 300,
+      "categories": [
+        "shopping",
+        "hobbies_and_leisure"
+      ],
+      "news_token": "3yP8K3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRvXTxQcXpeYtCg2G8NV-mG1D4R8VEUeVl2NH4V-qNEXmq2o83Y4iv3vyRxT5_035ED4AXcQ2ag"
+    },
+    {
+      "query": "target black friday hours",
+      "search_volume": 10000,
+      "increase": 300,
+      "categories": [
+        "shopping"
+      ],
+      "news_token": "x2FJ0Hica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRrVGr3eLUvMWhQZD-T_MtqHwL1WaosrLsUP4AOMtHh4"
     },
     {
       "query": "silver",
@@ -51,7 +79,16 @@
       "categories": [
         "shopping"
       ],
-      "news_token": "Ap0Venica1xTlFpYmlpcEp-SWJJ4h0Fj8nkGBgZGtaMi4otS8xaFBkP5d6qPI_PVPVi6UeRDtNlQ-Ms1mVD49hd4kPmqrpv2IPNVpPpLUeRvnm5Fse_I0x8ofJG_u1D4QStNUOy7piuCwr_98zCK-VbWASj6l8TMR-Fv8XVE0b-i6y4Kf0N6DApfQfkBiv5dPsdQ-JueJKDwT_D2o7jn35dJKOZp_HmOwjdZeBBF_6pLvSh8PX4tFL70OS8U808ydqHIy7QuQZEXP7cWJT5eXd6Jot7XrBFF_f-mfBT5ta6FyHwlR31DFPdfqjRFUb-vqwBFfvfkjxA-ACFd71g"
+      "news_token": "w8XDMHica1xTlFpYmlpcEp-SWJJ4h8Fm8nkGBgZGtaMi4otS8xaFBkP46id7WJH5qoelV6DI6_FrofD31N9D5qvd5fmKwr9UaYqifucxMxT-picJKPylB5RR9K_87oLinsk_PqPwb55uRVH_50MjinmxW71Q5JlXcaPwf5htQ-Hr_FyHov_M5LOo4eOwGsV-8XNrUfj_m_JRzCvbI4Siv-7jWxT5EG02FPltbQ0o8rsnf0Th36k-jmLfScYuFPkN6THIfJVXl3eiyDd6vUPhz07chWL_hHPHUOSXazKh8E0WHkThX_dFca_6vsVTUOP_9wYU-dPFqPq_h99B8c_zuY9Q5LXKlqHo92DpRpG3v8CDot910x4U_0v1l6Ko37hvOwp_RdddFL6C8gMU-w6kr0P1z-R_KHyNP89R1K-RRfGv6r8vk1Dk-aLkUPSrqqGmV18zVD6PngNqepVjh_ABGwFq7Q"
+    },
+    {
+      "query": "walmart black friday",
+      "search_volume": 50000,
+      "increase": 200,
+      "categories": [
+        "shopping"
+      ],
+      "news_token": "cjKtAnica1xTlFpYmlpcEp-SWJJ4h0Fp8nkGBgZGtUuVpotS8xaFBkP5P-TYkfnqp4sPosgfFRFHVW-2DUV9vIQ2Cn_uxu8o6ndP_ojMVxU_txaFr_F0OzJfJVErFMU8r5R8FP4MZi0U_f-bUOVbXvGi2N_o9Q5FfsmbahT9_75MQpFna_RE0b8hPQZFni9KDkV-uSYTCl_n5zoUPvMqbhT9m54koMjPTtyFIr9QFcX96j0de1D4G69movDPGmxE5Yv0ovBnBqH659VVaxT57WVnIXwAv1LL0g"
     },
     {
       "query": "dennys",
@@ -63,43 +100,22 @@
       "news_token": "GOC7tXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvWChVsWpeYtCg0GANLhDM8"
     },
     {
-      "query": "wegmans thanksgiving hours",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "food_and_drink",
-        "business_and_finance",
-        "hobbies_and_leisure"
-      ],
-      "news_token": "v8T9-nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvUprYWLUvMWhQZD-Go_5NghfADF8RH6"
-    },
-    {
-      "query": "nasa dart mission",
-      "search_volume": 5000,
-      "increase": 200,
-      "categories": [
-        "science",
-        "business_and_finance"
-      ],
-      "news_token": "rZyyyHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRrVl65UWpeYtCg0GANEvDIA"
-    },
-    {
       "query": "mortgage rates today",
       "search_volume": 2000,
       "increase": 200,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "3E0T0nica1xTlFpYmlpcEp-SWJI4b_J5BgYGRvVNMdsWpeYtCg2G8sVmSyHzlSRd5iPzVWfPeIgif8K7HZmvUvW6FZmvdmnyAhS-ntY0FPPehSeh2L9DcA6K-pOJHSjyu2WWIPOVn34xQXHPw0d7IHwAolNZig"
+      "news_token": "WX8eyXica1xTlFpYmlpcEp-SWJJ4h0F68nkGBgZG9U0x2xal5i0KDYbyF-6RQuYrSbrMR-arzp7xEEX-hHc7Ml-l6nUrink8O-1Q5M20dqCY9y48CZmvpqc1DUX_DsE5KPzdMktQ1J9M7EBxz8NHe1DkL01egMxXjvl9GMU89i3rUPjzollQ-L2RiSj8tpmMKOY_PKeCIr_YwBGFXx8RiqL-sdkmFPf43ctA4RunzkAJH6W3BhA-AH3Rows"
     },
     {
-      "query": "walmart black friday",
+      "query": "meet the parents",
       "search_volume": 20000,
       "increase": 100,
       "categories": [
-        "shopping"
+        "entertainment"
       ],
-      "news_token": "zS4o2Xica1xTlFpYmlpcEp-SWJJ4h0Fq8nkGBgZGtUuVpotS8xaFBkP5P-TYUfhHRcSR-er7ugpQ1ZttQ-ar_m_KR1HfVLcRRV7j6XYU-ZZXvCj8E7z9KHy2Rk8U-xq93qGY9-_LJBT1m54koPB7Ovag6N89-SOKfvFza1HUe6Wgur_l9icUfqI2Ewr_5Kp_KOZ_D0eVnxmE6v5XV61R5LeXnUXhlyYkQ_gA-zygrg"
+      "news_token": "xQLnF3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRrXoeq1FqXmLQoMhfPX9AidQ-LbyL1H4zR9R-auX3Ebh1yySQOEvU1-Iwt_x-xIKn6NdB4W_QNYThX9k0jkU_pwkexR-74bVKPyz7Noo_Nkx6yF8AKzBXlQ"
     },
     {
       "query": "trump account for kids",
@@ -108,27 +124,36 @@
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "BvLsvHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRrW7b7cuSs1bFBoM5Z_8n4PMVz259iQyXzFuyWkU-dYV-ih8do4CZL7SxYWXIXwA1SAxkg"
+      "news_token": "h6_CV3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRrW7b7cuSs1bFBoM5Z_8n4PMVz259iQyXzFuyWkU-dYV-sh8Ja3cZBR5do4CFPmLCy9D-AAKdDbR"
     },
     {
-      "query": "what time does walmart open on black friday",
+      "query": "ps5 black friday deals",
       "search_volume": 10000,
       "increase": 100,
       "categories": [
+        "games",
         "shopping"
       ],
-      "news_token": "roQ_GXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrUfZtsWpeYtCg2G8eXYkfnq8RLaKPwtf4JR1F-qNEWR39dVgMKfwayFot6mTx-Zr6rxdDuKfKPXOwgfAC9GP7Y"
+      "news_token": "gWDHz3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRvWTDqsXpeYtCg2G8iecO4bCP_P-JzJf7aiIOIr8ijQDFL7pMnMU9Tc6wlDkF3Lzocj_iVNG4W-5_weFfyiDCcIHAFkDR10"
     },
     {
-      "query": "giant eagle thanksgiving hours",
+      "query": "austerity",
       "search_volume": 5000,
       "increase": 100,
       "categories": [
         "business_and_finance",
-        "food_and_drink",
-        "hobbies_and_leisure"
+        "politics"
       ],
-      "news_token": "oKMzK3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvXd-RmLUvMWhQZD-Go_5NghfADG4RIC"
+      "news_token": "Jl5uh3ica1xTlFpYmlpcEp-SWJI4e_J5BgYGRuXtgqKLUvMWhQZD-GoSZw8i89VZNB6i8A9cskZR31CkiCK_6imqeU_EJyLzVfr5piLzlfZvuIiiP_mkNAq_qccbwgcAMdpFkQ"
+    },
+    {
+      "query": "trust",
+      "search_volume": 5000,
+      "increase": 100,
+      "categories": [
+        "business_and_finance"
+      ],
+      "news_token": "jWDG6Xica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvUD_5sWpeYtCg2G8lfzFqPwt_xlQOarfai3QpGvN-5F4S_cjaJe_VRVAYr-PxItKPJb5zeg8Fd034fwAev5QjU"
     },
     {
       "query": "butterball turkey recall 2026",
@@ -141,25 +166,6 @@
       "news_token": "RdfKRXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvWl89IWpeYtCg2G8uck_oXwAc6VEvc"
     },
     {
-      "query": "austerity",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance",
-        "politics"
-      ],
-      "news_token": "5iRLwHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRuXtgqKLUvMWhQZD-GoSZw8i89VZNB6i8A9cskZR31CkiCK_6imqeU_EJyLzVfr5pqKoTz4pjcJv6vGG8AHvwD8M"
-    },
-    {
-      "query": "trust",
-      "search_volume": 2000,
-      "increase": 100,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "wXBeXnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvUD_5sWpeYtCg2G8lfzFiPz1f5ItKDwd-tvRFG_ovs-ivz8iWtR5E-skUfhL8hBNe_gwjoU-aT9PBA-ADcKQl4"
-    },
-    {
       "query": "cenly chen",
       "search_volume": 2000,
       "increase": 100,
@@ -170,14 +176,14 @@
       "news_token": "NSmWfHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrUFR7csKstcFBoM4av33FsH4QMA2xkTnA"
     },
     {
-      "query": "is stock market open today",
+      "query": "is the stock market open today",
       "search_volume": 2000,
       "increase": 100,
       "categories": [
         "business_and_finance",
         "hobbies_and_leisure"
       ],
-      "news_token": "Dl93X3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRrWrxpWLUvMWhQZD-IpLEwQgfADEahHj"
+      "news_token": "XdDCJHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRrWrxpWLUvMWhQZD-IpLEwSQ-Wo_5NiR-epnNtijyF81uQ7hAwC4BiN3"
     },
     {
       "query": "is market basket open on thanksgiving",
@@ -188,7 +194,7 @@
         "food_and_drink",
         "business_and_finance"
       ],
-      "news_token": "cOxefXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvXC1umLUvMWhQZD-TtvCaPwo8X2oPDTucRQ-IfifkD4AMIlIzE"
+      "news_token": "vIRoPnica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRvXC1umLUvMWhQZD-dFie1D4O28Jo_DTucRQ-IfifkD4ALqVIzE"
     },
     {
       "query": "ken jeong",
@@ -201,43 +207,13 @@
       "news_token": "Shjoe3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRvVWp-hFqXmLQoMBzjcMLA"
     },
     {
-      "query": "mortgages",
+      "query": "jensen huang foundation stock value jump",
       "search_volume": 500,
       "increase": 100,
       "categories": [
         "business_and_finance"
       ],
-      "news_token": "P-AcSnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRnX2LesWpeYtCg2G8jfFbEPmq_lf-4Yiv1z3BYr8h_5OFPl50Swo_FOhOSj8tpmMKPofnlNBkV9s4IjCr48IRVH_2GwTCv-pTwaEDwDSO1Ko"
-    },
-    {
-      "query": "ps5 black friday deals",
-      "search_volume": 5000,
-      "increase": 75,
-      "categories": [
-        "technology",
-        "games",
-        "shopping"
-      ],
-      "news_token": "OBd-f3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRvUJ544tSs1bFBoM5Z90WI3MVzsqIo4ivyLNAJmv8uryThT5GcVcyHzVP7x-ED4APmIvqA"
-    },
-    {
-      "query": "costco black friday deals",
-      "search_volume": 5000,
-      "increase": 75,
-      "categories": [
-        "shopping"
-      ],
-      "news_token": "SQ4_QXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRjUF5QeLUvMWhQZD-T_MtqHwd0_-iMxXZUx-jcxXZ2v0RJEX552JIu-VfB3CBwD5Ti5l"
-    },
-    {
-      "query": "unmanned combat aerial vehicle",
-      "search_volume": 2000,
-      "increase": 75,
-      "categories": [
-        "business_and_finance",
-        "law_and_government"
-      ],
-      "news_token": "8i7avXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRtW_bpaLUvMWhQZD-Gr3gxci85WmuYoi81VnLv4I4QMAzUkeSg"
+      "news_token": "PJoCGnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRrXdp9gWpeYtCg2G8FX373dE5qsdWMIN4QMAIngYUw"
     },
     {
       "query": "economy",
@@ -249,15 +225,6 @@
       "news_token": "CWI_inica1xTlFpYmlpcEp-SWJJ4h0Fg8nkGBgZG9d4L_xel5i0KDYbyj_omIPPV1hREovCXxUxBUb9ZJhWZr7p_vyOK_Irjl1H07z7FhiJfrWKDzFfeLiiKIj_1ykQU_sLVd1D4pQnJyHwlfsMfKHzVdbdR7C99BXU_AImsZRw"
     },
     {
-      "query": "robert downey jr",
-      "search_volume": 1000,
-      "increase": 75,
-      "categories": [
-        "entertainment"
-      ],
-      "news_token": "v8iutnica1xTlFpYmlpcEp-SWJJ4h0Fu8nkGBgZGdbPdMxel5i0KDYby5wjNReYr7rSNRear3pqVgqK-_F4qMl_N1skRRb7W_wqK_r0vGVHkox9kIvOV0-8eReGfXVmAzFdZsH8-in69i19R7I-3akCRnzVhBgp_yQRrFPVPpYJQ5OfyJaDw5zlXoPBtfmSh8Gcr-6HwG2YcQOFvtluBwo9pkkThb7LbgMLPqXiNan-MAgrfrXwqivvV_mUg85VW_vsO4QMAPKa19g"
-    },
-    {
       "query": "is weis open on thanksgiving",
       "search_volume": 500,
       "increase": 75,
@@ -267,6 +234,16 @@
         "business_and_finance"
       ],
       "news_token": "2QMRFXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvWFKTcWpeYtCg2G8g_UzYXwAdKLEww"
+    },
+    {
+      "query": "apple black friday deals",
+      "search_volume": 500,
+      "increase": 75,
+      "categories": [
+        "technology",
+        "shopping"
+      ],
+      "news_token": "AgBI7Hica1xTlFpYmlpcEp-SWJI4a_J5BgYGRrUN6TGLUvMWhQZD-OqbniQg89WOioijyPNFyaHwPVi6UdSbLDyIwn_KuQ6Fz7yKG4Wv8ec5Cn-5JhOEDwDILj4a"
     },
     {
       "query": "precio del dólar hoy en méxico",
@@ -288,7 +265,7 @@
     },
     {
       "query": "garage",
-      "search_volume": 10000,
+      "search_volume": 20000,
       "increase": 50,
       "categories": [
         "hobbies_and_leisure",
@@ -297,22 +274,15 @@
       "news_token": "4pOmuXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRvWjO04tSs1bFBoM5a9g_YTMV3uwTBOF35x2AUX9kvPTUfjHmo6i8Ff_lEXha0YbovBbfkpC-ACCMDzJ"
     },
     {
-      "query": "h&m",
-      "search_volume": 10000,
+      "query": "playstation 5 black friday deals",
+      "search_volume": 2000,
       "increase": 50,
       "categories": [
-        "business_and_finance"
+        "technology",
+        "games",
+        "shopping"
       ],
-      "news_token": "CC515nica1xTlFpYmlpcEp-SWJI4a_J5BgYGRvXD8WcXFZctCg2G8gsuCqHwd27kQOEv2yKLwp_GjSoPMi8lFdU8ZD7IPGQ-yDxkPsg8MB8Akes_iA"
-    },
-    {
-      "query": "dow jones industrial average",
-      "search_volume": 5000,
-      "increase": 50,
-      "categories": [
-        "business_and_finance"
-      ],
-      "news_token": "fpjPjHica1xTlFpYmlpcEp-SWJJ4h0Fj8nkGBgZG1f37HRel5i0KDYbw1U9V5yPz1Y5bTUWRPxBch8Jf-9wLhX9o-l4U_nzzHSj88OpUFP70Lf9R-BmLK1H4sZJFKHz3jGAU_kJVFP1qv_6XoshPfK2Jwp_AdxWFf7LbD4XvmY9q34mC0yjmC8TJoYZXpwqK_A85dhR5db0mFP7Wmy3IfJVpxXNR5Dd1oYbX6unxqPyl-1D4e7dOQuYrT5u0FZmv9PVOOgp_rnQtMl8x4QxKfKnWlhuj-Gfymkco9m3xLUPhhy1H4avtPsWGIr9k3XIU_jKLCggfAAch8zU"
+      "news_token": "ekLX8nica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRvUJ544tSs1bFBoM5Z95_xOFvyLNAIV_0mE1Ml_l1eWdyHzVP7x-ED4A3ZssDg"
     },
     {
       "query": "is piggly wiggly open on thanksgiving",
@@ -326,13 +296,13 @@
       "news_token": "cAP3mnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRvVVO80WpeYtCg2G8NV-yLFD-ADHqhIJ"
     },
     {
-      "query": "cboe volatility index",
-      "search_volume": 200,
+      "query": "robert downey jr",
+      "search_volume": 1000,
       "increase": 50,
       "categories": [
-        "business_and_finance"
+        "entertainment"
       ],
-      "news_token": "s8qunXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRtU_H7oWpeYtCg2G8NV3qK1C4c_k8Efmqzi8vYLMVxZWtYPwAQjLI44"
+      "news_token": "6m0YtHica1xTlFpYmlpcEp-SWJJ4h0Fu8nkGBgZGdbPdMxel5i0KDYby5wjNReHHMTEj8xV32sYi81VvzUpBUV9-LxWFX-t_BZmvZuvkiCIf_SAThc_a1ovMV06_exSFf3ZlAYp6vYtfUcyPt2pAkZ81YQYKf8kEaxT1T6WCUOTn8iWg8Oc5V6DwbX5kofBnK_uh8BtmHEDhb7ZbgcKPaZJE4W-y24DCz6l4jWp_jAIK3618Kor71f5lIPOVVv77DuEDAA4hs9E"
     }
   ]
 }
